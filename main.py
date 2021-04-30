@@ -56,12 +56,13 @@ def cleanup(input_file, output):
       _loop_line = lines[i + i2].strip()
       _sub_comicid = []
       
-      try:
+      #try:
+      if True:
         _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
-      except: # line has no comicid header? TODO: that even happens???
-        _proc_line += " " + _loop_line
-        _skip_ahead += 1
-        continue
+      #except: # line has no comicid header? TODO: that even happens???
+      #  _proc_line += " " + _loop_line
+      #  _skip_ahead += 1
+      #  continue
       
       if _sub_comicid[1] != comicid[1]:
         break
