@@ -90,6 +90,6 @@ if __name__ == "__main__":
     # QUIRK: we don't know the encoding
     #with sys.stdin if datname == "-" else open(datname, 'r', encoding="latin-1") as f:
     #  cleanup(f, w)
-  from .cli import parser
+  from cli import parser
   args = parser.parse_args()
   cleanup(args.data, args.output)
