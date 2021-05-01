@@ -18,7 +18,7 @@ def _find_first_comicid(line, ln=None):
   try:
     
     # QUIRK: dataset has a spew of typos and odds, so the regex has to be complex
-    result = re.findall(r'^(\s|)((g[as]\w+|dr\w+|pg\w+|\w+)(\s|)(--|\.\.|- -))', line)
+    result = re.findall(r'^(\s|)((g[as]\w+|dr\w+|pg[a-zA-Z0-9_-]+|\w+)(\s|)(--|\.\.|- -))', line)
     if len(result) <= 0:
       raise IndexError("No match for regex", result, line)
     if len(result[0]) <= 0:
@@ -61,7 +61,7 @@ def cleanup(input_file, output):
         print("WARNING: malfromed line, # %s :" % (i + i2))
         print(_loop_line)
       #  _proc_line += " " + _loop_line
-      #  _skip_ahead += 1
+        _skip_ahead += 1
         continue
       
       if _sub_comicid[1] != comicid[1]:
