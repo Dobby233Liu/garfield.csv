@@ -1,4 +1,9 @@
-on: [push, pull_request, workflow_dispatch]
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '0 0 * * *'
+
 jobs:
   generate-csv:
     runs-on: ubuntu-latest
@@ -23,3 +28,14 @@ jobs:
         with:
           path: ${{ matrix.file }}.sha256
           name: hashes
+  deploy-gh-pages:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/main'
+    steps:
+      - uses: actions/download-artifact@v2
+        with:
+          path: data
+      - uses: JamesIves/github-pages-deploy-action@4.1.1
+        with:
+          branch: gh-pages
+          folder: data
