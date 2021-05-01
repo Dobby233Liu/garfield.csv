@@ -1,0 +1,18 @@
+on: [push, pull_request]
+jobs:
+  generate-csv:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        fail-fast: false
+        file: [de_dilbert, dilbert, drabble, garfield]
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - run: wget http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/${{ matrix.file }}.txt
+      - run: python main.py ${{ matrix.file }}.txt ${{ matrix.file }}.csv
+      - uses: actions/upload-artifact@v2
+        with:
+          path: ${{ matrix.file }}.csv
