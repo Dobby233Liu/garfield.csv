@@ -34,6 +34,7 @@ jobs:
           name: hashes
   deploy-gh-pages:
     runs-on: ubuntu-latest
+    # only run on that branch
     if: github.ref == 'refs/heads/main'
     needs: [generate-csv]
     steps:
@@ -45,6 +46,7 @@ jobs:
         run: |
           wget https://gist.githubusercontent.com/Dobby233Liu/1dbde510a5dd46f1185456e09145babc/raw/3a66e0f28ada0b862400e6b2ea0c5d6a413934c4/.nojekyll
           wget https://gist.githubusercontent.com/Dobby233Liu/1dbde510a5dd46f1185456e09145babc/raw/3a66e0f28ada0b862400e6b2ea0c5d6a413934c4/404.html
+      # I use bot creds so this
       - uses: Dobby233Liu/github-pages-deploy-action@dev-no-crap
         with:
           branch: gh-pages
