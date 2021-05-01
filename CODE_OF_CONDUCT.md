@@ -1,21 +1,21 @@
 # Code of Conduct
 
 # Our Hope
-We, the leaders, hope our community is a free experience for everyone,
-regardless of whoever you are or however you think.
+We as leaders hope everyone have a free experience in our community,
+regardless of who you are or how you think.
 
 We act and interact in any way that make the community an actual community.
 
 # Our Standards
 We have very little standards. Just be human and respect human rights.
-But to be nice, you can always follow those good examples in the Contributor Covenant Code of Conduct.
+But if you want to be kind, you can always follow those good examples in the Contributor Covenant Code of Conduct.
 
 # Scope
-This Code of Conduct applies to when this project is related - for example, community spaces.
+This Code of Conduct applies to where this project is related - for example, community spaces.
 
 # Enforcement
-If you think something violated this Code of Conduct, the case may be reported to the community leaders responsible for enforcement.
-All complaints will be reviewed, investigated and fulfilled promptly and fairly.
+If you think some behaviour of somebody violated this Code of Conduct, the problem may be reported to the community leaders responsible for enforcement.
+All complaints will be reviewed, investigated and enforced promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 (Obviously should not the violater. They will ~~be executed~~ get their consequences publicly.)
