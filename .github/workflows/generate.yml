@@ -1,3 +1,5 @@
+name: Automated CSV Generation
+
 on:
   push:
   pull_request:
@@ -7,6 +9,7 @@ on:
 
 jobs:
   generate-csv:
+    name: Generate CSVs
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -38,6 +41,7 @@ jobs:
           path: ${{ matrix.file }}.sha256
           name: hashes
   deploy-gh-pages:
+    name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     # only run on that branch
     if: github.ref == 'refs/heads/main'
