@@ -84,12 +84,3 @@ def cleanup(input_file, output):
     writer.writerow([_proc_line, comicid[1]]) # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
     
   return
-  
-if __name__ == "__main__":
-  #with sys.stdout if fn == "-" else open(fn, "w", encoding="utf-8", newline='') as w:
-    # QUIRK: we don't know the encoding
-    #with sys.stdin if datname == "-" else open(datname, 'r', encoding="latin-1") as f:
-    #  cleanup(f, w)
-  from cli import parser
-  args = parser.parse_args()
-  cleanup(args.data, args.output)
