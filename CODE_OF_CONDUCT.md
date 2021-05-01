@@ -1,7 +1,7 @@
 # Code of Conduct
 
 # Our Hope
-We as leaders hope our community is a free experience for everyone,
+We, the leaders, hope our community is a free experience for everyone,
 regardless of whoever you are or however you think.
 
 We act and interact in any way that make the community an actual community.
@@ -15,10 +15,10 @@ This Code of Conduct applies to when this project is related - for example, comm
 
 # Enforcement
 If you think something violated this Code of Conduct, the case may be reported to the community leaders responsible for enforcement.
-All complaints will be reviewed and investigated promptly and fairly.
+All complaints will be reviewed, investigated and fulfilled promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
-(Obviously should not the violater. They will ~~be executed~~ get consequences publicly.)
+(Obviously should not the violater. They will ~~be executed~~ get their consequences publicly.)
 
 # Enforcement Guidelines
 Community leaders will follow these Community Impact Guidelines
