@@ -17,3 +17,9 @@ jobs:
         with:
           path: ${{ matrix.file }}.csv
           name: ${{ matrix.file }}
+      - run: |
+          sha256sum ${{ matrix.file }}.txt ${{ matrix.file }}.csv > ${{ matrix.file }}.sha256
+      - uses: actions/upload-artifact@v2
+        with:
+          path: ${{ matrix.file }}.sha256
+          name: hashes
