@@ -20,14 +20,18 @@ if len(sys.argv) >= 6:
 def input_enc(file):
   if args[2] != "detect":
     return args[2]
-  import chardet
-  ret = {"lord": "latin-1"} # LORD latin-1
-  with open(file, "rb") as f:
-    ret = chardet.detect(f.read())
-  if ret["confidence"] < 0.6:
-    return args[4]
-  ret = ret["encoding"]
-  return ret
+  try:
+    import chardet
+    ret = {"lord": "latin-1"} # LORD latin-1
+    with open(file, "rb") as f:
+      ret = chardet.detect(f.read())
+    if ret["confidence"] < 0.6:
+      pass
+    ret = ret["encoding"]
+    return ret
+  except:
+    pass
+  return args[4]
 
 enc = input_enc(args[0])
 with open(args[0], "rb") as f:
