@@ -41,4 +41,4 @@ with open(args[0], "rb") as f:
       #  w.write(b.decode(enc).encode(args[3]))
       #except UnicodeDecodeError as e:
       #  print(e)
-    w.write(b.read().decode(enc).encode(args[3]))
+    w.write(f.read().decode(enc).encode(args[3]))
