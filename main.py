@@ -60,12 +60,8 @@ def cleanup(input_file, output):
       try:
         _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
       except: # line has no comicid header?
-        print("WARNING: malfromed line #%s from %s" % (i + i2, i))
-        if _loop_line == "-" * len(_loop_line) or _loop_line == "." * len(_loop_line):
-          print("skip")
-        else:
-          pass
-          #_proc_line += " " + _loop_line
+        if not (_loop_line == "-" * len(_loop_line) or _loop_line == "." * len(_loop_line)):
+          _proc_line += " " + _loop_line
         _skip_ahead += 1
         continue
       
