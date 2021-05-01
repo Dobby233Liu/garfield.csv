@@ -5,13 +5,13 @@ def stripm(text):
   
   arr = text.splitlines()
   ret = ""
+  
   for i in arr:
-    
     ret = ret + i.strip() + "\n"
     
-  _ = _.strip()
+  ret = ret.strip()
   
-  return _
+  return ret
 
 # TODO: account for dlibert
 def _find_first_comicid(line, ln=None):
