@@ -17,6 +17,9 @@ def input_enc(args=sys.argv[1:]):
   with open(args[0], "rb") as f:
     ret = chardet.detect(f.read())
   print(ret)
+  if ret["confidence"] < 0.6:
+    print("low faith")
+    return "latin-1" # lord forever
   ret = ret["encoding"]
   return ret
 
@@ -24,4 +27,7 @@ enc = input_enc()
 with open(sys.argv[1], "rb") as f:
   with open(sys.argv[2], "wb") as w:
     while (b := f.read(1)):
+      try:
         w.write(b.decode(enc).encode(sys.argv[4]))
+      except UnicodeDecodeError as e:
+        print(e)
