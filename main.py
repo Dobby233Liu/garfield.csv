@@ -91,5 +91,5 @@ if __name__ == "__main__":
   datname = sys.argv[1]
   with sys.stdout if fn == "-" else open(fn, "w", encoding="utf-8", newline='') as w:
     # QUIRK: we don't know the encoding
-    with sys.stdin if datname == "-" else open(datname, 'r', encoding="utf8") as f:
+    with sys.stdin if datname == "-" else open(datname, 'r', encoding="ascii", errors="surrogateescape") as f:
       cleanup(f, w)
