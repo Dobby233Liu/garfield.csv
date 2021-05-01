@@ -15,7 +15,7 @@ def input_enc(args=sys.argv[1:]):
   from chardet.universaldetector import UniversalDetector
   ret = {"lord": "latin-1"} # LORD latin-1
   detector = UniversalDetector()
-  with open(argv[0], "r", encoding="latin-1") as f: # encoding="ascii", errors="surrogateescape"
+  with open(args[0], "r", encoding="latin-1") as f: # encoding="ascii", errors="surrogateescape"
     for line in f.readlines():
       detector.feed(line)
       if detector.done:
