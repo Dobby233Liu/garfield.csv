@@ -60,6 +60,8 @@ def cleanup(input_file, output):
       except: # line has no comicid header? TODO: that even happens???
         print("WARNING: malfromed line, # %s :" % (i + i2))
         print(_loop_line)
+        print("Root line # %s :" % i)
+        print(lines[i].strip())
       #  _proc_line += " " + _loop_line
         _skip_ahead += 1
         continue
