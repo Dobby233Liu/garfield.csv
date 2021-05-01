@@ -17,6 +17,10 @@ jobs:
         with:
           python-version: '3.x'
       - run: wget http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/${{ matrix.file }}.txt
+      - uses: actions/upload-artifact@v2
+        with:
+          path: ${{ matrix.file }}.txt
+          name: original
       - run: python main.py ${{ matrix.file }}.txt ${{ matrix.file }}.csv
       - uses: actions/upload-artifact@v2
         with:
@@ -30,11 +34,15 @@ jobs:
           name: hashes
   deploy-gh-pages:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/main'
+    if: github.ref == 'refs/heads/main'
     steps:
       - uses: actions/download-artifact@v2
         with:
           path: data
+      - working-directory: data
+        run: |
+          wget https://gist.githubusercontent.com/Dobby233Liu/1dbde510a5dd46f1185456e09145babc/raw/3a66e0f28ada0b862400e6b2ea0c5d6a413934c4/.nojekyll
+          wget https://gist.githubusercontent.com/Dobby233Liu/1dbde510a5dd46f1185456e09145babc/raw/3a66e0f28ada0b862400e6b2ea0c5d6a413934c4/404.html
       - uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
           branch: gh-pages
