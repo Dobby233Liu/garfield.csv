@@ -36,8 +36,9 @@ def input_enc(file):
 enc = input_enc(args[0])
 with open(args[0], "rb") as f:
   with open(args[1], "wb") as w:
-    while (b := f.read(1)):
-      try:
-        w.write(b.decode(enc).encode(args[3]))
-      except UnicodeDecodeError as e:
-        print(e)
+    #while (b := f.read(1)):
+      #try:
+      #  w.write(b.decode(enc).encode(args[3]))
+      #except UnicodeDecodeError as e:
+      #  print(e)
+    w.write(b.read().decode(enc).encode(args[3]))
