@@ -13,7 +13,7 @@ def stripm(text):
   
   return ret
 
-# TODO: account for dlibert
+# TODO: account for some comics
 def _find_first_comicid(line, ln=None):
   
   try:
@@ -90,6 +90,6 @@ if __name__ == "__main__":
   fn = sys.argv[2]
   datname = sys.argv[1]
   with sys.stdout if fn == "-" else open(fn, "w", encoding="utf-8", newline='') as w:
-    # QUIRK: why the fuck it has this encoding???
-    with sys.stdin if datname == "-" else open(datname, 'r', encoding="windows-1252") as f:
+    # QUIRK: we don't know the encoding
+    with sys.stdin if datname == "-" else open(datname, 'r', encoding="utf8") as f:
       cleanup(f, w)
