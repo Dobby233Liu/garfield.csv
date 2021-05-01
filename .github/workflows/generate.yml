@@ -18,10 +18,12 @@ jobs:
         with:
           python-version: '3.x'
       - run: wget http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/${{ matrix.file }}.txt
+        working-directory: ${{ runner.temp }}
+      - run: python3 enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt latin-1 utf-8
       - uses: actions/upload-artifact@v2
         with:
           path: ${{ matrix.file }}.txt
-          name: original
+          name: original-santizied
       - run: python main.py ${{ matrix.file }}.txt ${{ matrix.file }}.csv
       - uses: actions/upload-artifact@v2
         with:
