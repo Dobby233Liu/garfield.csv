@@ -3,8 +3,8 @@ jobs:
   generate-csv:
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
-        fail-fast: false
         file: [de_dilbert, dilbert, drabble, garfield]
     steps:
       - uses: actions/checkout@v2
