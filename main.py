@@ -1,11 +1,9 @@
 """
-Seperate maintainence file for the CLI based on argparse.
+GUI for the convert module based on argparse.
 
 Usage:
 
-from .cli import parser
-args = parser.parse_args()
-[...]
+give -h as an argument while running this file
 """
 
 import argparse
@@ -15,3 +13,13 @@ parser = argparse.ArgumentParser(description="Translates comic transcripts from 
 )
 parser.add_argument("data", type=argparse.FileType('r'), help="Filename for the original transcript")
 parser.add_argument("output", type=argparse.FileType('w', encoding="utf-8"), help="Filename for the CSV output")
+
+from convert import cleanup
+
+if __name__ == "__main__":
+  #with sys.stdout if fn == "-" else open(fn, "w", encoding="utf-8", newline='') as w:
+    # QUIRK: we don't know the encoding
+    #with sys.stdin if datname == "-" else open(datname, 'r', encoding="latin-1") as f:
+    #  cleanup(f, w)
+  args = parser.parse_args()
+  cleanup(args.data, args.output)
