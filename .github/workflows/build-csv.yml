@@ -35,12 +35,8 @@ jobs:
   deploy-gh-pages:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
+    needs: [generate-csv]
     steps:
-      - uses: fountainhead/action-wait-for-check@v1.0.0
-        with:
-          token: ${{ github.token }}
-          checkName: generate-csv
-          ref: ${{ github.sha }}
       - uses: actions/download-artifact@v2
         with:
           path: data
