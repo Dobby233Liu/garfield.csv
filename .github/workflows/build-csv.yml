@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
     steps:
-      - uses: fountainhead/action-wait-for-check@v1
+      - uses: fountainhead/action-wait-for-check@v1.0.0
         with:
           token: ${{ github.token }}
           checkName: generate-csv
