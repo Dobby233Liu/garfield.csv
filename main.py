@@ -86,11 +86,10 @@ def cleanup(input_file, output):
   return
   
 if __name__ == "__main__":
-  # TODO: write a actual cli
-  import sys
-  fn = sys.argv[2]
-  datname = sys.argv[1]
-  with sys.stdout if fn == "-" else open(fn, "w", encoding="utf-8", newline='') as w:
+  #with sys.stdout if fn == "-" else open(fn, "w", encoding="utf-8", newline='') as w:
     # QUIRK: we don't know the encoding
-    with sys.stdin if datname == "-" else open(datname, 'r', encoding="latin-1") as f:
-      cleanup(f, w)
+    #with sys.stdin if datname == "-" else open(datname, 'r', encoding="latin-1") as f:
+    #  cleanup(f, w)
+  from .cli import parser
+  args = parser.parse_args()
+  cleanup(args.data, args.output)
