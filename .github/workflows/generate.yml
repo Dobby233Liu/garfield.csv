@@ -11,7 +11,11 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        file: [de_dilbert, dilbert, drabble, garfield]
+        file: [de_dilbert, dilbert, drabble]
+        encoding: [latin-1]
+        include:
+        - file: garfield
+          encoding: windows-1252
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
@@ -19,7 +23,7 @@ jobs:
           python-version: '3.x'
       - run: wget http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/${{ matrix.file }}.txt
         working-directory: ${{ runner.temp }}
-      - run: python3 enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt latin-1 utf-8
+      - run: python3 enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt ${{ matrix.encoding }} utf-8
       - uses: actions/upload-artifact@v2
         with:
           path: ${{ matrix.file }}.txt
