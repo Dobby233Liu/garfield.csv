@@ -13,13 +13,12 @@ def stripm(text):
   
   return ret
 
-# TODO: account for some comics
 def _find_first_comicid(line, ln=None):
   
   try:
     
-    # QUIRK: dataset has a spew of typos, so the regex has to be complex
-    result = re.findall(r'^(\s|)((g[as]\w+|dr\w+|\w+)(\s|)(--|\.\.|- -))', line)
+    # QUIRK: dataset has a spew of typos and odds, so the regex has to be complex
+    result = re.findall(r'^(\s|)((g[as]\w+|dr\w+|pg\w+|\w+)(\s|)(--|\.\.|- -))', line)
     if len(result) <= 0:
       raise IndexError("No match for regex", result, line)
     if len(result[0]) <= 0:
@@ -56,13 +55,14 @@ def cleanup(input_file, output):
       _loop_line = lines[i + i2].strip()
       _sub_comicid = []
       
-      #try:
-      if True:
+      try:
         _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
-      #except: # line has no comicid header? TODO: that even happens???
+      except: # line has no comicid header? TODO: that even happens???
+        print("WARNING: malfromed line, # %s :" % (i + i2))
+        print(_loop_line)
       #  _proc_line += " " + _loop_line
       #  _skip_ahead += 1
-      #  continue
+        continue
       
       if _sub_comicid[1] != comicid[1]:
         break
