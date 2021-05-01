@@ -12,16 +12,10 @@ import sys
 def input_enc(args=sys.argv[1:]):
   if args[2] != "detect":
     return args[2]
-  from chardet.universaldetector import UniversalDetector
+  import chardet
   ret = {"lord": "latin-1"} # LORD latin-1
-  detector = UniversalDetector()
-  with open(args[0], "r", encoding="latin-1") as f: # encoding="ascii", errors="surrogateescape"
-    for line in f.readlines():
-      detector.feed(line)
-      if detector.done:
-        break
-  detector.close()
-  ret = ret.result
+  with open(args[0], "rb") as f:
+    ret = chardet.detect(f.read())
   print(ret)
   ret = ret["encoding"]
   return ret
