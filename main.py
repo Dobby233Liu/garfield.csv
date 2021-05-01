@@ -19,7 +19,7 @@ def _find_first_comicid(line, ln=None):
   try:
     
     # QUIRK: dataset has a spew of typos, so the regex has to be complex
-    result = re.findall(r'^(\s|)((g[as]\w+|dr\w+|\w+)(\s|)(--|\.\.))', line)
+    result = re.findall(r'^(\s|)((g[as]\w+|dr\w+|\w+)(\s|)(--|\.\.|- -))', line)
     if len(result) <= 0:
       raise IndexError("No match for regex", result, line)
     if len(result[0]) <= 0:
