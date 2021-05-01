@@ -18,13 +18,13 @@ def _find_first_comicid(line, ln=None):
   try:
     
     # QUIRK: dataset has a spew of typos and odds, so the regex has to be complex
-    result = re.findall(r'^(\s|)((g[as]\w+|dr\w+|pg[a-zA-Z0-9_-]+|\w+)(\s|)(--|\.\.|- -|\*\*))', line, flags=re.I)
+    result = re.findall(r'^((g[as]\w+|dr\w+|pg[a-zA-Z0-9_-]+|\w+)(\s|)(--|\.\.|- -|\*\*))', line, flags=re.I)
     if len(result) <= 0:
       raise IndexError("No match for regex", result, line)
     if len(result[0]) <= 0:
       raise IndexError("No group in match 0 in regex (undefined behaviour)", result[0], line)
 
-    return result[0][1:]
+    return result[0]
   
   except Exception as e:
     
@@ -44,8 +44,10 @@ def cleanup(input_file, output):
       _skip_ahead = _skip_ahead - 1
       continue
     
+    line = lines[i].strip()
+    
     # find comicid (for merging lines together)
-    comicid = _find_first_comicid(lines[i], ln=i)
+    comicid = _find_first_comicid(line, ln=i)
     
     _proc_line = ""
     
@@ -57,12 +59,13 @@ def cleanup(input_file, output):
       
       try:
         _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
-      except: # line has no comicid header? TODO: that even happens???
-        print("WARNING: malfromed line, # %s :" % (i + i2))
-        print(_loop_line)
-        print("Root line # %s :" % i)
-        print(lines[i].strip())
-      #  _proc_line += " " + _loop_line
+      except: # line has no comicid header?
+        print("WARNING: malfromed line #%s from %s" % (i + i2, i))
+        if _loop_line == "-" * len(_loop_line) or _loop_line == "." * len(_loop_line):
+          print("skip")
+        else:
+          pass
+          #_proc_line += " " + _loop_line
         _skip_ahead += 1
         continue
       
