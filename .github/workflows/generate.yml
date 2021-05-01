@@ -2,7 +2,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '5 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,11 +11,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        file: [de_dilbert, dilbert, drabble]
-        encoding: [latin-1]
-        include:
-        - file: garfield
-          encoding: windows-1252
+        file: [de_dilbert, dilbert, drabble, garfield]
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
@@ -23,7 +19,9 @@ jobs:
           python-version: '3.x'
       - run: wget http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/${{ matrix.file }}.txt
         working-directory: ${{ runner.temp }}
-      - run: python3 enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt ${{ matrix.encoding }} utf-8
+      - run: |
+          pip install -q chardet
+          python3 enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt detect utf-8
       - uses: actions/upload-artifact@v2
         with:
           path: ${{ matrix.file }}.txt
