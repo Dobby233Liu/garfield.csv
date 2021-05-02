@@ -14782,7 +14782,7 @@ ga161123 -- You're going to regret joining me up here, Odie. - What are you goin
 ga161124 -- Yesterday I saw some cats in that new dumpster behind Al's Fish Market. - The smell would curl your whiskers. - It's on 12th street. Wanna go? Absolutely!
 ga161125 -- STEAK! - KLOK! - It's still frozen, Garfield! I can wait.
 ga161126 -- - DOG PARK - And all the rest belongs to cats!
-ga161127 -- tic tic tic tic tic - Watch this. - Username: ********* Password: ▄▄▄▄▄▄▄▄▄▄ - *** **** !!! - WELCOME BACK, JON ARBUCKLE, Royal Platinum Level frequent customer! - How may we serve you today, your Royal Platinum Highness? Wow. - I didn't know
+ga161127 -- tic tic tic tic tic - Watch this. - Username: ********* Password: ÜÜÜÜÜÜÜÜÜÜ - *** **** !!! - WELCOME BACK, JON ARBUCKLE, Royal Platinum Level frequent customer! - How may we serve you today, your Royal Platinum Highness? Wow. - I didn't know
 ga161127 -- pizza parlors had a royal platinum level. They created it just for us.
 ga161128 -- I've been tossing and turning all night. - I just cannot get to sleep. - Time to get a more comfortable owner.
 ga161129 -- Fetch the can opener, Odie! - Wha?!!... - Well, TECHNICALLY you're right.
@@ -15216,7 +15216,7 @@ ga180113 -- I forgot Liz's birthday! - Not to worry, Jon. - Where are you going?
 ga180114 -- - -> - <- - -> - <- - -> <- Fun with rule followers.
 ga180115 -- Are you going to sleep all day? All in favor? - - Z
 ga180116 -- Garfield... - I know it's cold out today, but... - What if someone else wants hot chocolate? Then they should be me.
-ga180117 -- Time to start off into space. - Odie! - It─s cheating if you're actually looking at something.
+ga180117 -- Time to start off into space. - Odie! - ItÄs cheating if you're actually looking at something.
 ga180118 -- This will be our first anniversary without my husband, Walter. - It must be hard for you. I'm so sorry, Agnes. Thanks, Helen. - What happened to Walter, anyway? I ate him.
 ga180119 -- Let's go shoe shopping! Or... - - Shoe shopping it is! Wise choice.
 ga180120 -- GOOD HEALTH --> - <-- DONUTS -
