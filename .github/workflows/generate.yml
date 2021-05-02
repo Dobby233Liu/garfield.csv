@@ -24,7 +24,7 @@ jobs:
         working-directory: ${{ runner.temp }}
       - run: |
           #pip install -q chardet
-          python3 enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt iso8859-1 utf-8
+          python3 enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt cp1250 utf-8
       - uses: actions/upload-artifact@v2
         with:
           path: ${{ matrix.file }}.txt
