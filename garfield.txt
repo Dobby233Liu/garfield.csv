@@ -16461,3 +16461,6 @@ ga210426 -- I'm too tired to move. - Lunch. - I'm too full to move.
 ga210427 -- Doh! - One of my legs is asleep. - I've got you beat by three.
 ga210428 -- I have a new girlfriend. - Here's a picture! Uh...cute. - What can I say? I'm a leg man.
 ga210429 -- Something bad is going to happen. - CRACK - Though not on me. My car!
+ga210430 -- Yup. - I'm a tough guy. - Scars make a guy look tough. That's a paper cut.
+ga210501 -- I'm in a hurry this morning. - So I'm having a quick breakfast. - A bacon, egg, sausage, waffle and toast smoothie!
+ga210502 -- - - - - - - Odie has the zoomies. Yiu think?
