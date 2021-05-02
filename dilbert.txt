@@ -473,7 +473,7 @@ sh127a -- out with the television.
 sh127b -- I you're going to live here, you need a name. How about "Mickey"? - No...big trouble. How about "Rodney the Rodent"? How about "Bill the Rat"? - "Vernon the Vermin"? "Ratbert"
 sh127c -- Let me introduce you to our dinosaurs, Bob and Dawn. Cool! - EEEEK!! A MOUSE! Not a mouse, a rat!! - Ooops. Sorry. You look kinda like a mouse. No offense taken.
 sh128a -- Yes? I'm looking for my escaped lab rat. The trail leads to this house. - Can't you use just another rat? No. I'm on a very limited budget. - What will you do if he dies? CPR
-sh128b -- Ahaa! There's my runaway lab rat! I'd recognize little XP-39C² anywhere! - All is forgiven. Come back to your job at the lab. I love you. - He was specially bred to have no will power. Hold me.
+sh128b -- Ahaa! There's my runaway lab rat! I'd recognize little XP-39C˛ anywhere! - All is forgiven. Come back to your job at the lab. I love you. - He was specially bred to have no will power. Hold me.
 sh128c -- Goodbye, Dogbert. I must return to the lab with the professor. sniff That's stupid. - He says he loves me. That must be why he fed me so much. You're getting stupider. - I have to follow my heart. Mmm...love causes stupidity in lab rats.
 921207 -- I've decided to use more humor in the workplace - experts say humor eases tension which is important in times when the workforce is being trimmed. - knock-knock Who's there? Not you anymore.
 940105 -- We're flattening organization to eliminate levels and put everybody in a wide salary band. - Now instead of not getting a promotion you'll only not get a raise.- So, what job title do we use? You'll all be named Beverly.
