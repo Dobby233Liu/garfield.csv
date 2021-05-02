@@ -6,7 +6,7 @@ on:
   schedule:
     - cron: '5 22 * * *'
   workflow_dispatch:
-# cp850 cp1250 8859-8/15
+# cp850 cp1250 8859-8/15 cp1141
 jobs:
   generate-csv:
     name: Generate CSVs
@@ -23,8 +23,8 @@ jobs:
       - run: wget http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/${{ matrix.file }}.txt
         working-directory: ${{ runner.temp }}
       - run: |
-          #pip install -q chardet
-          python3 enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt iso8859-9 utf-8
+          pip install -q ebcdic
+          python3 enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt ebcdic_cp1141 utf-8
       - uses: actions/upload-artifact@v2
         with:
           path: ${{ matrix.file }}.txt
