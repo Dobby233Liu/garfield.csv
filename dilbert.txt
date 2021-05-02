@@ -2098,7 +2098,7 @@ sh128c -- Goodbye, Dogbert. I must return to the lab with the professor. sniff T
 980531 -- PHARMACY - Is this one line or two? - I'll hedge my bets by standing in the middle. - This guy is confused too. - Get behind me... Get behind me... Get behind me... Get behind me... - Oh-no! He's forming a new line behind the fast cashier!
 980531 -- #!%* - He's distracted! I take the angle! I win! - Stress medications are the other line.
 980601 -- I'm having a severe case of telephone shyness. - I'm afraid to pick up the phone and make business calls. - I'll duck into a restroom stall until the shyness passes.
-980602 -- I've been having severe shyness attacks at work. I can help. - I'll send nude photos of you to everyone on the Internet. - Will that work? All of my previous clients are dating "M”tley Cre" band members.
+980602 -- I've been having severe shyness attacks at work. I can help. - I'll send nude photos of you to everyone on the Internet. - Will that work? All of my previous clients are dating "Mtley Cre" band members.
 980603 -- I'll cure your shyness by putting nude photos of you on the Internet. - AAEEII!! COUGH COUGH UNH* - I didn't know the Internet could reject a body. I didn't know it could scream.
 980604 -- STUPID SOFTWARE! WON'T COMPILE; EH?? - #%!** - We call it "code rage." I'm seeing a lot of it lately.
 980605 -- How much budget do you have for my project? I can't tell you. - If you knew what your budget was, you'd spend it all. - Can you at least tell me what our company strategy is? No, I don't want you to lose hope.
@@ -6876,7 +6876,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 080413 -- Alice, I'm hoping we can work together on this project in the spirit of cooperation. - I'll have some ideas, and you'll have some ideas, and together we can pick the best ones. - Sure, that's one approach. - But I prefer to exhale deeply and
 080413 -- roll my eyes while you prattle. - Then I will verbally demolish your ludicrous ideas, and dismantle your mistaken self-image as a competent man. - The carnage will create a striking contrast for the warm, clear glow of *my* brilliant ideas. -
 080413 -- Later, I will round out the package by spreading amusing stories about how ignorant you are. - Is there any chance of doing it my way? Now watch the eyes.
-080414 -- Loud Howard insists i´on using his speakerphone in his cubicle. You have to do something about it. - I'll move him to a private office that just became available. Problem solved. - GAAA!!! I need to punch you until we both forget what happened
+080414 -- Loud Howard insists iŽon using his speakerphone in his cubicle. You have to do something about it. - I'll move him to a private office that just became available. Problem solved. - GAAA!!! I need to punch you until we both forget what happened
 080414 -- here. Spare the glasses.
 080415 -- I want the entire staff to meet at 10 A.M. every day for a five-minute huddle. - We'll use this high-energy stand-up meeting to solve problems and share successes. - Who has a problem that can be solved in a minute? I'm tired. Can I sit on you?
 080416 -- Who has some successes to share at our 5-minute daily huddle? - - Okay...are there any obstacles? Everything.
