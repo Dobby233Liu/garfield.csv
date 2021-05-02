@@ -16,9 +16,6 @@ if len(sys.argv) >= 5:
   args[3] = sys.argv[5 - 1]
 if len(sys.argv) >= 6:
   args[4] = sys.argv[6 - 1]
-if args[2] == "ebcdic_cp1141":
-  import ebcdic
-  args[2] = "cp1141" # cp273
 
 def input_enc(file):
   if args[2] != "detect":
