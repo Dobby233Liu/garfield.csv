@@ -9904,3 +9904,4 @@ dr210429 -- Gee, Wally... - You just keep going and going. - Don't you ever get 
 dr210430 -- My doctor said I need more exercise. - He tolde me to put an app on my phone that counts my steps each day. - So that's what I did! - Good boy! Wanna chase it again?
 dr210501 -- What channel do you want to watch, Wally? - Hey, this looks good! - - OK, not the Food Network!
 dr201052 -- puff puff puff wheeze! - Hello! Hi! - Good moring! Hello! - Hi there! Hey! - Whenever I go jogging, I smile and say hello to everyone. puff! puff! wheeze! puff! - I never know who might have to call 911 for me!
+dr210503 -- What do you want to watc hon TV, Wally? - How about this? - ROWF ROWF ROWF ROWF! - Not HGTV! Too many doorbells!
