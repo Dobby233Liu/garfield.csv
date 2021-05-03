@@ -17,7 +17,7 @@ def _find_first_comicid(line, ln=None):
   
   try:
     
-    # QUIRK: dataset has a spew of typos and odds, so the regex has to be complex
+    # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
     result = re.findall(r'^((g[as]\w+|dr\w+|pg[a-zA-Z0-9_-]+|\w+)(\s|)(--|\.\.|- -|\*\*))', line, flags=re.I)
     if len(result) <= 0:
       raise IndexError("No match for regex", result, line)
@@ -34,6 +34,8 @@ def cleanup(input_file, output):
   
   lines = input_file.readlines() # WARNING: this is bad, though this is fine yet
   writer = csv.writer(output)
+  
+  writer.writerow(["transcript", "comic"])
 
   _skip_ahead = 0
 
