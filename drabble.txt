@@ -9906,3 +9906,4 @@ dr210501 -- What channel do you want to watch, Wally? - Hey, this looks good! - 
 dr201052 -- puff puff puff wheeze! - Hello! Hi! - Good moring! Hello! - Hi there! Hey! - Whenever I go jogging, I smile and say hello to everyone. puff! puff! wheeze! puff! - I never know who might have to call 911 for me!
 dr210503 -- What do you want to watc hon TV, Wally? - How about this? - ROWF ROWF ROWF ROWF! - Not HGTV! Too many doorbells!
 dr210504 -- What else can we watch on TV, Wally? - How about this? - - Not ESPN. People throw balls.
+dr210505 -- Thare must be something on TV that we'd both like. - How about this? - - OK, not the Travel Channel. Now he thinks I'm going away!

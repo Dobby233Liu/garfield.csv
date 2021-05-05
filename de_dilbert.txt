@@ -10155,3 +10155,5 @@
 210503 -- Ich habe meine Dateien durchforstet. Wie ich sehe, wurde Ihnen kein Widersacher beigeordnet, der Ihnen ein schlechtes Gewissen macht. - Wozu sollte das auch gut sein? - Der hält Sie davon ab, erfolgreich genug zu sein, um mir den Job
 210503 -- wegzunehmen. Okay, das ergibt Sinn.
 210504 -- Das ist Dirk. Ich habe ihn als Ihr schlechtes Gewissen eingestellt. - Sie kennen seine Arbeit vielleicht aus den sozialen Medien. - Das scheint mir keine gute Idee zu sein. Sie zweifeln wohl sehr an der Wissenschaft, was?
+210505 -- Hi, ich bin Dirk, Ihr schlechtes Gewissen am Arbeitsplatz. Ich weiß, wer Sie sind. - Hinter Ihrem Rücken wird schlecht über Sie geredet. Ich darf Ihnen abe rnicht erzählen, wer das tut oder was Sie genau sagen. - Warum erzählen Sie es dann
+210505 -- überhaupt? Hatte ich erwähnt, daß ich mich von Ihrem Leid ernähre?

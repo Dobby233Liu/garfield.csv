@@ -13496,3 +13496,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210502 -- genes. - Maybe next time we could walk and NOT talk. Maybe.
 210503 -- I checked my files, and I see no nemesis has been assigned to you. - Why do I need a nemesis? - It prevents you from being successful enough to take my job. Okay, that makes sense.
 210504 -- I hired Dick to be your Workplace nemesis. - You might know his work from social media. - This feels like a bad idea. Doubt science much? Duhrr.
+210505 -- Hi, I'm Dick, your workplace nemesis. I know who you are. - People are saying terrible things about you behind your back, but I can't tell you who they are or what they are saying. - What is the point of telling me that? Have I mentioned I feed
+210505 -- on your pain?
