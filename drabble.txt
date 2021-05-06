@@ -9907,3 +9907,4 @@ dr201052 -- puff puff puff wheeze! - Hello! Hi! - Good moring! Hello! - Hi there
 dr210503 -- What do you want to watc hon TV, Wally? - How about this? - ROWF ROWF ROWF ROWF! - Not HGTV! Too many doorbells!
 dr210504 -- What else can we watch on TV, Wally? - How about this? - - Not ESPN. People throw balls.
 dr210505 -- Thare must be something on TV that we'd both like. - How about this? - - OK, not the Travel Channel. Now he thinks I'm going away!
+dr210506 -- Hey, I'll bet you'd like to watch Animal Planet! - ROWF! ROWF! ROWF! CRASH!! RIP! SNARL! GROWL! SCRATCH @!!** *@!! - Why is Wally destroying the TV? There was a show about badgers!
