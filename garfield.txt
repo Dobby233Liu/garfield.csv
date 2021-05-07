@@ -16468,3 +16468,4 @@ ga210503 -- Hey, Garfield. Hey. - What are you doing? Can't you see I'm busy? - 
 ga210504 -- Here I am... - Taking swimming lessons as a kid. - I was afraid of deep water. Is that a bathtub?
 ga210505 -- - - Forgot what he was going to say. BARK!
 ga210506 -- wobble wobble wobble - wobble wobble wobble -How was the Cheese Festival? BURP!
+ga210507 -- I'm very important to Liz. - She's constantly seeking my advice. - She has me taste chips to see if they're stale. You're a wise man, Jon Arbuckle.
