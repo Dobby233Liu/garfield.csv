@@ -6,7 +6,6 @@ on:
   schedule:
     - cron: '5 22 * * *'
   workflow_dispatch:
-# cp850 cp1250 8859-8/15 cp1141
 jobs:
   generate-csv:
     name: Generate CSVs
@@ -20,10 +19,10 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-      - run: curl -O ftp://john.ccac.rwth-aachen.de:23/dilbert/${{ matrix.file }}.txt
+      - run: wget http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/${{ matrix.file }}.txt
         working-directory: ${{ runner.temp }}
-      #- run: |
-      #    python enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt cp1250 utf-8
+      # cp1250 -sig utf-8
+      - run: python enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt utf-8-sig utf-8
       - uses: actions/upload-artifact@v2
         with:
           path: ${{ matrix.file }}.txt
