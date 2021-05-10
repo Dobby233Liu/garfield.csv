@@ -9912,3 +9912,4 @@ dr210507 -- Z - Good morning! - beep! - Get to work! HUMMMM - I wish I could wak
 dr210508 -- You've been running all day! You sound tired. HUMMMmmmm... - Come on, little friend! I'll put you back to bed! - beep beep boop What? Oh, OK. - "Once upon a time, there were three little vacuums..."
 dr210509 -- * MOM Hey, Alexis... - What should we give mom for Mother's Day? - Just don't make her breakfast in bed because you'll mess up the kitchen. - Here's a better idea: Give her a hug and a kiss, then all of you go take a walk in the park and
 dr210509 -- leave mom at home. - She'll enjoy the alone time, and probably relax and read a book. - Great idea! Thanks, Alexis! - You're welcome!
+dr210510 -- Eat all of your dinner, kids! Even the vegatables? - My friend Bennett is a vegan. What's that? - Someone who doesn't eat anything that comes from animals. - Maybe I should be a VEGETABLE vegan!
