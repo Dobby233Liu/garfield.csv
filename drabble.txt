@@ -9913,3 +9913,5 @@ dr210508 -- You've been running all day! You sound tired. HUMMMmmmm... - Come on
 dr210509 -- * MOM Hey, Alexis... - What should we give mom for Mother's Day? - Just don't make her breakfast in bed because you'll mess up the kitchen. - Here's a better idea: Give her a hug and a kiss, then all of you go take a walk in the park and
 dr210509 -- leave mom at home. - She'll enjoy the alone time, and probably relax and read a book. - Great idea! Thanks, Alexis! - You're welcome!
 dr210510 -- Eat all of your dinner, kids! Even the vegatables? - My friend Bennett is a vegan. What's that? - Someone who doesn't eat anything that comes from animals. - Maybe I should be a VEGETABLE vegan!
+dr210511 -- Dang! I forgot to ask the drive-thru guy for salt! - Noproblem. I keep some in the glove compartment! - And I keep napkins and straws in the visor! - Your car is like your own personal dining room, isn't it? - Barbecue sauce?
+dr210512 -- I'm afraid to ask, but how are things in the news today? - Let's just say "population density" is taking a whole new meaning.

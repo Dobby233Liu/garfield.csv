@@ -16472,3 +16472,6 @@ ga210507 -- I'm very important to Liz. - She's constantly seeking my advice. - S
 ga210508 -- What to do today...what to do... - I think I'll stay out of trouble. - That should kill ten minutes.
 ga210509 -- - SNIIIIIIFFFFFFFFFFF - - SNIIIIIIFFFFFFFFFFF - - SNIIIIIIFFFFFFFFFFF - Shal we drive around the block again? Yesssss! DONUT SHOP
 ga210510 -- Jon may not be perfect... - But he does make a good pillow. - Want to hear about my day? Shh...pillows don't talk.
+ga210511 -- Mom said to chew each bite 32 times. - chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew chew - What happened to my food? It disappeared
+ga210511 -- 31 chews ago.
+ga210512 -- - - BARK!

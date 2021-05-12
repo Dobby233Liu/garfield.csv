@@ -10162,3 +10162,7 @@
 210509 -- Es ist unfair, daß Alice immer die besten Projekte bekommt. - Worauf wollen Sie hinaus? - Es ist unfair. - Das sagten Sie bereits. - Sie sollten etwas tun, um es fairer zu machen. - Wieso? - - Weil es unfair is? Haben Sie sich den Kopf
 210509 -- gestoßen?
 210510 -- Mir ist das Gerücht zu Ohren gekommen, daß Sie es hasssen, mit Leuten zusammenzuarbeiten, die große Hüte tragen. - Ich sehe keinen Hut. - Soll das jetzt gönnerhaft sein? Kann ich nicht sagen.
+210511 -- Mir wird berichtet, daß Sie elbonischen Männern gegenüber voreingenommen sind. Bin ich nicht. - Sie können mir viel erzählen. Es gibt nur eine Möglichkeit, wie Sie Ihre Unschuld beweisen können... - Ja, ich heirate Sie. Diese Verhandlung hatte
+210511 -- ich mir schwieriger vorgestellt.
+210512 -- Manche Kollegen werfen mir vor, ich wäre elbonischen Männern gegenüber voreingenommen. Deshalb heirate ich jetzt einen, um das Gegenteil zu bweisen und meinen Job zu behalten. - Wie heißt er denn? - Ich glaube irgendwas wie Gluppfril oder
+210512 -- Breemf. Klingt nach einem soliden Plan.
