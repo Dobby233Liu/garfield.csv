@@ -13505,3 +13505,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210510 -- I heard a rumor that you hate working with people who wear big hats. - I don't see hats. - Are you patronizing me right now? I can't tell.
 210511 -- I'm getting reports that you are bigoted against Elbonian men. I'm not. - That is irrelevant. There is only one way to prove your innocence. - Yes, I'll marry you. I thought it would be a tougher sale.
 210512 -- People at work accused me of being bigoted against Elbonian men, so I'm marrying one to prove them wrong and keep my job. - What's his name? - I think it's something like Gluppfril or Breemf. Sounds like a solid plan.
+210513 -- Before we get married, we need to talk about a few things. - First, I'm only marrying you to prove I'm not a bigot and to save my job. - Second, neither of us is gay. They say marriage takes work.
