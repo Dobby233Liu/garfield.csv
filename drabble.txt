@@ -9918,3 +9918,5 @@ dr210512 -- I'm afraid to ask, but how are things in the news today? - Let's jus
 dr210513 -- Sometimes I feel sorry for Bob. - He's just a duck and that's all he'll ever be. - Remember, ducks are one of the few creatures on earth who can swin, fly, and walk on land! - It's always the quiet ones who have the most going for them!
 dr210514 -- What would you like for dionner, Wally... - Dog food, dog food, or dog food? - I can't decide... - So I'll take all of them!
 dr210515 -- We like your new swimming trunks and inner tube, dad! Yeah, dad! They're out of this world! Really? Yeah, you look like SATURN!
+dr210516 -- It's weird being in an almost empty baseball stadium! We have practically the whole row for ourselves! - Would you pass down these peanuts, please? - ...Sigh... - Here. Thanks. Tell him all I've got is a fifty! - - Here's the change. He said
+dr210516 -- to keep it!
