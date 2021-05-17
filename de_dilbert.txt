@@ -10173,3 +10173,5 @@
 210515 -- wieder.
 210516 -- Ich gebe eine Warnung für Ihren unsicheren Arbeitsplatz hereus. - Ich bin im Homeoffice. - Sie wissen doch gar nicht, wie ich wohne. - Das beurteile ich nach Ihrer Persönlichkeit. - Sie sind zu faul, um irgendwas aufzuräumen, dahe rhaben Sie
 210516 -- inzwischen eine giftige Müllhalde. - Das ist ein Zufallstreffer. - Und Sie sind zu faul, Ihre Vorhänge zuzuziehen, dahe rwollen Ihre Nachbarn Sie mittlerweile sicher umbringen. - Das sind jetzt ZWEI Glückstreffer.
+210517 -- Ich habe beschlossen, daß unsere Firma sich mehr in strittige politische Themen einbringen muß. - Würde das nicht einen hohen Einkommensverlust mit sich bringen? - Nein, nein. Die Leute werden uns dafür lieben, wenn wir uns einbringen. Könnten
+210517 -- Sie wenigstens damit warten, bis ich meine Firmenanteile verkauft habe?

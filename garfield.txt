@@ -16479,3 +16479,4 @@ ga210513 -- Ah... - It doesn't get much better than this. - Dining by refrigerat
 ga210514 -- Better get the yardwork finished...I have a big date with Liz soon! - BRAAAAAAAAA WHIP WHIP WHIP WHIP WHIP WHIP WHIP WHIP OW! OW! OW! OW! - And do I get a choice of soup or muffin with that?
 ga210515 -- Look at this interesting bug. Jon loves nature. - My, what a bit stinger! - OW! OW! OW! Unfortunately, the feeling isn't mutual.
 ga210516 -- KNOCK! KNOCK! - KNOCK! KNOCK! BARK! BARK! BARK! BARK! - BARK! BARK! BARK! BARK! HONK! HONK! - * DING-DONG! BARK! BARK! BARK! BARK! - AAAOOOOOGAH! - bark bark bark? - Yes, I'm pretty sure you can bark at that, too.
+ga210517 -- Moring coffee. - SLURP - Mother Nature's jumper cables.
