@@ -10175,3 +10175,5 @@
 210516 -- inzwischen eine giftige Müllhalde. - Das ist ein Zufallstreffer. - Und Sie sind zu faul, Ihre Vorhänge zuzuziehen, dahe rwollen Ihre Nachbarn Sie mittlerweile sicher umbringen. - Das sind jetzt ZWEI Glückstreffer.
 210517 -- Ich habe beschlossen, daß unsere Firma sich mehr in strittige politische Themen einbringen muß. - Würde das nicht einen hohen Einkommensverlust mit sich bringen? - Nein, nein. Die Leute werden uns dafür lieben, wenn wir uns einbringen. Könnten
 210517 -- Sie wenigstens damit warten, bis ich meine Firmenanteile verkauft habe?
+210518 -- Schreiben Sie eine Pressemitteilung, daß unsere Firma sich jeglichen sozialen Problemen widmet, über die die Leute gerade meckern. - Ist es egal, welche Themen ich dabei auswähle? Ja, Hauptsache, wir stehen gut da. - Soll ich erst einmal die
+210518 -- Themen recherchieren? Kommen Sie lieber gleich zur Sache.

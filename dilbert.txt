@@ -13513,3 +13513,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210516 -- you're too lazy to close your curtains, so by now your neignbors want to murder you. - That's TWO lucky guesses.
 210517 -- I've deciced our company needs to ge tmore involved in controversial politics. - Wouldn't the predictable impact of that be a huge drop in our earnings? - No, no. People will ove us for getting involved. Can you at least hold off until I sell
 210517 -- all of my stock?
+210518 -- Write a press release saying our company supports whatever social issues people are griping about lately. - Does it matter which issues I pick? Nah, Just make us look awesome. - Shoud I research the issues first? Are you TRYING to NOT get the
+210518 -- point?
