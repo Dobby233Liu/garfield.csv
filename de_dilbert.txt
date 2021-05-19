@@ -10177,3 +10177,5 @@
 210517 -- Sie wenigstens damit warten, bis ich meine Firmenanteile verkauft habe?
 210518 -- Schreiben Sie eine Pressemitteilung, daß unsere Firma sich jeglichen sozialen Problemen widmet, über die die Leute gerade meckern. - Ist es egal, welche Themen ich dabei auswähle? Ja, Hauptsache, wir stehen gut da. - Soll ich erst einmal die
 210518 -- Themen recherchieren? Kommen Sie lieber gleich zur Sache.
+210519 -- Ihre Presse mitteilung, daß wir die elbonischen Ausbeuterbetriebe verurteilen, erzeugt ein riesiges Feedback in den sozialen Medien. - Es ist ja auch ein wichtiges Thema. Wir lassen dort all unsere Produkte fertigen. - Ah. Zu meiner
+210519 -- Verteidigung...das hätte mir jemand sagen sollen.
