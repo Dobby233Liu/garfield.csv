@@ -16482,3 +16482,4 @@ ga210516 -- KNOCK! KNOCK! - KNOCK! KNOCK! BARK! BARK! BARK! BARK! - BARK! BARK! 
 ga210517 -- Morning coffee. - SLURP - Mother Nature's jumper cables.
 ga210518 -- Timmy fell down the well again! - Happens every week. - Timmy! You're grounded! Finally!
 ga210519 -- The dog is out sick today. - Please enjoy this classic performance from April. - BARK! BARK! BARK! BARK! My life is now in reruns.
+ga210520 -- I've always wondered... - How do spiders greet one another? What do you mmean? - Do you shake hands? Nope. Takes too long.
