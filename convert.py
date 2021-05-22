@@ -19,7 +19,7 @@ def _find_first_comicid(line, ln=None):
     
     # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
     # [0] [0] full id [1] comic [2] nothing [3] sep
-    result = re.findall(r'^((g[as]|dr|pg|sh|)[0-9-a-zA-Z]+)(\s|)([-.\* ]+)', line, flags=re.I)
+    result = re.findall(r'^((g[as]|dr|pg|sh|)[0-9-a-zA-Z]+)(\s|)(--|- -|..|. .|\*\*|\* \*)', line, flags=re.I)
     #raise IndexError(result[0])
 
     if len(result) <= 0:
@@ -50,8 +50,8 @@ def cleanup(input_file, output):
       continue
     
     line = lines[i].strip()
-    #if (line == ("-" * len(line)) or line == ("." * len(line))):
-    #  continue
+    if (line == ("-" * len(line)) or line == ("." * len(line))):
+      continue
     
     # find comicid (for merging lines together)
     #comicid = []
@@ -79,7 +79,7 @@ def cleanup(input_file, output):
 
       if i2 == 0:
         _proc_line += "-"
-      _proc_line += _loop_line[len(comicid[0]+comicid[2]+comicid[3])-1:]
+      _proc_line += _loop_line[len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3]):]
 
       if i2 > 0:
         _skip_ahead += 1
