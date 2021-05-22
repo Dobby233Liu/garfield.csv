@@ -57,7 +57,7 @@ def cleanup(input_file, output):
     # find comicid (for merging lines together)
     comicid = ()
     #try:
-    if not _dquirk_done and not ("--" in line) and (_find_first_comicid(lines[i-2].strip(), ln=i-2)[0] == "070201"):
+    if not _dquirk_done and not ("--" in line) and ("button" in line) and (_find_first_comicid(lines[i-1].strip(), ln="det")[0] == "070201"):
       comicid = ("070202", "", " ", "--")
     else:
       comicid = _find_first_comicid(line, ln=i)
