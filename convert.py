@@ -19,7 +19,7 @@ def _find_first_comicid(line, ln=None):
     
     # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
     # [0] [0] full id [1] comic [2] nothing [3] sep
-    result = re.findall(r'^((g[as]|dr|pg|sh|)[0-9-a-zA-Z]+)(\s|)(--|- -|..|. .|\*\*|\* \*)', line, flags=re.I)
+    result = re.findall(r'^((g[as]|dr|pg|sh|[0-9]+)[0-9-a-zA-Z]+)(\s|)(--|- -|..|. .|\*\*|\* \*)', line, flags=re.I)
     #raise IndexError(result[0])
 
     if len(result) <= 0:
@@ -41,7 +41,7 @@ def cleanup(input_file, output):
   writer.writerow(["transcript", "comic_id"])
 
   _skip_ahead = 0
-  _dquirk_done = False # resolve one qurik
+  #_dquirk_done = False # resolve one qurik
   #_nameless_count = 0
 
   for i in range(len(lines)):
@@ -57,11 +57,11 @@ def cleanup(input_file, output):
     # find comicid (for merging lines together)
     comicid = ()
     #try:
-    if not _dquirk_done and not ("--" in line) and ("button" in line) and (_find_first_comicid(lines[i-1].strip(), ln="det")[0] == "070201"):
-      comicid = ("070202", "", " ", "--")
-    else:
-      comicid = _find_first_comicid(line, ln=i)
-    _dquirk_done = True
+    #if not _dquirk_done and not ("--" in line) and ("button" in line) and (_find_first_comicid(lines[i-1].strip(), ln="det")[0] == "070201"):
+    #  comicid = ("070202", "", " ", "--")
+    #else:
+    comicid = _find_first_comicid(line, ln=i)
+    #_dquirk_done = True
     #except IndexError:# as e:
       #raise
       #print(e)
