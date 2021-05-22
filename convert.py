@@ -41,6 +41,7 @@ def cleanup(input_file, output):
   writer.writerow(["transcript", "comic_id"])
 
   _skip_ahead = 0
+  _dquirk_done = False # resolve one qurik
   #_nameless_count = 0
 
   for i in range(len(lines)):
@@ -54,9 +55,13 @@ def cleanup(input_file, output):
       continue
     
     # find comicid (for merging lines together)
-    #comicid = []
+    comicid = ()
     #try:
-    comicid = _find_first_comicid(line, ln=i)
+    if (_find_first_comicid(lines[i-1].strip(), ln=i-1)[0] == "070201") and not ("070202 --" in line) and not _dquirk_done:
+      comicid = ("070202", "", " ", "--")
+      _dquirk_done = True
+    else:
+      comicid = _find_first_comicid(line, ln=i)
     #except IndexError:# as e:
       #raise
       #print(e)
