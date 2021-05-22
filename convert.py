@@ -59,13 +59,14 @@ def cleanup(input_file, output):
     for i2 in range(len(lines) - i):
       
       _loop_line = lines[i + i2].strip()
-      _sub_comicid = []
+      if _loop_line == "-" * len(_loop_line) or _loop_line == "." * len(_loop_line):
+        continue
       
+      _sub_comicid = []
       try:
         _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
       except: # line has no comicid header?
-        if not (_loop_line == "-" * len(_loop_line) or _loop_line == "." * len(_loop_line)):
-          _proc_line += " " + _loop_line
+        _proc_line += " " + _loop_line
         _skip_ahead += 1
         continue
       
