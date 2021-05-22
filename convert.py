@@ -35,7 +35,7 @@ def _find_first_comicid(line, ln=None):
 
 def cleanup(input_file, output):
   
-  lines = input_file.readlines() # WARNING: this is bad, though this is fine yet
+  lines = input_file.readlines() # WARNING: this is bad, but is fine for now
   writer = csv.writer(output)
   
   writer.writerow(["transcript", "comic"])
@@ -44,7 +44,6 @@ def cleanup(input_file, output):
 
   for i in range(len(lines)):
     
-    # skip-ahead
     if _skip_ahead >= 1:
       _skip_ahead = _skip_ahead - 1
       continue
@@ -77,15 +76,12 @@ def cleanup(input_file, output):
    
       if i2 == 0:
         _proc_line += "-"
-      # hax
       _proc_line += _loop_line[len(comicid[0]+comicid[2]+comicid[3])-1:]
       
-      if i2 > 0: # NTS: not skipped one line self
+      if i2 > 0:
         _skip_ahead += 1
-    
-    # final processing
-    # TODO: what if i commented this out?
-    _proc_line = re.sub("(\s)+", r"\1", _proc_line)
+
+    #_proc_line = re.sub("(\s)+", r"\1", _proc_line)
     _proc_line = "\n- ".join(_proc_line.split("- "))
     _proc_line = stripm(_proc_line)
 
