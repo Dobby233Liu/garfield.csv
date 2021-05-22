@@ -71,23 +71,19 @@ def cleanup(input_file, output):
       _loop_line = lines[i + i2].strip()
       if not _loop_line == "-" * len(_loop_line) or _loop_line == "." * len(_loop_line):
         
-        _sub_comicid = comicid
-        if i > 0:
-          try:
-            _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
-          except IndexError: # line has no comicid header?
-            _proc_line += " " + _loop_line
-            _skip_ahead += 1
-            continue
-          if _sub_comicid[0] != comicid[0]:
-            break
+        _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
+        if _sub_comicid[0] != comicid[0]:
+          break
    
         if i2 == 0:
           _proc_line += "-"
-        _proc_line += _loop_line[len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])-(1 if i2 == 0 else 0):]
+        _proc_line += _loop_line[len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])-1:]
       
         if i2 > 0:
           _skip_ahead += 1
+
+      else:
+        break
 
     _proc_line = re.sub("(\s)+", r"\1", _proc_line)
     _proc_line = "\n- ".join(_proc_line.split("- "))
