@@ -55,14 +55,14 @@ def cleanup(input_file, output):
       continue
     
     # find comicid (for merging lines together)
-    comicid = ()
-    #try:
+    comicid = ("", "", "", "")
+    try:
     #if not _dquirk_done and not ("--" in line) and ("button" in line) and (_find_first_comicid(lines[i-1].strip(), ln="det")[0] == "070201"):
     #  comicid = ("070202", "", " ", "--")
     #else:
-    comicid = _find_first_comicid(line, ln=i)
-    #_dquirk_done = True
-    #except IndexError:# as e:
+      comicid = _find_first_comicid(line, ln=i)
+    except IndexError:# as e:
+      print(line)
       #raise
       #print(e)
       #comicid = ["_nameless_%s" % _nameless_count, "", "", ""]
@@ -78,7 +78,12 @@ def cleanup(input_file, output):
         _skip_ahead += 1
         continue
 
-      _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
+      _sub_comicid = ("", "", "", "")
+      try:
+        _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
+      except IndexError:
+        if i2 > 0:
+          print(_loop_line)
       if comicid[0] != _sub_comicid[0]:
         break
 
