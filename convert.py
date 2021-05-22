@@ -79,7 +79,8 @@ def cleanup(input_file, output):
 
       if i2 == 0:
         _proc_line += "-"
-      raise IndexError(_sub_comicid, _loop_line[:len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])-1])
+      else:
+        raise IndexError(_sub_comicid, _loop_line[:len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])-1])
       _proc_line += _loop_line[len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])-1:]
 
       if i2 > 0:
