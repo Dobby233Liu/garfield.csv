@@ -78,7 +78,7 @@ def cleanup(input_file, output):
       if i2 == 0:
         _proc_line += "-"
       # hax
-      _proc_line += _loop_line[len(comicid[0]+comicid[2]+comicid[3]):]
+      _proc_line += _loop_line[len(comicid[0]+comicid[2]+comicid[3])-1:]
       
       if i2 > 0: # NTS: not skipped one line self
         _skip_ahead += 1
