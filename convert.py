@@ -74,12 +74,14 @@ def cleanup(input_file, output):
         continue
 
       _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
+      if i2 > 1:
+        raise IndexError(_sub_comicid, comicid)
       if _sub_comicid[0] != comicid[0]:
         break
 
       if i2 == 0:
         _proc_line += "-"
-      _proc_line += _loop_line[len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])-(1 if i2 == 0 else 2):]
+      _proc_line += _loop_line[len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])-1:]
 
       if i2 > 0:
         _skip_ahead += 1
