@@ -41,6 +41,7 @@ def cleanup(input_file, output):
   writer.writerow(["transcript", "comic_id"])
 
   _skip_ahead = 0
+  _nameless_count = 0
 
   for i in range(len(lines)):
     
@@ -54,7 +55,13 @@ def cleanup(input_file, output):
       continue
     
     # find comicid (for merging lines together)
-    comicid = _find_first_comicid(line, ln=i)
+    comicid = []
+    try:
+      comicid = _find_first_comicid(line, ln=i)
+    except IndexError as e:
+      print(e)
+      comicid = ["_nameless_%s" % _nameless_count, "", "", ""]
+      _nameless_count += 1
     
     _proc_line = ""
     
@@ -64,17 +71,18 @@ def cleanup(input_file, output):
       _loop_line = lines[i + i2].strip()
       if not _loop_line == "-" * len(_loop_line) or _loop_line == "." * len(_loop_line):
         
-        _sub_comicid = []
-        try:
-          _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
-        except: # line has no comicid header?
-          _proc_line += " " + _loop_line
-          _skip_ahead += 1
-          continue
-        if _sub_comicid[0] != comicid[0]:
-          break
+        _sub_comicid = comicid
+        if i > 0:
+          try:
+            _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
+          except IndexError: # line has no comicid header?
+            _proc_line += " " + _loop_line
+            _skip_ahead += 1
+            continue
+          if _sub_comicid[0] != comicid[0]:
+            break
    
-        if i2 == 0:
+        if i2 <= 0:
           _proc_line += "-"
         _proc_line += _loop_line[len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])-1:]
       
