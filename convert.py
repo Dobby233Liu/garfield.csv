@@ -62,6 +62,7 @@ def cleanup(input_file, output):
     #else:
       comicid = _find_first_comicid(line, ln=i)
     except IndexError:# as e:
+      line = " " + ""
       print(line)
       #raise
       #print(e)
@@ -82,6 +83,7 @@ def cleanup(input_file, output):
       try:
         _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
       except IndexError:
+        _loop_line = " " + _loop_line
         if i2 > 0:
           print(_loop_line)
       if comicid[0] != _sub_comicid[0]:
