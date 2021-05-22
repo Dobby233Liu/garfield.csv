@@ -60,6 +60,7 @@ def cleanup(input_file, output):
       
       _loop_line = lines[i + i2].strip()
       if _loop_line == "-" * len(_loop_line) or _loop_line == "." * len(_loop_line):
+        _skip_ahead += 1
         continue
       
       _sub_comicid = []
