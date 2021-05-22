@@ -20,8 +20,7 @@ def _find_first_comicid(line, ln=None):
     # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
     # [0] [0] full id [1] comic [2] nothing [3] sep
     result = re.findall(r'^((g[as]|dr|pg|)[0-9]+)(\s|)(--|\.\.|- -|\*\*)', line, flags=re.I)
-    print(result[0])
-    raise IndexError("debug")
+
     if len(result) <= 0:
       raise IndexError("No match for regex", result, line)
     if len(result[0]) <= 0:
@@ -70,12 +69,13 @@ def cleanup(input_file, output):
         _skip_ahead += 1
         continue
       
-      if _sub_comicid[1] != comicid[1]:
+      if _sub_comicid[0] != comicid[0]:
         break
    
-      if i2 == 0: # NTS: why did i do this?
+      if i2 == 0:
         _proc_line += "-"
-      _proc_line += _loop_line[len(comicid[0]):]
+      # hax
+      _proc_line += _loop_line[len(comicid[0])+len(comicid[2])+len(comicid[3]):]
       
       if i2 > 0: # NTS: not skipped one line self
         _skip_ahead += 1
@@ -86,6 +86,6 @@ def cleanup(input_file, output):
     _proc_line = "\n- ".join(_proc_line.split("- "))
     _proc_line = stripm(_proc_line)
 
-    writer.writerow([_proc_line, comicid[1]]) # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
+    writer.writerow([_proc_line, comicid[0]]) # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
     
   return
