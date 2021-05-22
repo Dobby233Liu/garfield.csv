@@ -50,8 +50,8 @@ def cleanup(input_file, output):
       continue
     
     line = lines[i].strip()
-    if (line == ("-" * len(line)) or line == ("." * len(line))):
-      continue
+    #if (line == ("-" * len(line)) or line == ("." * len(line))):
+    #  continue
     
     # find comicid (for merging lines together)
     #comicid = []
@@ -74,10 +74,8 @@ def cleanup(input_file, output):
         continue
 
       _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
-      if _sub_comicid[0] != comicid[0]:
+      if comicid[0] != _sub_comicid[0]:
         break
-      if i2 > 1:
-        raise IndexError(_sub_comicid, comicid)
 
       if i2 == 0:
         _proc_line += "-"
