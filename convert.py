@@ -72,12 +72,12 @@ def cleanup(input_file, output):
             _proc_line += " " + _loop_line
             _skip_ahead += 1
             continue
-          if _sub_comicid[0] != comicid[0]:
-            break
+         if _sub_comicid[0] != comicid[0]:
+           break
    
         if i2 == 0:
           _proc_line += "-"
-        _proc_line += _loop_line[len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])-1:]
+        _proc_line += _loop_line[len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3]):]
       
         if i2 > 0:
           _skip_ahead += 1
