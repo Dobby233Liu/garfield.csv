@@ -51,7 +51,6 @@ def cleanup(input_file, output):
     
     line = lines[i].strip()
     if line == "-" * len(line) or line == "." * len(line):
-      _skip_ahead += 1
       continue
     
     # find comicid (for merging lines together)
