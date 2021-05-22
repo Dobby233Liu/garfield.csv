@@ -18,7 +18,10 @@ def _find_first_comicid(line, ln=None):
   try:
     
     # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
-    result = re.findall(r'^((g[as][0-9]+|dr[0-9]+|pg[a-zA-Z0-9_-]+|[0-9]+)(\s|)(--|\.\.|- -|\*\*))', line, flags=re.I)
+    # [0] [0] full id [1] comic [2] nothing [3] sep
+    result = re.findall(r'^((g[as]|dr|pg|)[0-9]+)(\s|)(--|\.\.|- -|\*\*)', line, flags=re.I)
+    print(result[0])
+    raise IndexError("debug")
     if len(result) <= 0:
       raise IndexError("No match for regex", result, line)
     if len(result[0]) <= 0:
