@@ -49,6 +49,9 @@ def cleanup(input_file, output):
       continue
     
     line = lines[i].strip()
+    if line == "-" * len(line) or line == "." * len(line):
+      _skip_ahead += 1
+      continue
     
     # find comicid (for merging lines together)
     comicid = _find_first_comicid(line, ln=i)
@@ -59,29 +62,30 @@ def cleanup(input_file, output):
     for i2 in range(len(lines) - i):
       
       _loop_line = lines[i + i2].strip()
-      if _loop_line == "-" * len(_loop_line) or _loop_line == "." * len(_loop_line):
-        _skip_ahead += 1
-        continue
-      
-      _sub_comicid = []
-      try:
-        _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
-      except: # line has no comicid header?
-        _proc_line += " " + _loop_line
-        _skip_ahead += 1
-        continue
-      
-      if _sub_comicid[0] != comicid[0]:
-        break
+      if not _loop_line == "-" * len(_loop_line) or _loop_line == "." * len(_loop_line):
+        
+        _sub_comicid = comicid
+        if i2 > 0:
+          try:
+            _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
+          except: # line has no comicid header?
+            _proc_line += " " + _loop_line
+            _skip_ahead += 1
+            continue
+          if _sub_comicid[0] != comicid[0]:
+            break
    
-      if i2 == 0:
-        _proc_line += "-"
-      _proc_line += _loop_line[len(comicid[0]+comicid[2]+comicid[3])-1:]
+        if i2 == 0:
+          _proc_line += "-"
+        _proc_line += _loop_line[len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])-1:]
       
-      if i2 > 0:
+        if i2 > 0:
+          _skip_ahead += 1
+          
+      else:
         _skip_ahead += 1
 
-    #_proc_line = re.sub("(\s)+", r"\1", _proc_line)
+    _proc_line = re.sub("(\s)+", r"\1", _proc_line)
     _proc_line = "\n- ".join(_proc_line.split("- "))
     _proc_line = stripm(_proc_line)
 
