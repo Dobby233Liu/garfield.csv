@@ -41,7 +41,7 @@ def cleanup(input_file, output):
   writer.writerow(["transcript", "comic_id"])
 
   _skip_ahead = 0
-  _nameless_count = 0
+  #_nameless_count = 0
 
   for i in range(len(lines)):
     
@@ -55,13 +55,14 @@ def cleanup(input_file, output):
       continue
     
     # find comicid (for merging lines together)
-    comicid = []
-    try:
-      comicid = _find_first_comicid(line, ln=i)
-    except IndexError as e:
-      print(e)
-      comicid = ["_nameless_%s" % _nameless_count, "", "", ""]
-      _nameless_count += 1
+    #comicid = []
+    #try:
+    comicid = _find_first_comicid(line, ln=i)
+    #except IndexError:# as e:
+      #raise
+      #print(e)
+      #comicid = ["_nameless_%s" % _nameless_count, "", "", ""]
+      #_nameless_count += 1
     
     _proc_line = ""
     
@@ -82,7 +83,7 @@ def cleanup(input_file, output):
           if _sub_comicid[0] != comicid[0]:
             break
    
-        if i2 <= 0:
+        if i2 == 0:
           _proc_line += "-"
         _proc_line += _loop_line[len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])-1:]
       
