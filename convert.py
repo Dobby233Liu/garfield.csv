@@ -38,7 +38,7 @@ def cleanup(input_file, output):
   lines = input_file.readlines() # WARNING: this is bad, but is fine for now
   writer = csv.writer(output)
   
-  writer.writerow(["transcript", "comic"])
+  writer.writerow(["transcript", "comic_id"])
 
   _skip_ahead = 0
 
