@@ -9924,3 +9924,7 @@ dr210517 -- WHIRRRR * LA LA LA * - WHIRRRR * LA LA LA LA * - WHIRRRRR - Someone'
 dr210518 -- DRIVE-THRU VACCINE Do you have an appointment? Ralph Drabble, 10:15. - Very good. Put your car in "park", please. - Hold still... AAAUUGH! - I'm just taking your temperature. Sorry. I thought that was the needle!
 dr210519 -- Vaccine Drive Thru Roll up your sleeve, dude! Wait! Are you a real doctor? - No, but I play one on TV! - Ha ha! That's funny! - I'm serious. It's a soap opera!
 dr210520 -- Vaccination Drive Thru Dude, I assure you I know what I'm doing! - OK, but is the shot going to hurt? - This shot will not hurt, and believe me because I've had a bunch of them! - A bunch of them?? I keep accidentally poking myself!
+dr210521 -- I got my vaccine, honeybunch! That took you longer than I thought! - Oh, well, I'm proud of you! KISS - Why do you smell like a chili burger and onion rings? - It must be one of the side effects!
+dr210522 -- Good morning, Wally! - No,no! - No no WHAT? - You'll think of something!
+dr210523 -- OK, let's go! Wait for me in the car. I need to use the restroom. - Dang! The bathroom has a keypad! - Excuse me, what's the code to unlock the men's room? - 24703. 24703! 24703! - Number 198! Your order is ready! Number 198! 19803! - IT
+dr210523 -- DOESN'T WORK! - What's the men's room code again? 24703. - Number 209! 20903. - What on earth could be taking him so long? Well, it IS Norman, remember!

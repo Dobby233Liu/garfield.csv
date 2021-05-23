@@ -13517,3 +13517,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210518 -- point?
 210519 -- We're getting major blowback on social media for your press release condemning Elbonian sweatshop labor. - It's an important issue. It's also how we make all of our products. - In my defense, someone should have told me that.
 210520 -- Our stock plunged 30% because you spoke out on a political issue. - No one can silence my voice when I see a great injustice! - This will cost you your entire bonus of $10 million. What if I agree to never speak again?
+210521 -- The board wants to fire you for speaking out about politics and ruining our brand. - Ask if they'll accept a C-level human sacrifice instead. - They said yes. Now fire my CTO and tell him it's something about his performance.
+210522 -- I'll be forty minutes late. - I just wasted twenty minutes waiting! Why didn't you tell me as soon as you knew? - Because I knew you would be a jerk about it, so I punished you. Oh.
+210523 -- If you finish by the deadline, I'll recommend you for a million-dollar bonus. - You're lying. I'm serious. - But you're also lying. Only one way to find out. - I'd need to work around the clock for weeks to meet the deadline! - That's the
+210523 -- spirit! - If you're lying about the bonus, I'm going to be boiling mad. - Five Weeks Later It nearly killed me, but I finished by the deadline. - Where's my million-dollar bonus? I told you I'd RECOMMEND it. They said no.
