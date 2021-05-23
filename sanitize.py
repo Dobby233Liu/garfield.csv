@@ -1,11 +1,12 @@
 import csv, sys
 
-exists = {}
+ids = []
 
 with open(sys.argv[1]) as f:
-    c = c.DictReader(f)
+    c = csv.reader(f)
+    next(c) # discard header
     for r in c:
-      magic = "comic_" + r["comic_id"]
-      if exists[magic]:
-        raise IndexError("comic '%s' already exists in csv" % r["comic_id"]
-      exists[magic] = True
+      magic = r[1]
+      if ids.count(magic) > 0:
+        raise IndexError("comic '%s' already exists in csv" % magic)
+      ids.append(magic)
