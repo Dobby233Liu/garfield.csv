@@ -6,7 +6,7 @@ Usage:
 give -h as an argument while running this file
 """
 
-from argparse import ArgumentParser, FileType
+from argparse import ArgumentParser
 import sys
 
 class FileTypeMy(object):
