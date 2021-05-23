@@ -41,8 +41,6 @@ def cleanup(input_file, output):
   writer.writerow(["transcript", "comic_id"])
 
   _skip_ahead = 0
-  #_dquirk_done = False # resolve one qurik
-  #_nameless_count = 0
 
   for i in range(len(lines)):
     
@@ -57,17 +55,12 @@ def cleanup(input_file, output):
     # find comicid (for merging lines together)
     comicid = ("", "", "", "")
     try:
-    #if not _dquirk_done and not ("--" in line) and ("button" in line) and (_find_first_comicid(lines[i-1].strip(), ln="det")[0] == "070201"):
-    #  comicid = ("070202", "", " ", "--")
-    #else:
       comicid = _find_first_comicid(line, ln=i)
-    except IndexError:# as e:
+    except IndexError as e:
       line = " " + ""
+      print(e)
       print(line)
-      #raise
-      #print(e)
-      #comicid = ["_nameless_%s" % _nameless_count, "", "", ""]
-      #_nameless_count += 1
+      print("-"*20)
     
     _proc_line = ""
     
@@ -82,10 +75,12 @@ def cleanup(input_file, output):
       _sub_comicid = ("", "", "", "")
       try:
         _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
-      except IndexError:
+      except IndexError as e:
         _loop_line = " " + _loop_line
         if i2 > 0:
+          print(e)
           print(_loop_line)
+          print("-" * 20)
       if comicid[0] != _sub_comicid[0]:
         break
 
@@ -101,7 +96,7 @@ def cleanup(input_file, output):
     _proc_line = "\n[X]- ".join(_proc_line.split("- "))
     _proc_line = "\n- ".join(_proc_line.split(" -"))
     _proc_line = "\n- ".join(_proc_line.split("[X]- "))
-    _proc_line = "->".join(_proc_line.split("[X]- >"))
+    _proc_line = "->".join(_proc_line.split("\n- >"))
     _proc_line = stripm(_proc_line)
 
     writer.writerow([_proc_line, comicid[0]]) # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
