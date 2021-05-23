@@ -95,7 +95,7 @@ def cleanup(input_file, output):
     # fix
     _proc_line = "\n[X]- ".join(_proc_line.split("- "))
     _proc_line = "\n- ".join(_proc_line.split(" -"))
-    _proc_line = "\n- ".join(_proc_line.split("[X]- "))
+    _proc_line = "- ".join(_proc_line.split("[X]- "))
     _proc_line = "->".join(_proc_line.split("\n- >"))
     _proc_line = stripm(_proc_line)
 
