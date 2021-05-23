@@ -93,12 +93,10 @@ def cleanup(input_file, output):
 
     _proc_line = re.sub("(\s)+", r"\1", _proc_line)
     # fix
-    _proc_line = "\n[X]- ".join(_proc_line.split("- "))
+    _proc_line = "\n- ".join(_proc_line.split("- "))
     _proc_line = "\n- ".join(_proc_line.split(" -"))
-    #_proc_line = "- ".join(_proc_line.split("[X]- "))
     _proc_line = " ->".join(_proc_line.split("\n- >"))
     _proc_line = stripm(_proc_line)
-    _proc_line = "- ".join(_proc_line.split("[X]- "))
 
     writer.writerow([_proc_line, comicid[0]]) # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
     
