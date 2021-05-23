@@ -84,7 +84,8 @@ transcript,comic_id
 - skattle skattle
 - skattle skattle skattle
 - skattle skattle skattle
-- skattle skattle -",dr000118
+- skattle skattle
+-",dr000118
 "- Wally, get out of the kitchen!
 - skattle skattle skattle skattle
 - skattle skattle skattle skattle
@@ -566,7 +567,8 @@ transcript,comic_id
 - zZZzZZzzzZz I bought some of these ""No-Snore"" strips! Here, put one on his nose!
 - Z It's not helping! Maybe you didn't put it in the right spot! Try another one.
 - ZZZZ That one didn't help, either! Your father is a heavy-duty snorer! Put another one on!
-- ZZZ I give up! I'm going to sleep downstairs! Me, too! -",dr000507
+- ZZZ I give up! I'm going to sleep downstairs! Me, too!
+-",dr000507
 "- 'bye, Ralph! Where are YOU going tonight?
 - I volunteered to be on the little league board. We're having an emergency meeting!
 - We're going to discuss all of the parents who take the game too seriously and ruin all the fun.
@@ -952,7 +954,8 @@ transcript,comic_id
 -
 - Sorry, dad! I'll get some napkins!
 - whiff! whiff! whiff!
-- DAB DAB rip rip rip DAB rip rip DAB tear! -",dr000806
+- DAB DAB rip rip rip DAB rip rip DAB tear!
+-",dr000806
 "- Norm, I've decided to become a private batting instructor for kids!
 - Batting instruction is a booming industry! Parents spend a FORTUNE on lessons!
 - All I need to do to be a successful instructor is tell the kids over and over to keep their eye on the ball.
@@ -1224,11 +1227,19 @@ transcript,comic_id
 - You're not the first person to go on ANTIQUES ROADSHOW, and learn that your antique isn't so valuable!
 - I just don't understand how they could say my 8-track tape player is WORTHLESS!
 - Maybe they meant PRICELESS! Yeah, that's probably it!",dr001007
-"- -Please remember to sign your check. -Please write your account number on your check.
-- -Do not send cash. -Make check payable to Polecat Industries.
-- -Please include bottom portion with payment. -Do not clip or staple.
-- -Do not send correspondence with payment.
-- -Please make sure our address shows through window.
+"[X]-
+- Please remember to sign your check.
+- Please write your account number on your check.
+[X]-
+- Do not send cash.
+- Make check payable to Polecat Industries.
+[X]-
+- Please include bottom portion with payment.
+- Do not clip or staple.
+[X]-
+- Do not send correspondence with payment.
+[X]-
+- Please make sure our address shows through window.
 - BAM!
 - Did you put a stamp on it?",dr001008
 "- Here's an interesting article...
@@ -1470,7 +1481,8 @@ transcript,comic_id
 -
 -
 - I hate it.",dr001204
-"- Our tree is crooked, Ralph! What are we going to do?? Don't worry, honeybunch. I'll fix it! -",dr001205
+"- Our tree is crooked, Ralph! What are we going to do?? Don't worry, honeybunch. I'll fix it!
+-",dr001205
 "- Ralph, this tree isn't fresh. I want you to take it back to the lot! Are you out of your mind??
 - What kind of LUNATIC returns a Christmas tree?? You'll just have to make the best of it!
 - Here's a novel idea...just turn the ugly side to the wall!
@@ -1637,7 +1649,8 @@ transcript,comic_id
 - Looks like he has everything else in him!",dr010116
 "- I'm home!
 - Excuse me...my perch is not a coat rack!
-- What could be more undignified? -",dr010117
+- What could be more undignified?
+-",dr010117
 "- That does it! I obviously get no respect around here!
 - I think I'll go return to the wild!
 -
@@ -1799,7 +1812,8 @@ transcript,comic_id
 - I've got to figure out how to work the speed dial!",dr010228
 "- Time to check the local traffic conditions...
 - Tipster No-Neck called to report a Rottweiler running loose along the northbound 710!
-- ...and now we've just received a call from tipster Drabble CORRECTING tipster No-Neck: It's not a Rottweiler, it's a DOBERMAN. -",dr010201
+- ...and now we've just received a call from tipster Drabble CORRECTING tipster No-Neck: It's not a Rottweiler, it's a DOBERMAN.
+-",dr010201
 "- Let's go out to the freeways once again for a look at traffic...
 - Tipster Drabble reports that tipster NO-Neck just made an illegal lane change on the westbound 134!
 - And now tipster No-Neck reports that tipster Drabble is driving a vehicle with expired license tabs!
@@ -1949,7 +1963,8 @@ transcript,comic_id
 - Shouldn't you be standing on the scale? Scale, shmale! I measure my weight by how much of my feet I can see!",dr010405
 "- Whatcha reading, dad? The newspaper?
 - I like newspapers. They're always something interesting! I'll just stand here and read over your shoulder...
-- HEY, NORM, GO LONG! OK!! -",dr010406
+- HEY, NORM, GO LONG! OK!!
+-",dr010406
 "-
 - boop!
 - Hello?
@@ -1964,7 +1979,8 @@ transcript,comic_id
 - Hair is wasted on the young!",dr010409
 "- I love being on food court duty!
 - Care for a free sample?
-- Don't mind if I do! -",dr010410
+- Don't mind if I do!
+-",dr010410
 "- I saw this table first! No, I saw it first!!
 - Both of you calm down! When disputes arise in the food court, there's only one way to resolve them...
 - ALL RISE FOR THE FOOD COURT JUDGE!",dr010411
@@ -2439,7 +2455,8 @@ transcript,comic_id
 - Thank goodness for Animal Planet!",dr010806
 "- We have a camp fire and a bag of marshmallows...
 - Now all we need are coat hangers.
-- Found some! -",dr010807
+- Found some!
+-",dr010807
 "- How's this?
 - Keep trying.
 - ...Sigh... You're the only man I know who's so cheap, he makes his kids re-bend coat hangers after they roast marshmallows. I call it ""The Gift Of Thrift"".",dr010808
@@ -2448,7 +2465,8 @@ transcript,comic_id
 - The problem is, we've experienced a proliferation of bloopers over the years, and now there aren't enough ones to go around!
 - You've given this way too much thought, dad. I'm telling you, our society has been overblooped!",dr010809
 "- Look, dad! The wave is coming around the stadium!
-- Big deal. I hate the wave. No baseball purist would be caught dead doing the wave! -WOOOOO!!
+- Big deal. I hate the wave. No baseball purist would be caught dead doing the wave!
+- WOOOOO!!
 - Unless you need to adjust your shorts!",dr010810
 "- Hey, Norm, check if my breath is bad.
 - HAAAAAAHH It's fine!
@@ -2979,7 +2997,8 @@ transcript,comic_id
 - Is there more to that story? Not really.",dr011217
 "- Say, Wendy, I was wondering...
 - How would you like to come over to my place for egg nog and fruitcake?
-- Then we could listen to my new CD... ""The WWF Superstars Sing Holiday Favorites"". -Let me not come back to you on that, Norman. Okey-dokey!",dr011218
+- Then we could listen to my new CD... ""The WWF Superstars Sing Holiday Favorites"".
+- Let me not come back to you on that, Norman. Okey-dokey!",dr011218
 "- Last year we had a white Christmas.
 - This year, son, it's even better!
 - It's a red, white and blue Christmas!",dr011219
@@ -3150,7 +3169,8 @@ transcript,comic_id
 - Hello, Friendly Hills Golf Club? I'd like to make a tee time for next Saturday!",dr020127
 "- ...and then when I got to junior high, my math grade started to improve and then... ...Sigh...
 - NORMAN, RUN!!
-- -",dr020128
+[X]-
+-",dr020128
 "- We're going to be late for school! Pipe down back here!
 - Look at all the cars in front of us! What do you want me to do?
 - Maybe tomorrow you should get your drive-thru donuts AFTER you drop off the carpool!",dr020129
@@ -3785,7 +3805,8 @@ transcript,comic_id
 - Phone I know how you feel.",dr020629
 "-
 - KNOCK KNOCK
-- -UH...JUST A MINUTE, PLEASE!
+[X]-
+- UH...JUST A MINUTE, PLEASE!
 - OK!
 - *creak!*
 -
@@ -4139,7 +4160,8 @@ transcript,comic_id
 - Better make it a SMALL slice! Remember, you're on a diet!
 - What constitutes a ""small"" slice? No more than one inch thick!
 -
-- -",dr020922
+[X]-
+-",dr020922
 "- YES!!!
 - I can't believe it!! This is the greatest day of my life!!
 - They're building a ""Krunchy Kakes"" donut shop two blocks from my home!! I haven't seen dad this excited since he saw Jim Rome at the mall!",dr020923
@@ -4197,7 +4219,8 @@ transcript,comic_id
 - Just keep answering and you'll eventually answer the right kid! Dad!",dr021006
 "- !!!!!
 - !!!!
-- !!!!!! -",dr021007
+- !!!!!!
+-",dr021007
 "- I never set foot in a doctor's office until I was 35 years old.
 - By the time I was 40, I was going to the doctor's office once a year.
 - And now that I'm over 45...
@@ -4341,7 +4364,8 @@ transcript,comic_id
 - Mom's under more stress than dad's hammock!",dr021111
 "-
 - Look out the window at that breathtaking view, honeybunch!
-- -",dr021112
+[X]-
+-",dr021112
 "- ...turn right on Washington Street, in 2.74 miles.
 - Proceed 0.21 miles, and turn left on Oak. Then right on Elm, in 0.65 miles.
 - Continue for 1.37 miles and turn right into the parking lot! Thanks very much!
@@ -4731,13 +4755,15 @@ transcript,comic_id
 - Sometimes it's hard to tell where the easy chair stops and you begin!",dr030218
 "- Buffet
 -
-- -",dr030219
+[X]-
+-",dr030219
 "- Buffet Dessert Bar
 -
 - They should put these soft serve ice cream machines a little higher off the ground!",dr030220
 "- CLOSED??
 - I can't believe it!!
-- Every ""All -you-can-eat"" buffet I like goes out of business! Imagine that!",dr030221
+- Every ""All
+- you-can-eat"" buffet I like goes out of business! Imagine that!",dr030221
 "- You're ""it"", Penny!
 - Norman and I will hide! Cover your eyes and count to ten!
 - One Missississisipippi...two Missississisipippi...
@@ -5107,7 +5133,8 @@ transcript,comic_id
 - I've got a troublemaker up here!",dr030521
 "- bop bop bop
 - bop bop bop bop bop bop
-- bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop -",dr030522
+- bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop
+-",dr030522
 "- Hey, you dumb cat! Look what I got at the baseball game!
 - Rally boppers! When I bop 'em together, they'll make a loud noise, and scare the FUR off you!!
 - pik!
@@ -5253,7 +5280,8 @@ transcript,comic_id
 - skritch skritch skritch Especially when he forgets to put on bug repellent!",dr030624
 "- Why don't you take your shirt off, dad?
 - I'm embarrassed about my ""farmer's"" tan!
-- What's so embarrassing about a ""farmer's"" tan? -",dr030625
+- What's so embarrassing about a ""farmer's"" tan?
+-",dr030625
 "-
 - Care to join me in the spa, honeybunch? bubble bubble bubble I'm beginning to understand why we still don't have our own TV series!",dr030626
 "- Why do they call them ""cookies""?? You don't COOK cookies, you BAKE them!
@@ -5419,7 +5447,8 @@ transcript,comic_id
 - I'm getting writer's cramp!",dr030803
 "- Listen, Wally...they're about to give my traffic update on the radio!
 - Tipster Drabble just called in to report looky-loo slowing on the south bay curve!
-- Tipster Steinbauer reports that tipster Drabble is driving with a dog in his lap, constituting a road menace! -",dr030804
+- Tipster Steinbauer reports that tipster Drabble is driving with a dog in his lap, constituting a road menace!
+-",dr030804
 "- Tipster Drabble just called in to report that tipster Steinbauer just made an illegal lane change. Hee hee!
 - And now, tipster Steinbauer reports that tipster Drabble is driving with a deployed air bag!
 - I AM NOT!!
@@ -5454,7 +5483,8 @@ transcript,comic_id
 - Ralph, if you're going to sunbathe in the late afternoon, you need to suck in your stomach!",dr030812
 "- Here's your soda,Ralph!
 - Can't you see my hands are full?
-- Just set it down someplace! -",dr030813
+- Just set it down someplace!
+-",dr030813
 "- I thought you were on a diet!
 - How did you know I was eating a brownie?
 - I have eyes on the back of my head!
@@ -5881,7 +5911,8 @@ transcript,comic_id
 - You're supposed to pull out a woman's chair BEFORE she sits down! Oh, yeah, huh!",dr031124
 "- Bulk Club Membership Discount Store Please, dad? Sorry, Norm. I'm on my break!
 - Come on! I promise not to ask you again for a whole month! oh, OK...
-- COMING THROUGH! What good is having a dad who works at bulk club if you can't get a dr031125 -
+- COMING THROUGH! What good is having a dad who works at bulk club if you can't get a dr031125
+-
 - occasional ride on the fork lift?",dr031125
 "- I think we should remodel our home! How come?
 - We need a media room!
@@ -6274,7 +6305,8 @@ transcript,comic_id
 -
 - push push press press press
 - press press push push push push push press
-- WHAP! -",dr040229
+- WHAP!
+-",dr040229
 "- Hey, Norm, let's hop in the car and go get a burger! OK!
 - You know, I have a distinct feeling that I'm forgetting something.
 - It's something really important, too.
@@ -6711,7 +6743,8 @@ transcript,comic_id
 - It would probably have been easier just to bring the sand and water to our house! Can we rest a while while we unload the rest of the car?",dr040615
 "-
 -
-- -",dr040616
+[X]-
+-",dr040616
 "-
 - LOOK OUT BELOW!
 - SPLOOSH!
@@ -6721,7 +6754,8 @@ transcript,comic_id
 - On second thought, make it all vanilla!",dr040618
 "- RING!
 - SHE'S NOT HOME!
-- -",dr040619
+[X]-
+-",dr040619
 "- So, what would you like to do today, dad? Well, here's what I've decided...
 - First, I'm going to eat a big bowl of ice cream!
 - Then, I'm going to watch a ball game on TV!
@@ -6821,7 +6855,8 @@ transcript,comic_id
 - Only because it's got 18 holes!",dr040713
 "- Change Let's see...
 - How does this work?
-- ""Insert Bills Face-Up"" -",dr040714
+- ""Insert Bills Face-Up""
+-",dr040714
 "- Aw, what the heck...
 - One more doughnut won't hurt!
 - KABLOOIE!
@@ -6882,7 +6917,8 @@ transcript,comic_id
 - Say what?",dr040728
 "- Norm, if you want the beach babes to notice you, you've got to show off your athletic ability!
 - Let's throw the Frisbee around!
-- zip! -",dr040729
+- zip!
+-",dr040729
 "- Ralph, I bought grape juice pouches for the kids!
 - Just remember, grape juice stains, and these juice pouches can be messy!
 - So, if they want one, make sure they drink it outside, in old clothing!
@@ -7149,7 +7185,8 @@ transcript,comic_id
 - When I was a little kid, I had to walk to school through snow and sleet!
 - Yeah, but I'll bet you didn't have a fifty-pound back pack! Good point.",dr040930
 "- HELP!
-- I'VE FALLEN AND I CAN'T GET UP! -",dr041001
+- I'VE FALLEN AND I CAN'T GET UP!
+-",dr041001
 "- Well, I don't know what you've been complaining about...
 - According to our scale, your backpack only weighs three pounds!
 - I could've sworn it was heavier than that! Keep in mind our scale also says that dad weighs 185!",dr041002
@@ -7212,7 +7249,8 @@ transcript,comic_id
 - It didn't help.",dr041015
 "- Blow out your candles, Patrick!
 - But this year, be careful!
-- See if you can blow them out without spitting all over the cake! OK. -",dr041016
+- See if you can blow them out without spitting all over the cake! OK.
+-",dr041016
 "- How did it go at the dentist, Ralph?
 - Oh, fine! No problems at all!
 - I'm glad you finally gathered the courage to go! I know you have a fear of dental procedures!
@@ -7942,7 +7980,8 @@ transcript,comic_id
 - It said VIEWER discretion, not MOTHER OF VIEWER discretion! Too bad!",dr050411
 "- Wally, have you met the neighbors' new dog? !
 - Arf! Arf! Arf! Arf! Arf! Arf! Arf! Arf!
-- WOOF! -",dr050412
+- WOOF!
+-",dr050412
 "- Wally, what's wrong with you??
 - Are you going to let the neighbor's puppy intimidate you?
 - You can't jump inside my shirt every time you're frightened!
@@ -7975,13 +8014,16 @@ transcript,comic_id
 - The old ""crimp in the hose"" trick claims another victim!",dr050419
 "- Norman, don't you know how to hose-off the driveway??
 - You need more water pressure! How do I get that?
-- stick your thumb in the nozzle! -",dr050420
+- stick your thumb in the nozzle!
+-",dr050420
 "- Norm! I got a new spray nozzle for the hose! Now it'll be easier to take a drink!
 - Just put it on ""Turbo Jet"" and pull the trigger! OK!
 - This'll be sweet!
 - SPLADDLAPP!",dr050421
-- Oops! I forgot to roll up the windows! -,dr050422
-- Time to reel in the hose! crank crank crank . AAAARRRGH! -,dr050423
+"- Oops! I forgot to roll up the windows!
+-",dr050422
+"- Time to reel in the hose! crank crank crank . AAAARRRGH!
+-",dr050423
 "- Crud! We'll never get on this ride! The line is too long!
 - If you don't want to wait in line, we can use a ""Speedy Voucher."" What's that?
 - It's a ticket that allows you to return at a later time when you won't have to wait!
@@ -8078,7 +8120,8 @@ transcript,comic_id
 - How else would you ever know what's on TV?",dr050516
 "- There's no doubt about it...
 - This is the most inconvenient drive-thru ATM in town!
-- Actually, dad, I'm not so sure it's a drive-thru! --It also wreaks havoc on my alignment!",dr050517
+- Actually, dad, I'm not so sure it's a drive-thru!
+- -It also wreaks havoc on my alignment!",dr050517
 "- Our yard is in bad shape! We hardly have any grass left!
 - Maybe you should hire a gardener!
 - Why should I pay a gardener when we have so little grass?
@@ -8778,7 +8821,8 @@ transcript,comic_id
 - It's in recognition of my decision to start wearing a shirt while doing yardwork!",dr051108
 "- No, Wally. I don't want to play with your sock.
 - I don't want to play with your ball, either.
-- Hey, that's my new golf glove! Give me that! -",dr051109
+- Hey, that's my new golf glove! Give me that!
+-",dr051109
 "- Would you like me to help you with homework, Patrick? OK . What's the definition of the word EXHORT?
 - That's easy...
 - A former HORT!
@@ -8893,7 +8937,8 @@ transcript,comic_id
 - It melted! The holiday shopping is going well, I take it.",dr051205
 "- Where are dad and Norman? They went outside.
 - I think they're putting up the Christmas decorations.
-- I think it's cute when they hang out together! -",dr051206
+- I think it's cute when they hang out together!
+-",dr051206
 "- Our new barstools are uncomfortable!
 - Half of me is sitting and half of me is standing!
 - We need bigger barstools! Either that, or...
@@ -8964,7 +9009,8 @@ transcript,comic_id
 - Boy, we have cheap friends! Fruitcake: the gift that keeps on being given!",dr051221
 "- This fruitcake gets passed around the neighborhood every year because nobody wants it!
 - Well, now it's the Mitchell's problem! DING DONG
-- I'm rid of it for another year! -",dr051222
+- I'm rid of it for another year!
+-",dr051222
 "-
 - A watched chimney never gets slid down!",dr051223
 "- Look! I see a red light moving across the sky!!
@@ -8999,7 +9045,8 @@ transcript,comic_id
 - Oogie just clawed my new sweater!
 - I like cats. They make people appreciate dogs!",dr051230
 "-
-- ACHOO! -Dang!
+- ACHOO!
+- Dang!
 - I just can't seem to shake this cold!
 - That was really dumb! It must be one of our year-end close-out jokes!",dr051231
 "- Z
@@ -9137,7 +9184,8 @@ transcript,comic_id
 - Seriously, would you like to buy some girl scout cookies? Sure, why not?!",dr060208
 "- Handscooped Ice Cream
 -
-- -",dr060209
+[X]-
+-",dr060209
 "- skattle skattle skattle skattle
 - CRASH! RIP!
 - I KNEW there was a reason why we shouldn't have installed a screen door!",dr060210
@@ -9400,7 +9448,8 @@ transcript,comic_id
 - You've heard of caller i.d.? Dad's cell phone has RING TONE i.d.!
 - When mom calls, it plays the theme from ""Dragnet"". Donuts?? No, I'm not eating donuts!",dr060505
 "- One cheeseburger, a medium fry, and a large root beer! That'll be $5.75 at the first window, please.
-- Those high gas prices are starting to show their effects. -",dr060506
+- Those high gas prices are starting to show their effects.
+-",dr060506
 "- Welcome to the stadium!
 - That'll be $12 for parking! TWELVE DOLLARS?!!
 - How come you took up two spaced, dad?
@@ -9423,7 +9472,8 @@ transcript,comic_id
 - I'll take that as a ""not quite.""",dr060513
 "-
 - I've decided to seek enlightenment!
-- -",dr060515
+[X]-
+-",dr060515
 "- Hi, Wendy! I wondered if you'd like to go out with me on Friday night?
 - No? Well, how about SATURDAY night?
 - ...OK, then how about Monday night? ...Tuesday night? ...Wednesday night?
@@ -9544,7 +9594,8 @@ transcript,comic_id
 - Did I mention that I'm new here?",dr060620
 "- I'll have a medium vanilla and chocolate and swirl it, please!
 - ""Swirl"" it?
-- -How's that?",dr060621
+[X]-
+- How's that?",dr060621
 "- I'll have a large strawberry yogurt, please!
 - Large? Uh...OK...
 -
@@ -9857,7 +9908,8 @@ transcript,comic_id
 - *",dr060927
 "- Mr. Drabble, don't worry! We do not draw nude models in this class!
 - The only thing we're going to draw today is this bowl of fruit!
-- Hey, where is it??! -",dr060928
+- Hey, where is it??!
+-",dr060928
 "- Why did you guys tell me there would be nude models in our drawing class?!
 - I nearly made a complete fool of myself!
 - That's not true at all, Norman!
@@ -10171,7 +10223,8 @@ transcript,comic_id
 "- 'Twas the night before Christmas
 - And the house appeared calm.
 - Not a creature was stirring Z
-- Except Dad and Mom! We're missing a 3/8"" screw bolt! Who writes these stupid instructions?! I can't believe they didn't include batteries! Where are the pliers?! -Rod 'A' doesn't fit in tube 'C'!! Next year all the kids are getting gift cards!",dr061224
+- Except Dad and Mom! We're missing a 3/8"" screw bolt! Who writes these stupid instructions?! I can't believe they didn't include batteries! Where are the pliers?!
+- Rod 'A' doesn't fit in tube 'C'!! Next year all the kids are getting gift cards!",dr061224
 "- Last Year Ralph, you tore open your gift so fast, you didn't even notice how nicely it was wrapped! I spend a long time wrapping gifts and the least you can do is...
 - This Year And such a lovely bow! What a vibrant paper you selected! The corners are so crisp and even! What an efficient use of tape! I'm sure that whatever is on the inside cannot possibly compare to... Oh, knock it off!",dr061225
 "- Whoa! I dropped my donut on the floor!
@@ -10761,7 +10814,8 @@ transcript,comic_id
 - Tell me when I get to the stairs! Heaven forbid he'd have to make more than one trip!",dr070515
 "- Here's your clean laundry, Patrick.
 - I spent a lot of time folding it, so carry it up to your room carefully!
-- I made it to my room without dropping anything!! Good! -",dr070516
+- I made it to my room without dropping anything!! Good!
+-",dr070516
 "- Have a seat, Ralph! Thanks, Jerry!
 - How have you been? snip snip Fine, thanks!
 - How's the family? snip snip snip Oh, they're...
@@ -10990,7 +11044,8 @@ transcript,comic_id
 - It seems to be a matter of pride in our society to pay no less than $3 for everything!
 - But if that's too pricey for you, I under
 - Make mine to go!",dr070709
-- Patrick's Lemonade $3 Do you have anything with no sugar no caffeine? One lemonade-lite coming up! -,dr070710
+"- Patrick's Lemonade $3 Do you have anything with no sugar no caffeine? One lemonade-lite coming up!
+-",dr070710
 "- Patrick's Lemonade $3 How's business, little brother? Can't complain!
 - Dad says I need to find a summer job.
 - Could I work for you? Fill out an application.",dr070711
@@ -11612,7 +11667,8 @@ transcript,comic_id
 "- You kids are so impatient! Yeah, maybe we should wait until it snows a little more before we build a snowman! Wait! Here comes one more! Maybe it would look better with a hat!",dr071216
 "- Happy holidays! Love, the Drabbles!
 - Your turn. ...sigh...
-- PS: I'm sorry I look like such a dweeb. -Ralph
+- PS: I'm sorry I look like such a dweeb.
+- Ralph
 - If it looks so bad, why are we using the picture for our family-photo card?? Because everyone else looked good!",dr071217
 "- chirp chirp!
 - It's from dad.
@@ -11645,7 +11701,8 @@ transcript,comic_id
 - He's a nice guy!",dr071224
 "- A sweater for Wally?
 - What kind of dumb Christmas gift is that??
-- What could look more stupid than a wiener dog wearing a sweater?? -",dr071225
+- What could look more stupid than a wiener dog wearing a sweater??
+-",dr071225
 "- HO! HO! HO! Santa! You came back!!
 - I just wanted to make sure everyone got what they wanted! We did! We did!
 - Yeah, right. I know why you really come back...
@@ -11736,7 +11793,8 @@ transcript,comic_id
 - Yeah, but at least you've got two of them!",dr080115
 "- Where is my cell phone?? I know it's in the house someplace!
 - Call your call phone from your home phone, and listen for the ring!
-- Good idea! -",dr080116
+- Good idea!
+-",dr080116
 "-
 - YEEOW!!
 - THAT is your scratching post, THIS is my leg!! And you point is...? pick pick claw scratch",dr080117
@@ -11752,7 +11810,8 @@ transcript,comic_id
 -
 -
 -
-- -",dr080120
+[X]-
+-",dr080120
 "- Dad, I've decided to become a high-powered attorney!
 - Have a seat. I want to practice my interrogation techniques!
 - Do you swear to tell the truth, the whole truth, and nothing but the truth? No.
@@ -11890,7 +11949,8 @@ transcript,comic_id
 - OK! I'm ready for lunch! Lint rollers don't count. Go back, and wash your hands!",dr080221
 "-
 - Excuse me...will you take our picture? Sure!
-- SNAP! -",dr080222
+- SNAP!
+-",dr080222
 "-
 - Why are you wearing a Halloween shirt?
 - Don't you realize it's February?
@@ -11951,7 +12011,8 @@ transcript,comic_id
 - We're having an election?",dr080306
 "-
 -
-- -",dr080307
+[X]-
+-",dr080307
 "- Have you thought of anything to write for the newsletter, Ralph? Nope.
 - When is your column due? In two hours.
 - You're in trouble! Hey, some people do their best work under pressure!
@@ -12514,7 +12575,8 @@ transcript,comic_id
 - I filled up LAST NIGHT!! Way to find that silver lining.",dr080724
 "- The beach is boring.
 - I'd rather be home in my easychair. Quit griping and find something to do!
-- -",dr080725
+[X]-
+-",dr080725
 "-
 -
 - dingle ding ding!
@@ -12784,16 +12846,19 @@ transcript,comic_id
 "-
 -
 -
-- -",dr081001
+[X]-
+-",dr081001
 "- Look at how Wally stares at the cookie!
 - He won't take his eyes off it. He follows it wherever if goes, with his tongue hanging out!
-- Around and around and around! -",dr081002
+- Around and around and around!
+-",dr081002
 "- flip flip flip flip flip flip
 - Well it's one for the money...Thank you for taking my call...A major traffic jam...
 - My heart will...The high today... Will you please settle on ONE RADIO STATION!!? When you live with a channel surfer, the ""scan"" button can be sweet revenge!",dr081003
 "- Got your ball, Wally?
 - Want me to throw it so you can chase it? OK!
-- I like how wiener dogs spin around when they get excited! -",dr081004
+- I like how wiener dogs spin around when they get excited!
+-",dr081004
 "- Ralph, sit down with me and look at my new book!
 - It's a book of questions Your responses will tell you a lot about yourself! Ready?
 - Question number one: ""If you could take a vacation anywhere in the world, where would you go?""
@@ -12836,7 +12901,8 @@ transcript,comic_id
 - Old monster movies on TV!
 - What's not like about October?! It sure puts *January* to shame!",dr081013
 "-
-- -",dr081014
+[X]-
+-",dr081014
 "- Care for some gum, Norman? Thank you!
 - push push krinkle krinkle krinkle krinkle push push
 - BANG OW!!
@@ -12994,7 +13060,8 @@ transcript,comic_id
 - Except that my relatives couldn't join us this year! Like I said...",dr081127
 "-
 - ROWF! ROWF! ROWF! ROWF!
-- HISS! -",dr081128
+- HISS!
+-",dr081128
 "- What should we buy your Dad for Christmas?
 - How about something cool, like an iPhone? I'm not sure...
 - Your father's not exactly a techno geek! Oh, yeah, huh. Hello! Operator, please! Hello? click clack click",dr081129
@@ -13542,7 +13609,8 @@ transcript,comic_id
 - THAT'S WENDY?? I thought you said she was hot!
 - What's with the dummy?
 - He's my assistant greeter! That's the one I was talking to!",dr090411
-- -,dr090412
+"[X]-
+-",dr090412
 "-
 - Ralph, I hate it when you read over my shoulder! O, Sorry!
 - I guess we both have a lot of annoying habits that drive each other crazy.
@@ -13663,7 +13731,8 @@ transcript,comic_id
 - Because to get to my room, I have to go left, then right, then left, then left again! SNORT!",dr090512
 "- Excuse me...do I know you? No, I don't think so!
 - You look very familiar, and I can't figure out why!
-- Oh well, I'm sure it will come to me later! -",dr090513
+- Oh well, I'm sure it will come to me later!
+-",dr090513
 "- Would you like me to vacuum for you, honeybunch? No thanks. You always miss the corners.
 - Want me to wash the dishes? No, you never get them clean enough.
 - Dad's either totally inept, or a lot smarter than he looks! I sure hop I don't knock over any of these vases! LEAVE THEM ALONE! I'LL DO THE DUSTING!",dr090514
@@ -13672,7 +13741,8 @@ transcript,comic_id
 - I'm the mobile cat groomer! I never would've guessed! Here's Oogie! Good luck!",dr090515
 "- Hold on, Penny!
 - BUT NOT TO MY HAIR!!
-- Oops! Sorry! -",dr090516
+- Oops! Sorry!
+-",dr090516
 "-
 -
 -
@@ -13690,7 +13760,8 @@ transcript,comic_id
 - YOU CAN'T GO OUT THAT WAY! IT SAYS ""ENTRANCE ONLY""!!",dr090519
 "- Excuse me, Sir! I think you failed to pay for that merchandise!
 - I'll have to detain you until the police arrive!
-- -SLAM! All right, then! You leave me no alternative but to make a citizen's arrest!",dr090520
+[X]-
+- SLAM! All right, then! You leave me no alternative but to make a citizen's arrest!",dr090520
 "- I can't believe this! I'm in the trunk of a thief's getaway car!
 - I can't see a thing in here! What should I do??
 - Remain calm. Call for help on your cell phone!
@@ -14143,7 +14214,8 @@ transcript,comic_id
 - Because he always barks at other dogs and it's embarrassing!
 - Well, who can blame him? Some of these dogs are pretty ugly! Just look at THAT one!
 - Is that a dog or a SPACE ALIEN?
-- Yikes! Look at THAT one! Have you ever noticed how some dogs resemble their owners? -",dr090906
+- Yikes! Look at THAT one! Have you ever noticed how some dogs resemble their owners?
+-",dr090906
 "- Now that you have a new barbecue, Ralph, you can throw away the old one!
 - I was thinking I'd sell it. It's still in pretty good condition! SELL it??
 - You're funny!
@@ -14553,7 +14625,8 @@ transcript,comic_id
 - AAACKK!!
 - Are they tainted?! Inconclusive. I'll have to eat another!",dr091211
 "- These cookies aren't tainted, Ralph! Look, there's even a note!
-- ""Enjoy the cookies! We'll be leaving a treat at your door every night until Christmas! -Your secret Santa.""
+- ""Enjoy the cookies! We'll be leaving a treat at your door every night until Christmas!
+- Your secret Santa.""
 - ""Secret Santa""?? So, what do you all have to say NOW?
 - I say we hide in the bushes tomorrow night to see who it is! Yeah! We could drop a net over them!",dr091212
 "- I love coming to the buffet, honeybunch!
@@ -14946,7 +15019,8 @@ transcript,comic_id
 - Then why are you staring at it?
 - What's in the refrigerator, dad? Nothing.",dr100318
 "- Ralph, it's ridiculous that you spend so much time standing in front of the refrigerator, just staring inside!
-- You know, she's right! -",dr100319
+- You know, she's right!
+-",dr100319
 "- I think I'm losing my mind!
 - Has anyone seen my glasses? I can't find my glasses!!
 - You're not losing your mind. They're right on top of your head!
@@ -15193,7 +15267,8 @@ transcript,comic_id
 - TIMMY POPPED IT UP AND THE INFIELDER COULDN'T CATCH IT BECAUSE THE SUN WAS IN HIS EYES AND HE WAS CRYING!!
 - Baseball parents have never been known for their journalistic integrity! Ignore him. That's the pitcher's dad!",dr100516
 "- Welcome To Wobbly Heights Retirement Village STOP
-- All Laws Strictly Enforced. -",dr100517
+- All Laws Strictly Enforced.
+-",dr100517
 "- Good morning, Mrs. Alabaster!
 - This is for you! Why, thank you, officer Drabble.
 - I'm sorry it's late!
@@ -15484,7 +15559,8 @@ transcript,comic_id
 - You look like an island!",dr100726
 "-
 - OK, kids! Make me look good!
-- DIG DIG MOLD pat pat SCULPT mold dig PAT PAT -",dr100727
+- DIG DIG MOLD pat pat SCULPT mold dig PAT PAT
+-",dr100727
 "- Watch this, Norman. It never fails...
 - As soon as your dad's meal arrives, he'll wish he'd ordered something else!
 - That looks good. I wish I'd ordered what you guys got!
@@ -15616,10 +15692,14 @@ transcript,comic_id
 - YEEEOOW!
 - What is it about the phrase ""Don't touch the plate! It's hot!"" that the male mind doesn't understand?",dr100827
 "- Here you go, Ralph!
-- -Wash the windows -Wash the car -Paint the fence
+[X]-
+- Wash the windows
+- Wash the car
+- Paint the fence
 - What IS this?
 - Just think of it as your bucket list! ...Sigh...",dr100828
-"- Hello? ---oh, hi, No-Neck! What's new?
+"- Hello?
+- --oh, hi, No-Neck! What's new?
 - You don't say! Is that a fact?!!
 - WHAT?? No way!! That's AMAZING!!!
 - HA HA HA!! That's Hilarious!!
@@ -15960,7 +16040,8 @@ transcript,comic_id
 - I spent $500 on that kitty thing!
 - And you still prefer to claw the sofa!
 - What's wrong with you?! What's wrong with ME??",dr101116
-"- RING! Hello? ---hi, Norm! How's everything at college?
+"- RING! Hello?
+- --hi, Norm! How's everything at college?
 - I've decided to change my major! How come?
 - I don't want to be a Lego sculptor anymore. I think I'd have a better career in balloon animals!
 - You're going to major in BALLOON ANIMALS??
@@ -16068,7 +16149,8 @@ transcript,comic_id
 - BARK BARK BARK BARK!
 - What a dumb dog!
 - All I have to do is say one word and he takes off running!
-- Beaters! -",dr101212
+- Beaters!
+-",dr101212
 "- BARBER Hey, what's going on here??
 - How come the hair on this sheet is so gray?? snip snip!
 - MY hair's not that gray! I'm not that old!!
@@ -16086,7 +16168,8 @@ transcript,comic_id
 - SMACK
 - When you hang mistletoe, location is everything!",dr101216
 "- Why is it so cold in here?
-- Oh, that's the reason! Dad! Close the front door! -* FIVE GOLDEN RINGS ** Sorry. This is going to take a while!",dr101217
+- Oh, that's the reason! Dad! Close the front door!
+- * FIVE GOLDEN RINGS ** Sorry. This is going to take a while!",dr101217
 "-
 -
 - Why did you put Bob on top of the tree? Christmas duckuration!",dr101218
@@ -16377,7 +16460,8 @@ transcript,comic_id
 - Jun, I'm the one who's been putting the empty ice cream cartons in your trash can!
 - And you expect me to believe that? No, but he does! IT'S TRUE!",dr110225
 "- Ralph, do you honestly expect me to believe that MR. STEINBAUER put those ice cream cartons in our trash can??? Good grief!
-- She didn't believe us! Now what should we do? -",dr110226
+- She didn't believe us! Now what should we do?
+-",dr110226
 "- ...sigh... What?
 - Don't tell me you're going to sit around all day watching bowling on TV again!
 - What's so bad about that?
@@ -16396,7 +16480,8 @@ transcript,comic_id
 - Who would've thought that all we had to do to become popular was cover ourselves from head to toe! We should've thought of it sooner!",dr110302
 "- OK, blue dudes! Let's hold up our signs and cheer on the team!
 - GO!! WIN
-- ""Not in the shouts and plaudits of the throng, but in ourselves, are triumph and defeat."" -Longfellow #1 You put way too much thoughts into your signs, Leonard!",dr110303
+- ""Not in the shouts and plaudits of the throng, but in ourselves, are triumph and defeat.""
+- Longfellow #1 You put way too much thoughts into your signs, Leonard!",dr110303
 "- OK, guys! Let's hold up our signs!!
 - GO TEAM! WIN!
 - SCORE! Sorry. I had writer's block!",dr110304
@@ -16664,7 +16749,8 @@ transcript,comic_id
 - And happy birthday! Thanks!",dr110509
 "- You pathetic cat!
 - You stare out the window, waiting for honeybunch to come home because she's the one who feeds you!
-- Come to think of it, it IS getting pretty close to dinnertime! -",dr110510
+- Come to think of it, it IS getting pretty close to dinnertime!
+-",dr110510
 "- Are you going to play golf today, dad? Yup!
 - It's a ""best-ball"" tournament!
 - You could be in trouble! These are some of the oldest golf balls I've ever seen!",dr110511
@@ -17248,7 +17334,8 @@ transcript,comic_id
 - Go ahead! Do something stupid! I can't be stupid on command! I need to warm up first!",dr110929
 "- rake rake rake rake
 -
-- ASHOO! -",dr110930
+- ASHOO!
+-",dr110930
 "-
 -
 -
@@ -17379,7 +17466,8 @@ transcript,comic_id
 - Why are you sitting with THAT old thing? We have a lot in common! I was talking to the pumpkin!",dr111101
 "- chirp chirp!
 - Darn! I can't read text messages in the daylight!
-- I need some shade! -",dr111102
+- I need some shade!
+-",dr111102
 "-
 -
 -
@@ -17450,7 +17538,8 @@ transcript,comic_id
 - Dogs get blamed for everything!",dr111118
 "- Wally zzyzx
 - BOOM
-- -",dr111119
+[X]-
+-",dr111119
 "- CHIRP CHIRP
 - text text text text text!
 -
@@ -17507,7 +17596,8 @@ transcript,comic_id
 - THAT'S MY FAVORITE PLACE!! I'm beginning to think some things are just meant to be!",dr111201
 "- Norma, I can't believe you like the bulk club snack bar as much as I do!
 - Why eat anything else? It's amazing! Norma really IS the perfect girl for me!
-- But nobody's perfect! There's GOT to be SOMETHING wrong with her! What could it be?? -",dr111202
+- But nobody's perfect! There's GOT to be SOMETHING wrong with her! What could it be??
+-",dr111202
 "- Dad, this new girl, Norma, seems perfect. She likes all the things *I* like! So, what's the problem?
 - There must be SOMETHING wrong with her! Nobody's perfect! What's the catch?
 - Norman, you're overthinking things!
@@ -17953,7 +18043,8 @@ transcript,comic_id
 - And the potato chips you had five minutes ago? OK, I've had nothing MEMORABLE!",dr120315
 "-
 - The world's largest bubble!
-- BLAM! -",dr120316
+- BLAM!
+-",dr120316
 "- Well, I'll be takin' me shillelagh and goin' home to watch ""The Quiet Man.""
 - Thanks for coming to dinner, Stu!
 - ""If you're lucky enough to be Irish, you're lucky enough!"" Happy St. Patty's Day!
@@ -17987,7 +18078,8 @@ transcript,comic_id
 - How come *I* never thought of that?? .end the",dr120323
 "-
 -
-- HIC! -",dr120324
+- HIC!
+-",dr120324
 "- DEPARTURES--> Oh, no!
 - What? I forgot my driver's license!
 - They won't let me on the plane without identification! Our vacation will be RUINED!
@@ -18531,7 +18623,8 @@ transcript,comic_id
 - ** Good night, Penny!
 - vvvpp vvvppp! Good night, Norman!
 - There's something kind of comforting about the sound of your kids texting at night!",dr120728
-"- Places our kids have discovered that they can't send a text from ->
+"- Places our kids have discovered that they can't send a text from
+- >
 - Remote Sections of National Parks
 - Cruise Ships
 - The Parking Lot Elevator at the Mall
@@ -18733,7 +18826,8 @@ transcript,comic_id
 - Dad's the only person I know who keeps M&M's in a pill box! munch munch!",dr120912
 "- WHIRRRRR!
 - WHIRRRRR!
-- You dumb cat! There's no reason to be afraid of a VACUUM CLEANER!! -",dr120913
+- You dumb cat! There's no reason to be afraid of a VACUUM CLEANER!!
+-",dr120913
 "-
 -
 -
@@ -18848,7 +18942,8 @@ transcript,comic_id
 - At my age, I only look in the mirror when it's fogged-up!",dr121009
 "- Daddy, can we get a pumpkin?
 - It's still too early, Penny!
-- Halloween CANDY Yes! My favorite! If it's too early for a pumpkin, it's too early for Halloween candy! -",dr121010
+- Halloween CANDY Yes! My favorite! If it's too early for a pumpkin, it's too early for Halloween candy!
+-",dr121010
 "- And on Friday, my sister's family is coming for dinner.
 - Then on Saturday we're spending the day at my mother's!
 - BLAM!
@@ -18878,7 +18973,8 @@ transcript,comic_id
 - PLAY ON! Dang! I'm going to miss the halftime snack!",dr121016
 "- The soccer ref put duct tape over my mouth! How am I supposed to show my displeasure?
 - I'll intimidate him with my eyes!
-- -",dr121017
+[X]-
+-",dr121017
 "- The ref put tape over my mouth because I was critical of his officiating!
 - He can't see what's happening on the field, but he can hear every comment from the sidelines!
 - Soccer refs compensate for their poor vision by sharpening their other senses!
@@ -19039,7 +19135,8 @@ transcript,comic_id
 - NICE PASS! Whew!",dr121123
 "- I have a wide open shot!
 - If I score, Norman's tram will lose and he'll get the blame. If I DON'T shoot, everyone will know I took pity on him!
-- There's only one thing to do! -",dr121124
+- There's only one thing to do!
+-",dr121124
 "-
 -
 -
@@ -19186,7 +19283,8 @@ transcript,comic_id
 - How about mom? Okay! Hey! You're stretching out my sweater!",dr121228
 "- Hey, you dumb cat! I have a nice, soft bed, and you don't!
 - pick!
-- RIP! -",dr121229
+- RIP!
+-",dr121229
 "- I'm finally back!
 - I went to the supermarket earlier to buy stuff for dinner...
 - But when I got home, I realized that I had forgotten to buy one key ingredient!
@@ -19321,14 +19419,16 @@ transcript,comic_id
 - Next! Hmmm... Don't you love people who wait until they get to the counter before deciding what they want?",dr130129
 "- There candy bars seem a lot smaller than when I was a kid!
 - It used to take forever to eat one. Now they seem tiny!
-- Maybe it's just because your mouth is so much bigger! -",dr130130
+- Maybe it's just because your mouth is so much bigger!
+-",dr130130
 "- Express Line
 - Why does the chattiest supermarket checker always work the express line? ...Sigh...",dr130131
 "- My diet seems to be working, honeybunch! I've taken my belt size down TWO NOTCHES!
 - I can certainly see a difference!",dr130201
 "- Let me explain how our new 60-inch, high-definition TV works, dad...
 - When you want to watch it, push ""power"" on this remote. Then on THIS remote, push ""input"" and select ""HDMI-I"".
-- Then use THAT remote to change channels and the other remote for volume. Enjoy! -",dr130202
+- Then use THAT remote to change channels and the other remote for volume. Enjoy!
+-",dr130202
 "- Ralph, when you first suggested we buy a big, high-definition TV for the Super Bowl, I had some misgivings.
 - But I must admit, it has really added to my enjoyment of the game!
 - The picture quality is amazing!
@@ -19426,7 +19526,8 @@ transcript,comic_id
 - It's OK! It looks like the UPS guy! It was a good idea to install a peephole for Wally!",dr130225
 "- ROWF ROWF ROWF ROWF Wally, relax! There's no one at the door!
 - I know you've been bred to hunt badgers, but there AREN'T ANY around here!!
-- The reason I put a peep hole down there is so you could see yourself! Look! -",dr130226
+- The reason I put a peep hole down there is so you could see yourself! Look!
+-",dr130226
 "- ROWF! ROWF! ROWF!* *Badger! Badger! Badger!
 - Wally, relax! There are no badgers out there!
 - I REFUSE to relax! There IS a badger, and I will keep barking until you...
@@ -19683,7 +19784,8 @@ transcript,comic_id
 - skattle skattle skattle skattle
 -
 - It's funny how Wally thinks no one can see him hiding under the couch!
-- WHO ATE THE CAKE I BAKED FOR MY MOTHER'S BIRTHDAY?? -",dr130428
+- WHO ATE THE CAKE I BAKED FOR MY MOTHER'S BIRTHDAY??
+-",dr130428
 "- Echo! Fancy meeting YOU here! Yes, I...
 - WHOA!
 - I just caught the bouquet! That means I'm going to be the next DRIVE!
@@ -19701,7 +19803,8 @@ transcript,comic_id
 - So, what do you think is going to go wrong? We'll probably find out before the night is over!",dr130502
 "- I forgot to ask you, Echo...why are you here at the wedding reception?
 - I'm related to the bride!
-- I can't believe how much we have in common! I'm related to the bride, too! -",dr130503
+- I can't believe how much we have in common! I'm related to the bride, too!
+-",dr130503
 "- We're BOTH related to the bride??? What a coincidence!
 - But if YOU'RE related to the bride, and I'M related to the bride...
 - Then WE must be related!! Eww!
@@ -19865,7 +19968,13 @@ transcript,comic_id
 "- *
 - And that's how to whistle, kids! Cool! Thanks, dad! That's neat!
 - OK, I can cross another one off the list!
-- Things Every Dad Should Teach His Kids -be nice to people -pro wrestling is fake -how to whistle -yo-yo tricks -how to play bongos -talk like Donald Duck",dr130611
+- Things Every Dad Should Teach His Kids
+- be nice to people
+- pro wrestling is fake
+- how to whistle
+- yo-yo tricks
+- how to play bongos
+- talk like Donald Duck",dr130611
 "-
 - NO!
 - The average wiener dog understands 165 words...
@@ -19905,7 +20014,8 @@ transcript,comic_id
 - I outsmarted you! I used my superior intellect to make you come running!
 - RALPH! CAKE FROSTING!
 - Where?? Not really. I just need you to fix the garbage disposal!",dr130621
-"- Airport Security -> * TRUDGE TRUDGE * TRUDGE TRUDGE
+"- Airport Security
+- > * TRUDGE TRUDGE * TRUDGE TRUDGE
 - GATE 7 shuffle shuffle ** trudge trudge *
 - What happened to the SPRING in your step, Ralph?
 - It's been replaced by the FALL of my arches! * trudge shuffle trudge *",dr130622
@@ -19967,7 +20077,8 @@ transcript,comic_id
 - This is going to be the longest two minutes of my life!",dr130705
 "- Norman is doing great! Hey, he's with Echo!
 - He's halfway home! All he has to do is stand perfectly still for one more minute!
-- LADIES AND GENTLEMEN, I'D LIKE TO SAY A FEW WORDS... -",dr130706
+- LADIES AND GENTLEMEN, I'D LIKE TO SAY A FEW WORDS...
+-",dr130706
 "- The count is 3 and 2, bases loaded...
 - Here's the pitch...
 - Ball four! He walks in the tying run! DAGNABBIT! I should have never come in the room!
@@ -20127,7 +20238,8 @@ transcript,comic_id
 - It's my book club selection. Our meeting is tomorrow and I really need to finish it!
 - Is it good? Yes.
 - What's it about? It's hard to explain.
-- How many pages does it have? Maybe I'll go read in the other room! -",dr130811
+- How many pages does it have? Maybe I'll go read in the other room!
+-",dr130811
 "- My dream of winning a golf tournament has turned into a nightmare! *
 - I can't do anything right! Steinbauer has me totally psyched-out!
 - He warned me that he'd be stuck in my head like a Barry Manilow song! DAD, THAT'S IT!!
@@ -20148,7 +20260,8 @@ transcript,comic_id
 - Golf is a mental game, and it's easy to let negative thoughts creep into your mind.
 - Singing Barry Manilow songs is a great way to keep my mind unoccupied! There only seems to be one problem...
 - It's hard to putt with tears in your eyes! * Oh, last night I said good-bye... * *",dr130816
-"- This is the biggest putt of Ralph Drabble's life... * Oh, like a good neighbor.. * -If he makes it, he'll win the tournament! * you deserve a break today... * putt!
+"- This is the biggest putt of Ralph Drabble's life... * Oh, like a good neighbor.. *
+- If he makes it, he'll win the tournament! * you deserve a break today... * putt!
 - tokkl-okkl!
 - I DID IT!! Not so fast...",dr130817
 "- Yes, our picture is back on now! Thank you for your help!
@@ -20359,7 +20472,8 @@ transcript,comic_id
 - snarf!
 - snarf!
 - snarf snarf
-- -",dr131008
+[X]-
+-",dr131008
 "- munch munch
 - munch munch munch . Remember, ""good things come to those who wait.""
 - I want pork rinds, not pearls of wisdom!",dr131009
@@ -20620,7 +20734,8 @@ transcript,comic_id
 - By the way, how's your diet going? Thanks for leaving your squeaky toy in front of the refrigerator!",dr131209
 "- Stop it! OW! He's touching me!
 - Will you kids please keep your hands to yourselves?
-- Knock it off! Stop! WREATHS -",dr131210
+- Knock it off! Stop! WREATHS
+-",dr131210
 "- Good boy, Wally!
 - Your turn, Oogie!
 - SHRED!
@@ -21394,7 +21509,8 @@ transcript,comic_id
 "- HAPPY FATHER'S DAY, DAD! Thanks, kids! It's much easier to prepare breakfast-in-bed on father's day than it is on mother's day!",dr140615
 "-
 - Norman, the garbage in the kitchen is starting to smell bad!
-- Do something about it, please. OK, dad! -",dr140616
+- Do something about it, please. OK, dad!
+-",dr140616
 "- When I was littler, if there was something my mom didn't want me to eat...
 - She'd put it way up on the top shelf of the fridge.
 - My wife puts the good stuff out of reach, too.
@@ -21512,7 +21628,8 @@ transcript,comic_id
 - What's dad doing? GRRR... He lost a dollar over there in 1982!",dr140713
 "- ...Sigh... BARK BARK BARK BARK BARK
 - I can't enjoy my donuts with all that barking! Stop it! ROWF ROWF!
-- BARK BARK BARKROWF ROWF BARK BARK BARKROWF ROWF ROWF BARK BARK BARK BARK BARK BARK BARK! -",dr140714
+- BARK BARK BARKROWF ROWF BARK BARK BARKROWF ROWF ROWF BARK BARK BARK BARK BARK BARK BARK!
+-",dr140714
 "- Steinbauer!
 - Long time, no see, Ralph! Too bad it wasn't longer!
 - Nice mustache!
@@ -21666,7 +21783,8 @@ transcript,comic_id
 - They wouldn't do that, would they? Probably not.
 - Then again, they've been swilling beer for 8 innings! After we throw him on the field, let's climb the foul pole!!",dr140821
 "- This is your last warning! Throw back that home run ball, OR ELSE!
-- I don't want to throw it back! What should I do, Echo? Give me the ball! -",dr140822
+- I don't want to throw it back! What should I do, Echo? Give me the ball!
+-",dr140822
 "- I can't believe you threw the home run ball I caught back onto the field! Sorry. The crowd was getting surly!
 - But I really wanted to keep it! Norman, remember the ball I caught during batting practice?
 - THAT was the ball I threw! Here's your home run ball! Really??
@@ -21705,7 +21823,8 @@ transcript,comic_id
 - It sounds like it's raining! It CAN'T be raining!
 - Look! There's something under the tent!! What the...
 - RIP!
-- AAAAAAAAAHHHH!! -Where's bear grylls when you need him?",dr140831
+- AAAAAAAAAHHHH!!
+- Where's bear grylls when you need him?",dr140831
 "- Tie game. Bottom of the ninth. Here's the pitch...
 - THERE'S A LONG DRIVE TO LEFT FIELD!...THIS BALL IS:::
 - FINISH OFF THOSE NACHOS, JUNIOR! IT'S TIME TO GO TRY TO FIND OUR CAR IN THE PARKING LOT!!
@@ -21723,7 +21842,8 @@ transcript,comic_id
 - Mom answered that text. Dad doesn't know how to do a smiley face!",dr140904
 "- DIBS ON THE BATHROOM!
 - Hey, what's that!
-- What?? -",dr140905
+- What??
+-",dr140905
 "- Wally, please stop following me around the house!
 - I know you're hungry...
 - But it won't make dinnertime come any faster!
@@ -21853,7 +21973,8 @@ transcript,comic_id
 - CLOMP!
 - Fine! Now I've got your ball again!
 - CLOMP! Got 'em both!
-- Fine! Now I've got a water bottle! krackle crunch! -",dr141005
+- Fine! Now I've got a water bottle! krackle crunch!
+-",dr141005
 "- Oh, and one more thing...
 - An empty bag of Halloween candy? I love October!",dr141006
 "- I've been coming to this pumpkin farm every October since I was a kid!
@@ -22063,7 +22184,8 @@ transcript,comic_id
 - GAAAH!!",dr141126
 "- The Abominable Pumpkin Man has returned, mom!
 - Everybody relax! There's no such thing as...
-- Hey! Who turned out the lights? -",dr141127
+- Hey! Who turned out the lights?
+-",dr141127
 "- Let's get out of here! This place is possessed.
 - Ralph! Ralph!
 - Ralph! Wake up! You fell asleep in your pumpkin pie! Abominable Pumpkinman!
@@ -22163,8 +22285,10 @@ transcript,comic_id
 - *
 - Dang! I look stupid!
 - The key to taking a good selfie is for me not to be in it! You don't look THAT ridiculously stupid!",dr141220
-"- KIDS -> Photo with Santa
-- Come to think of it, he does bring most of the presents! MOMS -> Photos with the Package Delivery Guy.",dr141221
+"- KIDS
+- > Photo with Santa
+- Come to think of it, he does bring most of the presents! MOMS
+- > Photos with the Package Delivery Guy.",dr141221
 "-
 -
 -
@@ -22544,7 +22668,8 @@ transcript,comic_id
 - Allow me to apologize!",dr150319
 "- The sun is in my eyes!
 - I'm going to get a hat!
-- -",dr150320
+[X]-
+-",dr150320
 "- Wow, honeybunch...
 - Have you lost some weight?
 - Yes! How could you tell?
@@ -22711,7 +22836,8 @@ transcript,comic_id
 - rowf rowf ROWF rowf rowf rowf ROWF rowf rowf rowf ROWF ROWF ...Sigh...
 - ROWF rowf rowf rowf rowf ROWF rowf rowf rowf rowf ?
 - rowf rowf rowf ROWF ROWF rowf rowf rowf rowf rowf ROWF rowf ROWF
-- ROWF ROWF ROWF ROWF ROWF -There's nobody at the door, you dumb dog! Why are you barking?!
+- ROWF ROWF ROWF ROWF ROWF
+- There's nobody at the door, you dumb dog! Why are you barking?!
 - This has been a test of the emergency broadcast system...",dr150426
 "- It's not fair! Every night I have to remove my make-up, brush my hair...
 - Floss my teeth, moisturize my face, do my exercises...
@@ -22764,7 +22890,8 @@ transcript,comic_id
 - That stuff drives me CRAZY! Put that bow back in your hair!",dr150508
 "- SMOOCH SMOOCH HONEYBUNCH, STOP IT!!
 - Norman, it's your parents! HI-YA!
-- Could you folks behave yourselves? Don't worry. We'll keep an eye on them! -",dr150509
+- Could you folks behave yourselves? Don't worry. We'll keep an eye on them!
+-",dr150509
 "- Wally's Dog Training Guides HOW TO TEACH YOUR DOG TO SIT
 - When your dog is standing, say ""SIT!""
 - Take a dog treat and hold it near his nose so he can see it!
@@ -22982,7 +23109,8 @@ transcript,comic_id
 "- Let's go over a few simple rules of summer camp...
 - For the next two week, there will be no fighting and swearing...
 - No feeding the animals, no cell phone..
-- -Wait, WHAT??!! No cell phones?",dr150630
+[X]-
+- Wait, WHAT??!! No cell phones?",dr150630
 "- No cell phones?? WHY??! There's no reception here!
 - HOW AM I GOING TO LAST TWO WEEKS WITHOUT RECEPTION?? I can't live without social media!!
 - HOW WILL I KNOW WHAT'S GOING ON IN THE WORLD??",dr150701
@@ -23076,7 +23204,8 @@ transcript,comic_id
 - Ralph Drabble's Peanut Butter Sandwich Emporium! I'm out! NEXT!",dr150722
 "- Mr. Drabble, why do you think people would buy your peanut butter sandwiches?
 - Because MY sandwiches have secret ingredients that make them irresistible!
-- Please try one! -. Tastes like potato chips and M&M's! I said it was a SECRET!",dr150723
+- Please try one!
+- . Tastes like potato chips and M&M's! I said it was a SECRET!",dr150723
 "- Sharks, Drabble's Sandwich Emporium will be the next great fast-food chain!
 - I'm asking you for ten million dollars in return for 2% of my company.
 - I'm out. I'm out. I'm out. I'm out. I'm out.
@@ -23133,7 +23262,8 @@ transcript,comic_id
 - Not as bad as the glare INSIDE!",dr150805
 "- There's your ball! I can't believe I hooked it way out here!
 - It's kind of scenic, though!
-- Fortunately I have just the right stick for this situation! -",dr150806
+- Fortunately I have just the right stick for this situation!
+-",dr150806
 "- Knock knock! Who's there?
 - Banana! Banana who?
 - Um...don't cry! It's just a joke!
@@ -23414,7 +23544,8 @@ transcript,comic_id
 - But I'm still not done!
 - Hey! Thanks for dropping all your candy wrappers in a pile, dad! Just trying to be helpful, son!",dr151011
 "- BOOT!
-- -Out!
+[X]-
+- Out!
 - CALL FOR A VIDEO REPLAY!! It's just intramural kickball, Ralph!",dr151012
 "- We seem to be the only parents who come to watch the intramural kickball games.
 - I always hope for some reason to cheer for Norman!
@@ -23792,7 +23923,8 @@ transcript,comic_id
 - Who'll tell me not to...oh, hi! We're back! Looks like he kept himself occupied!",dr160110
 "- Look, you dumb cat! The front door is open!
 - The world is yours! No one will stop you!
-- Run! RALPH! -",dr160111
+- Run! RALPH!
+-",dr160111
 "- What was your grade point average in high school, dad?
 - 4.8!
 - Really? You betcha!
@@ -23811,7 +23943,8 @@ transcript,comic_id
 - On second thought, I'll make it for you! My reputation precedes me!",dr160115
 "- Wally, you're getting under my feet!
 - You're going to trip me!
-- What do I have to do to get you to walk in front of me? -",dr160116
+- What do I have to do to get you to walk in front of me?
+-",dr160116
 "- I HATE COMPUTERS!!
 - Dad, relax! Computers should not be intimidating!
 - The trouble with your generation is that you're afraid to do anything when you encounter a problem!
@@ -24061,7 +24194,8 @@ transcript,comic_id
 - Another water bottle bites the dust! crunch crunch!
 - Uh-oh...
 - His big brother is here! Root Beer",dr160314
-"- So! A big two-liter has come to rescue you, eh? I'm not afraid of you! -",dr160315
+"- So! A big two-liter has come to rescue you, eh? I'm not afraid of you!
+-",dr160315
 "- Yes! A seasoned curly french fry!
 - Everyone loves to find a seasoned curly french fry inside their bag of regular fries!
 - No one, however, is happy to find a regular fry inside of their bag of curly fries.
@@ -24318,7 +24452,8 @@ transcript,comic_id
 - She walks faster than I do, so I get a little peace and quiet!",dr160515
 "- You were right, Stu! Echo is the girl for me!
 - I feel so much better since I sent that ""farewell"" text to Wendy!
-- I'd love to see the expression on Wendy's face right about now! -",dr160516
+- I'd love to see the expression on Wendy's face right about now!
+-",dr160516
 "- Modern technology is wonderful! I ended my relationship with Wendy by sending a TEXT!
 - It felt so good to text all things I've always been wimpy to say!
 - Now I can devote all my attention to the true love of my life, Echo!
@@ -24537,7 +24672,8 @@ transcript,comic_id
 - Your dog takes himself for a walk? skattle skattle Only when I'm texting.",dr160713
 "- Dang! We're out of sunscreen!
 - My nose will get fried without sunscreen!
-- -",dr160714
+[X]-
+-",dr160714
 "- SPLASH!
 - snarf! snarf"" snarf!
 - It's impossible to splash Wally! Got 'em all!",dr160715
@@ -24869,7 +25005,8 @@ transcript,comic_id
 - Apparently, 35 is the new 15! 15 ITEMS OR LESS I have coupons, too!",dr160930
 "- Can we get a pumpkin? No.
 - It's only the first day of October! I know you're impatient because you're just a child...
-- But you need to learn that... HALLOWEEN CANDY -",dr161001
+- But you need to learn that... HALLOWEEN CANDY
+-",dr161001
 "- GLUTT-O-RAMA Buffet Ralph, isn't it nice to eat dinner alone together? Sure is, honeybunch!
 - I'm going back for seconds!
 -
@@ -25252,7 +25389,8 @@ transcript,comic_id
 - Every year I make a resolution to diet, and every year I break it on new year's day!
 - This year, I made it all the way to January 2nd! Maybe next year they'll play the rose bowl game on January 3rd!",dr170102
 "- Norm!
-- I thought I told you to take the dog for a walk! -",dr170103
+- I thought I told you to take the dog for a walk!
+-",dr170103
 "- I waxed the car, dad! You did an exceptional job, Norm!
 - EXCEPT you missed a spot here, here, here, here... That's pretty exceptional!",dr170104
 "- I noticed on my 'tracker' app that you drove to a donut shop in another town this morning!
@@ -25296,13 +25434,16 @@ transcript,comic_id
 - Nice falling. I think it might be time to rotate the mattress!",dr170114
 "- Where on earth are the restrooms in this mall?
 - Through the doors. Thank heavens!
-- Restrooms -->
+- Restrooms
+- ->
 - ...Sight... Restrooms <-
 -
 - Restrooms <-
 -
-- Restrooms -->
-- Restrooms -->
+- Restrooms
+- ->
+- Restrooms
+- ->
 - Closed for Maintenance",dr170115
 "- WALLY zzyzx
 - Breakfast is served!
@@ -25730,7 +25871,8 @@ transcript,comic_id
 - A guard duck? Ahh, Mr. Drabble! I've been expecting you!",dr170427
 "- My wife put you here, right? If I try to move you, you'll start quacking, right?
 - Does she really think that will stop me from getting a midnight snack?
-- QUA... -",dr170428
+- QUA...
+-",dr170428
 "- All right, fine!
 - Honeybunch stationed a duck in front of the fridge to thwart my midnight snacking!
 - There's always the pantry!
@@ -25759,9 +25901,11 @@ transcript,comic_id
 - Ralph, I'm doing housework while listening to music on my iPod.
 - I may not hear you come in, so DO NOT STARTLE ME!!!!! * Honeybunch
 - Maybe I'll just drive around the block for a couple of hours!",dr170504
-"- GYM ->
+"- GYM
+- >
 - GYM
-- -> GYM
+[X]-
+- > GYM
 -
 -
 - I always feel in shape when I leave the gym, but it never lasts for long!",dr170505
@@ -25876,21 +26020,24 @@ transcript,comic_id
 - CHOMP!
 - OW!
 - I love your new chicken recipe so much, it hurts!",dr170531
-- -,dr170601
+"[X]-
+-",dr170601
 "-
 -
 -
 - Never open a bag of chips when Wally is filling the pool.",dr170602
 "-
 - You're not thinking about having cookies and milk, are you?
-- Because our dinner will be ready in 20 minutes and I don't want you to spoil your appetite! -",dr170603
+- Because our dinner will be ready in 20 minutes and I don't want you to spoil your appetite!
+-",dr170603
 "- ROWF ROWF ROWF What's your problem?
 - ROWF ROWF ROWF ROWF Are you trying to tell me something?
 - ROWF ROWF ROWF ROWF ROWF Do you want me to follow you?
 - That's how Lassie and Rin Tin Tin always alerted their masters when something was wrong!
 - OK, OK, what is it? ROWF ROWF ROWF ROWF
 - I don't see anything!
-- What in the world do you want? -",dr170604
+- What in the world do you want?
+-",dr170604
 "- I think I'll just have a salad. Dieting again, No-Neck?
 - Yeah. Every time I lose a few pounds, I gain it right back!
 - My weight constantly YO-YOS!
@@ -25960,7 +26107,8 @@ transcript,comic_id
 - You don't see many service kitties! Most of us work undercover!",dr170623
 "-
 - Everyone in this family is sitting around and staring at their phone!
-- Fine! I'll sit and stare at my phone, too! -",dr170624
+- Fine! I'll sit and stare at my phone, too!
+-",dr170624
 "- Course Marshal HEY, YOU!
 - Dogs aren't allowed on the golf course!
 - He's not an ordinary dog...
@@ -25968,7 +26116,8 @@ transcript,comic_id
 - Oh, no! Not again!
 - SPLASH!
 - He's my comfort pet! there there...",dr170625
-- They're having so much fun! I need to get a video of this! -,dr170626
+"- They're having so much fun! I need to get a video of this!
+-",dr170626
 "- Look, Wally!
 - Don't be scared of that big dog! He's a service companion! I was hiding out of embarrassment!",dr170627
 "- HEY, THAT GUY JUST CUT ME OFF!
@@ -26479,7 +26628,8 @@ transcript,comic_id
 - He puts the ""arf"" in ""snarf."" crunch crunch!",dr171103
 "- Am I wrinkled?
 - No more than the average person your age!
-- I mean...did you mean... -",dr171104
+- I mean...did you mean...
+-",dr171104
 "- PUNT!
 -
 -
@@ -26637,7 +26787,8 @@ transcript,comic_id
 - I mean, IT'S here! Now, what were you saying? Never mind!",dr171211
 "-
 - skattle skattle skattle
-- skattle skattle skattle skattle -",dr171212
+- skattle skattle skattle skattle
+-",dr171212
 "- ** And a partridge in a pear tree! *
 - OK, bye! Facetime caroling is good, but I miss going door-to-door! Can we sit down to do this?",dr171213
 "-
@@ -26702,7 +26853,8 @@ transcript,comic_id
 - No. How about Taco Tuesday?",dr171227
 "- It's cold in this house!
 - I'm going to wear dad's sweatpants!
-- -",dr171228
+[X]-
+-",dr171228
 "-
 - hop!
 - Oops!
@@ -26712,7 +26864,8 @@ transcript,comic_id
 - I'm sure you'll want to follow me! You bet I will, Steinbauer!
 - I'll follow him just so I can UNfollow him!",dr171230
 "-
-- ...Yawn... -Z
+- ...Yawn...
+- Z
 - ZZYZX!!
 - ZZXZXX
 - It's not fair, Ralph! Before I can go to sleep, I have to take off my make-up, put my hair in curlers, do my exercises, and read a book until I get sleepy!
@@ -26872,7 +27025,8 @@ transcript,comic_id
 - You're out here, too!
 - The reason cats will inherit the earth.",dr180207
 "- It's freezing in the house!
-- Hey, where are my sweatpants?! -",dr180208
+- Hey, where are my sweatpants?!
+-",dr180208
 "- Help me with the sandbags, Norm!
 - Our house is leaky and the weather man is predicting floods!
 - There!
@@ -26885,7 +27039,8 @@ transcript,comic_id
 - I know it's raining, but you still need to go!
 - I understand that you don't like to get wet.
 - But dad said you need to go for a walk, so we're going for a walk!
-- How can we do this so you won't mind so much? -",dr180211
+- How can we do this so you won't mind so much?
+-",dr180211
 "- I never know what kind of Valentine's card to pick for your mom.
 - You've been married a long time, so give her the mushiest card you can find!
 - I haven't known Echo for long, so I'm giving her a NON-mushy card: ""Have a nice Valentine's Day.""
@@ -26949,7 +27104,8 @@ transcript,comic_id
 - If there's no event, why would we need to park? Let's just listen to the radio, OK, Norm?",dr180227
 "- See how much better our bedroom looks with this chair in the corner...
 - Instead of that ugly exercise bike with your clothes thrown all over it?
-- Yes, it's very nice, honeybunch! -",dr180228
+- Yes, it's very nice, honeybunch!
+-",dr180228
 "- I love march!
 - The weather turns warm, the leaves grow back, and baseball begins!
 - I also love October! How come?
@@ -27001,7 +27157,8 @@ transcript,comic_id
 - WALLY!! please...no need to thank me!",dr180312
 "- Wally! Don't eat out of the kitchen trash!
 - That's disgusting!!
-- Hey, who threw away that perfectly good slice of leftover pizza? -",dr180313
+- Hey, who threw away that perfectly good slice of leftover pizza?
+-",dr180313
 "- We're home!
 - Thank goodness! We missed you!
 - We did?
@@ -27023,7 +27180,8 @@ transcript,comic_id
 - SPORTS",dr180318
 "- Before baseball season starts, let's take the stadium tour!
 - They show you all the cool stuff like the dugouts and locker rooms! I can buy tickets for 10% off!
-- You want to buy tickets to go to an empty stadium where there's no game? -",dr180319
+- You want to buy tickets to go to an empty stadium where there's no game?
+-",dr180319
 - Sounds fun to me! After that we can go to a movie that isn't playing!,dr180139
 "- Stadium Tour <-
 - It's so cool being in the stadium when it's virtually empty!
@@ -27099,7 +27257,8 @@ transcript,comic_id
 - Why do they make spray paint cans that look just like hair spray cans?! See?",dr180406
 "- I can't believe I used spray paint instead of hair spray!
 - I've got a date with Echo and I can't get the paint off!
-- She'll understand. She seems a lot like you! -",dr180407
+- She'll understand. She seems a lot like you!
+-",dr180407
 - WALLY Mistakes were made.,dr180408
 "- I got a card from Wendy??
 - I didn't even think she LIKED me!
@@ -27163,7 +27322,8 @@ transcript,comic_id
 -
 - It's getting crowded out here!",dr180422
 "- HA!
-- What makes you think you're a real hockey player, li'l dude? -",dr180423
+- What makes you think you're a real hockey player, li'l dude?
+-",dr180423
 "- BARK BARK BARK BARK BARK
 - Quiet, Wally! I need to concentrate!
 - I'm trying to research our family tree!
@@ -27280,7 +27440,8 @@ transcript,comic_id
 - Actually, it's because I pushed the car here from the DONUT SHOP parking lot!",dr180521
 "- Are you begging me not to eat your food?
 - No, I'm trying to scare you away by making myself look bigger than you.
-- HA! Did you really think I'd fall for that? -",dr180522
+- HA! Did you really think I'd fall for that?
+-",dr180522
 "- Good day, eh? Patrick, I have a sports question for you...
 - Where do hockey players go for fast food? Chick-fil-eh?",dr180523
 "- Wanna go for a walk?
@@ -27441,7 +27602,8 @@ transcript,comic_id
 - You're not supposed to say anything unless I say, ""Hey, Alexander""! Oh, yeah, huh!",dr180629
 "- Let's see...
 - Where did I put my socks?
-- On your feet, I would hope! -",dr180630
+- On your feet, I would hope!
+-",dr180630
 "- OK, kids! Comin' at ya!
 -
 - WHIFF!
@@ -27843,14 +28005,16 @@ transcript,comic_id
 "-
 - CHOMP!
 - snarl! growl! rip! shred!
-- -",dr181003
+[X]-
+-",dr181003
 "-
 -
 -
 - Mr. October!",dr181004
 "- Hey, I see you raked up all the leaves, Norm!
 - There were sure a lot of them!
-- I almost ran out of places to put 'em! -",dr181005
+- I almost ran out of places to put 'em!
+-",dr181005
 "- What topping would you like on your pizza, sir? The works!
 - OK, and for YOU, sir? Just cheese!
 - Norman, you can have all the toppings for the same price! Live it up! OK...
@@ -28052,7 +28216,8 @@ transcript,comic_id
 - Preferably with a couch and a TV! I'm not sure you're getting my point.",dr181120
 "- LOG RIDE I loved that ride!
 - Hey, there are the photos taken right when we dropped! I'll be we looked terrified!
-- Or not! -",dr181121
+- Or not!
+-",dr181121
 "- I can't wait for our relatives to arrive for thanksgiving dinner!
 - Turkey, ham, dogs, nuts, dip...
 - Is that the menu? No, it's the guest list!",dr181122
@@ -28106,7 +28271,8 @@ transcript,comic_id
 - Well, I guess we're going to have two trees this year!
 - Now aren't you glad we have so many ornaments? Maybe we can freeze one for next year!",dr181203
 "- I can't believe we bought two trees! How will we get them home? Tie them both on the top of the car, I guess!
-- But the needles will blow off! Well, there's not enough room INSIDE the car! -",dr181204
+- But the needles will blow off! Well, there's not enough room INSIDE the car!
+-",dr181204
 "- Dad, tell me again why you and mom each bought Christmas trees!
 - It was a stupid mix-up that couldn't have possibly gotten more ridiculous!
 - Ralph, neither of these trees is drinking! Take them both back and ask for a refund! I stand corrected.",dr181205
@@ -28293,7 +28459,8 @@ transcript,comic_id
 - ROWF ROWF ROWF ROWF!
 - ...Sigh...
 - If you don't stop barking, I'm afraid it's OUTSIDE!
-- ROWF ROWF ROWF! Fine. You asked for it! -",dr190120
+- ROWF ROWF ROWF! Fine. You asked for it!
+-",dr190120
 "- What are you so happy about? I'll bet you're not happy, you're HUNGRY!
 - Pretty sneaky! You are happy to get my attention, and hope I'll remember to feed you!
 - Hi there, honeybunch! * * *",dr190121
@@ -28889,7 +29056,8 @@ transcript,comic_id
 "- I know it's early, but everyone get into the car!
 - Church starts in ten minutes!
 - Tie goes up here, belt goes down there! Yawn. Sigh...",dr190615
-"- Why do we have to turn around? Mom says she can't hit the ball if we're all looking at her. -This could be a long afternoon!
+"- Why do we have to turn around? Mom says she can't hit the ball if we're all looking at her.
+- This could be a long afternoon!
 - DARN! Try not to breathe so loud back there!",dr190616
 "- Every time I look in the mirror, I look old and sloppy!
 - You don't look that bad, dad!
@@ -29020,7 +29188,8 @@ transcript,comic_id
 - He sure knows how to take the fun out of a cemetery plot!",dr190720
 "- Instead of emptying all my pockets and putting everything in trays, how about if I just hand you my cargo shorts? SECURITY CHECK Pleas empty all pockets before passing through",dr190721
 "- Ralph, I know you're upset that Mr. Steinbauer bought the cemetery plot next to yours, but you need to stop obsessing about it!
-- Easier said than done. Ralph, can you hear me? I'm with Stupid -> <
+- Easier said than done. Ralph, can you hear me? I'm with Stupid
+- > <
 - I'm with Stupider",dr190722
 "- I'm going to the gym again. Again? Why??
 - Steinbauer bought the cemetery plot next to mine! I can't bear the idea of spending eternity next to that man!
@@ -29454,7 +29623,8 @@ transcript,comic_id
 - Would you like a make-up brush? No thanks. I have a powdered donut!",dr191107
 "- With the holidays approaching, it's time to fill all the candy dishes!
 -
-- -",dr191108
+[X]-
+-",dr191108
 "- You can't wear that necklace yet!
 - It's not even Thanksgiving!
 -
@@ -29485,7 +29655,8 @@ transcript,comic_id
 - Phew! You stink!
 - You need to stop sleeping in your supper dish!
 - Who wouldn't want to smell like beef by-products and gravy?",dr191115
-- Just a reminder to silence anything that might make noise during the movie! -,dr191116
+"- Just a reminder to silence anything that might make noise during the movie!
+-",dr191116
 "- ***
 -
 -
@@ -29536,7 +29707,8 @@ transcript,comic_id
 - Actually, I didn't even see him!",dr191129
 "- Before you take Wally outside, Ralph, remember it's time to start looking festive!
 - There! Doesn't he look great?
-- Wait, I have something for you, too, Ralph! -",dr191130
+- Wait, I have something for you, too, Ralph!
+-",dr191130
 "-
 -
 -
@@ -29644,7 +29816,8 @@ transcript,comic_id
 - Are you enjoying your movie? It hasn't started yet!",dr191229
 "- I've never been to a New Year's Eve party, Echo!
 - What happens at midnight? Everyone shouts ""Happy New Year"" and kisses the one they love!
-- That's nice. -",dr191230
+- That's nice.
+-",dr191230
 "- I wonder if Norman would kiss me at midnight?
 - He's really shy. I can't even tell if he likes me!
 - 3...2...1..
@@ -30124,10 +30297,12 @@ transcript,comic_id
 - The last froot loop in a bowl of milk is always the hardest to catch!",dr200427
 "- Honeybunch, I know it may look like I'm being lazy...
 - I know it may look like I'm letting you do everything...
-- -And? Sorry, I forgot where I was going with that.",dr200428
+[X]-
+- And? Sorry, I forgot where I was going with that.",dr200428
 "- WALLY ?
 -
-- -",dr200429
+[X]-
+-",dr200429
 "- Why does the dog always have to sit up there?
 - Because he likes it up there! Right, Wally? WAP WAP WAP",dr200430
 "- Just a trim, Mel!
@@ -30666,7 +30841,8 @@ transcript,comic_id
 - Don't move or they'll throw us out of the stadium!",dr200912
 "- Goodbye, Summer. I always hate to deflate the pool! It was hard work blowing it up!
 - I wish I could find another way to make use of it in the fall.
-- -",dr200913
+[X]-
+-",dr200913
 "- Norman, are you gaining weight? Probably.
 - There's a girl who works at the Drive-Thru, and I think she's cute, so I keep going back!
 - She works at the shake and ice cream place that looks like an igloo. What's her name?
@@ -30801,7 +30977,8 @@ transcript,comic_id
 - Spiders, cobwebs, scary noises, creaky doors.
 - Neglected front yard, foreboding ambience...
 - So, what should we do differently? That's the beauty! We're practically there!",dr201020
-"- I love going to the Pumpkin Patch! Me too! Pumpkin City --> Welcome!
+"- I love going to the Pumpkin Patch! Me too! Pumpkin City
+- -> Welcome!
 - Somehow it feels different this year! I wonder why.
 - Maybe it's the cardboard pumpkins!",dr201021
 "- I need to find a way to get candy to the socially distant trick-or-treaters this year! Hold your bag out, Morm!
@@ -30813,7 +30990,8 @@ transcript,comic_id
 - Thanks! I needed that!",dr201023
 "- ROWF ROWF ROWF!
 - ROWF ROWF ROWF ROWF!
-- -",dr201024
+[X]-
+-",dr201024
 "- KNOCK KNOCK
 - Oh no! Zombies, goblins and ghouls at my door!
 - What do you want with me NOW??
@@ -30847,12 +31025,14 @@ transcript,comic_id
 - Oh, hi, Grandma!
 - GOOOOOOOOOAAALLL!! OK, that's enough! Wait! I want to tell him about my new kitty!",dr201101
 "- When I was a kid, I had nightmares that our old Jack-o'-Lanterns would climb out of the trash can and return to haunt us!
-- What a scaredy-cat I was! -",dr201102
+- What a scaredy-cat I was!
+-",dr201102
 "- Why are you piling things on top of the garbage can?
 - I just threw out our Jack-o'-Lantern, and I don't want it to come back and haunt us!
 - According to legend, the Abominable Pumpkinman rises out of the garbage can to haunt us until Thanksgiving!
 - Oh, well, that's only a month! Wait, American Thanksgiving or Canadian?",dr201103
-"- Ralph, are you really afraid that our old Jach-o'-Lantern will rise up out of our trash can, call irself ""The Abominable Pumpkinman"", and return to haunt us?? -Yes! Why??
+"- Ralph, are you really afraid that our old Jach-o'-Lantern will rise up out of our trash can, call irself ""The Abominable Pumpkinman"", and return to haunt us??
+- Yes! Why??
 - It's *2020*! Oh, yeah, huh! LOCK THE DOORS!",dr201104
 "- Did you hear a noise outside? No, Ralph. Calm down!
 - Old Jack-o'-Lanterns do not escape from trash cans and return to haunt people.
@@ -31149,7 +31329,8 @@ transcript,comic_id
 - How embarrassing!",dr210117
 "- I'm so glad hockey season is back!
 - It's time to take off my festive Christmas necklace and put on my festive hockey necklace!
-- Hockey necklace? -",dr201118
+- Hockey necklace?
+-",dr201118
 "- I've heard that if you ask Alexis to pay you a compliment, she'll say something nice about you!
 - Hey, Alexis, pay me a compliment!
 -
@@ -31219,7 +31400,8 @@ transcript,comic_id
 - Here you go!
 - It's cute when he begs! HUMMM",dr210205
 "- I think I'll sit on the couch to watch Zoom church this morning!
-- I'll use my laptop. It'll just be a little more comfortable! -",dr210206
+- I'll use my laptop. It'll just be a little more comfortable!
+-",dr210206
 "- More SUPER BOWL Terminology!
 - Delay of Game This is the longest pre-game show ever! When, oh when, will this game start? I'm tired of waiting!
 - Dive Play Did you get enough dip on that chip?
@@ -31331,10 +31513,12 @@ transcript,comic_id
 - This IS my happy face!",dr210303
 "- Did you finish waxing the car, Norm?
 - No, I put a dent in it.
-- -",dr210304
+[X]-
+-",dr210304
 "- Well, I think that I can safely say that our society is becoming more unified.
 - How so? It looks like everybody has lost their mind.",dr210305
-"- The package delivery guy is here. -Go out and get it before he rings the doorbell!
+"- The package delivery guy is here.
+- Go out and get it before he rings the doorbell!
 - It makes Wally come unglued!
 - Not that he's exactly ""glued"" to begin with...
 - More like ""high strung."" Do I hear a badger?",dr210306
