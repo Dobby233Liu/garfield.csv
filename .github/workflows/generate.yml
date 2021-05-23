@@ -28,7 +28,6 @@ jobs:
           path: ${{ matrix.file }}.txt
           name: original
       - run: python main.py ${{ matrix.file }}.txt ${{ matrix.file }}.csv
-      - run: python sanitize.py ${{ matrix.file }}.csv
       - uses: actions/upload-artifact@v2
         with:
           path: ${{ matrix.file }}.csv
@@ -39,6 +38,7 @@ jobs:
         with:
           path: ${{ matrix.file }}.sha256
           name: hashes
+      - run: python sanitize.py ${{ matrix.file }}.csv
   deploy-gh-pages:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
