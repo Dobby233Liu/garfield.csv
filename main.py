@@ -48,8 +48,8 @@ class FileTypeMy(object):
 parser = ArgumentParser(description="Translates comic transcripts from john.ccac.rwth-aachen.de to CSV files.",
   epilog="For such transcript in 'data', please see http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/"
 )
-parser.add_argument("data", type=FileTypeMy('r', encoding="utf-8"), help="Filename for the original transcript")
-parser.add_argument("output", type=FileTypeMy('w', encoding="utf-8", newline=''), help="Filename for the CSV output")
+parser.add_argument("data", type=FileTypeMy(mode='r', encoding="utf-8"), help="Filename for the original transcript")
+parser.add_argument("output", type=FileTypeMy(mode='w', encoding="utf-8", newline=''), help="Filename for the CSV output")
 
 from convert import cleanup
 
