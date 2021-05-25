@@ -13522,3 +13522,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210523 -- If you finish by the deadline, I'll recommend you for a million-dollar bonus. - You're lying. I'm serious. - But you're also lying. Only one way to find out. - I'd need to work around the clock for weeks to meet the deadline! - That's the
 210523 -- spirit! - If you're lying about the bonus, I'm going to be boiling mad. - Five Weeks Later It nearly killed me, but I finished by the deadline. - Where's my million-dollar bonus? I told you I'd RECOMMEND it. They said no.
 210524 -- Ted, your performance this year has been exceptional. - But everyone else was even better, so...you're fired. - In what universe does that even make sense? You also complain too much.
+210525 -- Two months ago, I asked you all for recommendations on co-workers who should be recognized for superior work. - On day one, you all nominated yourselves. Since then it has been quiet. - If I'm being honest, it wasn't one of your birightest
+210525 -- ideas.
