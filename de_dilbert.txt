@@ -10190,3 +10190,5 @@
 210524 -- Ted, Ihre Leistungen in diesem Jahr waren außergewöhnlich. - Aber alle anderen sind besser gewesen. Daher...sind Sie gefeuert. - In welchem Universum würde das einen Sinn ergeben? Sie beklagen sich auch zu häufig.
 210525 -- Vor zwei Monaten hatte ich Sie alle gebeten, Kollegen zu empfehlen, die für gehobene Positionen in Betracht gezogen werden sollten. - Am ersten Tag haben Sie sich alle selbst nominiert. Seitdem ist es sehr still gewesen. - Wenn ich erhlich sein
 210525 -- soll...das war keine Ihrer schlausten Ideen.
+210526 -- Es könnte so wirken, als hätte ich in diesem Jahr kaum etwas erreicht. - Und das stimmt. Aber ich verfüge über einen ganzen Fundus an heiklen Informationen  über meine Kollegen. - Was? Mitarbeiter, die sich gegenseitig bewerten...das war die
+210526 -- beste Idee, die Sie je hatten.
