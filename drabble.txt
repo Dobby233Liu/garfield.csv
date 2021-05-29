@@ -9933,3 +9933,4 @@ dr210525 -- We have nothing in common. You're cool but I'm a nerd. At least I ha
 dr210526 -- - - Never trust a smiling dog. Don't go in th kitchen, OK?
 dr210527 -- SIT! - Good boy! - SIT! - Good boy! He sure gets tired a lot!
 dr210528 -- Feed me or I'll cough up a fur ball! - Here's your dinner, Oogie! - I think I'll cough up a fur ball anyway. Tell me again why we bought a cat.
+dr210529 -- WHIRRRRRR... ZZYZX - 'atta boy! Chicken!
