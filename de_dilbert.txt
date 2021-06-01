@@ -10196,3 +10196,8 @@
 210528 -- Ich habe eine Beschwerde über die Männer hier im Büro. - Geht es um alle? Ja, es sind alles dumme Schweine. - Könnte Sie etwas konkreter werden? Ja. Es sind Sulawesi-Pustelschweine mit einem IQ zwischen 20 und 40.
 210529 -- Hören Sie bitte damit auf, sich so vorn Richtung Kamera zu lehnen, während Sie an Ihrem Stift kauen. - Sonst will ich nur noch zu Ihnen nach Hause kommen und Ihnen das Ding in die Nase rammen. - Aber das wollen Sie doch nicht wirklich, oder?
 210529 -- Wie lautet Ihre Adresse?
+210530 -- Möchten Sie unserem Culb der ewigen Opfer beitreten? - Nein, ich will nur dieses Getränk kaufen. - Sie könnten einen Dollar sparen, wenn Sie jetzt beitreten. Es dauert nur eine Minute. - Ich will aber nicht, daß Sie meine Einkäufe registrieren
+210530 -- und meine Daten verkaufen. - Wenn Sie nicht beitreten, werden meine Kollegen und ich Ihnen jedes Mal, wenn Sie hier was kaufen wollen, damit in den Ohren liegen. - Dann kaufe ich woanders ein. Nein, tun Sie nicht. - Denn die anderen Läden sind
+210530 -- genauso schlimm wie wir. - Ich bin aber kei Opfer. Schreiben Sie das in die Kundenumfrage, zu der ich Sie gleich drängen werde.
+210531 -- Das ist ein sehr gutes Schaubild, Ted. - Tatsächlich habe ich dieses Schaubild vor einem Monat gemacht, und Ted hat es geklaut, ohne mich zu erwähnen. - Ted hat Managementpotential.
+210601 -- Eine neue Firmenregel besagt, daß wir jetzt anstößige Pronomen durch "Sie" ersetzen müssen. - Hat irgendsie einen Kommentar oder eine Frage dazu? - "Irgendsie"? Kämpfen Sie nicht dagegen an.

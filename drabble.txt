@@ -9934,3 +9934,6 @@ dr210526 -- - - Never trust a smiling dog. Don't go in th kitchen, OK?
 dr210527 -- SIT! - Good boy! - SIT! - Good boy! He sure gets tired a lot!
 dr210528 -- Feed me or I'll cough up a fur ball! - Here's your dinner, Oogie! - I think I'll cough up a fur ball anyway. Tell me again why we bought a cat.
 dr210529 -- WHIRRRRRR... ZZYZX - 'atta boy! Chicken!
+dr210530 -- Here are the hot dogs for the barbecue, Ralph! They'll be done in no time! - Ooops! - THREE-SECOND-RULE!! - ZOOM! - Three-second-rules are useless when your dog has a ONE-second rule!
+dr210531 -- Here's your burger, son! - - I forgot to say thanks! You're welcome. - Memorial Day is always a good day to remember our thank yous!
+dr210601 -- - - - Shout-out to the inventor of the kitchen trash can!
