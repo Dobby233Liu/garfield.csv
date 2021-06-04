@@ -9939,3 +9939,5 @@ dr210531 -- Here's your burger, son! - - I forgot to say thanks! You're welcome.
 dr210601 -- - - - Shout-out to the inventor of the kitchen trash can!
 dr210602 -- You kids have it easy. - When I was your age, we had to remember everyone's phone number. - All of our friends, relatives, neighbors. - I still remember the number of a pizza parlor that closed in 1982.  What's my password again?
 dr210603 -- It has come to my attention that... - Now something ELSE has come to my attention! - And THAT! And THAT! And THAT! Wally has a short attention span, doesn't he!
+dr210604 -- I'll have a burger and fries! - What would you like, honeybunch? - I'd like a burger on the rare side with ketchup, lettuce, tomato, and a dab of mustard on a fresh bun, and I'd like my fries well done, with no salt! - She'll have a burger
+dr210604 -- and fries, too!
