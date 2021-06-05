@@ -10205,3 +10205,5 @@
 210602 -- wert, die mit der Äußerung einhergeht. - Wir hoffen, daß diese Änderung die interne Harmonie verbessern wird.
 210603 -- Dank der Pandemie befinden sich unsere Umsätze auf einem Allzeithoch. - Müßten wir uns nicht schuldig fühlen, daß wir von einem tödlichen Virus profitieren? - Ich glaube, wenn dem so wäre, hätte sich dieses Gefühl inzwischen eingestellt.
 210604 -- Ich finde es auf seltsame Weise stimulierend, Mitarbeiter zu feuern. - Macht mich das zu einem Soziopathen oder zu einer starken Führungspersönlichkeit? - Ihrer Frage entnehme ich, daß Sie glauben, das wären zwei unterschiedliche Dinge.
+210605 -- Ich habe als Hauptfach elbonische Literatur studiert. - Was eine besondere Herausforderung war, weil ich kein elbonisch spreche und keines ihrer Bücher je übersetzt wurde. - Wie kriegt man ein Diplon in elbonischer Literatur, ohne sie je
+210605 -- gelesen zu haben? Im Testschreiben bin ich sehr gut.

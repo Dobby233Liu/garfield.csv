@@ -9941,3 +9941,4 @@ dr210602 -- You kids have it easy. - When I was your age, we had to remember eve
 dr210603 -- It has come to my attention that... - Now something ELSE has come to my attention! - And THAT! And THAT! And THAT! Wally has a short attention span, doesn't he!
 dr210604 -- I'll have a burger and fries! - What would you like, honeybunch? - I'd like a burger on the rare side with ketchup, lettuce, tomato, and a dab of mustard on a fresh bun, and I'd like my fries well done, with no salt! - She'll have a burger
 dr210604 -- and fries, too!
+dr210605 -- Another beautiful morning! So long, Wally. - I'm off to the rat race! Take me with you. I'd win!
