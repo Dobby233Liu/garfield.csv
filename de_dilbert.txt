@@ -10209,3 +10209,4 @@
 210605 -- gelesen zu haben? Im Testschreiben bin ich sehr gut.
 210606 -- Ich habe aus anonymen Quellen erfahren, daß Sie die Firma bestehlen. - Anonyme Quellen sind unglaubwürdig. - Die sagten schon, daß Sie genau das antworten würden. - Warum trauen Sie denen mehr als mir? - Nun ja, weil ich höre, daß Sie ein Dieb
 210606 -- sind. - Das haben Sie aus unglaubwürdigen, anonymen Quellen! - Warum sollten die mich belügen? Aus demselben Grund, ans dem SIE mich belügen. - Okay, das ergibt Sinn.
+210607 -- 
