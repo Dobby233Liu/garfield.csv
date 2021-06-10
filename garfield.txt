@@ -16504,3 +16504,4 @@ ga210606 -- - - - - - It's raining too hard to get into the pool. Right. - YOU W
 ga210607 -- Some people like to be alone with their thoughts. - - I prefer to be alone with my donut.
 ga210608 -- I've been eating donuts all morning. - I need a break from donuts. -
 ga210609 -- "Dear Ask a Dog, are you scared, punk?...ARE you?" - Signed, the vacuum cleaner. - Odie?
+ga210610 -- snif - - Oh, like you've never sneezed and thrown your back out?
