@@ -13552,3 +13552,6 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210614 -- We will speak of this no more.
 210615 -- My low self-esteem is making me hate you for being good at your job. - That's not MY problem. - Oh, it will be. It will be. Was I supposed to hear that?
 210616 -- You're late. How do you like it? - You were three minutes late that one time last october. - And you've been plotting your revenge since then? It isn't weird.
+210617 -- Wally, you have a problem with authority. - Wow! I thought I was lazy, but maybe I'm actually a rebel. Yes, I like it. - Can I add it to my business card? NO!
+210618 -- Wally, explain to the new guy what he needs to know about your project. - Our PDR system is downstream from the QRD data and the BMR, so don't order a Gref or else the PLR will get boobled. - I quit.
+210619 -- The only reason you have a job is so I don't have to talk to employees. - But I still talk to YOU every day, so I hired a potted plant to be your new boss. - I feel deeply insulted. See? A plant would never feel that way.

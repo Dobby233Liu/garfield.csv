@@ -16512,3 +16512,6 @@ ga210613 -- Which website? - - Darn! Et tu, password?
 ga210614 -- As you grow older you realize what's really important. - Like, for instance... - Not growing older.
 ga210615 -- Do you know what you want for your birthday? No. - How old are you going to be? 43. - How about some handrails for your sandbox? Scram, punk.
 ga210616 -- You're going to be HOW old? 43. - - Want me to check your vitals? Go away.
+ga210617 -- What do you want for your birthday, Garfield? And think big! - Money is no object! - scratch scratch scratch scratch
+ga210618 -- I got you a talking birthday card! - You're old! - Did Garfield like his card? You're old!
+ga210619 -- The perfect hiding place. - They'll NEVER find me in here. - Safe at last.
