@@ -16517,3 +16517,4 @@ ga210618 -- I got you a talking birthday card! - You're old! - Did Garfield like
 ga210619 -- The perfect hiding place. - They'll NEVER find me in here. - Safe at last.
 ga210620 -- - - - SIGH - - pet pet pet - My super power.
 ga210621 -- Are you eating the last donut? - I'm SHARING the last donut. - Here, have the hole.
+ga210622 -- What's the most important meal of the day? - That's easy... - Breakfastlunchdinnersnacks!
