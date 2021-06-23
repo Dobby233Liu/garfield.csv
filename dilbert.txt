@@ -13561,3 +13561,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210621 -- That's what we don't want.
 210622 -- Your video call background needs improvement. - I'll fill your shelves with sports trophies, plus photos of you shaking hands with Jesus. - Who would believe I shook hands with Jesus? The same people who will believe you won lots of sports
 210622 -- trophies.
+210623 -- Ask Ted to show you how to do his job functions before he leaves for his new job. - What if he isn't helpful? Then I'll fire you for failing. - Do you see any problem with that approach? No. It worked for years.
