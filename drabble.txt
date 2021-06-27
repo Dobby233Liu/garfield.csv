@@ -9964,3 +9964,4 @@ dr210623 -- Hi, Wendy! Would you like to go out with me on Friday? - You'd need 
 dr210624 -- I'm hungry. Me too. - Let's get out and go to the donut shop again! OK! - Maybe that cute swimming pool wasn't such a good idea!
 dr210625 -- Too bad you're holding a ball. You won't be able to catch this chip! - - SNARF! - He's good!
 dr210626 -- S'mores are easy to make, Norm! All you need are marshmallows, graham crackers and chocolate bars! - Have fun! - I thought you said this was easy!
+dr210627 -- - TIE! - - TIE! - TIE! - TIE! - TIE! - TIE! - Echo and I think so much alike, our rock-paper-scissors games take forever!
