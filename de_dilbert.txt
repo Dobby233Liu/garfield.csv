@@ -10245,3 +10245,4 @@
 210627 -- Ich habe ein Gerät erfunden, das Versager aufspürt. - Ist das denn auch präzise? - Richten Sie es auf einen aktenkundigen Versager und warten Sie, ob es "Ping" macht. - Hey! Es weiß, daß Ed ein Versager ist! ping! - Ha-ha-ha! Es behauptet,
 210627 -- Dilbert und Alice sind auch Versager! ping! ping! - Und Carol und Wally auch! Ha-ha-ha! Das Ding ist absolut präzise! ping! ping! - Sie halten es falsch herum. - Wie genau spürt es denn Versager auf? Es sind immer die, die es falsch herum
 210627 -- halten.
+210628 -- Das Beste an einer Belegschaft im Home-Office ist, daß man sie per Textnachricht feuern kann. - Ted, Sie sind gefeuert. tipp tipp tipp - Erledigt? Nein, ich muß seinem weinenden Emoji noch mit einem "Gefällt Mir" antworten.
