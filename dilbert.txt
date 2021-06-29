@@ -13568,3 +13568,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210627 -- I invented a device that can detect losers. - How do I know it's accurate? - Point it at a known loser and see if it pings. - ping! Hey! It knows Ted is a loser! - ping! ping! Ha ha ha!!! It says Dilbert and Alice are losers too! - ping! ping!
 210627 -- And Carol and Wally too! Ha ha ha!!! This sthing is totally accurate! - You'*re holding it backward. - How exactly does it detect losers? They're the ones wo hold it backward.
 210628 -- The best part of having a remote workforce is firing them by text. - Ted, you're fired. tap tap tap - It's done? No, I also need to give thumbs-up to hiy crying face emoji.
+210629 -- I'm having a disagreement with Alice, and I want you to side with me. - How about if I make up my own mind based on the facts? - That's not going to work for me.

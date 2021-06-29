@@ -10246,3 +10246,4 @@
 210627 -- Dilbert und Alice sind auch Versager! ping! ping! - Und Carol und Wally auch! Ha-ha-ha! Das Ding ist absolut präzise! ping! ping! - Sie halten es falsch herum. - Wie genau spürt es denn Versager auf? Es sind immer die, die es falsch herum
 210627 -- halten.
 210628 -- Das Beste an einer Belegschaft im Home-Office ist, daß man sie per Textnachricht feuern kann. - Ted, Sie sind gefeuert. tipp tipp tipp - Erledigt? Nein, ich muß seinem weinenden Emoji noch mit einem "Gefällt Mir" antworten.
+210629 -- Ich habe mit Alice eine Meinungsverschiedenheit und ich möchte, daß Sie mir zur Seite stehen. - Wie wär's, wenn ich mir auf Basis von Fakten meine eigene Meinung bilde? - So funktioniert das für mich nicht.

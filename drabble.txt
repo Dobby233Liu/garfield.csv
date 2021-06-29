@@ -9966,3 +9966,4 @@ dr210625 -- Too bad you're holding a ball. You won't be able to catch this chip!
 dr210626 -- S'mores are easy to make, Norm! All you need are marshmallows, graham crackers and chocolate bars! - Have fun! - I thought you said this was easy!
 dr210627 -- - TIE! - - TIE! - TIE! - TIE! - TIE! - TIE! - Echo and I think so much alike, our rock-paper-scissors games take forever!
 dr210628 -- BAM BAM BAM - BEWARE OF DOG Why'd you put it way down there? Badger eye level!
+dr210629 -- Oogie is the weirdest cat in the world! Why? - He likes to play with a laser pen! - That's not weird. Most cats like to play with laser pens. - You're right. Oogie's the weirdest!
