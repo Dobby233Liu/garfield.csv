@@ -13571,3 +13571,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210629 -- I'm having a disagreement with Alice, and I want you to side with me. - How about if I make up my own mind based on the facts? - That's not going to work for me.
 210630 -- Welcome to our first Zoom lunch meeting. - If you chew louder than abeaver making a dam out of bubble wrap, please turn off your microphone. - And if you are an ugly eater... We get it. Video off.
 210701 -- Can you redesign it so the power button is on the bottom? - Absolutely. Our professional design team loves it when inexperienced people make suggestions. - I can't tell if you're mocking me. No, you can't.
+210702 -- Tomorrow is Casual Day for remote workers. - Most of you already dress like roadkill, but see if you can take it down another level. - Why are you doing this to us? I hear it builds morale.

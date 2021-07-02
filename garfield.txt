@@ -16527,3 +16527,4 @@ ga210628 -- Watch this. - I'm walking by a plate of donuts. - You have just gain
 ga210629 -- Garfield... - I want to help you with your diet. - So, I got a new fridge! I hate you.
 ga210630 -- Diet face. - Cheating on my diet face. - Diet face.
 ga210701 -- Odie - Today's dieting tip... - The calories from eating someone else's food don't count.
+ga210702 -- You're fat! - I demand an apology! - Okay, I'm sorry that you're fat!

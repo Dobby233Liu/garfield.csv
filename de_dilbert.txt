@@ -10250,3 +10250,5 @@
 210630 -- Willkommen zu unserem ersten Zoom-Mittagessen. - Wenn Sie beim Kauen lauter sind als ein Biber, der einen Damm aus Luftpolsterfolie baut, schalten Sie bitte Ihr Mikrofon aus. - Und wenn Sie unschön essen... Verstanden. Video aus.
 210701 -- Können Sie das so umgestalten, daß der Netzschalter untendrunter ist? - Kein Problem. Unser professionelles Design-Team liebt es, wenn unerfahrene Leute ihnen Vorschläge machen. - Ich kann nicht erkennen, ob Sie mich verhöhnen. Nein, das können
 210701 -- Sie nicht.
+210702 -- Morgen dürfen die Mitarbeiter im Homeoffice lockere, private Kleidung tragen. - Die meisten sehen jetzt schon aus, als wären sie überfahren worden, aber mal sehen, ob sich das noch unterbieten läßt. - Warum tun Sie uns das an? Es soll angeblich
+210702 -- die Arbeitsmoral steigern.
