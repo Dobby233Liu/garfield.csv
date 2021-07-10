@@ -16535,3 +16535,4 @@ ga210706 -- * Ah, the sounds of summer! The morning dove... - ** *The black-capp
 ga210707 -- BURP! - Pepperoni pizza. - SQUEAK! Rubber pork chop.
 ga210708 -- - I love you, chair... - You understand me.
 ga210709 -- I'm giving up chips. - I'm giving up cookies. - Oh, no! What will we do with all those extra chips and cookies?
+ga210710 -- You're not eating your salad. - I want to make it last. - Until it wilts, and I can pitch it.
