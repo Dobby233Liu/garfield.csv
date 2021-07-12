@@ -13586,3 +13586,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210710 -- Your skin looks so perfect...are you using a digital filter of some sort? - No, this is the real me. - And what about the panda ears and snout? Awkward.
 210711 -- We're paying way too much for our enterprise systems. - I want you to write some software that does all of that stuff for us for free. - That would require hundreds of programmers and several years. - You're coming off as lazy. - It's just
 210711 -- software. How hard could it be? - Rearranging zeroe and ones is no harder than knowing you salt from your pepper. - It's so easy that I've been thinking about reducing your pay to jkeep things in balance. - I'll bet you didn't see that coming.
+210712 -- I'm afraid to make decisions because I might make the wrong ones. - So instead, I tell my staff I need more data. - When really you need more brains and courage. You didn't need to add a summary.

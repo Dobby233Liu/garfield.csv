@@ -10271,3 +10271,4 @@
 210711 -- Unsere Unternehmenssysteme kosten uns zu viel. - Ich möchte, daß Sie irgendein Programm schreiben, das das alles kostenlos erledigt. - Dazu brauchte man hunderte Programmierer und mehrere Jahre. - Jetzt kommen Sie als faul herüber. - Es ist
 210711 -- doch nur Software! Wie schwer kann das scohn sein? - Ein paar Nullen und Einsen unzusortieren ist auch nicht schwerer, als Salz von Pfeffer unterscheiden zu können. - Es ist so einfach, daß ich mich schon überlege, Ihr Gehalt zu kürzen, damit
 210711 -- alles ausgewogener ist. - Ich wette, das hatten Sie jetzt nicht kommen sehen!
+210712 -- Ich habe Angst, Entscheidungen zu treffen, weil es die falschen sein könnten. - Stattdessen sage ich meinen Mitarbeitern, daß ich mehr Daten brauche. - Dabei brauchen Sie mehr Grips und Mumm. Diese Zusammenfassung war jetzt nicht nötig.
