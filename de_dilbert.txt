@@ -10273,3 +10273,4 @@
 210711 -- alles ausgewogener ist. - Ich wette, das hatten Sie jetzt nicht kommen sehen!
 210712 -- Ich habe Angst, Entscheidungen zu treffen, weil es die falschen sein könnten. - Stattdessen sage ich meinen Mitarbeitern, daß ich mehr Daten brauche. - Dabei brauchen Sie mehr Grips und Mumm. Diese Zusammenfassung war jetzt nicht nötig.
 210713 -- Asok, ich befördere Sie zum Kategorie-Manager. - Ihre Aufgaben bleiben dieselben wie bisher. - Aber mit höheren Gehalt? Eine leichte Absenkung.
+210714 -- Was würde es kosten, wenn es mit diesen Funktionen konfiguriert wird? - Unser Produkt ist kostenlos. Nichts ist kostenlos. Halten Sie mich für eien Idioten? - Das weiß ich erst, wenn ich sehe, ob Sie unsere Garantieverlängerung kaufen.
