@@ -9983,3 +9983,4 @@ dr210711 -- - - - I hate it when he walks around in circles trying to get comfor
 dr210712 -- There's nothing better than exploring a national park! - I get lost in the beauty! - I get lost in the serenity! - We're lost, aren't we? I remember we walked past a big tree...
 dr210713 -- Where ARE we?? - My phone doesn't even work out here! - We could be out here for a long time! - It's a good thing we brought snacks! Yeah, they were delicious!
 dr210714 -- I have a park map, dad! Maybe it can tell us how to get back! - Hmmm... - Hmmmm... - What are you looking for? The little arrow that says "You are here."
+dr210715 -- My husband and son took our dog for a walk and I'm afraid they're lost! - I'm so worried! Can you help me? Yes, Ma'am! - Can you give me a description? - It's an orange dachshund with a blue collar!
