@@ -9985,3 +9985,5 @@ dr210713 -- Where ARE we?? - My phone doesn't even work out here! - We could be 
 dr210714 -- I have a park map, dad! Maybe it can tell us how to get back! - Hmmm... - Hmmmm... - What are you looking for? The little arrow that says "You are here."
 dr210715 -- My husband and son took our dog for a walk and I'm afraid they're lost! - I'm so worried! Can you help me? Yes, Ma'am! - Can you give me a description? - It's an orange dachshund with a blue collar!
 dr210716 -- How will we ever find our way back?? - We need to find a badger trail... Badger??! - ROWF ROWF ROWF ROWF ROWF ROWF ROWF ROWF!! You're not helping!
+dr210717 -- ROWF ROWF ROWF ROWF ROWF ROWF ROWF ROWF Quiet, Wally! I can't hear myself think! - There's nothing loder than a barking wiener dog!! ROWF ROWF ROWF There they are! I could hear Wally for miles!
+dr210718 -- - ...Sigh... - - - - - What do you need? - I just wanted a root beer. - The things we have to do to keep you out of the kitchen trash!
