@@ -16545,3 +16545,4 @@ ga210715 -- I could catch you if I wanted to. - Okay. - Wait! You have to give m
 ga210716 -- Where's Alene? - Bark! Bark! Bark! Bark! Bark! She can't make it? - Bark! Bark! Barrrrrrk? And no, I didn't bring you flowers!
 ga210717 -- Boring piece of paper. - crumple crumple crumple - Fun cat toy!
 ga210718 -- - Garfield, I_ - SILENCE! - SLUP! - - * PING! - You may now speak.
+ga210719 -- Am I eating because I'm bored? - Yes. - Being bored rocks!
