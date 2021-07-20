@@ -16546,3 +16546,4 @@ ga210716 -- Where's Alene? - Bark! Bark! Bark! Bark! Bark! She can't make it? - 
 ga210717 -- Boring piece of paper. - crumple crumple crumple - Fun cat toy!
 ga210718 -- - Garfield, I_ - SILENCE! - SLUP! - - * PING! - You may now speak.
 ga210719 -- Am I eating because I'm bored? - Yes. - Being bored rocks!
+ga210720 -- The only think worse than a tofu burger... - Burp - Is a tofu burger burp.
