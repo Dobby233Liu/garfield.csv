@@ -16549,3 +16549,4 @@ ga210719 -- Am I eating because I'm bored? - Yes. - Being bored rocks!
 ga210720 -- The only thing worse than a tofu burger... - Burp - Is a tofu burger burp.
 ga210721 -- "Dear Ask a Dog, why do dogs always seem to bark at 3 A.M.?" - Yip! Yip! Yip! Yip! Yip! Yip! Yip! Yip! - That's what time the neighborhood contest starts.
 ga210722 -- Thanks for joining us. - Today's webinar is... - "How to walk on a keyboard to cause a factory reset." A cat classic!
+ga210723 -- When you're in love... - Nothing is impossible. - Except deciding where to eat. Pizza? How about Sushi?
