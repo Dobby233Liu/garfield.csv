@@ -10293,3 +10293,5 @@
 210725 -- Haben Sie das letzte Druckerpapier verbraucht und niemandem gesagt, daß es nachgekauft werden muß? - Nein, ich benutze diesen Drucker nicht einmal. Ich benutze den im Labor. - Wenn Sie unschuldig sind, wieso sind Sie dann so defensiv? - Ich bin
 210725 -- nicht defensiv, ich benenne nur die Fakten. - Und schon wieder vertteidigen Sie sich. Geben Sie doch zu, daß Sie was falsch gemacht haben! - Wie soll ich mich denn verhalten, wenn ich weiß, daß ich recht habe, und Sie nicht? - Haben Sie etwa
 210725 -- zufällig das letzte Papier verbraucht und niemandem was davon gesagt? - Ändern Sie nicht die Spielregeln! Erwischt.
+210726 -- Während ich im Urlaub bin, trägt Wally die Verantwortung. - Ich vermute, Sie wollen nicht, daß eine kompetente Person für Sie einspringt, weil die sonst eines Tages Ihren Job übernehmen könnte. - Möchtest Du Dich verteidigen?
+210727 -- Des weiteren werde ich mit jedem Entwickler wöchentliche Einzel-Meetings anberaumen. - Haben Sie vor, während der gesamten Meetings über sich selbst zu quasseln? - Dilberts Prognosen werden immer präziser.
