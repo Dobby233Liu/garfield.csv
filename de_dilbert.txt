@@ -10295,3 +10295,5 @@
 210725 -- zufällig das letzte Papier verbraucht und niemandem was davon gesagt? - Ändern Sie nicht die Spielregeln! Erwischt.
 210726 -- Während ich im Urlaub bin, trägt Wally die Verantwortung. - Ich vermute, Sie wollen nicht, daß eine kompetente Person für Sie einspringt, weil die sonst eines Tages Ihren Job übernehmen könnte. - Möchtest Du Dich verteidigen?
 210727 -- Des weiteren werde ich mit jedem Entwickler wöchentliche Einzel-Meetings anberaumen. - Haben Sie vor, während der gesamten Meetings über sich selbst zu quasseln? - Dilberts Prognosen werden immer präziser.
+210728 -- Haben Sie schon auf Ted's lange E-Mail geantwortet? - Nein, ich habe sie als Manifest seiner psychischen Probleme eingestuft und damit als nichts, worauf ich reagieren sollte. - Hier wird nie was fertig werden, wenn Sie nicht bald anfangen, so
+210728 -- zu tun, als wären Ihre Kollegen geistig gesund. Okay, mach ich.

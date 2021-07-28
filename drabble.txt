@@ -9996,3 +9996,4 @@ dr210724 -- Ralph! What are you eating? We're having dinner in five minutes! - O
 dr210725 -- Outta my way! I'm late for work! - WHOA! Slow down! - Back off! - WATCH WHERE YOU'RE GOING! - beep beep! - Thank goodness I don't work from home. There's much less traffic on my commute!
 dr210726 -- Kids, I'm happy to announce that I'm making a career change! I have found my dream job! - I'm going to be a PARK RANGER! I always assumed his dream job would involve donuts!
 dr210727 -- That's right, kids! I'm officially a National Park Ranger! - How could you become a park ranger, dad? - I thought it required years of college courses! - Thank goodness for Zoom!
+dr210728 -- A park ranger? What qualifications do you have to be a park ranger? - Are you kidding? I know that park like the back of my hand! - You got los there two weeks ago! - They gave me my own map! I only found you because I heard you crying!
