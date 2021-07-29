@@ -25,7 +25,7 @@ Run this on a original script file downloaded from John (the server) to correctl
 
 ### `main`
 The CLI. Specify `-h` as a argument while running this script to get help.
-Outputs a CSV file ready for `gpt-2-simple` usage and general listing.
+Outputs a CSV file ready for `gpt-2-simple` usage and general parsing/querying/listing/reading/etc.
 
 ### `convert`
 The module that is used internally by `main`.
