@@ -8,5 +8,5 @@ comicids_fix = {
 }
 
 def find_first_comicid_quirkfix(text):
-  fix = getattr(comicids_fix, text, None)
+  fix = comicids_fix.get(text, None)
   return fix
