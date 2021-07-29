@@ -2,6 +2,7 @@ import re
 import csv
 import sys
 import traceback
+from quirk_fixer import find_first_comicid_quirkfix
 
 def stripm(text):
   
