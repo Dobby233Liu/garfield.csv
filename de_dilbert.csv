@@ -1970,7 +1970,8 @@ transcript,comic_id
 "- Wir zahlen nicht genug, um qualifizierte Mitarbeiter anzuziehen.
 - Kein Problem. Ich heuere unqualifizierte Leute mit guter Einstellung an und bilde sie aus.
 - Dilbert, wenn Sie einen Moment Zeit haben, bilden Sie doch den hier aus. Hi!",070205
---,070206
+"-
+-",070206
 "- Alle Ausbildungsversuche sind bei Ihnen gescheitert.
 - Aber ich will Sie nicht feuern, weil wir Einstellungsstopp haben und ich dann niemanden mehr einstellen kann.
 - Deshalb habe ich beschlossen, Sie zur³ckzustufen. Wo sollen die hin?",070207
@@ -12637,7 +12638,9 @@ transcript,comic_id
 - Moment mal...das hier ist doch alles nur Kokolores. Das ist ein anderes Thema.",141212
 "- Moment...ich bekomme gerade eine SMS, die wahrscheinlich wichtiger ist, als Sie es sind.
 - Ich demonstriere Ihnen meine Macht ³ber Sie, indem ich eine SMS beantworte, wõhrend Sie auf ein Quõntchen meiner Aufmerksamkeit warten.
-- HÍREN SIE AUF, MIR SMS ZU SCHICKEN! Hmmm---""Quõntchen""...",141213
+- HÍREN SIE AUF, MIR SMS ZU SCHICKEN! Hmmm
+-
+- -""Quõntchen""...",141213
 "- Wie ist es eigentlich so, hart zu arbeiten?
 - Ich bin neugierig, denn der Lohn f³r harte Arbeit scheint mir dem Lohn identisch zu sein, den man bekommt, wenn man nur so tut, als w³rde man arbeiten.
 - Ist es nicht demotivierend, ohne erkennbaren Nutzen so hart zu arbeiten?
@@ -15806,7 +15809,9 @@ transcript,comic_id
 - Mein Problem ist, da▀ ich MEINE Arbeit und DEINE Arbeit erledigen mu▀!
 - Das macht ja nur 2% mehr Arbeit, Du Jammerlappen.",170409
 "- Kommen Sie schnell. Ich glaube, Asok ist in die Jargon-Matrix eingetaucht.
-- Am Ende des Tages m÷chte ich ein paar belastbare Erkenntnisse haben, die unsere Cross-Platform--Integration verbessern.
+- Am Ende des Tages m÷chte ich ein paar belastbare Erkenntnisse haben, die unsere Cross-Platform
+-
+- Integration verbessern.
 - Kann er uns h÷ren? Ja, aber unsere Worte sind f³r ihn gerade nur Gerõusche. Isol.",170410
 "- Asok ist in die Jargon-Matrix eingetaucht. Aber ich werde ihn retten. User experience...
 - Cloud...Blockchain...Ablaufgeschwindigkeit...Ansprechendes Design...Kohlendioxid...Fu▀abdruck... Nachhaltigkeit...
@@ -17548,7 +17553,8 @@ transcript,comic_id
 "- Welche Kurse sollte ich belegen, um Entwickler zu werden?
 - Fangen Sie mit einem beliebigen Kurs an, der Sie schlauer macht.
 - Und dann? Dannm³ssen Sie nicht mehr fragen, was Sie als nõchstes tun.",180721
---,180722
+"-
+-",180722
 "- Wir haben nur zwei M÷glichkeiten, und beide sind schlecht.
 - Daher machen wir das einzig schlaue, was man in dieser Situation tun kann. Den weniger schlechten weg wõhlen?
 - Ich wollte sagen, wir wõhlen den Weg, der unseren Feindem an meisten schadet, aber Sie ruinieren ja alles mit Ihrem Geschwõtz.",180723
@@ -19080,7 +19086,8 @@ transcript,comic_id
 "- Mein neuer Mitarbeiter leistet so gute Arbeit, da▀ alle anderen dagegen wie Schimpansen erscheinen.
 - Ich denke, Sie wissen, was zu tun ist.
 - All seine Projekte sabotieren. Und zwar bevor er meinen Job ³bernimmt.",190902
---,190903
+"-
+-",190903
 "- Sie m³ssen wõhrend meines Urlaubs f³r mich einspringen.
 - Ich hõtte gern jemanden gefragt, der kompetent ist, aber die sind auch alle nõchste Woche im Urlaub.
 - Bitte zerst÷ren Sie nicht die gesamte Firma. Wirke ich derart motiviert?",190904
@@ -20430,7 +20437,9 @@ transcript,comic_id
 "- Die Firma zieht in Erwõgung, da▀ die Mitarbeiter keine Namensschilder mehr tragen m³ssen.
 - HURRA! FREIHEIT! Zu fr³h! Abwarten...abwarten...
 -
-- --stattdessen gõbe es Stirn-Tattoos f³r Alle. ...immer den zweiten Teil abwarten.",200831
+-
+-
+- stattdessen gõbe es Stirn-Tattoos f³r Alle. ...immer den zweiten Teil abwarten.",200831
 "- ...und vielleicht k÷nnten Sie dabei helfen? Ich seh's mir mal an.
 - Vielleicht k÷nnten Sie sich eine kleine Notiz machen, damit Sie's nicht vergessen. N÷
 - Soll ich jetzt all meine Hoffnung aufgeben oder warten? Kommt darauf an, wie sehr Sie ▄berraschungen m÷gen.",200901

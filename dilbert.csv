@@ -678,7 +678,9 @@ transcript,comic_id
 "- I will *never* go on another blind date.
 - So, Jabba...er...I mean, Janety, have you dated many other men?
 - Yes, but they all disappeared without a trace. Incidentally, you look delicious tonight.",sh071b
-"- Y-y--ou m-m-mean *all* of your ex-boyfriends disappeared without a trace?
+"- Y-y
+-
+- ou m-m-mean *all* of your ex-boyfriends disappeared without a trace?
 - Yeah. It's the strangest thing... Good lord, she must have eaten them!!
 - ...so while she was sucking the cheese-cake off the dessert cart, I dove out the window.",sh071c
 "- Sometimes I dream of a kinder world... Trouble...
@@ -733,7 +735,9 @@ transcript,comic_id
 - Hmm...it was something bizarre. She knows.
 - Stop it! Stop it! I'm sorry I made you wear a cheerleading outfit and glue miniature horses to the couch!!
 - There
-- it's out. The pressure is lifted...I can live again... Oh no, I remember--I was wondering why you've never been married. But now I understand.",sh078a
+- it's out. The pressure is lifted...I can live again... Oh no, I remember
+-
+- I was wondering why you've never been married. But now I understand.",sh078a
 "- The first thing you Elbonians must understand about capitalism is the incentive system.
 - If you're willing to work twelve hours a day, eventually the guy who owns your factory will get rich.
 - Am I missing something here? Then you guys get to watch great TV shows based on the millionaire's life!",sh079a
@@ -807,7 +811,9 @@ transcript,comic_id
 - Kill him? Unless you'd *rather* read this computer manual.",sh087a
 "- Uh-oh! I'm being sucked into my own computer program!
 - I've always feared this...
-- Hi, I'm Michael--Michael Chip. Cover charge is two bits. ...get it?",sh088a
+- Hi, I'm Michael
+-
+- Michael Chip. Cover charge is two bits. ...get it?",sh088a
 "- Dilbert gets sucked into his computer You...you're a microchip... I am. C'mon in and have some coffee.
 - Chips drink coffee? Gallons. It keeps us fast.
 - Doesn't that make you irritable with the other microchips? Not since I killed them all.",sh088b
@@ -5132,7 +5138,8 @@ transcript,comic_id
 "- I am Mordac, the preventer of information services! I summon the Y2K demon!
 - roar roar You're not as big as I imagined. I wonder why everyone is so afraid.
 - Cute!",981001
---,981002
+"-
+-",981002
 "- You've been a great temporary employee. Would you like to be a permanent one? Yes!
 - HA HA HA!!! YOU SIMPLE FOOL!!!
 - What was that? That was your employee orientation program.",981003
@@ -11353,7 +11360,8 @@ transcript,comic_id
 - I use about three per week. You'll need three cards.",030428
 "- I'm seeing signs that I might get laid off.
 - It's probably your imagination. Just ignore them. I have to admit that I like it when they're jumpy.
-- -->You might be next.",030429
+-
+- ->You might be next.",030429
 "- You can survive the next round of layoffs by sacrificing a co-worker.
 - You must make your boss believe that someone is a worse employee than you.
 - Ted, let me explain revenue: it's like your embezzlement, but it's directed at customers.",030430
@@ -14914,7 +14922,9 @@ transcript,comic_id
 - But now I'm all about cross-charging my time to your project.",051205
 "- Catbert: Evil Director of Human Resources Ed, you seem disgruntled.
 - You need 30 minutes in the employee rationalizer.
-- I...I...don't mind bad management because---the commute is easy. Better.",051206
+- I...I...don't mind bad management because
+-
+- -the commute is easy. Better.",051206
 "- Meet our new sourpuss
 - I heard that every office has one. And we didn't, so I went out and got one.
 - Does anything ever sound like a bad idea to you? Leadership is 90% optimism.",051207
@@ -24750,7 +24760,9 @@ transcript,comic_id
 - Ha ha! I'm a genius who turns trash into gold!
 - How's that compare to whatever you're doing here?
 - Well, I'm removing valuable features from our product so we can...
-- ...gouge our customers with the---upgrade.
+- ...gouge our customers with the
+-
+- -upgrade.
 - Wow. Your life is a total waste. Not if I sell the power cord.",130303
 "- Should we buy the maintenance plan or just take our chances? What do you prefer?
 - I prefer to punish you for the maintenance plan and going over budget. But I also don't mind firing you for not buying if we later need it.
@@ -30926,7 +30938,8 @@ transcript,comic_id
 "- How can I help you achieve your goals and be more successful?
 - You could stop talking all creepy and weird.
 - I thought I was being helpful. Go hate your job like everyone else.",170918
-"--
+"-
+-
 - I have complaints about my boss. Many, many complaints.
 - Tell me all about it while I pretend to listen.
 - Then you will look into my complaints? Is there any way you would know if I didn't?",170919
