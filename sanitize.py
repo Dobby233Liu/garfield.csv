@@ -1,6 +1,7 @@
 import csv, sys
 
 ids = []
+tsrts = {}
 
 with open(sys.argv[1]) as f:
     c = csv.reader(f)
@@ -9,8 +10,12 @@ with open(sys.argv[1]) as f:
       try:
         magic = r[1]
         if ids.count(magic) > 0:
+            print(tsrts[magic])
             raise IndexError("comic '%s' already exists in csv" % magic)
         ids.append(magic)
+        if tsrts.get(magic, None) == None:
+            tsrts[magic] = []
+        tsrts[magic].append(r)
       except IndexError as e:
         print(e)
         print("-"*20)
