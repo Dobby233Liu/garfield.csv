@@ -95,8 +95,7 @@ def cleanup(input_file, output):
         break
 
       # Quirk fix stuff inside
-      _proc_line += _loop_line[(_sub_comicid[5] if len(_sub_comicid) >= 6 and _sub_comicid[5] > -1 else len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3]+_sub_comicid[4])):]
-      _loop_line = " " + _loop_line
+      _proc_line += " " + _loop_line[(_sub_comicid[5] if len(_sub_comicid) >= 6 and _sub_comicid[5] > -1 else len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3]+_sub_comicid[4])):]
 
       if i2 > 0:
         _skip_ahead += 1
