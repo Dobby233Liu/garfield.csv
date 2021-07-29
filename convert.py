@@ -60,7 +60,7 @@ def cleanup(input_file, output):
       comicid = find_first_comicid(line, ln=i)
     except IndexError as e:
       traceback.print_exc(file=sys.stderr)
-      print("(While parsing opening line. Line:)\n%s" % line, file=sys.stderr)
+      print("\n(While parsing opening line. Line:)\n%s" % line, file=sys.stderr)
       # line = " " + ""
       print("-"*20, file=sys.stderr)
     
@@ -79,11 +79,12 @@ def cleanup(input_file, output):
         _sub_comicid = find_first_comicid(_loop_line, ln=i + i2)
       except IndexError as e:
         if i2 > 0:
-          traceback.print_exc(file=sys.stderr)
-          print("(While parsing secondary lines. Line:)\n%s" % line, file=sys.stderr)
+          break
+          #traceback.print_exc(file=sys.stderr)
+          #print("\n(While parsing secondary lines. Line:)\n%s" % _loop_line, file=sys.stderr)
         _loop_line = " " + _loop_line
-        if i2 > 0:
-          print("-" * 20, file=sys.stderr)
+        #if i2 > 0:
+          #print("-" * 20, file=sys.stderr)
       if comicid[0] != _sub_comicid[0]:
         break
 
