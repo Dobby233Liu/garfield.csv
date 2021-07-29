@@ -21,7 +21,7 @@ Using `detect` as `old_enc` requires `chardet` to be installed.
 `fallback_for_detect` will be a placeholder when the detecting process goes badly (errors out/has low confindenity).
 
 Run this on a original script file downloaded from John (the server) to correctly run the script through `main`.
-(You may don't need to use this)
+(You may don't need to use this; Workflow job has been changed to use iconv instead)
 
 ### `main`
 The CLI. Specify `-h` as a argument while running this script to get help.
