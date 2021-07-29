@@ -8,5 +8,5 @@ unlabeled_entries = {
 }
 
 def find_first_comicid_quirkfix(text):
-    fix = getattr(text, unlabeled_entries, None)
-    return fix
+  fix = getattr(text, unlabeled_entries, None)
+  return fix
