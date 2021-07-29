@@ -1,5 +1,16 @@
 import re
 import csv
+import sys
+
+import trackback
+from io import StringIO
+def repr_trace():
+
+  out = StringIO()
+  traceback.print_exc(file=out)
+  data = out.getvalue()
+  out.close()
+  return data
 
 def stripm(text):
   
@@ -19,7 +30,7 @@ def find_first_comicid(line, ln=None):
     
     # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
     # [0] [0] full id [1] comic [2] nothing [3] sep
-    result = re.findall(r'^((g[as]|dr|pg|sh|)[0-9a-zA-Z-]+)(\s|)(--|- -|..|. .|\*\*|\* \*)', line, flags=re.I)
+    result = re.findall(r'^((g[as]|dr|pg|sh|[0-9]+)[0-9a-zA-Z-]+)(\s|)(--|- -|..|. .|\*\*|\* \*)', line, flags=re.I)
     #raise IndexError(result[0])
 
     if len(result) <= 0:
@@ -57,10 +68,10 @@ def cleanup(input_file, output):
     try:
       comicid = find_first_comicid(line, ln=i)
     except IndexError as e:
-      print(repr(e))
-      print("(While parsing opening line. Line: %s)" % line)
-      line = " " + "" # ???
-      print("-"*20)
+      print(repr_track(), file=sys.stderr)
+      print("(While parsing opening line. Line:)\n%s" % line, file=sys.stderr)
+      # line = " " + ""
+      print("-"*20, file=sys.stderr)
     
     _proc_line = ""
     
@@ -77,11 +88,11 @@ def cleanup(input_file, output):
         _sub_comicid = find_first_comicid(_loop_line, ln=i + i2)
       except IndexError as e:
         if i2 > 0:
-          print(repr(e))
-          print("(While parsing secondary lines. Line: %s)" % line)
+          print(repr_track(), file=sys.stderr)
+          print("(While parsing secondary lines. Line:)\n%s" % line, file=sys.stderr)
         _loop_line = " " + _loop_line
         if i2 > 0:
-          print("-" * 20)
+          print("-" * 20, file=sys.stderr)
       if comicid[0] != _sub_comicid[0]:
         break
 
