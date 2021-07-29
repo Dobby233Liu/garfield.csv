@@ -19,10 +19,8 @@ def stripm(text):
 def find_first_comicid(line, ln=None):
 
   fix = find_first_comicid_quirkfix(line)
-  if not (fix is None):
+  if fix != None:
     return fix
-  if "Why did you add this button the the user interface" in line:
-    raise Exception("What the fuck", line)
 
   try:
     
