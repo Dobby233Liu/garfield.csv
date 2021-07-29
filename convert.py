@@ -1,16 +1,7 @@
 import re
 import csv
 import sys
-
 import traceback
-from io import StringIO
-def repr_trace():
-
-  out = StringIO()
-  traceback.print_exc(file=out)
-  data = out.getvalue()
-  out.close()
-  return data
 
 def stripm(text):
   
@@ -68,7 +59,7 @@ def cleanup(input_file, output):
     try:
       comicid = find_first_comicid(line, ln=i)
     except IndexError as e:
-      print(repr_track(), file=sys.stderr)
+      traceback.print_exc(file=sys.stderr)
       print("(While parsing opening line. Line:)\n%s" % line, file=sys.stderr)
       # line = " " + ""
       print("-"*20, file=sys.stderr)
@@ -88,7 +79,7 @@ def cleanup(input_file, output):
         _sub_comicid = find_first_comicid(_loop_line, ln=i + i2)
       except IndexError as e:
         if i2 > 0:
-          print(repr_track(), file=sys.stderr)
+          traceback.print_exc(file=sys.stderr)
           print("(While parsing secondary lines. Line:)\n%s" % line, file=sys.stderr)
         _loop_line = " " + _loop_line
         if i2 > 0:
