@@ -92,11 +92,15 @@ def cleanup(input_file, output):
         _loop_line = " " + _loop_line
         if i2 > 0:
           print("-" * 20, file=sys.stderr)
+      # Quirk fix stuff
+      if len(_sub_comicid) >= 5 and _sub_comicid[4] == 0:
+        _loop_line = " " + _loop_line
       if comicid[0] != _sub_comicid[0]:
         break
 
       if i2 == 0:
         _proc_line += "-"
+      # Quirk fix stuff inside
       _proc_line += _loop_line[(_sub_comicid[4] if len(_sub_comicid) >= 5 and _sub_comicid[4] > -1 else len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])):]
 
       if i2 > 0:
