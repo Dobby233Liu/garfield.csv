@@ -19,8 +19,10 @@ def stripm(text):
 def find_first_comicid(line, ln=None):
 
   fix = find_first_comicid_quirkfix(line)
-  if fix != None:
+  if fix is not None:
     return fix
+  if "on your copy" in line:
+    throw Exception("What the fuck", line)
 
   try:
     
@@ -59,21 +61,22 @@ def cleanup(input_file, output):
     if (line == ("-" * len(line)) or line == ("." * len(line))):
       continue
     
-    # find comicid (for merging lines together)
+    # find comicid for intro line first (for merging lines together)
+    introline_invaild = False
     comicid = ("", "", "", "")
     try:
       comicid = find_first_comicid(line, ln=i)
     except IndexError as e:
+      introline_invaild = True
       traceback.print_exc(file=sys.stderr)
-      print("\n(While parsing opening line. Line:)\n%s" % line, file=sys.stderr)
+      print("\n(While parsing intro line. Line:)\n%s" % line, file=sys.stderr)
       # line = " " + ""
       print("-"*20, file=sys.stderr)
     
     _proc_line = ""
     
-    # hack to merge lines to one
+    # hack to merge lines to one 
     for i2 in range(len(lines) - i):
-      
       _loop_line = lines[i + i2].strip()
       if ((_loop_line == "-" * len(_loop_line)) or _loop_line == ("." * len(_loop_line))):
         _skip_ahead += 1
@@ -83,13 +86,14 @@ def cleanup(input_file, output):
       try:
         _sub_comicid = find_first_comicid(_loop_line, ln=i + i2)
       except IndexError as e:
-        if i2 > 0:
+        if not introline_invaild:
           break
-          #traceback.print_exc(file=sys.stderr)
-          #print("\n(While parsing secondary lines. Line:)\n%s" % _loop_line, file=sys.stderr)
+        if i2 > 0:
+          traceback.print_exc(file=sys.stderr)
+          print("\n(While parsing secondary lines. Line:)\n%s" % _loop_line, file=sys.stderr)
         _loop_line = " " + _loop_line
-        #if i2 > 0:
-          #print("-" * 20, file=sys.stderr)
+        if i2 > 0:
+          print("-" * 20, file=sys.stderr)
       if comicid[0] != _sub_comicid[0]:
         break
 
