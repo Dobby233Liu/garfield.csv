@@ -68,13 +68,13 @@ def cleanup(input_file, output):
       introline_invaild = True
       traceback.print_exc(file=sys.stderr)
       print("\n(While parsing intro line. Line:)\n%s" % line, file=sys.stderr)
-      # line = " " + ""
       print("-"*20, file=sys.stderr)
     
     _proc_line = ""
     
     # hack to merge lines to one 
     for i2 in range(len(lines) - i):
+
       _loop_line = lines[i + i2].strip()
       if ((_loop_line == "-" * len(_loop_line)) or _loop_line == ("." * len(_loop_line))):
         _skip_ahead += 1
@@ -89,8 +89,8 @@ def cleanup(input_file, output):
         if i2 > 0:
           traceback.print_exc(file=sys.stderr)
           print("\n(While parsing secondary lines. Line:)\n%s" % _loop_line, file=sys.stderr)
-        if i2 > 0:
           print("-" * 20, file=sys.stderr)
+
       if comicid[0] != _sub_comicid[0]:
         break
 
