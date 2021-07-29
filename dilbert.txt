@@ -473,7 +473,7 @@ sh127a -- out with the television.
 sh127b -- I you're going to live here, you need a name. How about "Mickey"? - No...big trouble. How about "Rodney the Rodent"? How about "Bill the Rat"? - "Vernon the Vermin"? "Ratbert"
 sh127c -- Let me introduce you to our dinosaurs, Bob and Dawn. Cool! - EEEEK!! A MOUSE! Not a mouse, a rat!! - Ooops. Sorry. You look kinda like a mouse. No offense taken.
 sh128a -- Yes? I'm looking for my escaped lab rat. The trail leads to this house. - Can't you use just another rat? No. I'm on a very limited budget. - What will you do if he dies? CPR
-sh128b -- Ahaa! There's my runaway lab rat! I'd recognize little XP-39C˛ anywhere! - All is forgiven. Come back to your job at the lab. I love you. - He was specially bred to have no will power. Hold me.
+sh128b -- Ahaa! There's my runaway lab rat! I'd recognize little XP-39C▓ anywhere! - All is forgiven. Come back to your job at the lab. I love you. - He was specially bred to have no will power. Hold me.
 sh128c -- Goodbye, Dogbert. I must return to the lab with the professor. sniff That's stupid. - He says he loves me. That must be why he fed me so much. You're getting stupider. - I have to follow my heart. Mmm...love causes stupidity in lab rats.
 921207 -- I've decided to use more humor in the workplace - experts say humor eases tension which is important in times when the workforce is being trimmed. - knock-knock Who's there? Not you anymore.
 940105 -- We're flattening organization to eliminate levels and put everybody in a wide salary band. - Now instead of not getting a promotion you'll only not get a raise.- So, what job title do we use? You'll all be named Beverly.
@@ -1635,7 +1635,7 @@ sh128c -- Goodbye, Dogbert. I must return to the lab with the professor. sniff T
 970803 -- grip to climb rocks. - I can't even open jars unless I use special tools. - OW! OW! CRAMP!! - I'M DISORIENTED BY THE PAIN! HEY! - Here are your diplomas. Now get out. Go team!
 970804 -- I'm in charge of the office relocation. Where do you want your cubicle? - What's this huge structure? Wallyville. It's two floors of luxury housing, shopping, and gambling. - Do you think you might be abusing your power? What would be the
 970804 -- other reasons to have power?
-970805 -- According to the blueprints, your cubicle has a support beam in it. - At least I have a window view. - It's 108° by the window. But at least there's a breeze from the people who walk by and laugh. Don't let me slow your search for someone
+970805 -- According to the blueprints, your cubicle has a support beam in it. - At least I have a window view. - It's 108░ by the window. But at least there's a breeze from the people who walk by and laugh. Don't let me slow your search for someone
 970805 -- who's interested.
 970806 -- We're going to try something called "open book management." - We'll teach you to read the financial statements of this company. It's all very motivating. - ...and our CEO got paid more the the entire capital budget... Is this what
 970806 -- motivation feels like?
@@ -2098,7 +2098,7 @@ sh128c -- Goodbye, Dogbert. I must return to the lab with the professor. sniff T
 980531 -- PHARMACY - Is this one line or two? - I'll hedge my bets by standing in the middle. - This guy is confused too. - Get behind me... Get behind me... Get behind me... Get behind me... - Oh-no! He's forming a new line behind the fast cashier!
 980531 -- #!%* - He's distracted! I take the angle! I win! - Stress medications are the other line.
 980601 -- I'm having a severe case of telephone shyness. - I'm afraid to pick up the phone and make business calls. - I'll duck into a restroom stall until the shyness passes.
-980602 -- I've been having severe shyness attacks at work. I can help. - I'll send nude photos of you to everyone on the Internet. - Will that work? All of my previous clients are dating "M”tley Cre" band members.
+980602 -- I've been having severe shyness attacks at work. I can help. - I'll send nude photos of you to everyone on the Internet. - Will that work? All of my previous clients are dating "Mötley Crüe" band members.
 980603 -- I'll cure your shyness by putting nude photos of you on the Internet. - AAEEII!! COUGH COUGH UNH* - I didn't know the Internet could reject a body. I didn't know it could scream.
 980604 -- STUPID SOFTWARE! WON'T COMPILE; EH?? - #%!** - We call it "code rage." I'm seeing a lot of it lately.
 980605 -- How much budget do you have for my project? I can't tell you. - If you knew what your budget was, you'd spend it all. - Can you at least tell me what our company strategy is? No, I don't want you to lose hope.
@@ -4010,7 +4010,7 @@ sh128c -- Goodbye, Dogbert. I must return to the lab with the professor. sniff T
 020824 -- And I need the software in a week. Cheryl is the only one who knows the ordering system. - She's on her honeymoon for two weeks. You need CFO approval to buy software outside the system. - Fine. I'll talk to the CFO. When will he be available?
 020824 -- Depends on the parole board.
 020825 -- Make the blue box bluer. - A little more...a little more...a little more...THAT'S IT!! - When you get tired of micromanaging me... - Put this sample of my blood under a microscope so you can manage me on a cellular level. - And here's a book by
-020825 -- Erwin Schrödinger in case you'd like to manage me on a quantum level! - DO YOU UNDERSTAND WHAT I'M SAYING? - Free gifts. - Now I want all of you white blood cells to spell "Hi."
+020825 -- Erwin Schr÷dinger in case you'd like to manage me on a quantum level! - DO YOU UNDERSTAND WHAT I'M SAYING? - Free gifts. - Now I want all of you white blood cells to spell "Hi."
 020826 -- What's this? It's our old five-year plan! - I wonder how we did compared to the plan. - Have we relegated Microsoft to the dust heap of history? Shhh! They might hear!
 020827 -- I found our five-year plan from five years ago. - The last page says, "at the end of the fifth year, the entire management team will be..." - "...investigated for accounting irregularities." Spooky.
 020828 -- Ha ha! I quit, you stinkin' pile of rubbish! - I'm going to work for myself. I won't need to deal with morons like you again! - On an unrelated note, if you need a freelance web designer, pleas call me.
@@ -4677,7 +4677,7 @@ sh128c -- Goodbye, Dogbert. I must return to the lab with the professor. sniff T
 031222 -- Career Counseling - Apparently you're still mad about being downsized. - According to your resume, you're seeking a job that involves "punching a short, stocky guy with pointy hair." - Is that the only job you'd consider? I also like kicking.
 031223 -- Alice Gets Downsized Maybe your next career could be marrying a rich guy. - There must be a guy out there who wouldn't care about your personality. - If she offers you a goodbye hug, don't take it.
 031224 -- I scheduled your goodbye lunch for Tuesday. I can't make it on Tuesday. - It's too late to change it. Everyone already bought gag gifts. - Gag gifts?? I'm not retiring; I got downsized! Congratulations, Alice! Hee-hee!! wrinkle cream
-031225 -- The good thing about being downsized is that I don't need to shave my legs. - It grows fast, but who's going to notice? - Police surrounded a convenience store where Sasquatch attempted to buy "Häagen Dazs(r)".
+031225 -- The good thing about being downsized is that I don't need to shave my legs. - It grows fast, but who's going to notice? - Police surrounded a convenience store where Sasquatch attempted to buy "Hõagen Dazs(r)".
 031226 -- Business is picking up. We need to rehire some of the people that we downsized. - I hope the time off from work hasn't dulled their engineering instincts. - The first day back is always the hardest.
 031227 -- I signed you up for a product awareness class. GAAA!!! - They'll give you hands-on training for every product we sell ple-e-ease... - We're hoping to fix this problem in the next version.
 031228 -- I hired my wife to be our new receptionist. - I foresee no problems whatsoever. - Hey, dipweed! - Go buy me a bagel and a cappuccino. - Then wash my car and fill the gas tank. - NOW DANCE FOR ME, LITTLE MAN+ HA HA+ DANCE OR I'LL HAVE YOU
@@ -6706,7 +6706,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 071212 -- Don't you dare take another cup of coffee. - The more you drink, the more often I have to order coffee. You are destroying my quality of life! - GAAA!!! If this doesn't make the coffee taste better, I don't know what will.
 071213 -- Mordac, The Preventer Of Information Services I made some changes to the network that I alone understand. - I didn't have time to test it, but if there is a problem, I'll be on vacation for three weeks in a Russian submarine below the arctic
 071213 -- circle. - My screen just went blank. Let's chalk that up to coincidence.
-071214 -- It was theoretically impossible to work this week. - Everything I needed to do required me to do something else first, until it all looped back on itself like a Möbius strip. - Maybe you could make a to-do list. As if I had a pencil.
+071214 -- It was theoretically impossible to work this week. - Everything I needed to do required me to do something else first, until it all looped back on itself like a M÷bius strip. - Maybe you could make a to-do list. As if I had a pencil.
 071215 -- I don't know you. Why are you in this meeting? - I'm creating the illusion of work by conflating the concepts of attendance and productivity. - You should leave. And who should I say hates teamwork?
 071216 -- I can't give you the highest raise because you didn't exceed expectations. - If you thought it was possible for me to exceed my expectations, you would have set the goals higher. - So there are only two possibilities here. - Either you are
 071216 -- incompetent at setting goals... - or I attained the maximum possible achievement and I deserve the maximum raise. - Which is it? - - Can I hear those two choices again?
@@ -6876,7 +6876,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 080413 -- Alice, I'm hoping we can work together on this project in the spirit of cooperation. - I'll have some ideas, and you'll have some ideas, and together we can pick the best ones. - Sure, that's one approach. - But I prefer to exhale deeply and
 080413 -- roll my eyes while you prattle. - Then I will verbally demolish your ludicrous ideas, and dismantle your mistaken self-image as a competent man. - The carnage will create a striking contrast for the warm, clear glow of *my* brilliant ideas. -
 080413 -- Later, I will round out the package by spreading amusing stories about how ignorant you are. - Is there any chance of doing it my way? Now watch the eyes.
-080414 -- Loud Howard insists i´on using his speakerphone in his cubicle. You have to do something about it. - I'll move him to a private office that just became available. Problem solved. - GAAA!!! I need to punch you until we both forget what happened
+080414 -- Loud Howard insists i┤on using his speakerphone in his cubicle. You have to do something about it. - I'll move him to a private office that just became available. Problem solved. - GAAA!!! I need to punch you until we both forget what happened
 080414 -- here. Spare the glasses.
 080415 -- I want the entire staff to meet at 10 A.M. every day for a five-minute huddle. - We'll use this high-energy stand-up meeting to solve problems and share successes. - Who has a problem that can be solved in a minute? I'm tired. Can I sit on you?
 080416 -- Who has some successes to share at our 5-minute daily huddle? - - Okay...are there any obstacles? Everything.
@@ -6977,7 +6977,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 080622 -- Wally, what do you plan to do after you retire? - Retirement is for losers, Asok. - Winners keep their job but stop caring about the quality of their work. - I have no stress, free coffee, and I get paid, too. - Watch how this works. - Wally,
 080622 -- can you give me some cost estimates for my project? I'm too busy. Ask Dilbert. - Doesn't this make you a worthless leech on society? - I'm pretty sure that the winner in that example is the leech.
 080623 -- I'm off for two relaxing weeks of well-earned vacation. - ATTENTION TO ALL EMPLOYEES. THE STAIN IS ON THE MOVE. I REPEAT, THE STAIN IS ON THE MOVE. YIPPEE! WOOHOO! YES! Relaxing just got harder.
-080624 -- I'm in charge while our boss is on vacation. When can you format some reports for me? - I'll send you a link to a widget that shows the temperature in Satan's fireplace. When it hits 32° Fahrenheit, I'll get right on it. - And I was worried
+080624 -- I'm in charge while our boss is on vacation. When can you format some reports for me? - I'll send you a link to a widget that shows the temperature in Satan's fireplace. When it hits 32░ Fahrenheit, I'll get right on it. - And I was worried
 080624 -- that the power would go to my head. Not as fast as this stapler will.
 080625 -- I'm in charge while our pointy-haired boss is on vacation. - I expect each of you to be professional and productive during this time. - Nice lying. I practiced in front of a mirror.
 080626 -- Is everything okay since I left for vacation? Better than ever. - Counterproductive policies have been eliminated, and we are no longer victims of ignorance. - Man, I don't like the sound of that.
@@ -9602,8 +9602,8 @@ Why did you add this button the the user interface? You told me to. - Why would 
 130603 -- WATERWASTER!
 130604 -- Let me know if you have any changes to my first draft. - This literally says the words "blah, blah, blah." - Are you lazy? No, I'm worthless. Lazy would have been one "blah."
 130605 -- Say hello to the ephemeral middle manager. - But hurry because he won't last long. Hi, I'm... - Now you just look stupid.
-130606 -- This is Wulf. He used to work for a famous physicist named Schrödinger. - He escaped before the experiment was finished and now he's both alive and dead at the same time. - Like a zombie? Wow. I have half a mind to be offended by that. Uh-oh.
-130607 -- I was Schrödinger's cat back in the day. That's why I'm alive and dead at the same time. - I know the truth about the afterlife because my dead half told my living half all about it. - Do you want to know what happens? - Stop projecting your
+130606 -- This is Wulf. He used to work for a famous physicist named Schr÷dinger. - He escaped before the experiment was finished and now he's both alive and dead at the same time. - Like a zombie? Wow. I have half a mind to be offended by that. Uh-oh.
+130607 -- I was Schr÷dinger's cat back in the day. That's why I'm alive and dead at the same time. - I know the truth about the afterlife because my dead half told my living half all about it. - Do you want to know what happens? - Stop projecting your
 130607 -- curiosity on me.
 130608 -- Alice, I want you to collaborate with Larry. - And by collaborate you mean water down my brilliance with this dullard's brain flatulence. - She doesn't play well with others. If I were a man, you'd call it confidence.
 130609 -- We need to have a bias for action. - Don't let perfect be the enemy of good. - So...a carpenter should saw the bord first and measure it later? - Your use of that folksy saying makes my strategy sound dumb. - Why do you care if your strategy is
@@ -13231,7 +13231,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 201026 -- I have a feeling you are doinf something wrong, but I don't know what. - Do you mind if I watch over your shoulder and look for mistakes as youmake them? - You don't have any friends, don't you? I like to travel light.
 201027 -- I realize this report has Dilbert's name on it, but the credit goes to me. - Because I ordered him to do it. Actually, I came up with the idea and wrote it on my time. - Well, I created the culture tha tmade it all possible. I DID THE WORK!!!
 201028 -- The Dunning-Kruger Effect is strong on you. - Technically, you can'd know if I am suffering from it or if you only think I am because YOU have it. - ONly a nacissist talks that way. I feel as if I have no path to glory here.
-201029 -- Would you mind reviewing my 32-page slide deck and giving me your thoughts? - My thoughts are that only a sadist or an idiot would make a 32-page slide deck. - YouÄll never guess which one I am. I feel as if I could.
+201029 -- Would you mind reviewing my 32-page slide deck and giving me your thoughts? - My thoughts are that only a sadist or an idiot would make a 32-page slide deck. - You─ll never guess which one I am. I feel as if I could.
 201030 -- Well, I knew this would happen sooner or later. - You're an example of code reuse, which proves this reality is a software simulation. - Technically, that's not a "proof". HELLO, ME!
 201031 -- Where do you want to go to lunch? - I want you to suggest a place so I can say yes but still make you feel bad about it. - How about the Thai place? Pffft. Sure. I'm not that hungry anyway.
 201101 -- tap tap tap Are you available for a Zoom call? - He's typing something. Nope, he stopped. - Okay, he's typing again. No, he's stopped again. - I'm available at 2 P.M. tomorrow, thursday at 9 A.M., or next week any time after three, and now. -
