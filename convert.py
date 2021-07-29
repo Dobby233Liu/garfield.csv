@@ -103,7 +103,7 @@ def cleanup(input_file, output):
 
     _proc_line = re.sub("(\s)+", r"\1", _proc_line).strip()
     # fix
-    _proc_line = _proc_line + "-" # This may need to get fixed
+    _proc_line = "-" + _proc_line # This may need to get fixed
     _proc_line = "\n- ".join(_proc_line.split("- "))
     _proc_line = "\n- ".join(_proc_line.split(" -"))
     _proc_line = " ->".join(_proc_line.split("\n- >")) # FIXME: sus
