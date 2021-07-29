@@ -26,7 +26,7 @@ def find_first_comicid(line, ln=None):
     
     # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
     # [0] [0] full id [1] comic [2] nothing [3] sep
-    result = re.findall(r'^((g[as]|dr|pg|sh|[0-9]+)[0-9a-zA-Z-]+)(\s|)(--|- -|..|. .|\*\*|\* \*)', line, flags=re.I)
+    result = re.findall(r'^((g[as]|dr|pg|sh|[0-9]+)[0-9a-zA-Z-]+)(\s|)(--|- -|..|. .|\*\*|\* \*)( |)', line, flags=re.I)
     #raise IndexError(result[0])
 
     if len(result) <= 0:
@@ -89,29 +89,24 @@ def cleanup(input_file, output):
         if i2 > 0:
           traceback.print_exc(file=sys.stderr)
           print("\n(While parsing secondary lines. Line:)\n%s" % _loop_line, file=sys.stderr)
-        _loop_line = " " + _loop_line
         if i2 > 0:
           print("-" * 20, file=sys.stderr)
-      # Quirk fix stuff
-      if len(_sub_comicid) >= 5 and _sub_comicid[4] == 0:
-        _loop_line = " " + _loop_line
       if comicid[0] != _sub_comicid[0]:
         break
 
-      if i2 == 0:
-        _proc_line += "-"
       # Quirk fix stuff inside
-      _proc_line += _loop_line[(_sub_comicid[4] if len(_sub_comicid) >= 5 and _sub_comicid[4] > -1 else len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3])):]
+      _proc_line += _loop_line[(_sub_comicid[5] if len(_sub_comicid) >= 6 and _sub_comicid[5] > -1 else len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3]+_sub_comicid[4])):]
 
       if i2 > 0:
         _skip_ahead += 1
 
-    _proc_line = re.sub("(\s)+", r"\1", _proc_line)
+    _proc_line = re.sub("(\s)+", r"\1", _proc_line).strip()
     # fix
     _proc_line = "\n- ".join(_proc_line.split("- "))
     _proc_line = "\n- ".join(_proc_line.split(" -"))
     _proc_line = " ->".join(_proc_line.split("\n- >")) # FIXME: sus
     _proc_line = stripm(_proc_line)
+    _proc_line = _proc_line + "-"
 
     writer.writerow([_proc_line, comicid[0]]) # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
     
