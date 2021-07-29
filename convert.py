@@ -95,6 +95,7 @@ def cleanup(input_file, output):
         break
 
       # Quirk fix stuff inside
+      _proc_line = " " + _proc_line
       _proc_line += _loop_line[(_sub_comicid[5] if len(_sub_comicid) >= 6 and _sub_comicid[5] > -1 else len(_sub_comicid[0]+_sub_comicid[2]+_sub_comicid[3]+_sub_comicid[4])):]
 
       if i2 > 0:
@@ -102,11 +103,11 @@ def cleanup(input_file, output):
 
     _proc_line = re.sub("(\s)+", r"\1", _proc_line).strip()
     # fix
+    _proc_line = _proc_line + "-" # This may need to get fixed
     _proc_line = "\n- ".join(_proc_line.split("- "))
     _proc_line = "\n- ".join(_proc_line.split(" -"))
     _proc_line = " ->".join(_proc_line.split("\n- >")) # FIXME: sus
     _proc_line = stripm(_proc_line)
-    _proc_line = _proc_line + "-"
 
     writer.writerow([_proc_line, comicid[0]]) # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
     
