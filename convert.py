@@ -58,7 +58,7 @@ def cleanup(input_file, output):
       comicid = find_first_comicid(line, ln=i)
     except IndexError as e:
       print(repr(e))
-      print("(Line: %s)" % line)
+      print("(While parsing opening line. Line: %s)" % line)
       line = " " + "" # ???
       print("-"*20)
     
@@ -78,7 +78,7 @@ def cleanup(input_file, output):
       except IndexError as e:
         if i2 > 0:
           print(repr(e))
-          print("(Line: %s)" % line)
+          print("(While parsing secondary lines. Line: %s)" % line)
         _loop_line = " " + _loop_line
         if i2 > 0:
           print("-" * 20)
