@@ -16,7 +16,11 @@ def stripm(text):
   return ret
 
 def find_first_comicid(line, ln=None):
-  
+
+  fix = find_first_comicid_quirkfix(line)
+  if fix != None:
+    return fix
+
   try:
     
     # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
