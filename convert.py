@@ -13,7 +13,7 @@ def stripm(text):
   
   return ret
 
-def _find_first_comicid(line, ln=None):
+def find_first_comicid(line, ln=None):
   
   try:
     
@@ -55,11 +55,11 @@ def cleanup(input_file, output):
     # find comicid (for merging lines together)
     comicid = ("", "", "", "")
     try:
-      comicid = _find_first_comicid(line, ln=i)
+      comicid = find_first_comicid(line, ln=i)
     except IndexError as e:
-      line = " " + ""
-      print(e)
-      print(line)
+      print(repr(e))
+      print("(Line: %s)" % line)
+      line = " " + "" # ???
       print("-"*20)
     
     _proc_line = ""
@@ -74,12 +74,13 @@ def cleanup(input_file, output):
 
       _sub_comicid = ("", "", "", "")
       try:
-        _sub_comicid = _find_first_comicid(_loop_line, ln=i + i2)
+        _sub_comicid = find_first_comicid(_loop_line, ln=i + i2)
       except IndexError as e:
+        if i2 > 0:
+          print(repr(e))
+          print("(Line: %s)" % line)
         _loop_line = " " + _loop_line
         if i2 > 0:
-          print(e)
-          print(_loop_line)
           print("-" * 20)
       if comicid[0] != _sub_comicid[0]:
         break
@@ -95,7 +96,7 @@ def cleanup(input_file, output):
     # fix
     _proc_line = "\n- ".join(_proc_line.split("- "))
     _proc_line = "\n- ".join(_proc_line.split(" -"))
-    _proc_line = " ->".join(_proc_line.split("\n- >"))
+    _proc_line = " ->".join(_proc_line.split("\n- >")) # FIXME: sus
     _proc_line = stripm(_proc_line)
 
     writer.writerow([_proc_line, comicid[0]]) # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
