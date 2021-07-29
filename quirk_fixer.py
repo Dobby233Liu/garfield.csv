@@ -15,7 +15,7 @@ comicids_fix = {
     "091022 -- around.": ("091020", "", " ", "--", -1),
     "130202 -- goes down.": ("130302", "", " ", "--", -1),
     "130203 -- Do you mind if I rummage through the trash in the technology lab? Um, okay. - I'm getting back to my hunter-gatherer roots. - SCORE! THESE OLD POWER CORDS SELL ON EBAY FOR UP TO $3 APIECE! - Ha ha! I'm a genius who turns trash into gold! -": ("130303", "", " ", "--", -1),
-    "130203 -- How's that compare to whatever you're doing here? - Well, I'm removing valuable features from our product so we can... - ...gouge our customers with the---upgrade. - Wow. Your life is a total waste. Not if I sell the power cord.": : ("130303", "", " ", "--", -1),
+    "130203 -- How's that compare to whatever you're doing here? - Well, I'm removing valuable features from our product so we can... - ...gouge our customers with the---upgrade. - Wow. Your life is a total waste. Not if I sell the power cord.": ("130303", "", " ", "--", -1),
     
     # TODO
 }
