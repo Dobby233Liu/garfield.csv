@@ -106,6 +106,7 @@ def cleanup(input_file, output):
     _proc_line = ("-" + _proc_line).strip() # This may need to get fixed
     _proc_line = "\n- ".join(_proc_line.split("- "))
     _proc_line = "\n- ".join(_proc_line.split(" -"))
+    _proc_line = "\n-\n- ".join(_proc_line.split("--"))
     _proc_line = " ->".join(_proc_line.split("\n- >")) # FIXME: sus
     _proc_line = stripm(_proc_line)
 
