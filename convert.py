@@ -50,7 +50,7 @@ def cleanup(input_file, output):
 
     for line in f:
 
-        if line == ("-" * len(line)) or _loop_line == ("." * len(_loop_line)):
+        if line == ("-" * len(line)) or line == ("." * len(line)):
             continue
 
         _sub_comicid = ("", "", "", "", "")
