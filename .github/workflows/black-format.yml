@@ -20,7 +20,7 @@ jobs:
         ACTOR: ${{ github.actor }}
         GH_EMAIL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        ACTOR_EMAIL=$(curl -H "Authorization: token $GH_EMAIL_TOKEN" "https://api.github.com/users/$ACTOR" --silent \ | sed -nE 's#^.*"email": "([^"]+)",.*$#\1#p')
+        ACTOR_EMAIL=$(curl -H "Authorization: token $GH_EMAIL_TOKEN" "https://api.github.com/users/$ACTOR" --silent | sed -nE 's#^.*"email": "([^"]+)",.*$#\1#p')
         CMSG="[skip ci] routine formatting\n\
         \n\
         \n\
