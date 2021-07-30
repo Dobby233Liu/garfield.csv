@@ -1,8 +1,8 @@
-on: [workflow_dispatch]
+on: [workflow_dispatch, push]
 
 jobs:
   format:
-    if: github.event == 'workflow_dispatch' && github.actor == 'Dobby233Liu'
+    if: github.actor == 'Dobby233Liu'
     runs-on: ubuntu-latest
     steps:
     - uses: actions/setup-python@v2
