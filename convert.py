@@ -105,7 +105,7 @@ def cleanup(input_file, output):
     _proc_line = splitline(_proc_line)
     _proc_line = re.sub("(\s)+", r"\1", _proc_line)
     writer.writerow(
-        [_proc_line, _sub_comicid[0]]
+        [_proc_line, comicid[0]]
     )
 
     return
