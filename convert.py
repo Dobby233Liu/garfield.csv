@@ -38,7 +38,6 @@ def cleanup(input_file, output):
             line = f.readline().strip()
             yield line
         return
-    f = line_iterator(input_file)
     
     writer = csv.writer(output)
     writer.writerow(["transcript", "comic_id"])
@@ -48,7 +47,7 @@ def cleanup(input_file, output):
     _proc_line = ""
     comicid = ("", "", "", "", "")
 
-    for line in f:
+    for line in iter(line_iterator(input_file)):
         print(line)
         raise Exception("l")
         if line == ("-" * len(line)) or line == ("." * len(line)):
