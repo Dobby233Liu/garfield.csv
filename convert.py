@@ -50,6 +50,9 @@ def cleanup(input_file, output):
 
     for line in f:
 
+        if line == ("-" * len(line)) or _loop_line == ("." * len(_loop_line)):
+            continue
+
         _sub_comicid = ("", "", "", "", "")
 
         # search for comicid
