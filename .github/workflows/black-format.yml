@@ -1,0 +1,29 @@
+on: [workflow_dispatch]
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+    - uses: actions/checkout@v2
+    - uses: fregante/setup-git-user@v1
+    - run: git pull --rebase
+    - run: pip install black
+    - run: |
+        python -m black **/*.py || true
+        python -m black *.py
+    - continue-on-error: true
+      env:
+        ACTOR: ${{ github.actor }}
+        GH_EMAIL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        ACTOR_EMAIL=$ACTOR@users.noreply.github.com
+        CMSG="[skip ci] routine formatting\n\
+        \n\
+        \n\
+        Co-authored-by: $ACTOR <$ACTOR_EMAIL>"
+        printf "$CMSG"
+        git commit -am "$CMSG"
+        git push
