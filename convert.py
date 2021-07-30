@@ -106,6 +106,6 @@ def cleanup(input_file, output):
 
         intro = False
 
-    post()
+    _post()
 
     return
