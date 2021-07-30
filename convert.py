@@ -72,8 +72,8 @@ def cleanup(input_file, output):
             traceback.print_exc(file=sys.stderr)
             print("\n\nLine text:\n%s" % line, file=sys.stderr)
             print("-" * 20, file=sys.stderr)
-            if not intro and not introline_invaild:
-                be_there = True
+            #if not intro and not introline_invaild:
+            #    be_there = True
 
         if (not intro and comicid[0] != _sub_comicid[0]) or be_there:
             # postprocessing - write and reset EVERYTHING
