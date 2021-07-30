@@ -108,7 +108,8 @@ def cleanup(input_file, output):
 
         # postprocessing
         def splitline(text):
-            text = re.sub(r"((\s+|^)-+(\s+|[^\S]+|))", "\n", text, flags=re.I).strip()
+            # Lazy version - revert if problematic
+            text = re.sub(r"(\s+|^|)-(\s+|[^\S]+|)", "\n", text, flags=re.I).strip()
             arr = text.splitlines()
             text = "\n".join(list(map(lambda x: "- " + x.strip(), arr)))
             return text.strip()
