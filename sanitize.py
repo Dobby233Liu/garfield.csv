@@ -6,10 +6,11 @@ bad = False
 reject = False
 num = 0
 
-def eprint(*args, **kwargs):
-  print('', end='', flush=True, file=sys.stdout)
-  print('', end='', flush=True, file=sys.stderr)
-  print(*args, **kwargs, file=sys.stderr)
+#def eprint(*args, **kwargs):
+#  print('', end='', flush=True, file=sys.stdout)
+#  print('', end='', flush=True, file=sys.stderr)
+#  print(*args, **kwargs, file=sys.stderr)
+eprint = print
 
 with open(sys.argv[1]) as f:
   try:
