@@ -1,4 +1,4 @@
-on: [workflow_dispatch]
+on: [workflow_dispatch, push]
 
 jobs:
   format:
@@ -20,10 +20,11 @@ jobs:
         ACTOR: ${{ github.actor }}
         GH_EMAIL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        npm install -g github-email
-        ACTOR_EMAIL=$(github-email $ACTOR)
-        git commit -am "[skip ci] routine formatting\
-        \
-        \
+        ACTOR_EMAIL=$(curl -H "Authorization: token $GH_EMAIL_TOKEN" "https://api.github.com/users/$ACTOR" --silent \ | sed -nE 's#^.*"email": "([^"]+)",.*$#\1#p')
+        CMSG="[skip ci] routine formatting\n\
+        \n\
+        \n\
         Co-authored-by: $ACTOR <$ACTOR_EMAIL>"
+        printf $CMSG
+        git commit -am $CMSG
         git push
