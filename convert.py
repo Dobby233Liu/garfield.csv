@@ -4,12 +4,14 @@ import sys
 import traceback
 from quirk_fixer import find_first_comicid_quirkfix
 
+
 def splitline(text):
     # Lazier but works version - revert further if problematic
     text = re.sub(r"(\s+|^)-", "\n", text, flags=re.I).strip()
     arr = text.splitlines()
     text = "\n".join(list(map(lambda x: "- " + x.strip(), arr)))
     return text.strip()
+
 
 def find_first_comicid(line):
     fix = find_first_comicid_quirkfix(line)
@@ -37,15 +39,15 @@ def find_first_comicid(line):
     except Exception as e:
         raise IndexError("Can't find comicid") from e
 
-def cleanup(input_file, output):
 
+def cleanup(input_file, output):
     def line_iterator(f):
         line = True
         while line:
             line = f.readline().strip()
             yield line
         return
-    
+
     writer = csv.writer(output)
     writer.writerow(["transcript", "comic_id"])
 
@@ -93,25 +95,25 @@ def cleanup(input_file, output):
                 print("\n\nLine text:\n%s" % line, file=sys.stderr)
                 print("-" * 20, file=sys.stderr)
 
-        _proc_line += (" " if not intro else "") + (line[
-            (
-                _sub_comicid[5]
-                if len(_sub_comicid) >= 6 and _sub_comicid[5] > -1
-                else len(
-                    _sub_comicid[0]
-                    + _sub_comicid[2]
-                    + _sub_comicid[3]
-                    + _sub_comicid[4]
-                )
-            ) :
-        ])
+        _proc_line += (" " if not intro else "") + (
+            line[
+                (
+                    _sub_comicid[5]
+                    if len(_sub_comicid) >= 6 and _sub_comicid[5] > -1
+                    else len(
+                        _sub_comicid[0]
+                        + _sub_comicid[2]
+                        + _sub_comicid[3]
+                        + _sub_comicid[4]
+                    )
+                ) :
+            ]
+        )
 
         intro = False
 
     _proc_line = splitline(_proc_line)
     _proc_line = re.sub("(\s)+", r"\1", _proc_line)
-    writer.writerow(
-        [_proc_line, comicid[0]]
-    )
+    writer.writerow([_proc_line, comicid[0]])
 
     return
