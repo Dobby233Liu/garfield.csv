@@ -19,8 +19,8 @@ comicids_fix = {
   "130204 -- Should we buy the maintenance plan or just take our chances? What do you prefer? - I prefer to punish you for the maintenance plan and going over budget. But I also don't mind firing you for not buying if we later need it. - Which one of us has": ("130304", "", " ", "--", " ", -1),
   "130204 -- a better job?": ("130304", "", " ", "--", " ", -1),
   "160424 -- There's no reason to over-engineer it. I can respect that.": ("160624", "", " ", "--", " ", -1),
-  "180919 -- I fell in love with a chatbot. - We met on a plumbing supply website. - It started innocently. I had a few questions about faucets. - Next thing I knew, she was getting flirty. - Now we chat for hours every night. - That is the most pathetic": ("180818", "", " ", "--", " ", -1),
-  "180919 -- thing I have ever heard, you creepy loser. - - Does your chatbot have a sister?": ("180818", "", " ", "--", " ", -1),
+  "180919 -- I fell in love with a chatbot. - We met on a plumbing supply website. - It started innocently. I had a few questions about faucets. - Next thing I knew, she was getting flirty. - Now we chat for hours every night. - That is the most pathetic": ("180819", "", " ", "--", " ", -1),
+  "180919 -- thing I have ever heard, you creepy loser. - - Does your chatbot have a sister?": ("180819", "", " ", "--", " ", -1),
   "190110 -- don't see why the three of us need to go to lunch. - It's just the two of you. I'm busy tomorrow. - I hear you're a lot like me. Sadly, yes.": ("190210", "", " ", "--", " ", -1),
   "190111 -- Dilbert, I want you to invent a device that can scrub 100% of the CO2 out of the air. - 100%??? That would kill every plant in the world. - Do you know what that would mean for humans? Does the answer involve salad?": ("190211", "", " ", "--", " ", -1),
   # TODO
