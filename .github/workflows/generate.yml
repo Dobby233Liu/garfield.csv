@@ -26,7 +26,7 @@ jobs:
 
       # cp1250 -sig utf-8
       #- run: python enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt cp858 utf-8
-      - run: iconv -f CP858 -t UTF-8 ${{ runner.temp }}/${{ matrix.file }}.txt > ${{ matrix.file }}.txt
+      - run: iconv -f ISO8859-15 -t UTF-8 ${{ runner.temp }}/${{ matrix.file }}.txt > ${{ matrix.file }}.txt
       - uses: actions/upload-artifact@v2
         with:
           path: ${{ matrix.file }}.txt
