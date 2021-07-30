@@ -9,12 +9,12 @@ jobs:
       with:
         python-version: 3.x
     - uses: actions/checkout@v2
+    - uses: fregante/setup-git-user@v1
+    - run: git pull --rebase
     - run: pip install black
     - run: |
         python -m black **/*.py || true
         python -m black *.py
-    - uses: fregante/setup-git-user@v1
-    - run: git pull --rebase
     - continue-on-error: true
       env:
         ACTOR: ${{ github.actor }}
