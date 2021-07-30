@@ -15,7 +15,7 @@ jobs:
     - continue-on-error: true
       env:
         ACTOR: ${{ github.actor }}
-        GH_EMAIL_TOKEN: ${{ secret.GITHUB_TOKEN }}
+        GH_EMAIL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         npm install -g github-email
         ACTOR_EMAIL=$(github-email $ACTOR)
