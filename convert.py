@@ -1,4 +1,4 @@
-import re
+import re, random
 import csv
 import sys
 import traceback
@@ -55,7 +55,7 @@ def cleanup(input_file, output):
     comicid = ("", "", "", "", "")
     _sub_comicid = ("", "", "", "", "")
 
-    for line in iter(line_iterator(input_file)):
+    for line in line_iterator(input_file):
         if line == ("-" * len(line)) or line == ("." * len(line)):
             continue
 
@@ -101,6 +101,8 @@ def cleanup(input_file, output):
                 )
             ) :
         ]
+        if random.randint(0,333)==111:
+            print(_proc_line)
 
         intro = False
 
