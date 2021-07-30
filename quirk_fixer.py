@@ -1,5 +1,6 @@
 """
 Fills the blank of the automagic with human fixups.
+Warning: Please make sure these texts are in UTF-8!!!
 """
 
 # Lookup table to fix comicids
@@ -23,6 +24,15 @@ comicids_fix = {
   "180919 -- thing I have ever heard, you creepy loser. - - Does your chatbot have a sister?": ("180819", "", " ", "--", " ", -1),
   "190110 -- don't see why the three of us need to go to lunch. - It's just the two of you. I'm busy tomorrow. - I hear you're a lot like me. Sadly, yes.": ("190210", "", " ", "--", " ", -1),
   "190111 -- Dilbert, I want you to invent a device that can scrub 100% of the CO2 out of the air. - 100%??? That would kill every plant in the world. - Do you know what that would mean for humans? Does the answer involve salad?": ("190211", "", " ", "--", " ", -1),
+  # TODO
+
+  # Dilbert (in Deutsch)
+  # TODO
+
+  # Drabble
+  # TODO
+
+  # Garfield
   # TODO
 }
 
