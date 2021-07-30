@@ -75,7 +75,7 @@ def cleanup(input_file, output):
             if not intro and not introline_invaild:
                 be_there = True
 
-        if (not intro and comicid[0] != _sub_comicid[0]) or be_there: 
+        if (not intro and comicid[0] != _sub_comicid[0]) or be_there:
             # postprocessing - write and reset EVERYTHING
             _proc_line = splitline(_proc_line)
             _proc_line = re.sub("(\s)+", r"\1", _proc_line)
@@ -85,9 +85,13 @@ def cleanup(input_file, output):
             intro = True
             introline_invaild = False
             _proc_line = ""
-            comicid = ("", "", "", "", "")
-            _sub_comicid = ("", "", "", "", "")
-            continue
+            try:
+                comicid = _sub_comicid = find_first_comicid(line)
+            except IndexError as e:
+                introline_invaild = True
+                traceback.print_exc(file=sys.stderr)
+                print("\n\nLine text:\n%s" % line, file=sys.stderr)
+                print("-" * 20, file=sys.stderr)
 
         _proc_line += line[
             (
@@ -101,8 +105,6 @@ def cleanup(input_file, output):
                 )
             ) :
         ]
-        if random.randint(0,333)==111:
-            print(_proc_line)
 
         intro = False
 
