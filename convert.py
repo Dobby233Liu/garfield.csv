@@ -75,7 +75,7 @@ def cleanup(input_file, output):
             if not intro and not introline_invaild:
                 be_there = True
 
-        def post():
+        if (not intro and comicid[0] != _sub_comicid[0]) or be_there: 
             # postprocessing - write and reset EVERYTHING
             _proc_line = splitline(_proc_line)
             _proc_line = re.sub("(\s)+", r"\1", _proc_line)
@@ -87,8 +87,6 @@ def cleanup(input_file, output):
             _proc_line = ""
             comicid = ("", "", "", "", "")
             _sub_comicid = ("", "", "", "", "")
-        if (not intro and comicid[0] != _sub_comicid[0]) or be_there: 
-            post()
             continue
 
         _proc_line += line[
