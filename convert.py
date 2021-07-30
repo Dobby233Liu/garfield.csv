@@ -46,31 +46,30 @@ def cleanup(input_file, output):
     introline_invaild = False
     _proc_line = ""
     comicid = ("", "", "", "", "")
+    _post = None
 
     for line in iter(line_iterator(input_file)):
-        print(line)
-        raise Exception("l")
         if line == ("-" * len(line)) or line == ("." * len(line)):
             continue
 
         _sub_comicid = ("", "", "", "", "")
+        be_there = False
 
         # search for comicid
         try:
+            _sub_comicid = find_first_comicid(line)
             if intro:
-                _sub_comicid = comicid = find_first_comicid(line)
-            else:
-                _sub_comicid = find_first_comicid(line)
+                comicid = _sub_comicid
         except IndexError as e:
             if intro:
                 introline_invaild = True
-            elif not introline_invaild:
-                continue
             traceback.print_exc(file=sys.stderr)
             print("\n\nLine text:\n%s" % line, file=sys.stderr)
             print("-" * 20, file=sys.stderr)
+            if not intro and not introline_invaild:
+                be_there = True
 
-        if not intro and comicid[0] != _sub_comicid[0]: 
+        def post():
             # postprocessing - write and reset EVERYTHING
             def splitline(text):
                 # Lazier but works version - revert further if problematic
@@ -87,6 +86,9 @@ def cleanup(input_file, output):
             introline_invaild = False
             _proc_line = ""
             comicid = ("", "", "", "", "")
+        _post = post
+        if (not intro and comicid[0] != _sub_comicid[0]) or be_there: 
+            post()
             continue
 
         _proc_line += line[
@@ -103,5 +105,7 @@ def cleanup(input_file, output):
         ]
 
         intro = False
+
+    post()
 
     return
