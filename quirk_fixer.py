@@ -28,13 +28,13 @@ comicids_fix = {
   # TODO - you can use search in the website
 
   # Dilbert (in Deutsch)
-  # TODO - what the fuck
+  # TODO - it's unoffical, gonna take me a while. only offical i18n is https://www.gocomics.com/dilbert-en-espanol
 
   # Drabble
-  # TODO - needs effort
+  # TODO - needs some effort
 
   # Garfield
-  # TODO - lasagna.cz is destroyed
+  # TODO - lasagna.cz good
 }
 
 def find_first_comicid_quirkfix(text):
