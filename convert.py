@@ -54,7 +54,7 @@ def cleanup(input_file, output):
 
         # search for comicid
         try:
-            if intro == True:
+            if intro:
                 _sub_comicid = comicid = find_first_comicid(line)
             else:
                 _sub_comicid = find_first_comicid(line)
