@@ -6,7 +6,8 @@ Warning: Please make sure these texts are in UTF-8!!!
 # Lookup table to fix comicids
 # Contains exact lines from the files.
 # There are A LOT of these. enjoy free reading!
-# line: (...comicid regex params, actual clip length)
+# LINE FORMAT: "exact text of stripped line": (...(comicid regex params), int(actual clip length))
+# That makes this a nightmare
 comicids_fix = {
   # Dilbert
   "980626 -- Your performance was excellent, but there's no bonus this year - Why not? - The company lost a fortune in the Elbonian currency collapse. - But in a way, it's your own fault for working here. - Thanks. - That takes the sting out.": ("980826", "", " ", "--", " ", -1),
@@ -24,16 +25,16 @@ comicids_fix = {
   "180919 -- thing I have ever heard, you creepy loser. - - Does your chatbot have a sister?": ("180819", "", " ", "--", " ", -1),
   "190110 -- don't see why the three of us need to go to lunch. - It's just the two of you. I'm busy tomorrow. - I hear you're a lot like me. Sadly, yes.": ("190210", "", " ", "--", " ", -1),
   "190111 -- Dilbert, I want you to invent a device that can scrub 100% of the CO2 out of the air. - 100%??? That would kill every plant in the world. - Do you know what that would mean for humans? Does the answer involve salad?": ("190211", "", " ", "--", " ", -1),
-  # TODO
+  # TODO - you can use search in the website
 
   # Dilbert (in Deutsch)
-  # TODO
+  # TODO - what the fuck
 
   # Drabble
-  # TODO
+  # TODO - needs effort
 
   # Garfield
-  # TODO
+  # TODO - lasagna.cz is destroyed
 }
 
 def find_first_comicid_quirkfix(text):
