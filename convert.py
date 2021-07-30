@@ -107,13 +107,13 @@ def cleanup(input_file, output):
                 _skip_ahead += 1
 
         # postprocessing
-        _proc_line = re.sub("(\s)+", r"\1", _proc_line)
         def splitline(text):
             text = re.sub("((\s+|)-+(\s+|[^\S]+))", "\n", text).strip()
             arr = text.splitlines()
-            text = "\n".join(list(map(lambda x: "- " + x.strip(), arr))).strip()
-            return text
+            text = "\n".join(list(map(lambda x: "- " + x.strip(), arr)))
+            return text.strip()
         _proc_line = splitline(_proc_line)
+        _proc_line = re.sub("(\s)+", r"\1", _proc_line)
 
         writer.writerow(
             [_proc_line, comicid[0]]
