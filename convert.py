@@ -4,28 +4,12 @@ import sys
 import traceback
 from quirk_fixer import find_first_comicid_quirkfix
 
-
-def stripm(text):
-
-    arr = text.splitlines()
-    ret = ""
-
-    for i in arr:
-        ret = ret + i.strip() + "\n"
-
-    ret = ret.strip()
-
-    return ret
-
-
 def find_first_comicid(line, ln=None):
-
     fix = find_first_comicid_quirkfix(line)
     if fix != None:
         return fix
 
     try:
-
         # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
         # [0] [0] full id [1] comic [2] nothing [3] sep
         result = re.findall(
@@ -43,11 +27,8 @@ def find_first_comicid(line, ln=None):
             )
 
         return result[0]
-
     except Exception as e:
-
         raise IndexError("Can't find comicid for line number %s" % ln) from e
-
 
 def cleanup(input_file, output):
 
@@ -130,11 +111,15 @@ def cleanup(input_file, output):
 
         # postprocessing
         _proc_line = re.sub("(\s)+", r"\1", _proc_line)
-        _proc_line = ("-" + _proc_line).strip()  # This may need to get fixed
-        _proc_line = "\n- ".join(_proc_line.split("- "))
-        _proc_line = "\n- ".join(_proc_line.split(" -"))
-        _proc_line = " ->".join(_proc_line.split("\n- >"))  # FIXME: sus
-        _proc_line = stripm(_proc_line)
+        def splitline(text):
+            text = ("-" + _proc_line).strip()  # This may need to get fixed
+            text = "\n- ".join(_proc_line.split("- "))
+            text = "\n- ".join(_proc_line.split(" -"))
+            text = " ->".join(_proc_line.split("\n- >")) # FIXME: sus
+            arr = text.splitlines()
+            arr = list(map(lambda x: x.strip(), arr))
+            return "\n".join(arr)
+        _proc_line = splitline(_proc_line)
 
         writer.writerow(
             [_proc_line, comicid[0]]
