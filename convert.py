@@ -4,6 +4,13 @@ import sys
 import traceback
 from quirk_fixer import find_first_comicid_quirkfix
 
+def splitline(text):
+    # Lazier but works version - revert further if problematic
+    text = re.sub(r"(\s+|^)-", "\n", text, flags=re.I).strip()
+    arr = text.splitlines()
+    text = "\n".join(list(map(lambda x: "- " + x.strip(), arr)))
+    return text.strip()
+
 def find_first_comicid(line):
     fix = find_first_comicid_quirkfix(line)
     if fix != None:
@@ -46,7 +53,6 @@ def cleanup(input_file, output):
     introline_invaild = False
     _proc_line = ""
     comicid = ("", "", "", "", "")
-    _post = None
 
     for line in iter(line_iterator(input_file)):
         if line == ("-" * len(line)) or line == ("." * len(line)):
@@ -71,12 +77,6 @@ def cleanup(input_file, output):
 
         def post():
             # postprocessing - write and reset EVERYTHING
-            def splitline(text):
-                # Lazier but works version - revert further if problematic
-                text = re.sub(r"(\s+|^)-", "\n", text, flags=re.I).strip()
-                arr = text.splitlines()
-                text = "\n".join(list(map(lambda x: "- " + x.strip(), arr)))
-                return text.strip()
             _proc_line = splitline(_proc_line)
             _proc_line = re.sub("(\s)+", r"\1", _proc_line)
             writer.writerow(
@@ -86,7 +86,6 @@ def cleanup(input_file, output):
             introline_invaild = False
             _proc_line = ""
             comicid = ("", "", "", "", "")
-        _post = post
         if (not intro and comicid[0] != _sub_comicid[0]) or be_there: 
             post()
             continue
@@ -106,6 +105,10 @@ def cleanup(input_file, output):
 
         intro = False
 
-    _post()
+    _proc_line = splitline(_proc_line)
+    _proc_line = re.sub("(\s)+", r"\1", _proc_line)
+    writer.writerow(
+        [_proc_line, comicid[0]]
+    )
 
     return
