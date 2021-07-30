@@ -49,7 +49,8 @@ def cleanup(input_file, output):
     comicid = ("", "", "", "", "")
 
     for line in f:
-
+        print(line)
+        raise Exception("l")
         if line == ("-" * len(line)) or line == ("." * len(line)):
             continue
 
