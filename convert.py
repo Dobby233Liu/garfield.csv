@@ -91,7 +91,7 @@ def cleanup(input_file, output):
 
             # Quirk fix stuff inside
             _proc_line += (
-                " "
+                "-" if i2 == 0 else "" + " "
                 + _loop_line[
                     (
                         _sub_comicid[5]
@@ -111,14 +111,10 @@ def cleanup(input_file, output):
 
         # postprocessing
         _proc_line = re.sub("(\s)+", r"\1", _proc_line)
-        def splitline(text):
-            text = ("-" + _proc_line).strip()  # This may need to get fixed
-            text = "\n- ".join(_proc_line.split("- "))
-            text = "\n- ".join(_proc_line.split(" -"))
-            text = " ->".join(_proc_line.split("\n- >")) # FIXME: sus
+        def splitline(text)
             arr = text.splitlines()
-            arr = list(map(lambda x: x.strip(), arr))
-            return "\n".join(arr)
+            text = "\n".join(list(map(lambda x: x.strip(), arr)))
+            re.sub("((\s+|)-+(\s+|[^\S]+))", "\n", text).strip()
         _proc_line = splitline(_proc_line)
 
         writer.writerow(
