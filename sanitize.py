@@ -7,6 +7,8 @@ reject = False
 num = 0
 
 def eprint(*args, **kwargs):
+  print('', end='', flush=True, file=sys.stdout)
+  print('', end='', flush=True, file=sys.stderr)
   print(*args, **kwargs, file=sys.stderr)
 
 with open(sys.argv[1]) as f:
