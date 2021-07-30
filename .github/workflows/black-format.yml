@@ -25,6 +25,6 @@ jobs:
         \n\
         \n\
         Co-authored-by: $ACTOR <$ACTOR_EMAIL>"
-        printf $CMSG
-        git commit -am $CMSG
+        printf "$CMSG"
+        git commit -am "$CMSG"
         git push
