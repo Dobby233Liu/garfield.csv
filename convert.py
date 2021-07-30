@@ -82,7 +82,6 @@ def cleanup(input_file, output):
             writer.writerow(
                 [_proc_line, comicid[0]]
             )  # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
-            intro = True
             introline_invaild = False
             _proc_line = ""
             comicid = _sub_comicid
