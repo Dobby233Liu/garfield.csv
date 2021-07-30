@@ -1,31 +1,22 @@
-import re
+import re, random
 import csv
 import sys
 import traceback
 from quirk_fixer import find_first_comicid_quirkfix
 
-
-def stripm(text):
-
+def splitline(text):
+    # Lazier but works version - revert further if problematic
+    text = re.sub(r"(\s+|^)-", "\n", text, flags=re.I).strip()
     arr = text.splitlines()
-    ret = ""
+    text = "\n".join(list(map(lambda x: "- " + x.strip(), arr)))
+    return text.strip()
 
-    for i in arr:
-        ret = ret + i.strip() + "\n"
-
-    ret = ret.strip()
-
-    return ret
-
-
-def find_first_comicid(line, ln=None):
-
+def find_first_comicid(line):
     fix = find_first_comicid_quirkfix(line)
     if fix != None:
         return fix
 
     try:
-
         # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
         # [0] [0] full id [1] comic [2] nothing [3] sep
         result = re.findall(
@@ -43,101 +34,84 @@ def find_first_comicid(line, ln=None):
             )
 
         return result[0]
-
     except Exception as e:
-
-        raise IndexError("Can't find comicid for line number %s" % ln) from e
-
+        raise IndexError("Can't find comicid") from e
 
 def cleanup(input_file, output):
 
-    lines = input_file.readlines()  # WARNING: this is bad, but is fine for now
+    def line_iterator(f):
+        line = True
+        while line:
+            line = f.readline().strip()
+            yield line
+        return
+    
     writer = csv.writer(output)
-
     writer.writerow(["transcript", "comic_id"])
 
-    _skip_ahead = 0
+    intro = True
+    introline_invaild = False
+    _proc_line = ""
+    comicid = ("", "", "", "", "")
+    _sub_comicid = ("", "", "", "", "")
 
-    for i in range(len(lines)):
-
-        if _skip_ahead >= 1:
-            _skip_ahead = _skip_ahead - 1
-            continue
-
-        line = lines[i].strip()
+    for line in line_iterator(input_file):
         if line == ("-" * len(line)) or line == ("." * len(line)):
             continue
 
-        # find comicid for intro line first (for merging lines together)
-        introline_invaild = False
-        comicid = ("", "", "", "")
+        be_there = False
+
+        # search for comicid
         try:
-            comicid = find_first_comicid(line, ln=i)
+            _sub_comicid = find_first_comicid(line)
+            if intro:
+                comicid = _sub_comicid
         except IndexError as e:
-            introline_invaild = True
+            if intro:
+                introline_invaild = True
             traceback.print_exc(file=sys.stderr)
-            print("\n(While parsing intro line. Line:)\n%s" % line, file=sys.stderr)
+            print("\n\nLine text:\n%s" % line, file=sys.stderr)
             print("-" * 20, file=sys.stderr)
+            if not intro and not introline_invaild:
+                be_there = True
 
-        _proc_line = ""
-
-        # hack to merge lines to one
-        for i2 in range(len(lines) - i):
-
-            _loop_line = lines[i + i2].strip()
-            if (_loop_line == "-" * len(_loop_line)) or _loop_line == (
-                "." * len(_loop_line)
-            ):
-                _skip_ahead += 1
-                continue
-
-            _sub_comicid = ("", "", "", "")
+        if (not intro and comicid[0] != _sub_comicid[0]) or be_there:
+            # postprocessing - write and reset EVERYTHING
+            _proc_line = splitline(_proc_line)
+            _proc_line = re.sub("(\s)+", r"\1", _proc_line)
+            writer.writerow(
+                [_proc_line, _sub_comicid[0]]
+            )  # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
+            intro = True
+            introline_invaild = False
+            _proc_line = ""
             try:
-                _sub_comicid = find_first_comicid(_loop_line, ln=i + i2)
+                comicid = _sub_comicid = find_first_comicid(line)
             except IndexError as e:
-                if not introline_invaild:
-                    break
-                if i2 > 0:
-                    traceback.print_exc(file=sys.stderr)
-                    print(
-                        "\n(While parsing secondary lines. Line:)\n%s" % _loop_line,
-                        file=sys.stderr,
-                    )
-                    print("-" * 20, file=sys.stderr)
+                introline_invaild = True
+                traceback.print_exc(file=sys.stderr)
+                print("\n\nLine text:\n%s" % line, file=sys.stderr)
+                print("-" * 20, file=sys.stderr)
 
-            if comicid[0] != _sub_comicid[0]:
-                break
+        _proc_line += line[
+            (
+                _sub_comicid[5]
+                if len(_sub_comicid) >= 6 and _sub_comicid[5] > -1
+                else len(
+                    _sub_comicid[0]
+                    + _sub_comicid[2]
+                    + _sub_comicid[3]
+                    + _sub_comicid[4]
+                )
+            ) :
+        ]
 
-            # Quirk fix stuff inside
-            _proc_line += (
-                " "
-                + _loop_line[
-                    (
-                        _sub_comicid[5]
-                        if len(_sub_comicid) >= 6 and _sub_comicid[5] > -1
-                        else len(
-                            _sub_comicid[0]
-                            + _sub_comicid[2]
-                            + _sub_comicid[3]
-                            + _sub_comicid[4]
-                        )
-                    ) :
-                ]
-            )
+        intro = False
 
-            if i2 > 0:
-                _skip_ahead += 1
-
-        # postprocessing
-        _proc_line = re.sub("(\s)+", r"\1", _proc_line)
-        _proc_line = ("-" + _proc_line).strip()  # This may need to get fixed
-        _proc_line = "\n- ".join(_proc_line.split("- "))
-        _proc_line = "\n- ".join(_proc_line.split(" -"))
-        _proc_line = " ->".join(_proc_line.split("\n- >"))  # FIXME: sus
-        _proc_line = stripm(_proc_line)
-
-        writer.writerow(
-            [_proc_line, comicid[0]]
-        )  # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
+    _proc_line = splitline(_proc_line)
+    _proc_line = re.sub("(\s)+", r"\1", _proc_line)
+    writer.writerow(
+        [_proc_line, _sub_comicid[0]]
+    )
 
     return
