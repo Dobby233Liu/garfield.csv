@@ -9,7 +9,9 @@ jobs:
       with:
         python-version: 3.x
     - run: pip install black
-    - run: "python -m black **/*.py"
+    - run: |
+        python -m black **/*.py || true
+        python -m black *.py
     - uses: fregante/setup-git-user@v1
     - run: git pull --rebase
     - continue-on-error: true
