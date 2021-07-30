@@ -1,0 +1,26 @@
+on: [workflow_dispatch]
+
+jobs:
+  format:
+    if: github.event == 'workflow_dispatch' && github.actor == 'Dobby233Liu'
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+    - run: pip install black
+    - run: "python -m black **/*.py"
+    - uses: fregante/setup-git-user@v1
+    - run: git pull --rebase
+    - continue-on-error: true
+      env:
+        ACTOR: ${{ github.actor }}
+        GH_EMAIL_TOKEN: ${{ secret.GITHUB_TOKEN }}
+      run: |
+        npm install -g github-email
+        ACTOR_EMAIL=$(github-email $ACTOR)
+        git commit -am "[skip ci] routine formatting\
+        \
+        \
+        Co-authored-by: $ACTOR <$ACTOR_EMAIL>"
+        git push
