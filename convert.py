@@ -53,12 +53,12 @@ def cleanup(input_file, output):
     introline_invaild = False
     _proc_line = ""
     comicid = ("", "", "", "", "")
+    _sub_comicid = ("", "", "", "", "")
 
     for line in iter(line_iterator(input_file)):
         if line == ("-" * len(line)) or line == ("." * len(line)):
             continue
 
-        _sub_comicid = ("", "", "", "", "")
         be_there = False
 
         # search for comicid
@@ -80,12 +80,13 @@ def cleanup(input_file, output):
             _proc_line = splitline(_proc_line)
             _proc_line = re.sub("(\s)+", r"\1", _proc_line)
             writer.writerow(
-                [_proc_line, comicid[0]]
+                [_proc_line, _sub_comicid[0]]
             )  # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
             intro = True
             introline_invaild = False
             _proc_line = ""
             comicid = ("", "", "", "", "")
+            _sub_comicid = ("", "", "", "", "")
         if (not intro and comicid[0] != _sub_comicid[0]) or be_there: 
             post()
             continue
@@ -108,7 +109,7 @@ def cleanup(input_file, output):
     _proc_line = splitline(_proc_line)
     _proc_line = re.sub("(\s)+", r"\1", _proc_line)
     writer.writerow(
-        [_proc_line, comicid[0]]
+        [_proc_line, _sub_comicid[0]]
     )
 
     return
