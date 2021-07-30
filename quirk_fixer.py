@@ -113,5 +113,4 @@ comicids_fix = {
 
 
 def find_first_comicid_quirkfix(text):
-    fix = comicids_fix.get(text, None)
-    return fix
+    return comicids_fix.get(text, None)
