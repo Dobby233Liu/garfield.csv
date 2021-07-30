@@ -16,11 +16,14 @@ jobs:
         file: [de_dilbert, dilbert, drabble, garfield]
     steps:
       - uses: actions/checkout@v2
+
       - uses: actions/setup-python@v2
         with:
           python-version: '3.x'
+
       - run: wget http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/${{ matrix.file }}.txt
         working-directory: ${{ runner.temp }}
+
       # cp1250 -sig utf-8
       #- run: python enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt cp858 utf-8
       - run: iconv -f CP858 -t UTF-8 ${{ runner.temp }}/${{ matrix.file }}.txt > ${{ matrix.file }}.txt
@@ -28,7 +31,10 @@ jobs:
         with:
           path: ${{ matrix.file }}.txt
           name: original
+
       - run: python main.py ${{ matrix.file }}.txt ${{ matrix.file }}.csv
+      - run: python sanitize.py ${{ matrix.file }}.csv
+
       - uses: actions/upload-artifact@v2
         with:
           path: ${{ matrix.file }}.csv
@@ -39,7 +45,6 @@ jobs:
         with:
           path: ${{ matrix.file }}.sha256
           name: hashes
-      - run: python sanitize.py ${{ matrix.file }}.csv
   deploy-gh-pages:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
