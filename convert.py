@@ -72,10 +72,10 @@ def cleanup(input_file, output):
             traceback.print_exc(file=sys.stderr)
             print("\n\nLine text:\n%s" % line, file=sys.stderr)
             print("-" * 20, file=sys.stderr)
-            #if not intro and not introline_invaild:
-            #    be_there = True
+            if not intro and not introline_invaild:
+                be_there = True
 
-        if (not intro and comicid[0] != _sub_comicid[0]) or be_there:
+        if comicid[0] != _sub_comicid[0] or be_there:
             # postprocessing - write and reset EVERYTHING
             _proc_line = splitline(_proc_line)
             _proc_line = re.sub("(\s)+", r"\1", _proc_line)
@@ -93,7 +93,7 @@ def cleanup(input_file, output):
                 print("\n\nLine text:\n%s" % line, file=sys.stderr)
                 print("-" * 20, file=sys.stderr)
 
-        _proc_line += " " if not intro else "" + line[
+        _proc_line += (" " if not intro else "") + (line[
             (
                 _sub_comicid[5]
                 if len(_sub_comicid) >= 6 and _sub_comicid[5] > -1
@@ -104,7 +104,7 @@ def cleanup(input_file, output):
                     + _sub_comicid[4]
                 )
             ) :
-        ]
+        ])
 
         intro = False
 
