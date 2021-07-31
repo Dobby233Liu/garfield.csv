@@ -52,7 +52,7 @@ def cleanup(input_file, output):
     writer.writerow(["transcript", "comic_id"])
 
     intro = True
-    introline_invaild = False
+    #introline_invaild = False
     _proc_line = ""
     comicid = ("", "", "", "", "")
     _sub_comicid = ("", "", "", "", "")
@@ -61,7 +61,7 @@ def cleanup(input_file, output):
         if line == ("-" * len(line)) or line == ("." * len(line)):
             continue
 
-        be_there = False
+        #be_there = False
 
         # search for comicid
         try:
@@ -69,15 +69,15 @@ def cleanup(input_file, output):
             if intro:
                 comicid = _sub_comicid
         except IndexError as e:
-            if intro:
-                introline_invaild = True
+            #if intro:
+            #    introline_invaild = True
             traceback.print_exc(file=sys.stderr)
             print("\n\nLine text:\n%s" % line, file=sys.stderr)
             print("-" * 20, file=sys.stderr)
-            if not intro and not introline_invaild:
-                be_there = True
+            #if not intro and not introline_invaild:
+            #    be_there = True
 
-        if comicid[0] != _sub_comicid[0] or be_there:
+        if comicid[0] != _sub_comicid[0]:# or be_there:
             # postprocessing - write and reset EVERYTHING
             _proc_line = splitline(_proc_line)
             _proc_line = re.sub("(\s)+", r"\1", _proc_line)
