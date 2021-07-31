@@ -9999,3 +9999,4 @@ dr210727 -- That's right, kids! I'm officially a National Park Ranger! - How cou
 dr210728 -- A park ranger? What qualifications do you have to be a park ranger? - Are you kidding? I know that park like the back of my hand! - You got los there two weeks ago! - They gave me my own map! I only found you because I heard you crying!
 dr210729 -- But dad, in order to be a park ranger, you need to know a lot about wildlife! - Son, I've been a mall cop, an airport screener, and a pro wrestler! - Believe me, I'm a wildlife expert! He has a point!
 dr210730 -- I became a park ranger to enjoy nature... - And get away from the hustle and bustle of city life! - I never thought I'd be directing traffic!
+dr210731 -- I can't wait to see dad on duty as a park ranger! - Today he's working at the entrance! - What the... I'm back from lunch! Thanks for filling in! WELCOME
