@@ -193,6 +193,36 @@ comicids_fix = {
         " ", "--", " ",
         -1
     ),
+    "ga900928 -- Stop, Vermin. Eek. - You'll never escape. Help, help. - One of the great chase scenes. Z z": (
+        "ga900228",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga910125 -- Did you know that pets are good for exercise? - BURP -": (
+        "ga920125",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga930523 -- BANZAI! - SPLOOSH! - Why didn't you warn me we were having soup?": (
+        "ga920523",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga980311 -- I owe Odie an apology. - PUSH CRASH! - Now I owe him two.": (
+        "ga980331",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga001112 -- Dinner's running late. - Fine. - Any last words?": (
+        "ga011112",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
     # TODO - search on lasagna.cz or GoComics
 }
 
