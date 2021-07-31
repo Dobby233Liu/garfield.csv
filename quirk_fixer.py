@@ -149,6 +149,50 @@ comicids_fix = {
     # Drabble
     # TODO - needs some effort; search on GoComics
     # Garfield
+    "ga810102 -- Just what is a diet? - A diet is self-denial. - Fortunately, I'm such a swell fellow I haven't the heart to deny myself anything.": (
+        "ga820102",
+        "ga",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "ga830216 -- Rather than fix your breakfast every day, Garfield, I've decided to let you serve yourself. - - Maybe that wasn't such a good idea.": (
+        "ga820216",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga860610 -- zzzzzzzz - Hey, Garfield, when was the last time you saw my pet frog, Herbie? zzzzz - SNAK! At lunch.": (
+        "ga830610",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga900921 -- Here you goo, Pooky. - Hang on tight, now. - Sniff, they grow up so fast.": (
+        "ga900221",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga900922 -- Wanna go jogging? I'm busy. - Honestly, Garfield. I have the feeling you think more of that teddy bear than you do of me! - Pay no attention to ol' what's-his-name, Pookie.": (
+        "ga900222",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga900923 -- - - Gave your bear a bath? How'd you guess?": (
+        "ga900223",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga900924 -- Why is that teddy bear of mine always getting lost? Why can't I ever find him? - POOOOOOOO-KY! - And why am I cupping my hands over my mouth?": (
+        "ga900224",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
     # TODO - search on lasagna.cz or GoComics
 }
 
