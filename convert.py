@@ -7,7 +7,7 @@ from quirk_fixer import find_first_comicid_quirkfix
 
 def splitline(text):
     # Lazier but works version - revert further if problematic
-    text = re.sub(r"(\s+|^)-", "\n", text, flags=re.I).strip()
+    text = re.sub(r"(\s+|^)-", "\n", text, flags=re.I)
     arr = text.splitlines()
     text = "\n".join(list(map(lambda x: "- " + x.strip(), arr)))
     return text.strip()
