@@ -102,6 +102,46 @@ comicids_fix = {
         " ",
         -1,
     ),
+    "201120 -- We bought a start-up that makes autonomous drones armed with machine guns. - For use by the military? Good idea. I hadn't thought of that. - It's too dangerous for private use. You sound just like my neighbor when he still had a gazebo.": (
+        "200120",
+        "",
+        " ",
+        "--"
+        " ",
+        -1,
+    ),
+    "201021 -- I object to your Twitter profile. It says.. - \"My tweets are smart and usefull, so obviously they do not represent my employer.\" - SMORPH! Now see what you did to Wally.": (
+        "201221",
+        "",
+        " ",
+        "--"
+        " ",
+        -1,
+    ),
+    "201022 -- You are all required to complete a class in ethics. - Wouldn't that make us the only ethical organization in our industry and create a competitive disadvantage that leads to our demise? - Stop your worrying. The class is required, but I'm not": (
+        "201222",
+        "",
+        " ",
+        "--"
+        " ",
+        -1,
+    ),
+    "201022 -- expecting any of it to stick.": (
+        "201222",
+        "",
+        " ",
+        "--"
+        " ",
+        -1,
+    ),
+    "210105 -- I got the Covid-19 vaccination, so I'm feeling safe. - I feel sorry for you unvaccinated people who are marinating in a toxic soup of deadly viruses. - Thank you for your concern. Neener-neener.": (
+        "210205",
+        "",
+        " ",
+        "--"
+        " ",
+        -1,
+    ),
     # TODO - you can use search in the website
     # Dilbert (in Deutsch)
     # TODO - it's unoffical, gonna take me a while. only offical i18n is https://www.gocomics.com/dilbert-en-espanol
