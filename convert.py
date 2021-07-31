@@ -17,7 +17,7 @@ def find_first_comicid(line):
     try:
         fix = find_first_comicid_quirkfix(line)
         if fix != None:
-            if len(fix) >= 6:
+            if len(fix) < 6:
                 raise Exception("invaild")
             return fix
         # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
