@@ -38,6 +38,11 @@ with open(sys.argv[1]) as f:
         if tbad:
             eprint("-" * 20)
 
-if bad and reject:
-    print("This CSV file has failed the check.")
-    sys.exit(1)
+if bad:
+    eprint("This CSV file has errors.")
+else:
+    eprint("This CSV file has no errors.")
+if reject:
+    sys.exit(1 if bad else 0)
+elif bad:
+    eprint("Ignoring.")
