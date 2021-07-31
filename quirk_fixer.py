@@ -154,6 +154,6 @@ comicids_fix = {
 
 
 def find_first_comicid_quirkfix(text):
-    if "int" in type(comicids_fix.get(text, None)):
+    if "int" in str(type(comicids_fix.get(text, None))):
         raise Exception(text)
     return comicids_fix.get(text, None)
