@@ -1,6 +1,7 @@
 """
 Fills the blank of the automagic with human fixups.
 Warning: Please make sure these texts are in UTF-8!!!
+(The original texts are read in Latin-1)
 """
 
 # Lookup table to fix comicids
@@ -153,4 +154,6 @@ comicids_fix = {
 
 
 def find_first_comicid_quirkfix(text):
+    if "int" in type(comicids_fix.get(text, None)):
+        raise Exception(text)
     return comicids_fix.get(text, None)
