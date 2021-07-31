@@ -14,11 +14,11 @@ def splitline(text):
 
 
 def find_first_comicid(line):
-    fix = find_first_comicid_quirkfix(line)
-    if fix != None:
-        return fix
-
     try:
+        fix = find_first_comicid_quirkfix(line)
+        if fix != None:
+            " " + fix[0]
+            return fix
         # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
         # [0] [0] full id [1] comic [2] nothing [3] sep
         result = re.findall(
