@@ -223,6 +223,36 @@ comicids_fix = {
         " ", "--", " ",
         -1
     ),
+    "ga100130 -- Garfield, this is my life. - Cleaning up cat hair. - How sad is that? Now, about my litter box...": (
+        "ga140130",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga150203 -- My new year's resolution is to lose weight. - You? Lose WEIGHT?! Yeah... - I'm gettin' a real fly gut.": (
+        "ga150103",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga130505 -- I like to think of myself as smart. - Good for you. - I like to think of myself as skinny.": (
+        "ga150305",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga150416 -- - - WOOOOOOO! - Air guitar - - BURP - Air lasagna.": (
+        "ga150426",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga150314 -- You should watch less television. - Okay. - What channel is that on?": (
+        "ga150514",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
     # TODO - search on lasagna.cz or GoComics
 }
 
