@@ -145,11 +145,11 @@ comicids_fix = {
     ),
     # TODO - you can use search in the website
     # Dilbert (in Deutsch)
-    # TODO - it's unoffical, gonna take me a while. only offical i18n is https://www.gocomics.com/dilbert-en-espanol
+    # TODO - it's unoffical, gonna take me a while
     # Drabble
-    # TODO - needs some effort
+    # TODO - needs some effort; search on GoComics
     # Garfield
-    # TODO - lasagna.cz good
+    # TODO - search on lasagna.cz or GoComics
 }
 
 
