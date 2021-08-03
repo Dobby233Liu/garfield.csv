@@ -10002,3 +10002,4 @@ dr210730 -- I became a park ranger to enjoy nature... - And get away from the hu
 dr210731 -- I can't wait to see dad on duty as a park ranger! - Today he's working at the entrance! - What the... I'm back from lunch! Thanks for filling in! WELCOME
 dr210801 -- HMMMM Hello, Scooter! - HUMMM - HUMMM - It sure takes poor Scooter a long time to vacuum the house! HUMMMM - You know, you're right! - I had to open my mouth! HUMMM HUMMM HUMMMM
 dr210802 -- Exit Thank you for visiting Polecat National Park! - Drive safely! - It's a jungle out there!
+dr210803 -- Why do you kids stare at screens all day? - Why do you find it so interesting? - Why do you read that nonsense? - Mom puts the "why" in Wi-Fi!
