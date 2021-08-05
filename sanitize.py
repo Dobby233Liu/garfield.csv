@@ -15,6 +15,7 @@ eprint = print
 orig = []
 with open(sys.argv[1][:-3]+"txt") as of:
     orig = of.readlines()
+# Big hax
 def guess_actual_comicid(line, oldcmid, ids):
     signatures = list(map(lambda x: x.lstrip("- "), line.splitlines()))
     guess = None
@@ -27,7 +28,10 @@ def guess_actual_comicid(line, oldcmid, ids):
                 lastline = orig[_i-1]
                 #nextline = orig[_i+1]
                 lastcmid = lastline[:len(oldcmid)]
-                guess = oldcmid[:-2] + str(int(lastcmid[-2:])+1)
+                l = str(int(lastcmid[-2:])+1)
+                if len(l)<2:
+                    l = "0"+l
+                guess = oldcmid[:-2] + l
                 if guess in ids:
                     guess = None
                 break
