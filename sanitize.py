@@ -12,6 +12,29 @@ num = 0
 #  print(*args, **kwargs, file=sys.stderr)
 eprint = print
 
+orig = []
+with open(sys.argv[1][:--3]+"txt") as of:
+    orig = of.readlines()
+def guess_actual_comicid(line, oldcmid, ids):
+    signatures = list(map(lambda x: x.lstrip("- "), line.splitlines()))
+    guess = None
+    orig_line = None
+    for _i in range(len(orig)):
+        i = orig[_i]
+        for ii in signatures:
+            if ii in i and i.startswith(oldcmid):
+                orig_line = i
+                lastline = orig[_i-1]
+                #nextline = orig[_i+1]
+                lastcmid = lastline[:len(oldcmid)]
+                guess = oldcmid[:-2] + str(int(lastcmid[-2:])+1)
+                if guess in ids:
+                    guess = None
+                break
+    if guess:
+        eprint("guess granted, it may actually be "+guess)
+        eprint("orig line?: "+orig_line)
+
 with open(sys.argv[1]) as f:
     try:
         c = csv.reader(f)
@@ -34,6 +57,7 @@ with open(sys.argv[1]) as f:
             print(tsrts[magic])
             tbad = bad = True
             eprint("strip '%s' already exists in csv" % magic)
+            guess_actual_comicid(r[0], r[1], ids)
         ids.append(magic)
         if tbad:
             eprint("-" * 20)
