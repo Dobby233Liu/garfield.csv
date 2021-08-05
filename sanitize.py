@@ -34,8 +34,8 @@ def guess_actual_comicid(line, oldcmid, ids):
                 if len(l)<2:
                     l = "0"+l
                 guess = oldcmid[:-2] + l
-                if not nextline.startswith(guess[:-2]+str(int(guess[-2:])+1)) and nextline[:len(guess)] == guess:
-                    guess = guess
+                if not nextline.startswith(guess[:-2]+str(int(guess[-2:])+1)) and nextline[:len(guess)] != guess:
+                    guess = "a continuation of "+lastcmid
                 elif guess in ids:
                     guess = None
                 break
