@@ -21,25 +21,31 @@ def guess_actual_comicid(line, oldcmid, ids):
     guess = None
     orig_line = None
     prev_line = None
+    next_line = None
     for _i in range(len(orig)):
         i = orig[_i]
         for ii in signatures:
             if ii in i and i.startswith(oldcmid):
                 orig_line = i
                 prev_line = lastline = orig[_i-1]
-                #nextline = orig[_i+1]
+                next_line = nextline = orig[_i+1]
                 lastcmid = lastline[:len(oldcmid)]
                 l = str(int(lastcmid[-2:])+1)
                 if len(l)<2:
                     l = "0"+l
                 guess = oldcmid[:-2] + l
-                if guess in ids:
+                if not nextline.startswith(guess[:-2]+str(int(guess[-2:])+1)) and nextline[:len(guess)] == guess:
                     guess = "a contiunation of "+lastcmid
+                elseif guess in ids:
+                    guess = None
                 break
     if guess:
         eprint("\nTried to guess, it may actually be "+guess+" (check it yourselves, don't rely on me)")
-        eprint("Original line in txt file?: \n"+orig_line,end='')
         eprint("Prev line in txt file?: \n"+prev_line,end='')
+        eprint("Original line in txt file?: \n"+orig_line,end='')
+        eprint("Next line in txt file?: \n"+next_line,end='')
+    else:
+        eprint("\nTries to guess, failed terribly. check it yourselves!")
 
 with open(sys.argv[1]) as f:
     try:
