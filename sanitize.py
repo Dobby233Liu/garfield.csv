@@ -19,6 +19,7 @@ with open(sys.argv[1][:-3]+"txt") as of:
 def print_related_lines(line, comicid):
     signatures = list(map(lambda x: x.lstrip("- "), line.splitlines()))
     for _i in range(len(orig)):
+        i = orig[_i]
         for ii in signatures:
             if ii in i and i.strip().startswith(comicid):
                 eprint("\n")
