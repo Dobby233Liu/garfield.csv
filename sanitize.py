@@ -33,7 +33,7 @@ def guess_actual_comicid(line, oldcmid, ids):
                     l = "0"+l
                 guess = oldcmid[:-2] + l
                 if guess in ids:
-                    guess = None
+                    guess = "a contiunation of "+lastcmid
                 break
     if guess:
         eprint("guess granted, it may actually be "+guess)
