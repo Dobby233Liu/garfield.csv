@@ -36,7 +36,7 @@ def guess_actual_comicid(line, oldcmid, ids):
                     guess = "a contiunation of "+lastcmid
                 break
     if guess:
-        eprint("guess granted, it may actually be "+guess+" (check it yourself)")
+        eprint("\nTried to guess, it may actually be "+guess+" (check it yourself)")
         eprint("orig line?: "+orig_line,end='')
 
 with open(sys.argv[1]) as f:
