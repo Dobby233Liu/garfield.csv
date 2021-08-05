@@ -20,12 +20,13 @@ def guess_actual_comicid(line, oldcmid, ids):
     signatures = list(map(lambda x: x.lstrip("- "), line.splitlines()))
     guess = None
     orig_line = None
+    prev_line = None
     for _i in range(len(orig)):
         i = orig[_i]
         for ii in signatures:
             if ii in i and i.startswith(oldcmid):
                 orig_line = i
-                lastline = orig[_i-1]
+                prev_line = lastline = orig[_i-1]
                 #nextline = orig[_i+1]
                 lastcmid = lastline[:len(oldcmid)]
                 l = str(int(lastcmid[-2:])+1)
@@ -36,8 +37,9 @@ def guess_actual_comicid(line, oldcmid, ids):
                     guess = "a contiunation of "+lastcmid
                 break
     if guess:
-        eprint("\nTried to guess, it may actually be "+guess+" (check it yourself)")
-        eprint("orig line?: "+orig_line,end='')
+        eprint("\nTried to guess, it may actually be "+guess+" (check it yourselves, don't rely on me)")
+        eprint("Original line in txt file?: \n"+orig_line,end='')
+        eprint("Prev line in txt file?: \n"+prev_line,end='')
 
 with open(sys.argv[1]) as f:
     try:
