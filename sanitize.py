@@ -13,7 +13,7 @@ num = 0
 eprint = print
 
 orig = []
-with open(sys.argv[1][:--3]+"txt") as of:
+with open(sys.argv[1][:-3]+"txt") as of:
     orig = of.readlines()
 def guess_actual_comicid(line, oldcmid, ids):
     signatures = list(map(lambda x: x.lstrip("- "), line.splitlines()))
