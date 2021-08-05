@@ -16,36 +16,16 @@ orig = []
 with open(sys.argv[1][:-3]+"txt") as of:
     orig = of.readlines()
 # Big hax
-def guess_actual_comicid(line, oldcmid, ids):
+def print_related_lines(line):
     signatures = list(map(lambda x: x.lstrip("- "), line.splitlines()))
-    guess = None
-    orig_line = None
-    prev_line = None
-    next_line = None
     for _i in range(len(orig)):
-        i = orig[_i]
         for ii in signatures:
             if ii in i and i.startswith(oldcmid):
-                orig_line = i
-                prev_line = lastline = orig[_i-1]
-                next_line = nextline = orig[_i+1]
-                lastcmid = lastline[:len(oldcmid)]
-                l = str(int(lastcmid[-2:])+1)
-                if len(l)<2:
-                    l = "0"+l
-                guess = oldcmid[:-2] + l
-                if not nextline.startswith(guess[:-2]+str(int(guess[-2:])+1)) and nextline[:len(guess)] != guess:
-                    guess = "a continuation of "+lastcmid
-                elif guess in ids:
-                    guess = None
+                eprint("\n")
+                eprint(orig[_i-1], end='')
+                eprint(orig[_i], end='')
+                eprint(orig[_i+1], end='')
                 break
-    if guess:
-        eprint("\nTried to guess, it may actually be "+guess+" (check it yourselves, don't rely on me)")
-        eprint("Prev line in txt file?: \n"+prev_line,end='')
-        eprint("Original line in txt file?: \n"+orig_line,end='')
-        eprint("Next line in txt file?: \n"+next_line,end='')
-    else:
-        eprint("\nTries to guess, failed terribly. check it yourselves!")
 
 with open(sys.argv[1]) as f:
     try:
@@ -69,7 +49,8 @@ with open(sys.argv[1]) as f:
             print(tsrts[magic])
             tbad = bad = True
             eprint("strip '%s' already exists in csv" % magic)
-            guess_actual_comicid(r[0], r[1], ids)
+            for i in tsrts[magic]:
+                print_related_lines(i)
         ids.append(magic)
         if tbad:
             eprint("-" * 20)
