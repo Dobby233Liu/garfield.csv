@@ -16,15 +16,15 @@ orig = []
 with open(sys.argv[1][:-3]+"txt") as of:
     orig = of.readlines()
 # Big hax
-def print_related_lines(line):
+def print_related_lines(line, comicid):
     signatures = list(map(lambda x: x.lstrip("- "), line.splitlines()))
     for _i in range(len(orig)):
         for ii in signatures:
-            if ii in i and i.startswith(oldcmid):
+            if ii in i and i.strip().startswith(comicid):
                 eprint("\n")
-                eprint(orig[_i-1], end='')
-                eprint(orig[_i], end='')
-                eprint(orig[_i+1], end='')
+                eprint(orig[_i-1],end='')
+                eprint(orig[_i],end='')
+                eprint(orig[_i+1],end='')
                 break
 
 with open(sys.argv[1]) as f:
@@ -50,7 +50,7 @@ with open(sys.argv[1]) as f:
             tbad = bad = True
             eprint("strip '%s' already exists in csv" % magic)
             for i in tsrts[magic]:
-                print_related_lines(i)
+                print_related_lines(i, magic)
         ids.append(magic)
         if tbad:
             eprint("-" * 20)
