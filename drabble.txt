@@ -10009,3 +10009,4 @@ dr210806 -- I think I'm getting cranky in my old age! Don't be silly, dear! - Yo
 dr210807 -- Sorry, Wally... - I'm not feeding YOU! - I'm feeding the cat! - That works too!
 dr210808 -- YOGURT - That'll be §7.50! You can swipe your card there. - If you'd like to include a tip, you can tap 18%, 20%, 25%, or more! - Why would I include a tip?? - I got my own yogurt! you didn't do anything! - You didn't even say hello when I
 dr210808 -- came in! - Hello. OK, but only 25%!
+dr210809 -- I'm offended, Ralph! - You didn't wishe me a happy birthday! - Is today your birthday? - No, but YOU didn't know that!
