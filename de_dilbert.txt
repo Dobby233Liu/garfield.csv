@@ -10317,3 +10317,4 @@
 210808 -- eine SMS mit einem Code, was aber nie geschieht. - Ich habe die Menüauswahl der App probiert, aber die reagiert nicht auf Klicks. - Und den Link, der mich von einer Anmeldeseite zur nächsten schickt, ohne daß was passiert. - Und jetzt ist Ihr
 210808 -- telefonischer Kundendienst meine letzte Hoffnung. - Wir haben gerade dichtgemacht.
 210809 -- Ich habe ein Kartenspiel zum Thema mehrfache Diskriminierung entwickelt. - Wallys Karte ist zum Beispiel fünf Punkte wert, weil er klein is, häßlich, gruselig, faul und kahl. - Alice bringt drei Punkte, weil sie eine Frau ist und... Stopp!
+210810 -- Wovon reden Sie da überhaupt? - Wenn sie alles, was ich sage, verwirrt, sollten Sie die Möglichkeit in Betracht ziehen, daß das Problem nicht bei mir liegt. - Was heißt das jetzt wieder? Bei Ihnen scheint Hopfen und Malz verloren.
