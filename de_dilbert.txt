@@ -10318,3 +10318,5 @@
 210808 -- telefonischer Kundendienst meine letzte Hoffnung. - Wir haben gerade dichtgemacht.
 210809 -- Ich habe ein Kartenspiel zum Thema mehrfache Diskriminierung entwickelt. - Wallys Karte ist zum Beispiel fünf Punkte wert, weil er klein is, häßlich, gruselig, faul und kahl. - Alice bringt drei Punkte, weil sie eine Frau ist und... Stopp!
 210810 -- Wovon reden Sie da überhaupt? - Wenn sie alles, was ich sage, verwirrt, sollten Sie die Möglichkeit in Betracht ziehen, daß das Problem nicht bei mir liegt. - Was heißt das jetzt wieder? Bei Ihnen scheint Hopfen und Malz verloren.
+210811 -- Wir überwachen alle internen Nachrichten und haben so erfahren, daß die Mitarbeiter wissen, daß wir sie beobachten. - Das bedeutet, alles, was sie von jetzt an sagen oder schreiben, könnte absichtlich irreführend sein. - Sie haben gelernt zu
+210811 -- lügen? Ja, sie richten jetzt unsere Waffen gegen uns.

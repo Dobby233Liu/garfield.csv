@@ -10011,3 +10011,4 @@ dr210808 -- YOGURT - That'll be §7.50! You can swipe your card there. - If you'
 dr210808 -- came in! - Hello. OK, but only 25%!
 dr210809 -- I'm offended, Ralph! - You didn't wishe me a happy birthday! - Is today your birthday? - No, but YOU didn't know that!
 dr210810 -- XMAS Decorations - Too early. But it'll be labor day before we know it!
+dr210811 -- Here's your pizza: half cheese and the other half, the works! - I think we've finally found an area where we don't think alike! You can have one of my cheese slices because your mushrooms are touching it!
