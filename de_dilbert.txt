@@ -10320,3 +10320,5 @@
 210810 -- Wovon reden Sie da überhaupt? - Wenn sie alles, was ich sage, verwirrt, sollten Sie die Möglichkeit in Betracht ziehen, daß das Problem nicht bei mir liegt. - Was heißt das jetzt wieder? Bei Ihnen scheint Hopfen und Malz verloren.
 210811 -- Wir überwachen alle internen Nachrichten und haben so erfahren, daß die Mitarbeiter wissen, daß wir sie beobachten. - Das bedeutet, alles, was sie von jetzt an sagen oder schreiben, könnte absichtlich irreführend sein. - Sie haben gelernt zu
 210811 -- lügen? Ja, sie richten jetzt unsere Waffen gegen uns.
+210812 -- Ich habe heute useren "fauler Wally"-Roboter in Betrieb genommen. Er trinkt nur Kaffee, nimmt an Meetings teil und beklagt sich. - DIESER ROBOTER WIRD MICH NIEMALS ERSETZEN KÖNNEN! - Du bist der Roboter. Wally sitzt Dir gegenüber. Das hat mir
+210812 -- jetzt den Tag versaut.
