@@ -296,6 +296,30 @@ comicids_fix = {
         " ", "--", " ",
         -1
     ),
+    "ga180313 -- - Here you go, Garfield. - Still warm from the dryer.":(
+        "ga180213",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga150819 -- I'm eating healthier these days. - - Sorry, I can't say that with a straight face!":(
+        "ga180519",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga130313 -- "Dear Ask A Dog, the pleasure of your company is requested for a dinner party.. - Can we expect you at six o'clock?\" - \"Signed, Mr. and Mrs. Frederick J. Flea\".":(
+        "ga190313",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga190727 -- We should think of something to do. - And then NOT do it. - How is that different from any other date? The thinking!":(
+        "ga190927",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
     # TODO - search on lasagna.cz or GoComics
 }
 
