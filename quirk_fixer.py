@@ -147,6 +147,64 @@ comicids_fix = {
     # Dilbert (in Deutsch)
     # TODO - it's unoffical, gonna take me a while
     # Drabble
+
+    "dr010201 -- Time to check the local traffic conditions... - Tipster No-Neck called to report a Rottweiler running loose along the northbound 710! - ...and now we've just received a call from tipster Drabble CORRECTING tipster No-Neck: It's not a":(
+        "dr010301",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr010201 -- Rottweiler, it's a DOBERMAN. -":(
+        "dr010301",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr010202 -- Let's go out to the freeways once again for a look at traffic... - Tipster Drabble reports that tipster NO-Neck just made an illegal lane change on the westbound 134! - And now tipster No-Neck reports that tipster Drabble is driving a vehicle":(
+        "dr010302",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr010202 -- with expired license tabs! - RRRRRRRRRR It's getting ugly out there, folks!":(
+        "dr010302",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr010203 -- Hi, Wendy! - Hello, Norman. - Get dressed in the dark, again? - Wow, how do you always KNOW these things??":(
+        "dr010303",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr010204 -- Wally and I are going jogging, honeybunch! JOGGING?? skattle skattle skattle - I've decided it's time to get in shape, so today I'm going to start jogging! Are you sure you can do it? - Of course I can do it! I'm going to start gradually, and":(
+        "dr010304",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr010204 -- increase my distance each day! - Come on, Wally! 'bye, boys! skattle skattle - - Forget something? No, that's far enough for today! Tomorrow we'll try to make it to the end of the driveway.":(
+        "dr010304",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+
     # TODO - needs some effort; search on GoComics
     # Garfield
     "ga810102 -- Just what is a diet? - A diet is self-denial. - Fortunately, I'm such a swell fellow I haven't the heart to deny myself anything.": (
