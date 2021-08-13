@@ -3,7 +3,7 @@ import csv, sys, traceback
 ids = []
 tsrts = {}
 bad = False
-reject = False
+reject = True
 num = 0
 
 # def eprint(*args, **kwargs):
@@ -22,7 +22,7 @@ def print_related_lines(line, comicid):
         i = orig[_i]
         for ii in signatures:
             if ii in i and i.strip().startswith(comicid):
-                eprint("\n")
+                eprint("")
                 eprint(orig[_i - 1], end="")
                 eprint(orig[_i], end="")
                 eprint(orig[_i + 1], end="")
