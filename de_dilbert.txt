@@ -10322,3 +10322,5 @@
 210811 -- lügen? Ja, sie richten jetzt unsere Waffen gegen uns.
 210812 -- Ich habe heute useren "fauler Wally"-Roboter in Betrieb genommen. Er trinkt nur Kaffee, nimmt an Meetings teil und beklagt sich. - DIESER ROBOTER WIRD MICH NIEMALS ERSETZEN KÖNNEN! - Du bist der Roboter. Wally sitzt Dir gegenüber. Das hat mir
 210812 -- jetzt den Tag versaut.
+210813 -- Dilbert, Sie waren am Arbeitsplatz tödlichen Chemikalien ausgesetzt und werden bis zum Ende der Woche sterben. - WAS?! NEIN!!!! ICH BIN NOCH ZU JUNG! DAS KANN DOCH NICHT WAHR SEIN!!! - Ist es auch nicht. Aber jetzt werden Sie erleichtert
+210813 -- reagieren, wenn ich Ihnen sage, daß Sie das Wochenende durcharbeiten müssen.
