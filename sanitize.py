@@ -13,7 +13,7 @@ num = 0
 eprint = print
 
 orig = []
-with open(sys.argv[1][:-3]+"txt") as of:
+with open(sys.argv[1][:-3] + "txt") as of:
     orig = of.readlines()
 # Big hax
 def print_related_lines(line, comicid):
@@ -23,10 +23,11 @@ def print_related_lines(line, comicid):
         for ii in signatures:
             if ii in i and i.strip().startswith(comicid):
                 eprint("\n")
-                eprint(orig[_i-1],end='')
-                eprint(orig[_i],end='')
-                eprint(orig[_i+1],end='')
+                eprint(orig[_i - 1], end="")
+                eprint(orig[_i], end="")
+                eprint(orig[_i + 1], end="")
                 break
+
 
 with open(sys.argv[1]) as f:
     try:

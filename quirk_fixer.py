@@ -111,7 +111,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "201021 -- I object to your Twitter profile. It says.. - \"My tweets are smart and usefull, so obviously they do not represent my employer.\" - SMORPH! Now see what you did to Wally.": (
+    '201021 -- I object to your Twitter profile. It says.. - "My tweets are smart and usefull, so obviously they do not represent my employer." - SMORPH! Now see what you did to Wally.': (
         "201221",
         "",
         " ",
@@ -160,165 +160,219 @@ comicids_fix = {
     "ga830216 -- Rather than fix your breakfast every day, Garfield, I've decided to let you serve yourself. - - Maybe that wasn't such a good idea.": (
         "ga820216",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga860610 -- zzzzzzzz - Hey, Garfield, when was the last time you saw my pet frog, Herbie? zzzzz - SNAK! At lunch.": (
         "ga830610",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga900921 -- Here you goo, Pooky. - Hang on tight, now. - Sniff, they grow up so fast.": (
         "ga900221",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga900922 -- Wanna go jogging? I'm busy. - Honestly, Garfield. I have the feeling you think more of that teddy bear than you do of me! - Pay no attention to ol' what's-his-name, Pookie.": (
         "ga900222",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga900923 -- - - Gave your bear a bath? How'd you guess?": (
         "ga900223",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga900924 -- Why is that teddy bear of mine always getting lost? Why can't I ever find him? - POOOOOOOO-KY! - And why am I cupping my hands over my mouth?": (
         "ga900224",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga900928 -- Stop, Vermin. Eek. - You'll never escape. Help, help. - One of the great chase scenes. Z z": (
         "ga900228",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga910125 -- Did you know that pets are good for exercise? - BURP -": (
         "ga920125",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga930523 -- BANZAI! - SPLOOSH! - Why didn't you warn me we were having soup?": (
         "ga920523",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga980311 -- I owe Odie an apology. - PUSH CRASH! - Now I owe him two.": (
         "ga980331",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga001112 -- Dinner's running late. - Fine. - Any last words?": (
         "ga011112",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga100130 -- Garfield, this is my life. - Cleaning up cat hair. - How sad is that? Now, about my litter box...": (
         "ga140130",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga150203 -- My new year's resolution is to lose weight. - You? Lose WEIGHT?! Yeah... - I'm gettin' a real fly gut.": (
         "ga150103",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga130505 -- I like to think of myself as smart. - Good for you. - I like to think of myself as skinny.": (
         "ga150305",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga150416 -- - - WOOOOOOO! - Air guitar - - BURP - Air lasagna.": (
         "ga150426",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     "ga150314 -- You should watch less television. - Okay. - What channel is that on?": (
         "ga150514",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
-    "ga150604 -- every sunday.":("ga150614","ga"," ","--"," ",-1),
-    "ga130306 -- - - FLAP FLAP FLAP FLAP FLAP - LAP FLAP FLAP FLAP FLAP FL - LAPFLAPFLAPFLAPFLAPFLAPFL - PFLAPFLAPFLAPFLAPFLAPFLAP - What's it like out there? March.":(
+    "ga150604 -- every sunday.": ("ga150614", "ga", " ", "--", " ", -1),
+    "ga130306 -- - - FLAP FLAP FLAP FLAP FLAP - LAP FLAP FLAP FLAP FLAP FL - LAPFLAPFLAPFLAPFLAPFLAPFL - PFLAPFLAPFLAPFLAPFLAPFLAP - What's it like out there? March.": (
         "ga160306",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
-    "ga160505 -- I demand my rights! - - With chocolate syrup!":(
+    "ga160505 -- I demand my rights! - - With chocolate syrup!": (
         "ga160405",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
-    "ga150611 -- Don't tell Odie, but sometimes I enjoy being around the little fella. - - Me and my big thought balloon...":(
+    "ga150611 -- Don't tell Odie, but sometimes I enjoy being around the little fella. - - Me and my big thought balloon...": (
         "ga160511",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
-    "ga160627 -- - Time marches on. - That would not have been my guess.":(
+    "ga160627 -- - Time marches on. - That would not have been my guess.": (
         "ga160727",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
-    "ga161120 -- What did you get Garfield, for Christmas, Jon? - I got him a c-a-t t-o-y. - He's right here. I WANTED a j-e-t s-k-i, you d-o-r-k.":(
+    "ga161120 -- What did you get Garfield, for Christmas, Jon? - I got him a c-a-t t-o-y. - He's right here. I WANTED a j-e-t s-k-i, you d-o-r-k.": (
         "ga161220",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
-    "ga170202 -- Let's see...should I get Odie a squeaky bone or a dingle ball? - What the heck, it's chistmas...I'll get him both! - And what would YOU like? To slap you silly.":(
+    "ga170202 -- Let's see...should I get Odie a squeaky bone or a dingle ball? - What the heck, it's chistmas...I'll get him both! - And what would YOU like? To slap you silly.": (
         "ga171202",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
-    "ga170203 -- - - - - - - Our giant inflatable Rudolph blew over again.":(
+    "ga170203 -- - - - - - - Our giant inflatable Rudolph blew over again.": (
         "ga171203",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
-    "ga180313 -- - Here you go, Garfield. - Still warm from the dryer.":(
+    "ga180313 -- - Here you go, Garfield. - Still warm from the dryer.": (
         "ga180213",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
-    "ga150819 -- I'm eating healthier these days. - - Sorry, I can't say that with a straight face!":(
+    "ga150819 -- I'm eating healthier these days. - - Sorry, I can't say that with a straight face!": (
         "ga180519",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
-    "ga130313 -- \"Dear Ask A Dog, the pleasure of your company is requested for a dinner party.. - Can we expect you at six o'clock?\" - \"Signed, Mr. and Mrs. Frederick J. Flea\".":(
+    'ga130313 -- "Dear Ask A Dog, the pleasure of your company is requested for a dinner party.. - Can we expect you at six o\'clock?" - "Signed, Mr. and Mrs. Frederick J. Flea".': (
         "ga190313",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
-    "ga190727 -- We should think of something to do. - And then NOT do it. - How is that different from any other date? The thinking!":(
+    "ga190727 -- We should think of something to do. - And then NOT do it. - How is that different from any other date? The thinking!": (
         "ga190927",
         "ga",
-        " ", "--", " ",
-        -1
+        " ",
+        "--",
+        " ",
+        -1,
     ),
     # TODO - search on lasagna.cz or GoComics
 }
