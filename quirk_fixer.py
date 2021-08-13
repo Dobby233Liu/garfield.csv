@@ -308,7 +308,7 @@ comicids_fix = {
         " ", "--", " ",
         -1
     ),
-    "ga130313 -- "Dear Ask A Dog, the pleasure of your company is requested for a dinner party.. - Can we expect you at six o'clock?\" - \"Signed, Mr. and Mrs. Frederick J. Flea\".":(
+    "ga130313 -- \"Dear Ask A Dog, the pleasure of your company is requested for a dinner party.. - Can we expect you at six o'clock?\" - \"Signed, Mr. and Mrs. Frederick J. Flea\".":(
         "ga190313",
         "ga",
         " ", "--", " ",
