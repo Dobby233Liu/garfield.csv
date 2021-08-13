@@ -33,7 +33,8 @@ jobs:
           name: original
 
       - run: python main.py ${{ matrix.file }}.txt ${{ matrix.file }}.csv
-      - run: python sanitize.py ${{ matrix.file }}.csv
+      - continue-on-error: true
+        run: python sanitize.py ${{ matrix.file }}.csv
 
       - uses: actions/upload-artifact@v2
         with:
