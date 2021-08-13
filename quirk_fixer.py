@@ -253,6 +253,49 @@ comicids_fix = {
         " ", "--", " ",
         -1
     ),
+    "ga150604 -- every sunday.":("ga150614","ga"," ","--"," ",-1),
+    "ga130306 -- - - FLAP FLAP FLAP FLAP FLAP - LAP FLAP FLAP FLAP FLAP FL - LAPFLAPFLAPFLAPFLAPFLAPFL - PFLAPFLAPFLAPFLAPFLAPFLAP - What's it like out there? March.":(
+        "ga160306",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga160505 -- I demand my rights! - - With chocolate syrup!":(
+        "ga160405",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga150611 -- Don't tell Odie, but sometimes I enjoy being around the little fella. - - Me and my big thought balloon...":(
+        "ga160511",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga160627 -- - Time marches on. - That would not have been my guess.":(
+        "ga160727",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga161120 -- What did you get Garfield, for Christmas, Jon? - I got him a c-a-t t-o-y. - He's right here. I WANTED a j-e-t s-k-i, you d-o-r-k.":(
+        "ga161220",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga170202 -- Let's see...should I get Odie a squeaky bone or a dingle ball? - What the heck, it's chistmas...I'll get him both! - And what would YOU like? To slap you silly.":(
+        "ga171202",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
+    "ga170203 -- - - - - - - Our giant inflatable Rudolph blew over again.":(
+        "ga171203",
+        "ga",
+        " ", "--", " ",
+        -1
+    ),
     # TODO - search on lasagna.cz or GoComics
 }
 
