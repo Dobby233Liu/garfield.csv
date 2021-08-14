@@ -63,7 +63,7 @@ jobs:
           mv hashes/* .
           mv */*.csv .
           sudo apt install pandoc
-          pandoc README.md -f markdown -t html -s -o static/index.html
+          pandoc ../README.md -f markdown -t html -s -o index.html
       # I use bot creds so this
       - uses: Dobby233Liu/github-pages-deploy-action@dev-no-crap
         with:
