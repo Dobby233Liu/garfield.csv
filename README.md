@@ -1,11 +1,12 @@
 # garfield.csv
-Scripts for Python 3 that helps converting comic transcripts
-from [john.ccac.rwth-aachen.de](http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/) to CSV files.
+Python script that converts comic transcripts from [john.ccac.rwth-aachen.de](http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/) (like Garfield.txt) into CSV files.
 
 ## Pre-converted files
 [![.github/workflows/generate.yml](https://github.com/Dobby233Liu/garfield.csv/actions/workflows/generate.yml/badge.svg)](https://github.com/Dobby233Liu/garfield.csv/actions/workflows/generate.yml)
 
-Pre-built files are provided on [gh-pages](https://github.com/Dobby233Liu/garfield.csv/tree/gh-pages) branch, thus also [online](https://dobby233liu.github.io/garfield.csv/) for file downloading. [Source code](.github/workflows/generate.yml) for the workflow that drives this. Files are rebuilt at 00:05 UTC+2 every day.
+Pre-converted files are provided by the [gh-pages](https://github.com/Dobby233Liu/garfield.csv/tree/gh-pages) branch. It is also [online](https://dobby233liu.github.io/garfield.csv/) for file downloading. [Source code](.github/workflows/generate.yml) for the workflow that drives this. Files are rebuilt at 00:05 UTC+2 every day.
+
+[(file list)](https://github.com/Dobby233Liu/garfield.csv/tree/gh-pages)
 
 ## Modules
 
