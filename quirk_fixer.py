@@ -146,6 +146,7 @@ comicids_fix = {
     # TODO - you can use search in the website
     # Dilbert (in Deutsch)
     # TODO - it's unoffical, gonna take me a while
+
     # Drabble
 
     "dr010201 -- Time to check the local traffic conditions... - Tipster No-Neck called to report a Rottweiler running loose along the northbound 710! - ...and now we've just received a call from tipster Drabble CORRECTING tipster No-Neck: It's not a":(
@@ -204,8 +205,34 @@ comicids_fix = {
         " ",
         -1,
     ),
+    "dr011126 -- poem about me! Quiet! I'm on a roll!":(
+        "dr011026",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr011127 -- - - - That's the worst mummy outfit I've ever seen! My costumer got dizzy!":(
+        "dr011027",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr011128 -- I just love looking at the colors of autumn... - The reds, the yellows, the browns, the oranges... - The blues... The BLUES? - Blue isn't a color of autumn! - There's blue on that bag of Snickers bars! Oh, THOSE colors of autumn!":(
+        "dr011028",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
 
     # TODO - needs some effort; search on GoComics
+
+
     # Garfield
     "ga810102 -- Just what is a diet? - A diet is self-denial. - Fortunately, I'm such a swell fellow I haven't the heart to deny myself anything.": (
         "ga820102",
