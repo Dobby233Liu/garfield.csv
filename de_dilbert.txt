@@ -10324,3 +10324,5 @@
 210812 -- jetzt den Tag versaut.
 210813 -- Dilbert, Sie waren am Arbeitsplatz tödlichen Chemikalien ausgesetzt und werden bis zum Ende der Woche sterben. - WAS?! NEIN!!!! ICH BIN NOCH ZU JUNG! DAS KANN DOCH NICHT WAHR SEIN!!! - Ist es auch nicht. Aber jetzt werden Sie erleichtert
 210813 -- reagieren, wenn ich Ihnen sage, daß Sie das Wochenende durcharbeiten müssen.
+210814 -- Ich habe im Internet nachgesehen, welche Persönlichkeitsstörung Ihr Verhalten steuert. - Es ist entweder Hirnfäule oder spitzhaarige Chefigkeit. Sie sind kein Arzt. - Muß ich Arzt sein, um zu wissen, daß ein kopfloser Torso kein Aspirin
+210814 -- braucht?

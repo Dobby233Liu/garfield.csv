@@ -13626,3 +13626,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210811 -- We are monitoring all internal messages and learned that the employees know we are watching them. - That means everything they say from this point on could be misdirection. - They learned to lie? They're turning our weapons against us.
 210812 -- We launched our new "Lazy Wally" robot product today. All it does is drink coffee, attend meetings and complain. - THAT ROBOT WILL NEVER REPLACE ME! - You're the robot. Wally is sitting across from you. Well, that just ruined my day.
 210813 -- Dilbert, you've been exposed to lethal workplace chemicals, and you will be dead by the weekens. - WHAT??!! NO!!! I'M TOO YOUNG! THIS CAN'T BE HAPPENING! - It isn't. But now you won't feel so bad when I tell you to work all weekend.
+210814 -- I consulted WebMd to figure out what personality disorder is driving your behavior. - I narrowed it down to either brain rot or pointy-haired bossness. You're not a doctor! - Would I need to be a doctor to know a headless torso doesn't need
+210814 -- Aspirin?
