@@ -27,6 +27,7 @@ def print_related_lines(line, comicid):
                 eprint(orig[_i], end="")
                 eprint(orig[_i + 1], end="")
                 break
+        break
 
 
 with open(sys.argv[1]) as f:
