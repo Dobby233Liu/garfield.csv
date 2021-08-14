@@ -245,7 +245,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr011229 -- Hey, Ralph! Hey. - Your usual jumbo chili cheese bacon burger with fries and a shake? - AHHEM!! COFF COFF (wife's in the car!) COUGH COUGH! - Uh, I mean, your usual garden salad and diet cola? So, how's your diet going, Ralph?:(
+    "dr011229 -- Hey, Ralph! Hey. - Your usual jumbo chili cheese bacon burger with fries and a shake? - AHHEM!! COFF COFF (wife's in the car!) COUGH COUGH! - Uh, I mean, your usual garden salad and diet cola? So, how's your diet going, Ralph?":(
         "dr001229",
         "dr",
         " ",
