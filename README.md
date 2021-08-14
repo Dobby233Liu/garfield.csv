@@ -34,9 +34,9 @@ The module that is used internally by `main`.
 ### `sanitize`
 The script to sanitize the output CSV file. Not for you.
 
-# Source Code
+## Source Code
 
 Source code is located at GitHub: https://github.com/Dobby233Liu/garfield.csv
 
-# License
+## License
 MIT
