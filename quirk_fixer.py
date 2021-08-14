@@ -229,7 +229,54 @@ comicids_fix = {
         " ",
         -1,
     ),
-
+    "dr011228 -- Welcome to Galtburger! May I take your order, please? - Hey, it's me. Oh, hi, Ralph! How ya' doin' ? - Do you want your usual, today? Yeah. - When you suddenly realize you've developed a close relationship with the drive-thru clerk, it's":(
+        "dr001228",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr011228 -- probably time to have your cholesterol checked! So, how's the family?":(
+        "dr001228",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr011229 -- Hey, Ralph! Hey. - Your usual jumbo chili cheese bacon burger with fries and a shake? - AHHEM!! COFF COFF (wife's in the car!) COUGH COUGH! - Uh, I mean, your usual garden salad and diet cola? So, how's your diet going, Ralph?:(
+        "dr001229",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr011230 -- Well, the new millennium begins on Monday! - Again?? - It seems like we started a new millennium just last year! - Time really flies when you get to be my age!":(
+        "dr001230",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr011231 -- Oh, this is an outrage! - The home owners association is demanding the immediate removal of my holiday decorations! - It's not even JANUARY FIRST, for cryin' out loud! - What's so bad about leaving Christmas decorations up until new year's":(
+        "dr001231",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr011231 -- day?? - Maybe they were talking about your HALLOWEEN decorations!":(
+        "dr001231",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
     # TODO - needs some effort; search on GoComics
 
 
