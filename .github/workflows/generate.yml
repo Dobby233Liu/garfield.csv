@@ -56,16 +56,18 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/download-artifact@v2
         with:
-          path: data
-      - working-directory: data
+          path: static
+      - working-directory: static
         run: |
           mv original/* .
           mv hashes/* .
           mv */*.csv .
           touch .nojekyll
-          wget https://gist.githubusercontent.com/Dobby233Liu/1dbde510a5dd46f1185456e09145babc/raw/d8724b1007089eb476f99eff8154c56bb5bbb2ee/404.html
+      - run: |
+          sudo apt install pandoc
+          pandoc README.md -f markdown -t html -s -o static/index.html
       # I use bot creds so this
       - uses: Dobby233Liu/github-pages-deploy-action@dev-no-crap
         with:
           branch: gh-pages
-          folder: data
+          folder: static
