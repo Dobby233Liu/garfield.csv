@@ -62,8 +62,6 @@ jobs:
           mv original/* .
           mv hashes/* .
           mv */*.csv .
-          touch .nojekyll
-      - run: |
           sudo apt install pandoc
           pandoc README.md -f markdown -t html -s -o static/index.html
       # I use bot creds so this
