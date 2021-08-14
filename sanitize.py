@@ -20,14 +20,17 @@ def print_related_lines(line, comicid):
     signatures = list(map(lambda x: x.lstrip("- "), line.splitlines()))
     for _i in range(len(orig)):
         i = orig[_i]
+        success = False
         for ii in signatures:
             if ii in i and i.strip().startswith(comicid):
                 eprint("")
                 eprint(orig[_i - 1], end="")
                 eprint(orig[_i], end="")
                 eprint(orig[_i + 1], end="")
+                success = True
                 break
-        break
+        if success:
+            break
 
 
 with open(sys.argv[1]) as f:
