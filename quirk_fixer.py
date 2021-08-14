@@ -909,7 +909,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr170203 -- lighting contest this year! Maybe they'll have a "least inspirational" award! I'm sure the badgers had something to do with this!":(
+    "dr170203 -- lighting contest this year! Maybe they'll have a \"least inspirational\" award! I'm sure the badgers had something to do with this!":(
         "dr171203",
         "dr",
         " ",
