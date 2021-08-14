@@ -36,7 +36,7 @@ Outputs a CSV file ready for `gpt-2-simple` usage and general parsing/querying/l
 The module that is used internally by `main`.
 
 ### `sanitize`
-The script to sanitize the output CSV file. You should not use it.
+The script to sanitize the output CSV file. Not for you.
 
 # Source Code
 
