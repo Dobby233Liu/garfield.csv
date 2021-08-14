@@ -1,3 +1,7 @@
+---
+title: garfield.csv
+---
+
 # garfield.csv
 Python script that converts comic transcripts from [john.ccac.rwth-aachen.de](http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/) (like Garfield.txt) into CSV files.
 
@@ -33,3 +37,10 @@ The module that is used internally by `main`.
 
 ### `sanitize`
 The script to sanitize the output CSV file. You should not use it.
+
+# Source Code
+
+Source code is located at GitHub: https://github.com/Dobby233Liu/garfield.csv
+
+# License
+MIT
