@@ -10326,3 +10326,5 @@
 210813 -- reagieren, wenn ich Ihnen sage, daß Sie das Wochenende durcharbeiten müssen.
 210814 -- Ich habe im Internet nachgesehen, welche Persönlichkeitsstörung Ihr Verhalten steuert. - Es ist entweder Hirnfäule oder spitzhaarige Chefigkeit. Sie sind kein Arzt. - Muß ich Arzt sein, um zu wissen, daß ein kopfloser Torso kein Aspirin
 210814 -- braucht?
+210815 -- Können Sie mir ein gutes Mikrofon für mein Tablet empfehlen? - Ja, ich schicke Ihnen einen Link. - Das ist aber nur für Laptops geeignet. Wie wär's mit diesem? - Nein, das ist auch nur für Laptops. Okay, verstehe. Hier ist eins... - Nein, das
+210815 -- funktioniert auch nicht bei meinem Tablet. - Hören Sie genau zu. Mein Hauptanliegen ist, daß es Tablet-tauglich ist. - Oh, okay, verstehe. Hier ist noch eins. - Ist das denn jetzt kompatibel? Ich sagte nicht, daß es perfekt wäre.
