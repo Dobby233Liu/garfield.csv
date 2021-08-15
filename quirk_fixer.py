@@ -145,8 +145,7 @@ comicids_fix = {
     ),
     # TODO - you can use search in the website
     # Dilbert (in Deutsch)
-
-    "080819 -- Aah! Sie haben Ihren Kaugummi auf diesem wiederverwertbaren Abfall geklebt!!! - WIE FÜHLT SICH DAS IN IHREM HAAR AN? HÄ? GAR NICHT MEHR SO KOMISCH, SIE BAUM-MÖRDER? - Das schlimmste ist, daß ich ihn um seine Leidenschaft für den Job beneide.":(
+    "080819 -- Aah! Sie haben Ihren Kaugummi auf diesem wiederverwertbaren Abfall geklebt!!! - WIE FÜHLT SICH DAS IN IHREM HAAR AN? HÄ? GAR NICHT MEHR SO KOMISCH, SIE BAUM-MÖRDER? - Das schlimmste ist, daß ich ihn um seine Leidenschaft für den Job beneide.": (
         "060819",
         "",
         " ",
@@ -154,7 +153,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "090104 -- gefühlt habe. - Haben Sie noch einen Fisch?":(
+    "090104 -- gefühlt habe. - Haben Sie noch einen Fisch?": (
         "090105",
         "",
         " ",
@@ -162,7 +161,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "121227 -- arrogant. - ICH HABE SCHON MAL G-MAIL EINE FUNKTION HINZUGEFÜGT!":(
+    "121227 -- arrogant. - ICH HABE SCHON MAL G-MAIL EINE FUNKTION HINZUGEFÜGT!": (
         "131227",
         "",
         " ",
@@ -170,7 +169,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "180730 -- erwähnt.":(
+    "180730 -- erwähnt.": (
         "170830",
         "",
         " ",
@@ -178,7 +177,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "180111 -- Erwarten Sie irgendwelche Probleme, was die Fertigstellung bis Freitag angeht? Nein. - Weil Sie so pünktlich sind oder weil Sie Ding enicht gut abschätzen können? - Weil ich unvorhergesehene Probleme nicht vorhersehen kann. Okay, Moment...":(
+    "180111 -- Erwarten Sie irgendwelche Probleme, was die Fertigstellung bis Freitag angeht? Nein. - Weil Sie so pünktlich sind oder weil Sie Ding enicht gut abschätzen können? - Weil ich unvorhergesehene Probleme nicht vorhersehen kann. Okay, Moment...": (
         "181011",
         "",
         " ",
@@ -186,7 +185,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "180222 -- passen nicht zu uns.":(
+    "180222 -- passen nicht zu uns.": (
         "181022",
         "",
         " ",
@@ -194,7 +193,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "181104 -- Wir brauchen mehr Tatendrang! - Gute Idee, dieses Meeting ist sowieso reine Zeitverschwendung. - Das hätte ich mir vorher genauer überlegen sollen.":(
+    "181104 -- Wir brauchen mehr Tatendrang! - Gute Idee, dieses Meeting ist sowieso reine Zeitverschwendung. - Das hätte ich mir vorher genauer überlegen sollen.": (
         "181004",
         "",
         " ",
@@ -202,7 +201,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "201112 -- schlechten Menschen macht? - Na logisch. - Wenn man mit anderen auf einem Foto erscheint, werden deren schlechte Eigenschaften übertragen. - Ich glaube nicht, daß das so läuft. - Doch, genau so läuft das! Das Foto mit einem Mistkerl macht Sie":(
+    "201112 -- schlechten Menschen macht? - Na logisch. - Wenn man mit anderen auf einem Foto erscheint, werden deren schlechte Eigenschaften übertragen. - Ich glaube nicht, daß das so läuft. - Doch, genau so läuft das! Das Foto mit einem Mistkerl macht Sie": (
         "200112",
         "",
         " ",
@@ -210,7 +209,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "200117 -- Die Hardware, die Sie bestellt haben, ist nicht mit unserem Netzwerk kompatibel. - Dann kaufen Sie einfach einen Adapter. - Ich glaube nicht, daß jemand einen herstellt, die Dummheit ausgleichen.":(
+    "200117 -- Die Hardware, die Sie bestellt haben, ist nicht mit unserem Netzwerk kompatibel. - Dann kaufen Sie einfach einen Adapter. - Ich glaube nicht, daß jemand einen herstellt, die Dummheit ausgleichen.": (
         "200217",
         "",
         " ",
@@ -218,7 +217,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "200101 -- zu ersetzen.":(
+    "200101 -- zu ersetzen.": (
         "201001",
         "",
         " ",
@@ -226,7 +225,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "200102 -- Wir sind noch nicht so weit, die Entwickler durch Roboter ersetzen zu können, aber der Tag wird kommen. - Daher möchte ich, daß jeder on Ihnen einen Roboter dazu anlernt, Ihre Arbeit zu übernehmen, damit wir vorbereitet sind. - Wir sollen":(
+    "200102 -- Wir sind noch nicht so weit, die Entwickler durch Roboter ersetzen zu können, aber der Tag wird kommen. - Daher möchte ich, daß jeder on Ihnen einen Roboter dazu anlernt, Ihre Arbeit zu übernehmen, damit wir vorbereitet sind. - Wir sollen": (
         "201002",
         "",
         " ",
@@ -234,7 +233,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "200103 -- jetzt so fortfahren, als hätte ich das gerade nicht gesagt? Es sind NICHT die falschen Leute!":(
+    "200103 -- jetzt so fortfahren, als hätte ich das gerade nicht gesagt? Es sind NICHT die falschen Leute!": (
         "201003",
         "",
         " ",
@@ -242,7 +241,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "200109 -- Unser Unternehmen wird für seine Angestellten keine Leistungsbewertungen mehr abgeben. - Ab sofort werden Sie danach eingestuft, wie akzeptable Ihre politische und soziale Meinung ist. - Haben Sie eine Liste der akzeptablen Meinungen für uns?":(
+    "200109 -- Unser Unternehmen wird für seine Angestellten keine Leistungsbewertungen mehr abgeben. - Ab sofort werden Sie danach eingestuft, wie akzeptable Ihre politische und soziale Meinung ist. - Haben Sie eine Liste der akzeptablen Meinungen für uns?": (
         "201109",
         "",
         " ",
@@ -250,7 +249,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "201112 -- schlechten Menschen macht? - Na logisch. - Wenn man mit anderen auf einem Foto erscheint, werden deren schlechte Eigenschaften übertragen. - Ich glaube nicht, daß das so läuft. - Doch, genau so läuft das! Das Foto mit einem Mistkerl macht Sie":(
+    "201112 -- schlechten Menschen macht? - Na logisch. - Wenn man mit anderen auf einem Foto erscheint, werden deren schlechte Eigenschaften übertragen. - Ich glaube nicht, daß das so läuft. - Doch, genau so läuft das! Das Foto mit einem Mistkerl macht Sie": (
         "200112",
         "",
         " ",
@@ -259,10 +258,8 @@ comicids_fix = {
         -1,
     ),
     # TODO - it's unoffical, gonna take me a while
-
     # Drabble
-
-    "dr010201 -- Time to check the local traffic conditions... - Tipster No-Neck called to report a Rottweiler running loose along the northbound 710! - ...and now we've just received a call from tipster Drabble CORRECTING tipster No-Neck: It's not a":(
+    "dr010201 -- Time to check the local traffic conditions... - Tipster No-Neck called to report a Rottweiler running loose along the northbound 710! - ...and now we've just received a call from tipster Drabble CORRECTING tipster No-Neck: It's not a": (
         "dr010301",
         "dr",
         " ",
@@ -270,7 +267,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr010201 -- Rottweiler, it's a DOBERMAN. -":(
+    "dr010201 -- Rottweiler, it's a DOBERMAN. -": (
         "dr010301",
         "dr",
         " ",
@@ -278,7 +275,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr010202 -- Let's go out to the freeways once again for a look at traffic... - Tipster Drabble reports that tipster NO-Neck just made an illegal lane change on the westbound 134! - And now tipster No-Neck reports that tipster Drabble is driving a vehicle":(
+    "dr010202 -- Let's go out to the freeways once again for a look at traffic... - Tipster Drabble reports that tipster NO-Neck just made an illegal lane change on the westbound 134! - And now tipster No-Neck reports that tipster Drabble is driving a vehicle": (
         "dr010302",
         "dr",
         " ",
@@ -286,7 +283,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr010202 -- with expired license tabs! - RRRRRRRRRR It's getting ugly out there, folks!":(
+    "dr010202 -- with expired license tabs! - RRRRRRRRRR It's getting ugly out there, folks!": (
         "dr010302",
         "dr",
         " ",
@@ -294,7 +291,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr010203 -- Hi, Wendy! - Hello, Norman. - Get dressed in the dark, again? - Wow, how do you always KNOW these things??":(
+    "dr010203 -- Hi, Wendy! - Hello, Norman. - Get dressed in the dark, again? - Wow, how do you always KNOW these things??": (
         "dr010303",
         "dr",
         " ",
@@ -302,7 +299,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr010204 -- Wally and I are going jogging, honeybunch! JOGGING?? skattle skattle skattle - I've decided it's time to get in shape, so today I'm going to start jogging! Are you sure you can do it? - Of course I can do it! I'm going to start gradually, and":(
+    "dr010204 -- Wally and I are going jogging, honeybunch! JOGGING?? skattle skattle skattle - I've decided it's time to get in shape, so today I'm going to start jogging! Are you sure you can do it? - Of course I can do it! I'm going to start gradually, and": (
         "dr010304",
         "dr",
         " ",
@@ -310,7 +307,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr010204 -- increase my distance each day! - Come on, Wally! 'bye, boys! skattle skattle - - Forget something? No, that's far enough for today! Tomorrow we'll try to make it to the end of the driveway.":(
+    "dr010204 -- increase my distance each day! - Come on, Wally! 'bye, boys! skattle skattle - - Forget something? No, that's far enough for today! Tomorrow we'll try to make it to the end of the driveway.": (
         "dr010304",
         "dr",
         " ",
@@ -318,7 +315,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr011126 -- poem about me! Quiet! I'm on a roll!":(
+    "dr011126 -- poem about me! Quiet! I'm on a roll!": (
         "dr011026",
         "dr",
         " ",
@@ -326,7 +323,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr011127 -- - - - That's the worst mummy outfit I've ever seen! My costumer got dizzy!":(
+    "dr011127 -- - - - That's the worst mummy outfit I've ever seen! My costumer got dizzy!": (
         "dr011027",
         "dr",
         " ",
@@ -334,7 +331,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr011128 -- I just love looking at the colors of autumn... - The reds, the yellows, the browns, the oranges... - The blues... The BLUES? - Blue isn't a color of autumn! - There's blue on that bag of Snickers bars! Oh, THOSE colors of autumn!":(
+    "dr011128 -- I just love looking at the colors of autumn... - The reds, the yellows, the browns, the oranges... - The blues... The BLUES? - Blue isn't a color of autumn! - There's blue on that bag of Snickers bars! Oh, THOSE colors of autumn!": (
         "dr011028",
         "dr",
         " ",
@@ -342,7 +339,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr011228 -- Welcome to Galtburger! May I take your order, please? - Hey, it's me. Oh, hi, Ralph! How ya' doin' ? - Do you want your usual, today? Yeah. - When you suddenly realize you've developed a close relationship with the drive-thru clerk, it's":(
+    "dr011228 -- Welcome to Galtburger! May I take your order, please? - Hey, it's me. Oh, hi, Ralph! How ya' doin' ? - Do you want your usual, today? Yeah. - When you suddenly realize you've developed a close relationship with the drive-thru clerk, it's": (
         "dr001228",
         "dr",
         " ",
@@ -350,7 +347,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr011228 -- probably time to have your cholesterol checked! So, how's the family?":(
+    "dr011228 -- probably time to have your cholesterol checked! So, how's the family?": (
         "dr001228",
         "dr",
         " ",
@@ -358,7 +355,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr011229 -- Hey, Ralph! Hey. - Your usual jumbo chili cheese bacon burger with fries and a shake? - AHHEM!! COFF COFF (wife's in the car!) COUGH COUGH! - Uh, I mean, your usual garden salad and diet cola? So, how's your diet going, Ralph?":(
+    "dr011229 -- Hey, Ralph! Hey. - Your usual jumbo chili cheese bacon burger with fries and a shake? - AHHEM!! COFF COFF (wife's in the car!) COUGH COUGH! - Uh, I mean, your usual garden salad and diet cola? So, how's your diet going, Ralph?": (
         "dr001229",
         "dr",
         " ",
@@ -366,7 +363,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr011230 -- Well, the new millennium begins on Monday! - Again?? - It seems like we started a new millennium just last year! - Time really flies when you get to be my age!":(
+    "dr011230 -- Well, the new millennium begins on Monday! - Again?? - It seems like we started a new millennium just last year! - Time really flies when you get to be my age!": (
         "dr001230",
         "dr",
         " ",
@@ -374,7 +371,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr011231 -- Oh, this is an outrage! - The home owners association is demanding the immediate removal of my holiday decorations! - It's not even JANUARY FIRST, for cryin' out loud! - What's so bad about leaving Christmas decorations up until new year's":(
+    "dr011231 -- Oh, this is an outrage! - The home owners association is demanding the immediate removal of my holiday decorations! - It's not even JANUARY FIRST, for cryin' out loud! - What's so bad about leaving Christmas decorations up until new year's": (
         "dr001231",
         "dr",
         " ",
@@ -382,7 +379,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr011231 -- day?? - Maybe they were talking about your HALLOWEEN decorations!":(
+    "dr011231 -- day?? - Maybe they were talking about your HALLOWEEN decorations!": (
         "dr001231",
         "dr",
         " ",
@@ -390,7 +387,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr010913 -- Boy, this is the life, Ralph! - Too bad you've been  such a creep over the years, or I'd invite you in for a dip! - Creep???! Who's the guy who picked up your newspaper every day when you were on vacation? You. - You also pick up my newspaper":(
+    "dr010913 -- Boy, this is the life, Ralph! - Too bad you've been  such a creep over the years, or I'd invite you in for a dip! - Creep???! Who's the guy who picked up your newspaper every day when you were on vacation? You. - You also pick up my newspaper": (
         "dr020913",
         "dr",
         " ",
@@ -398,7 +395,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr010913 -- every day when I'm NOT on vacation! Yeah, but I usually put most of it back!":(
+    "dr010913 -- every day when I'm NOT on vacation! Yeah, but I usually put most of it back!": (
         "dr020913",
         "dr",
         " ",
@@ -406,7 +403,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr010914 -- You shouldn't stare into Mr. Steinbauer's back yard, dad. It's not polite! I don't care. - I'm going to start at his new pool until he invites me over to go swimming. - Eventually, my sad and forlorn look will make him feel guilty! SPLOOSH! -":(
+    "dr010914 -- You shouldn't stare into Mr. Steinbauer's back yard, dad. It's not polite! I don't care. - I'm going to start at his new pool until he invites me over to go swimming. - Eventually, my sad and forlorn look will make him feel guilty! SPLOOSH! -": (
         "dr020914",
         "dr",
         " ",
@@ -414,7 +411,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr010914 -- I don't think it's working. Nice cannonball!":(
+    "dr010914 -- I don't think it's working. Nice cannonball!": (
         "dr020914",
         "dr",
         " ",
@@ -422,7 +419,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr010915 -- That'll be one dollar. All I have is a $20 bill. - - - - KA-CHING! - Nineteen dollars is your change. - ...17, 18, 19. What's the matter? Don't you trust me?":(
+    "dr010915 -- That'll be one dollar. All I have is a $20 bill. - - - - KA-CHING! - Nineteen dollars is your change. - ...17, 18, 19. What's the matter? Don't you trust me?": (
         "dr020915",
         "dr",
         " ",
@@ -430,7 +427,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr030301 -- No-Neck and I are going to the parade! Will we see you on TV? - No, the TV cameras are at the beginning of the five-mile parade route, when all the marchers are fresh. - We like to stand near the END of the parade route, when the marchers are":(
+    "dr030301 -- No-Neck and I are going to the parade! Will we see you on TV? - No, the TV cameras are at the beginning of the five-mile parade route, when all the marchers are fresh. - We like to stand near the END of the parade route, when the marchers are": (
         "dr030101",
         "dr",
         " ",
@@ -438,7 +435,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr030301 -- completely exhausted! Why? - We like to see their expressions when we hold up our sign! Half-Way Point":(
+    "dr030301 -- completely exhausted! Why? - We like to see their expressions when we hold up our sign! Half-Way Point": (
         "dr030101",
         "dr",
         " ",
@@ -446,7 +443,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr030302 -- - Oh, yeah. I see it. - Very becoming, son! - See? I did SO grow a goatee!":(
+    "dr030302 -- - Oh, yeah. I see it. - Very becoming, son! - See? I did SO grow a goatee!": (
         "dr030102",
         "dr",
         " ",
@@ -454,7 +451,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr030303 -- I hate unloading the car after mom shops at BULK CLUB! I think it would be simpler if we just MOVED to Bulk Club! - Oh, hush! I save money buying in bulk! Where should I put the box of four dozen glue sticks?":(
+    "dr030303 -- I hate unloading the car after mom shops at BULK CLUB! I think it would be simpler if we just MOVED to Bulk Club! - Oh, hush! I save money buying in bulk! Where should I put the box of four dozen glue sticks?": (
         "dr030103",
         "dr",
         " ",
@@ -462,7 +459,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr030304 -- - - I told you your untied shoelaces were an accident waiting ho happen! Shut up ant turn off the ceiling fan!":(
+    "dr030304 -- - - I told you your untied shoelaces were an accident waiting ho happen! Shut up ant turn off the ceiling fan!": (
         "dr030104",
         "dr",
         " ",
@@ -470,7 +467,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr030305 -- - FORE! - TOK! Good shot!":(
+    "dr030305 -- - FORE! - TOK! Good shot!": (
         "dr030105",
         "dr",
         " ",
@@ -478,7 +475,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr060221 -- Boys, you've been watching TV all afternoon! - Here are a couple of books... - If you hear your mom come home, turn off the TV and act like you're reading 'em! - Keeping your kids out of trouble is part of a father's duty!":(
+    "dr060221 -- Boys, you've been watching TV all afternoon! - Here are a couple of books... - If you hear your mom come home, turn off the TV and act like you're reading 'em! - Keeping your kids out of trouble is part of a father's duty!": (
         "dr020621",
         "dr",
         " ",
@@ -486,7 +483,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr060222 -- Poor Bob! He always has that dazed and confused look on his face. - Like he doesn't know who he is or what to do next! - Kind of like dad on a Saturday! ...and then, after you fix the garbage disposal, the trees need trimming. After that you":(
+    "dr060222 -- Poor Bob! He always has that dazed and confused look on his face. - Like he doesn't know who he is or what to do next! - Kind of like dad on a Saturday! ...and then, after you fix the garbage disposal, the trees need trimming. After that you": (
         "dr020622",
         "dr",
         " ",
@@ -494,7 +491,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr060222 -- need to paint the patio furniture and clean out the garage...":(
+    "dr060222 -- need to paint the patio furniture and clean out the garage...": (
         "dr020622",
         "dr",
         " ",
@@ -502,7 +499,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr060223 -- Hi, Ralph! - - How are you? - - You wouldn't be eating something on the new sofa, would you? Especially after I warned you never to do that! - RALPH DRABBLE, OPEN YOUR MOUTH THIS INSTANT!! - Nothing! - You are SO not funny! I just like to":(
+    "dr060223 -- Hi, Ralph! - - How are you? - - You wouldn't be eating something on the new sofa, would you? Especially after I warned you never to do that! - RALPH DRABBLE, OPEN YOUR MOUTH THIS INSTANT!! - Nothing! - You are SO not funny! I just like to": (
         "dr020623",
         "dr",
         " ",
@@ -510,7 +507,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr060223 -- freak her out sometimes!":(
+    "dr060223 -- freak her out sometimes!": (
         "dr020623",
         "dr",
         " ",
@@ -518,7 +515,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr060331 -- huh!":(
+    "dr060331 -- huh!": (
         "dr060131",
         "dr",
         " ",
@@ -526,7 +523,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr071025 -- SCOOP SCOOP! - Hmmm... - Honeybunch, is it OK if I just polish off the rest of the carton? I suppose. Sweet!":(
+    "dr071025 -- SCOOP SCOOP! - Hmmm... - Honeybunch, is it OK if I just polish off the rest of the carton? I suppose. Sweet!": (
         "dr070125",
         "dr",
         " ",
@@ -534,7 +531,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr071026 -- - - - - CLOMP! skattle skattle skattle skattle Wally loves plastic water bottles!":(
+    "dr071026 -- - - - - CLOMP! skattle skattle skattle skattle Wally loves plastic water bottles!": (
         "dr070126",
         "dr",
         " ",
@@ -542,7 +539,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr071027 -- That'll be $5.75 at the first window! OK - Pay Window Here's your change. Next window please! OK - Pick-Up Window Here's your order. Next. window, please. OK - Correction Window You got my order wrong AGAIN! ...sigh...":(
+    "dr071027 -- That'll be $5.75 at the first window! OK - Pay Window Here's your change. Next window please! OK - Pick-Up Window Here's your order. Next. window, please. OK - Correction Window You got my order wrong AGAIN! ...sigh...": (
         "dr070127",
         "dr",
         " ",
@@ -550,7 +547,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr071028 -- The following program contains graphic material, adult themes, mature situations, crude humor, explicit dialogue, nudity and violence. - Viewer discretion is adviced. I say OK! Me too! - Why can't we watch that show?? Because, in this house,":(
+    "dr071028 -- The following program contains graphic material, adult themes, mature situations, crude humor, explicit dialogue, nudity and violence. - Viewer discretion is adviced. I say OK! Me too! - Why can't we watch that show?? Because, in this house,": (
         "dr070128",
         "dr",
         " ",
@@ -558,7 +555,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr071028 -- viewer discretion loses out to mother-of-viewer discretion!":(
+    "dr071028 -- viewer discretion loses out to mother-of-viewer discretion!": (
         "dr070128",
         "dr",
         " ",
@@ -566,7 +563,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr080328 -- Why are you swimming in my water dish? Ducks like water. - Can't you find someplace else to swim? - Sorry. It's the only place available. - Someone left the lid down on the porcelain pond again!":(
+    "dr080328 -- Why are you swimming in my water dish? Ducks like water. - Can't you find someplace else to swim? - Sorry. It's the only place available. - Someone left the lid down on the porcelain pond again!": (
         "dr080228",
         "dr",
         " ",
@@ -574,7 +571,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr080329 -- Today is February 29th, Penny! It's leap year day! I know. It's not fair! - Why does it have to be in FEBRUARY?? - Why can't they put the extra day in summer vacation or spring break? - I never thought of that! Better yet, they could squeeze":(
+    "dr080329 -- Today is February 29th, Penny! It's leap year day! I know. It's not fair! - Why does it have to be in FEBRUARY?? - Why can't they put the extra day in summer vacation or spring break? - I never thought of that! Better yet, they could squeeze": (
         "dr080229",
         "dr",
         " ",
@@ -582,7 +579,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr080329 -- it in between Saturday and sundae!":(
+    "dr080329 -- it in between Saturday and sundae!": (
         "dr080229",
         "dr",
         " ",
@@ -590,7 +587,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr080513 -- Dad, LOOK!! - There's a SNAKE on our neighbor's roof! - Relax, it's fake. Our neighbor put it up there himself! - How come?? To scare away varmints, and keep birds from building nests on the house. - Some people put rubber snakes on top of":(
+    "dr080513 -- Dad, LOOK!! - There's a SNAKE on our neighbor's roof! - Relax, it's fake. Our neighbor put it up there himself! - How come?? To scare away varmints, and keep birds from building nests on the house. - Some people put rubber snakes on top of": (
         "dr080413",
         "dr",
         " ",
@@ -598,7 +595,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr080513 -- their houses, some people use fake owls...it has to be something scary enough to frighten critters away! - Maybe you should put something scary on OUR roof! I already did! - Hey! What happened to the picture of my mother?":(
+    "dr080513 -- their houses, some people use fake owls...it has to be something scary enough to frighten critters away! - Maybe you should put something scary on OUR roof! I already did! - Hey! What happened to the picture of my mother?": (
         "dr080413",
         "dr",
         " ",
@@ -606,7 +603,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr081228 -- Well, it's that time of year again. - First, the holidays are upon us... - - Then the holiday BILLS are upon us!":(
+    "dr081228 -- Well, it's that time of year again. - First, the holidays are upon us... - - Then the holiday BILLS are upon us!": (
         "dr071228",
         "dr",
         " ",
@@ -614,7 +611,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr081229 -- Welcome back to love songs on the radio! This song is dedicated to Bruce from Debbie! - Bruce, Debbie wants you to know how deeply she cares for you. She thinks about you night and day! - Her only desire is to spend every waking moment with":(
+    "dr081229 -- Welcome back to love songs on the radio! This song is dedicated to Bruce from Debbie! - Bruce, Debbie wants you to know how deeply she cares for you. She thinks about you night and day! - Her only desire is to spend every waking moment with": (
         "dr071229",
         "dr",
         " ",
@@ -622,7 +619,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr081229 -- you for ever and ever! Sniff! - HEAD FOR THE HILLS, BRUCE!!":(
+    "dr081229 -- you for ever and ever! Sniff! - HEAD FOR THE HILLS, BRUCE!!": (
         "dr071229",
         "dr",
         " ",
@@ -630,7 +627,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr081230 -- - - - - - - - Looks like the Christmas bills have started to arrive! At least his hair is getting exercise!":(
+    "dr081230 -- - - - - - - - Looks like the Christmas bills have started to arrive! At least his hair is getting exercise!": (
         "dr071230",
         "dr",
         " ",
@@ -638,7 +635,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090330 -- When I was a kid, my dad made sure that his family always sat together at the dinner table and communicated! - Now that I'M a father, my family sits together and communicates, too. - Unfortunately, just not with each other! *chirp* text text":(
+    "dr090330 -- When I was a kid, my dad made sure that his family always sat together at the dinner table and communicated! - Now that I'M a father, my family sits together and communicates, too. - Unfortunately, just not with each other! *chirp* text text": (
         "dr080330",
         "dr",
         " ",
@@ -646,7 +643,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090330 -- press *chirp* press press text text *chirp* *chirp* text text press press":(
+    "dr090330 -- press *chirp* press press text text *chirp* *chirp* text text press press": (
         "dr080330",
         "dr",
         " ",
@@ -654,7 +651,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090424 -- Let's see...I need to check the calendar... - What the heck?? - Honeybunch, why is last year's calendar hanging on the wall? - Because the pictures are much prettier than this year's calendar!":(
+    "dr090424 -- Let's see...I need to check the calendar... - What the heck?? - Honeybunch, why is last year's calendar hanging on the wall? - Because the pictures are much prettier than this year's calendar!": (
         "dr080424",
         "dr",
         " ",
@@ -662,7 +659,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090504 -- She'll have the chicken sandwich, and I'll have a cheeseburger! - FWEET! - That is the 1,000th cheeseburger you've ordered from our restaurant, Mr. Drabble! - You are now a member of our loyal customer hall of fame! - On behalf of everyone":(
+    "dr090504 -- She'll have the chicken sandwich, and I'll have a cheeseburger! - FWEET! - That is the 1,000th cheeseburger you've ordered from our restaurant, Mr. Drabble! - You are now a member of our loyal customer hall of fame! - On behalf of everyone": (
         "dr080504",
         "dr",
         " ",
@@ -670,7 +667,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090504 -- here at Down-N-Out Burgers, thank you and congratulations! - That was a little embarrassing! The ceremony over at the taco shop was much more dignified!":(
+    "dr090504 -- here at Down-N-Out Burgers, thank you and congratulations! - That was a little embarrassing! The ceremony over at the taco shop was much more dignified!": (
         "dr080504",
         "dr",
         " ",
@@ -678,7 +675,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090520 -- Tonight's recipient of the lifetime achievement award is the man who actually coined the term \"Mall Cop.\" - Before that, we were just known as \"indoor retail security personnel\", which wasn't as catchy! - None of us would be able to call":(
+    'dr090520 -- Tonight\'s recipient of the lifetime achievement award is the man who actually coined the term "Mall Cop." - Before that, we were just known as "indoor retail security personnel", which wasn\'t as catchy! - None of us would be able to call': (
         "dr080520",
         "dr",
         " ",
@@ -686,7 +683,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090520 -- ourselves \"mall cops\" today, if not for this man! - Why are you crying? I never realized how GREAT I was!":(
+    'dr090520 -- ourselves "mall cops" today, if not for this man! - Why are you crying? I never realized how GREAT I was!': (
         "dr080520",
         "dr",
         " ",
@@ -694,7 +691,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090521 -- Hi, mom! Hi, dad! Norm, you're just in time to see me receive the lifetime achievement award! - Isn't that what they give to old people when their career is over? What?? - Yeah, they give somebody a lifetime achievement award, and then they":(
+    "dr090521 -- Hi, mom! Hi, dad! Norm, you're just in time to see me receive the lifetime achievement award! - Isn't that what they give to old people when their career is over? What?? - Yeah, they give somebody a lifetime achievement award, and then they": (
         "dr080521",
         "dr",
         " ",
@@ -702,7 +699,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090521 -- don't feel so bad about getting rid of them! - Ralph, you look sick! Maybe he ate too many cocktail weenies!":(
+    "dr090521 -- don't feel so bad about getting rid of them! - Ralph, you look sick! Maybe he ate too many cocktail weenies!": (
         "dr080521",
         "dr",
         " ",
@@ -710,7 +707,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090522 -- I'm getting out of here, honeybunch! WHAT?? - Norman just pointed out that they only give lifetime achievement awards to people whose careers are over! I'm too young for this!! - And the winner is RALPH DRABBLE! Where are you, Ralph? - Ralph?":(
+    "dr090522 -- I'm getting out of here, honeybunch! WHAT?? - Norman just pointed out that they only give lifetime achievement awards to people whose careers are over! I'm too young for this!! - And the winner is RALPH DRABBLE! Where are you, Ralph? - Ralph?": (
         "dr080522",
         "dr",
         " ",
@@ -718,7 +715,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090522 -- Come out from under this table! No!":(
+    "dr090522 -- Come out from under this table! No!": (
         "dr080522",
         "dr",
         " ",
@@ -726,7 +723,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090523 -- Ralph! Come back!! - We need to give you your award! Stop him!! - OOF! HEY! OUCH! LET ME GO!! - Good work, men! No problem! Ralph is pretty easy to outrun!":(
+    "dr090523 -- Ralph! Come back!! - We need to give you your award! Stop him!! - OOF! HEY! OUCH! LET ME GO!! - Good work, men! No problem! Ralph is pretty easy to outrun!": (
         "dr080523",
         "dr",
         " ",
@@ -734,7 +731,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090524 -- I don't WANT a lifetime award! I'm too young!! But, Ralph! Look at all you've contributed... - The holiday spirit violation, mall bowling, mall golf, the mall cop olympics, the junior mall scouts... - You're just giving me a lifetime":(
+    "dr090524 -- I don't WANT a lifetime award! I'm too young!! But, Ralph! Look at all you've contributed... - The holiday spirit violation, mall bowling, mall golf, the mall cop olympics, the junior mall scouts... - You're just giving me a lifetime": (
         "dr080524",
         "dr",
         " ",
@@ -742,7 +739,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090524 -- achievement award because you intend to phase me out!! - That's not true! We're giving it to you instead of a raise! Oh, OK then!":(
+    "dr090524 -- achievement award because you intend to phase me out!! - That's not true! We're giving it to you instead of a raise! Oh, OK then!": (
         "dr080524",
         "dr",
         " ",
@@ -750,7 +747,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr090525 -- I love to watch the Extreme Home Makeover show! It's so heartwarming! - Sniff! - SOB - HONK - - - Why can't I watch my favorite show without everybody staring at me?!! - Because OUR favorite show is watching you watch YOUR favorite show!":(
+    "dr090525 -- I love to watch the Extreme Home Makeover show! It's so heartwarming! - Sniff! - SOB - HONK - - - Why can't I watch my favorite show without everybody staring at me?!! - Because OUR favorite show is watching you watch YOUR favorite show!": (
         "dr080525",
         "dr",
         " ",
@@ -758,7 +755,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr091125 -- 'bye grandma! Thanks again for dinner! - How did you like the turkey, Ralph? - cough cough cough! - I think it was undercooked!":(
+    "dr091125 -- 'bye grandma! Thanks again for dinner! - How did you like the turkey, Ralph? - cough cough cough! - I think it was undercooked!": (
         "dr051125",
         "dr",
         " ",
@@ -766,7 +763,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000419 -- The car is packed! We're ready to leave on our trip to visit grandma! - Good heavens! I forgot about our pets! What about them? - We'll be gone of a week! Who will feed them? - They know where the garbage cans are! They'll be fine! Maybe":(
+    "dr000419 -- The car is packed! We're ready to leave on our trip to visit grandma! - Good heavens! I forgot about our pets! What about them? - We'll be gone of a week! Who will feed them? - They know where the garbage cans are! They'll be fine! Maybe": (
         "dr100419",
         "dr",
         " ",
@@ -774,7 +771,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000419 -- we'll take them with us! I'm OK with the garbage!":(
+    "dr000419 -- we'll take them with us! I'm OK with the garbage!": (
         "dr100419",
         "dr",
         " ",
@@ -782,7 +779,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000420 -- As soon as our petsitter arrives, we can leave on our vacation! Petsitter?? - I hired someone to care for our pets! DING DONG! There he is now! - STEINBAUER?? Have a nice trip, Ralph! - Show me where you keep the cat food, and the remote":(
+    "dr000420 -- As soon as our petsitter arrives, we can leave on our vacation! Petsitter?? - I hired someone to care for our pets! DING DONG! There he is now! - STEINBAUER?? Have a nice trip, Ralph! - Show me where you keep the cat food, and the remote": (
         "dr100420",
         "dr",
         " ",
@@ -790,7 +787,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000420 -- control for your new big-screen TV!":(
+    "dr000420 -- control for your new big-screen TV!": (
         "dr100420",
         "dr",
         " ",
@@ -798,7 +795,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000421 -- Hello? ...oh, hi, Steinbauer! How's everything at home? - Fine, Ralph! I just called to tell you that your easy chair is quite comfy! - That's MY chair!! No one's allowed to sit in that chair but ME!! - Oh, boy! And there are lots of loose":(
+    "dr000421 -- Hello? ...oh, hi, Steinbauer! How's everything at home? - Fine, Ralph! I just called to tell you that your easy chair is quite comfy! - That's MY chair!! No one's allowed to sit in that chair but ME!! - Oh, boy! And there are lots of loose": (
         "dr100421",
         "dr",
         " ",
@@ -806,7 +803,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000421 -- M&M's in the cushions! THOSE ARE MINE, TOO!!":(
+    "dr000421 -- M&M's in the cushions! THOSE ARE MINE, TOO!!": (
         "dr100421",
         "dr",
         " ",
@@ -814,7 +811,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000422 -- Hey, Ralph, your dog wasn't eating his dog food, so I fed him the steak that was in the freezer! You WHAT??!!! - Steinbauer, that was top sirloin!! I was saving it for the weekend!! Oops! - Did you give him ALL of it?? No, just a little! - I":(
+    "dr000422 -- Hey, Ralph, your dog wasn't eating his dog food, so I fed him the steak that was in the freezer! You WHAT??!!! - Steinbauer, that was top sirloin!! I was saving it for the weekend!! Oops! - Did you give him ALL of it?? No, just a little! - I": (
         "dr100422",
         "dr",
         " ",
@@ -822,7 +819,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000422 -- ate the rest! GAAAHH!":(
+    "dr000422 -- ate the rest! GAAAHH!": (
         "dr100422",
         "dr",
         " ",
@@ -830,7 +827,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000423 -- Listen , Steinbauer, I know we hired you to be a pet sitter... - But I think you're spending too much time at our house! I don't appreciate you helping yourself to all my stuff! - Relax, Ralph! I'm not even at your house right now! I'm":(
+    "dr000423 -- Listen , Steinbauer, I know we hired you to be a pet sitter... - But I think you're spending too much time at our house! I don't appreciate you helping yourself to all my stuff! - Relax, Ralph! I'm not even at your house right now! I'm": (
         "dr100423",
         "dr",
         " ",
@@ -838,7 +835,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000423 -- playing golf! - By the way, do you have any extra balls in your golf bag? I keep hitting them in the lake!":(
+    "dr000423 -- playing golf! - By the way, do you have any extra balls in your golf bag? I keep hitting them in the lake!": (
         "dr100423",
         "dr",
         " ",
@@ -846,7 +843,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000424 -- Hey, Ralph, how come you buy this low-fat ice cream? It's not as good! - YOU'RE EATING ALL MY ICE CREAM?? - No, I'm sharing it with your dig! - Wally and I have been bonding! Your TEETH are going to need some bonding!":(
+    "dr000424 -- Hey, Ralph, how come you buy this low-fat ice cream? It's not as good! - YOU'RE EATING ALL MY ICE CREAM?? - No, I'm sharing it with your dig! - Wally and I have been bonding! Your TEETH are going to need some bonding!": (
         "dr100424",
         "dr",
         " ",
@@ -854,7 +851,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000425 -- Oops! - Look, Wally! A potato chip! Come and get it! - It's all yours! Go for it! sniff sniff sniff - You don't want it?? - That means I have to bend down and pick it up, you dumb dog! - Aaaaarrggh! - Uh-oh! - That dumb dog isn't so dumb, is":(
+    "dr000425 -- Oops! - Look, Wally! A potato chip! Come and get it! - It's all yours! Go for it! sniff sniff sniff - You don't want it?? - That means I have to bend down and pick it up, you dumb dog! - Aaaaarrggh! - Uh-oh! - That dumb dog isn't so dumb, is": (
         "dr100425",
         "dr",
         " ",
@@ -862,7 +859,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000425 -- he?":(
+    "dr000425 -- he?": (
         "dr100425",
         "dr",
         " ",
@@ -870,7 +867,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000426 -- Hi, Wally!! I'm back from vacation!! - Yawn! Aren't you glad to see me? - Good bye, Wally! I have to go! All good things must come to an end! kiss kiss  - Thanks for petsitting, Steinbauer. Good luck getting him to stay off the furniture from":(
+    "dr000426 -- Hi, Wally!! I'm back from vacation!! - Yawn! Aren't you glad to see me? - Good bye, Wally! I have to go! All good things must come to an end! kiss kiss  - Thanks for petsitting, Steinbauer. Good luck getting him to stay off the furniture from": (
         "dr100426",
         "dr",
         " ",
@@ -878,7 +875,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr000426 -- now on!":(
+    "dr000426 -- now on!": (
         "dr100426",
         "dr",
         " ",
@@ -886,7 +883,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr110111 -- When I was a kid, I used to HATE rainy days! - I hated not being able to go outside and play! - Something tells me a rainy day doesn't bother kids like it used to! Is it still daytime?":(
+    "dr110111 -- When I was a kid, I used to HATE rainy days! - I hated not being able to go outside and play! - Something tells me a rainy day doesn't bother kids like it used to! Is it still daytime?": (
         "dr110211",
         "dr",
         " ",
@@ -894,7 +891,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr120105 -- Son, listen to me! Don't rush into things! - I know how it goes: you marry someone who's cute and nice, and then afterwards... - They even get cuter and nicer! - How did you know she was behind you? The temperature of the room dropped.":(
+    "dr120105 -- Son, listen to me! Don't rush into things! - I know how it goes: you marry someone who's cute and nice, and then afterwards... - They even get cuter and nicer! - How did you know she was behind you? The temperature of the room dropped.": (
         "dr120125",
         "dr",
         " ",
@@ -902,7 +899,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr120120 -- ...and another thing: never relinquish your TV remote! - Thanks! You've been very helpful! My pleasure, son! - I probably shouldn't wear my fatherly advice outfit in public! Excuse me! Can I ask you a question?":(
+    "dr120120 -- ...and another thing: never relinquish your TV remote! - Thanks! You've been very helpful! My pleasure, son! - I probably shouldn't wear my fatherly advice outfit in public! Excuse me! Can I ask you a question?": (
         "dr120220",
         "dr",
         " ",
@@ -910,7 +907,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr120123 -- This movie is driving me crazy! - I have no idea what's going on! - Don't feel bad, dear... - You had no idea what was going on BEFORE you got to the movie, either! Oh, yeah, huh!":(
+    "dr120123 -- This movie is driving me crazy! - I have no idea what's going on! - Don't feel bad, dear... - You had no idea what was going on BEFORE you got to the movie, either! Oh, yeah, huh!": (
         "dr120223",
         "dr",
         " ",
@@ -918,7 +915,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr120101 -- Norm! Why do you have the imprint of a water polo ball on your face? - Echo fired a last-second shot, and I blocked it with my head. - That's not even the worst part! - I also have a bad case of swim-cap hair!":(
+    "dr120101 -- Norm! Why do you have the imprint of a water polo ball on your face? - Echo fired a last-second shot, and I blocked it with my head. - That's not even the worst part! - I also have a bad case of swim-cap hair!": (
         "dr121201",
         "dr",
         " ",
@@ -926,7 +923,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr120102 -- Klutzy - Kick in the shins Sorry. - Sore Knees *** - Knots unties - score Keister - pain Killers - first aid Kit - Keep going (even though you feel like you're gonna die!) - Kaput! You finished last, and we're out of water! - How was the 10-K":(
+    "dr120102 -- Klutzy - Kick in the shins Sorry. - Sore Knees *** - Knots unties - score Keister - pain Killers - first aid Kit - Keep going (even though you feel like you're gonna die!) - Kaput! You finished last, and we're out of water! - How was the 10-K": (
         "dr121202",
         "dr",
         " ",
@@ -934,7 +931,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr120102 -- run? The most Knuckle-headed things I've ever done!":(
+    "dr120102 -- run? The most Knuckle-headed things I've ever done!": (
         "dr121202",
         "dr",
         " ",
@@ -942,7 +939,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr120219 -- WALLY - rowf rowf rowf rowf rowf rowf ROWF rowf rowf rowf rowf ROWF rowf ROWF rowf! - It's just me! - Why all the barking?? You smell like a badger!":(
+    "dr120219 -- WALLY - rowf rowf rowf rowf rowf rowf ROWF rowf rowf rowf rowf ROWF rowf ROWF rowf! - It's just me! - Why all the barking?? You smell like a badger!": (
         "dr130219",
         "dr",
         " ",
@@ -950,7 +947,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr130707 -- Hey, Wally! - Wanna go for a... skattle skattle skattle! - Walk? - OK, but if you're so smart, why do you need a leash? So you won't get lost, of course!":(
+    "dr130707 -- Hey, Wally! - Wanna go for a... skattle skattle skattle! - Walk? - OK, but if you're so smart, why do you need a leash? So you won't get lost, of course!": (
         "dr130107",
         "dr",
         " ",
@@ -958,7 +955,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr120710 -- something so ridiculous!":(
+    "dr120710 -- something so ridiculous!": (
         "dr130710",
         "dr",
         " ",
@@ -966,7 +963,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr140408 -- really, REALLY don't need to leave until 7:00!":(
+    "dr140408 -- really, REALLY don't need to leave until 7:00!": (
         "dr140418",
         "dr",
         " ",
@@ -974,7 +971,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr101015 -- going? So far, I only need to buy books for three classes!":(
+    "dr101015 -- going? So far, I only need to buy books for three classes!": (
         "dr141015",
         "dr",
         " ",
@@ -982,7 +979,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr150102 -- squeak squeak squeak - Ralph, it's so embarrassing to walk through the library with you! squeak squeak squeak - Take off those squeaky shoes! ...Sigh... OK - squeak squeak squeak Maybe I need a chiropractor!":(
+    "dr150102 -- squeak squeak squeak - Ralph, it's so embarrassing to walk through the library with you! squeak squeak squeak - Take off those squeaky shoes! ...Sigh... OK - squeak squeak squeak Maybe I need a chiropractor!": (
         "dr151002",
         "dr",
         " ",
@@ -990,7 +987,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr150202 -- BARK BARK BARK BARK BARK ...Sigh... - Don't bark. - ROWF ROWF ROWF ROWF ROWF Don't rowf either. - YAP YAP YAP YAP YAP I give up!":(
+    "dr150202 -- BARK BARK BARK BARK BARK ...Sigh... - Don't bark. - ROWF ROWF ROWF ROWF ROWF Don't rowf either. - YAP YAP YAP YAP YAP I give up!": (
         "dr151202",
         "dr",
         " ",
@@ -998,7 +995,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr160626 -- WALLY Hello! Do you need me? - Anything I can do around here? - Fetch a ball or help you eat chips? - I'M HERE IF YOU NEED ME!":(
+    "dr160626 -- WALLY Hello! Do you need me? - Anything I can do around here? - Fetch a ball or help you eat chips? - I'M HERE IF YOU NEED ME!": (
         "dr160726",
         "dr",
         " ",
@@ -1006,7 +1003,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr170202 -- Hmmm... - Looks to me like I'm down at least a pound and a half this morning! - YES! - It might be more accurate to weigh yourself! Guesstimating is less scary!":(
+    "dr170202 -- Hmmm... - Looks to me like I'm down at least a pound and a half this morning! - YES! - It might be more accurate to weigh yourself! Guesstimating is less scary!": (
         "dr171202",
         "dr",
         " ",
@@ -1014,7 +1011,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr170203 -- I'm telling you, when I put those lights away in January, I wound then neatly! - I think your memory might be a little fuzzy, dad! - Yeah, especially because you didn't put them away until august! - I guess we won't be winning the neighborhood":(
+    "dr170203 -- I'm telling you, when I put those lights away in January, I wound then neatly! - I think your memory might be a little fuzzy, dad! - Yeah, especially because you didn't put them away until august! - I guess we won't be winning the neighborhood": (
         "dr171203",
         "dr",
         " ",
@@ -1022,7 +1019,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr170203 -- lighting contest this year! Maybe they'll have a \"least inspirational\" award! I'm sure the badgers had something to do with this!":(
+    "dr170203 -- lighting contest this year! Maybe they'll have a \"least inspirational\" award! I'm sure the badgers had something to do with this!": (
         "dr171203",
         "dr",
         " ",
@@ -1030,7 +1027,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr100119 -- My food dish is empty! - Is it time to eat? - Wally, I just fed you dinner three minutes ago! - ...Shigh... - How about now? - I just fed you dinner three minutes and ten seconds ago! - I'm hoping that means it's time for breakfast!":(
+    "dr100119 -- My food dish is empty! - Is it time to eat? - Wally, I just fed you dinner three minutes ago! - ...Shigh... - How about now? - I just fed you dinner three minutes and ten seconds ago! - I'm hoping that means it's time for breakfast!": (
         "dr200119",
         "dr",
         " ",
@@ -1038,7 +1035,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr201118 -- I'm so glad hockey season is back! - It's time to take off my festive Christmas necklace and put on my festive hockey necklace! - Hockey necklace? -":(
+    "dr201118 -- I'm so glad hockey season is back! - It's time to take off my festive Christmas necklace and put on my festive hockey necklace! - Hockey necklace? -": (
         "dr210118",
         "dr",
         " ",
@@ -1046,7 +1043,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr200315 -- Z - - No, you may not have a midnight snack! - Although, now that you mention it...":(
+    "dr200315 -- Z - - No, you may not have a midnight snack! - Although, now that you mention it...": (
         "dr210315",
         "dr",
         " ",
@@ -1054,7 +1051,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr210707 -- I KNOW YOU'RE HIDING SOMEWHERE, WALLY! - COME ON, WE NEED TO GO! - YOU HAVE AN APPOINTMENT WITH THE VET! - Couldn't we just do it on Zoom?":(
+    "dr210707 -- I KNOW YOU'RE HIDING SOMEWHERE, WALLY! - COME ON, WE NEED TO GO! - YOU HAVE AN APPOINTMENT WITH THE VET! - Couldn't we just do it on Zoom?": (
         "dr210107",
         "dr",
         " ",
@@ -1063,8 +1060,6 @@ comicids_fix = {
         -1,
     ),
     # TODO - needs some effort; search on GoComics
-
-
     # Garfield
     "ga810102 -- Just what is a diet? - A diet is self-denial. - Fortunately, I'm such a swell fellow I haven't the heart to deny myself anything.": (
         "ga820102",
