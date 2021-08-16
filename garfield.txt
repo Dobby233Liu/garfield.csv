@@ -16574,3 +16574,4 @@ ga210812 -- Before you start a new diet, clean out all the fattening food... - I
 ga210813 -- Isn't staying out late fun? - Garfield? - Z Mr. Excitement is asleep with his eyes open again.
 ga210814 -- Look, here's your first day in the house. - - And the last day we ever had leftover pizza. You're welcome.
 ga210815 -- Huh... Z - I wonder if I can curl up and nap like that. Z - Z - Z - boop boop beep bip bip beep boop Z - * beedle beedle beedle - OWWWWWWWW
+ga210816 -- Ah, running! - Ah, inactivity. - I pulled a muscle! What's a muscle?

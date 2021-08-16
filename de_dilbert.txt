@@ -10328,3 +10328,5 @@
 210814 -- braucht?
 210815 -- Können Sie mir ein gutes Mikrofon für mein Tablet empfehlen? - Ja, ich schicke Ihnen einen Link. - Das ist aber nur für Laptops geeignet. Wie wär's mit diesem? - Nein, das ist auch nur für Laptops. Okay, verstehe. Hier ist eins... - Nein, das
 210815 -- funktioniert auch nicht bei meinem Tablet. - Hören Sie genau zu. Mein Hauptanliegen ist, daß es Tablet-tauglich ist. - Oh, okay, verstehe. Hier ist noch eins. - Ist das denn jetzt kompatibel? Ich sagte nicht, daß es perfekt wäre.
+210816 -- Die Experimente zum Funktionsgewinn bei unseren Angestellten waren erfolgreich. - Die Produktivität ist um 50% gestiegen und niemand hat sich beschwert. - Stört jemanden die Tatsache, daß uns allen Schwänze gewachsen sind? Nö, fühlt sich
+210816 -- natürlich an.
