@@ -16576,3 +16576,4 @@ ga210814 -- Look, here's your first day in the house. - - And the last day we ev
 ga210815 -- Huh... Z - I wonder if I can curl up and nap like that. Z - Z - Z - boop boop beep bip bip beep boop Z - * beedle beedle beedle - OWWWWWWWW
 ga210816 -- Ah, running! - Ah, inactivity. - I pulled a muscle! What's a muscle?
 ga210817 -- And now, hot to train your cat... - Lessone one... - Give up. Smart move.
+ga210818 -- "Dear Ask A Dog, didn't I see you on my lawn last week? - - "Yes, you."

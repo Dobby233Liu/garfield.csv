@@ -10007,7 +10007,7 @@ dr210804 -- HOT GROUND! HOT! HOT! - GRASS! HURRY! - AHHHH! - FAKE GRASS! HOTTER!
 dr210805 -- Sorry, Wally. I don't have time to play ball. - How can you not have time? All you have to do is throw it! - Oh, all right! - But first you have to catch me! SIGH
 dr210806 -- I think I'm getting cranky in my old age! Don't be silly, dear! - You were cranky in your younger days, too!
 dr210807 -- Sorry, Wally... - I'm not feeding YOU! - I'm feeding the cat! - That works too!
-dr210808 -- YOGURT - That'll be §7.50! You can swipe your card there. - If you'd like to include a tip, you can tap 18%, 20%, 25%, or more! - Why would I include a tip?? - I got my own yogurt! you didn't do anything! - You didn't even say hello when I
+dr210808 -- YOGURT - That'll be $7.50! You can swipe your card there. - If you'd like to include a tip, you can tap 18%, 20%, 25%, or more! - Why would I include a tip?? - I got my own yogurt! you didn't do anything! - You didn't even say hello when I
 dr210808 -- came in! - Hello. OK, but only 25%!
 dr210809 -- I'm offended, Ralph! - You didn't wishe me a happy birthday! - Is today your birthday? - No, but YOU didn't know that!
 dr210810 -- XMAS Decorations - Too early. But it'll be labor day before we know it!
@@ -10018,3 +10018,4 @@ dr210814 -- Wally, knock it off! ROWF! skattle skattle skattle - These are the d
 dr210815 -- WALLY! - WALLY! - WALLY! SNARF SNARF SNARF - WALLY! POP! - WALLY! - WALLY! SNARF! - What's going around here?? skattle skattle skattle It's called the Dog Days of Summer!
 dr210816 -- DING DONG! * - Beef jerky, minidonuts, barbecue potato chips... - A grape slush, sunflower seeds, and a chocolate pop tart! Thanks. - Dad's the only guy who gets doordashes from the truck stop.
 dr210817 -- Mom, dad... - I have some news to share. - News that you may find shocking. - So maybe I'd better sit down!
+dr210818 -- I want to quit college. WHAT? WHY?? - I'm not larning much. I'm just getting more confused! - What will you do instead? Do you have a plan? Of course! - For starters, I'm going to join a softball league!
