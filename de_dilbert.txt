@@ -10335,3 +10335,5 @@
 210818 -- um um einen zweiten Schwanz zu bitten.
 210819 -- Ihr Arbeitgeber scheint Ihre Gene manipuliert zu haben, damit Ihnen ein nützlicher Schwanz wächst. - Die Grundstruktur ist schwach. Trinken Sie eine Woche lang nur entkoffeinierten Kaffee, dann fällt er sofort ab. - Und es hat nur eine Woche
 210819 -- gedauert. An dieser Idee ist buchstäblich alles schlecht.
+210820 -- Unser Generaldirektor möchte dem Club der Weltraum-Bilionäre beitreten. Er bittet uns, ihm eine Rakete zu bauen. - Es könnte sein, daß wir bei dem Raketenentwurf aus Kostengründen an allen Ecken und Enden sparen müssen. - Hat jemand eine Idee?
+210820 -- Ich finde, den Wiedereintritt in die Erdathmosphäre kann man billig halten.

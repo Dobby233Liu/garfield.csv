@@ -10020,4 +10020,4 @@ dr210816 -- DING DONG! * - Beef jerky, minidonuts, barbecue potato chips... - A 
 dr210817 -- Mom, dad... - I have some news to share. - News that you may find shocking. - So maybe I'd better sit down!
 dr210818 -- I want to quit college. WHAT? WHY?? - I'm not larning much. I'm just getting more confused! - What will you do instead? Do you have a plan? Of course! - For starters, I'm going to join a softball league!
 dr210819 -- Norman, why would you want to drop out of college?? - You've been there for so long! - And do I seem any smarter? - Well... He's got a point there!
- 
+dr210820 -- Ralph, go talk Norman out of quitting college! - Norm, we don't want you to quit college! - But think of all the money you'd save on tuition, dad! - Well? Sorry, honeybunch. I gave it my best shot!

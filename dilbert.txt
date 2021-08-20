@@ -13634,4 +13634,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210817 -- I'm starting to suspect management is somehow altering our genes to make us more productive. - It can't be a coincidence that we all grew helpful tails at the same time. - FOR THE LOVE OF GOD, DON'T RUIN THIS FOR ME.
 210818 -- Half of us are glad you meddled with our genes and made us grow helpful tails. - The other half want to see you stand trial and, ultimetely, get executed. - Which group are you in? I came to ask for a second tail.
 210819 -- Looks like your employer meddled with your genes and caused you to grow a helpful tail. - It has a weak base structure. Switch to decaf for a week, and it'll fall right off. - And it only took a week. Literally everything about your idea is
-210809 -- bad.
+210819 -- bad.
+210820 -- Our CEO wants to join the Billionaire Space Club. He asked us to build him a rocket. - We might need to cut some corners on the rocket design, for budget reasons. - Any ideas? I'd go cheap on reentry.
