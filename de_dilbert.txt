@@ -10337,3 +10337,5 @@
 210819 -- gedauert. An dieser Idee ist buchstäblich alles schlecht.
 210820 -- Unser Generaldirektor möchte dem Club der Weltraum-Bilionäre beitreten. Er bittet uns, ihm eine Rakete zu bauen. - Es könnte sein, daß wir bei dem Raketenentwurf aus Kostengründen an allen Ecken und Enden sparen müssen. - Hat jemand eine Idee?
 210820 -- Ich finde, den Wiedereintritt in die Erdathmosphäre kann man billig halten.
+210821 -- Wann ist meine Rakete fertig? - Sie können nächste Woche damit fliegen, so können wir uns vergewissern, ob es für die späteren Testflüge mit einem Affen sicher ist. - Hab ich das gerade richtig verstanden? Stellen Sie besser Entwickler ein, die
+210821 -- Tiere hassen und Chefs lieben.

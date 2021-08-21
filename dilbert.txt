@@ -13636,3 +13636,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210819 -- Looks like your employer meddled with your genes and caused you to grow a helpful tail. - It has a weak base structure. Switch to decaf for a week, and it'll fall right off. - And it only took a week. Literally everything about your idea is
 210819 -- bad.
 210820 -- Our CEO wants to join the Billionaire Space Club. He asked us to build him a rocket. - We might need to cut some corners on the rocket design, for budget reasons. - Any ideas? I'd go cheap on reentry.
+210821 -- When will my rocket be ready for human flight? - You're scheduled to fly in it next week to make sure it's safe for animal test flights later this month. - Did I hear that wrong? You should have hired engineers who hate animals and love CEOs.
