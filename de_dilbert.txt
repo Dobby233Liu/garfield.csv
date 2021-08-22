@@ -10339,3 +10339,6 @@
 210820 -- Ich finde, den Wiedereintritt in die Erdathmosphäre kann man billig halten.
 210821 -- Wann ist meine Rakete fertig? - Sie können nächste Woche damit fliegen, so können wir uns vergewissern, ob es für die späteren Testflüge mit einem Affen sicher ist. - Hab ich das gerade richtig verstanden? Stellen Sie besser Entwickler ein, die
 210821 -- Tiere hassen und Chefs lieben.
+210822 -- Ich habe beschlossen einen eigenen Podcast zu machen, denn anscheinend kriegt das ja jeder Idiot hin. - Ich brauche nur ein klein wenig Hilfe bei dem technischen Kram. - Wollen Sie ein Kondensator-Mikro einsetzen? - Denn in dem Fall brauchen
+210822 -- Sie eine Phantomspeisung, um dessen Wandlerelement zu polen. - Und nutzen Sie unbedingt einen De-Esser, damit Sie nicht wie eine Schlange klingen. - Ich habe keine Ahnung, was das alles bedeutet. - Wie kriegen die Idioten denn raus, wie das
+210822 -- alles geht? - Die bitten mich normalerweise um ein klein wenig Hilfe.
