@@ -10344,3 +10344,4 @@
 210822 -- alles geht? - Die bitten mich normalerweise um ein klein wenig Hilfe.
 210823 -- Die Epsilon-Variante des Virus is empfindungsfähig geworden und ruft die Menschen auf, sich zu ergeben. - Die Bedingungen sind, daß wir dem Virus einen Roboterkörper in der Größe Grönlands bauen, damit es die Erde beherrschen kann. - Experten
 210823 -- sagen, es läßt sich mit Gesichtsmasken aufhalten.
+210824 -- Können Sie Ihre technische Analyse auf eine Seite kürzen? - Klar. Ich ersetze einfach meine fundierte Analyse durch einen Haufen branchentypischer Stichpunkte. - Das klappt bestimmt. Sicherheit ist gut...
