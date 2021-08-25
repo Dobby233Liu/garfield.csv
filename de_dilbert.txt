@@ -10335,7 +10335,7 @@
 210818 -- um um einen zweiten Schwanz zu bitten.
 210819 -- Ihr Arbeitgeber scheint Ihre Gene manipuliert zu haben, damit Ihnen ein nützlicher Schwanz wächst. - Die Grundstruktur ist schwach. Trinken Sie eine Woche lang nur entkoffeinierten Kaffee, dann fällt er sofort ab. - Und es hat nur eine Woche
 210819 -- gedauert. An dieser Idee ist buchstäblich alles schlecht.
-210820 -- Unser Generaldirektor möchte dem Club der Weltraum-Bilionäre beitreten. Er bittet uns, ihm eine Rakete zu bauen. - Es könnte sein, daß wir bei dem Raketenentwurf aus Kostengründen an allen Ecken und Enden sparen müssen. - Hat jemand eine Idee?
+210820 -- Unser Generaldirektor möchte dem Club der Weltraum-Billionäre beitreten. Er bittet uns, ihm eine Rakete zu bauen. - Es könnte sein, daß wir bei dem Raketenentwurf aus Kostengründen an allen Ecken und Enden sparen müssen. - Hat jemand eine Idee?
 210820 -- Ich finde, den Wiedereintritt in die Erdathmosphäre kann man billig halten.
 210821 -- Wann ist meine Rakete fertig? - Sie können nächste Woche damit fliegen, so können wir uns vergewissern, ob es für die späteren Testflüge mit einem Affen sicher ist. - Hab ich das gerade richtig verstanden? Stellen Sie besser Entwickler ein, die
 210821 -- Tiere hassen und Chefs lieben.
@@ -10345,3 +10345,5 @@
 210823 -- Die Epsilon-Variante des Virus is empfindungsfähig geworden und ruft die Menschen auf, sich zu ergeben. - Die Bedingungen sind, daß wir dem Virus einen Roboterkörper in der Größe Grönlands bauen, damit es die Erde beherrschen kann. - Experten
 210823 -- sagen, es läßt sich mit Gesichtsmasken aufhalten.
 210824 -- Können Sie Ihre technische Analyse auf eine Seite kürzen? - Klar. Ich ersetze einfach meine fundierte Analyse durch einen Haufen branchentypischer Stichpunkte. - Das klappt bestimmt. Sicherheit ist gut...
+210825 -- Bilde ich mir das nur ein, oder mangelt es unter den Chef-Entwicklern an Diversität? - Ich befördere Sie zum Chef-Entwickler, wenn Sie mir versprechen, dies niemals der Presse gegenüber zu erwähnen. - Haben Sie sich gerade selber erpresst? Und
+210825 -- Sie bekommen ein eigenes Büro.
