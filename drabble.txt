@@ -10027,3 +10027,5 @@ dr210822 -- SIT WITH ME, WALLY! - Hey! Why did you choose HER? - Who's the one w
 dr210823 -- Time for a snack! - Yes! - - Who decided that potato chips and tennis balls should come in the same type of can?
 dr210824 -- It's eerily quiet in the park today. - There's not a soul around! - Hello!
 dr210825 -- I said hello! - Did you just speak to me? - Maybe. - Park rangers spend so much time alone in the wilderness, they sometimes think they hear animals talk!
+dr210826 -- My name is Murray! Murray the Moose? - Do you enjoy working here at the park? It gets more interesting every day!
+dr210827 -- How do you like living in a national park, Murray? - It's a lot of work. I'm on my feet all day posing for... - SNAP! - Pictures. Very professional!

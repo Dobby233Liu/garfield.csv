@@ -16584,3 +16584,5 @@ ga210822 -- - That's so cute! - Where's my phone? Where's my phone? - I have to 
 ga210823 -- I would have a hard time holding down an office job. - - I'm not good at looking busy.
 ga210824 -- Here is the table of my aunt... - Squeak! Squeak-Squeak! - Squeak! Squeak-Squeak! - Squeaky-Squeak-Squeak! I'm brushing up on my mouse.
 ga210825 -- "Dear Ask A Dog, does a cold nose mean a dog is happy?" BARK! - Yes! BARK! BARK! BARK! BARK! - Especially if it's been in ice cream.
+ga210826 -- Once upon a timne there was a cat... - who hugged his teddy bear. The End - I love stories with happy endings.
+ga210827 -- I like to give of myself. - Can I have a fry? - Myself, not my food.
