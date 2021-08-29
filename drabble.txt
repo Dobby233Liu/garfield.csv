@@ -10030,3 +10030,5 @@ dr210825 -- I said hello! - Did you just speak to me? - Maybe. - Park rangers sp
 dr210826 -- My name is Murray! Murray the Moose? - Do you enjoy working here at the park? It gets more interesting every day!
 dr210827 -- How do you like living in a national park, Murray? - It's a lot of work. I'm on my feet all day posing for... - SNAP! - Pictures. Very professional!
 dr210828 -- Do any other animals around here talk? - The chipmunks, but don't get 'em started! Anybody got any snacks? Huh? Do ya?
+dr210829 -- Halloween candy? - IT'S AUGUST!! - Why are they selling Halloween candy already?? It's two months away! - It's ridiculous! Every year they start selling candy earlier and earlier! - Well, I absolutely refuse to buy Halloween candy in August!
+dr210829 -- Ooooh! Christmas wrapping paper! NOEL HO HO HO
