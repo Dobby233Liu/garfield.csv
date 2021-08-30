@@ -10032,3 +10032,4 @@ dr210827 -- How do you like living in a national park, Murray? - It's a lot of w
 dr210828 -- Do any other animals around here talk? - The chipmunks, but don't get 'em started! Anybody got any snacks? Huh? Do ya?
 dr210829 -- Halloween candy? - IT'S AUGUST!! - Why are they selling Halloween candy already?? It's two months away! - It's ridiculous! Every year they start selling candy earlier and earlier! - Well, I absolutely refuse to buy Halloween candy in August!
 dr210829 -- Ooooh! Christmas wrapping paper! NOEL HO HO HO
+dr210830 -- I need to find a job. I'll start at the bottom and work my way up! - So, where could I work my way up the ladder? - That's it! A hardware store!
