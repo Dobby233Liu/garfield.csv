@@ -10033,3 +10033,4 @@ dr210828 -- Do any other animals around here talk? - The chipmunks, but don't ge
 dr210829 -- Halloween candy? - IT'S AUGUST!! - Why are they selling Halloween candy already?? It's two months away! - It's ridiculous! Every year they start selling candy earlier and earlier! - Well, I absolutely refuse to buy Halloween candy in August!
 dr210829 -- Ooooh! Christmas wrapping paper! NOEL HO HO HO
 dr210830 -- I need to find a job. I'll start at the bottom and work my way up! - So, where could I work my way up the ladder? - That's it! A hardware store!
+dr210831 -- Guess what! I got a job at the hardwar estore! - "Ask me"?? Norm, you don't know anything about hardware! - That's the beauty of it, dad! - By the end of the week, I'll be an expert! If he lasts that long!
