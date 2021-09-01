@@ -10034,3 +10034,4 @@ dr210829 -- Halloween candy? - IT'S AUGUST!! - Why are they selling Halloween ca
 dr210829 -- Ooooh! Christmas wrapping paper! NOEL HO HO HO
 dr210830 -- I need to find a job. I'll start at the bottom and work my way up! - So, where could I work my way up the ladder? - That's it! A hardware store!
 dr210831 -- Guess what! I got a job at the hardwar estore! - "Ask me"?? Norm, you don't know anything about hardware! - That's the beauty of it, dad! - By the end of the week, I'll be an expert! If he lasts that long!
+dr210901 -- Where would I find nails? - Oh, you'd find them in wood fences, and at construction sites. - - I'll ask someone else. In skateboard ramps, too!

@@ -13652,3 +13652,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210830 -- I don't trust the experts when it comes to my health, so I do my own research. - For example, I recently learned I can cure my gout by sprinkling the ashes of a dead squirrel on a rose bush. - Maybe you shouldn't do you own research. Why not?
 210830 -- It's working great!
 210831 -- Would you like to go to lunch with me? - No, I ate yesterday. - I should probably just walk away. And I hate the restaurant you never mentioned.
+210901 -- Did you get my notes on improving your slide deck? - Yes, it seems as if you didn't look at the slide deck and just googled "Generic Feedback" but spelled it wrong. - You can't prove that. Your first note said "Search instead for /generik/
+210901 -- feedback?"
