@@ -10035,3 +10035,4 @@ dr210829 -- Ooooh! Christmas wrapping paper! NOEL HO HO HO
 dr210830 -- I need to find a job. I'll start at the bottom and work my way up! - So, where could I work my way up the ladder? - That's it! A hardware store!
 dr210831 -- Guess what! I got a job at the hardwar estore! - "Ask me"?? Norm, you don't know anything about hardware! - That's the beauty of it, dad! - By the end of the week, I'll be an expert! If he lasts that long!
 dr210901 -- Where would I find nails? - Oh, you'd find them in wood fences, and at construction sites. - - I'll ask someone else. In skateboard ramps, too!
+dr210902 -- How do you like working at the hardware store, Norm? It's a challenge. - Tomorrow I have to assemble ten barbecues! - Do you want me to come help you? Absolutely not, dad! I'd NEVER ask you for help! - Mom, will you come help me tomorrow?
