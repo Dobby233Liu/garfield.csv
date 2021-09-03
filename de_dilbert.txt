@@ -10358,3 +10358,5 @@
 210901 -- Haben Sie meine Notizen zur Verbesserung Ihrer Präsentation erhalten? - Ja, aber mir scheint, Sie haben sie sich gar nicht angesehen, sondern einfach "generelles Feedback" gegoogelt, aber das auch noch falsch geschrieben. - Das können Sie nicht
 210901 -- beweisen. Ihre erste Anmerkung lautete: "Stattdessen nach GENERELLES FIEDBACK suchen?"!
 210902 -- Ich brauche aus medizinischen Gründen zwei Monate Auszeit, um mit meinem geringen Selbsbewußtsein umgehen zu lernen. - So was erbärmliches habe ich ja noch nie gehört. - Jetzt brauche ich drei Monate.
+210903 -- Hey, Dick, tun Sie mir einen Gefallen und besorgen mir die neuesten Nutzerdaten? - Nein. Ein Gefallen erfordert, daß es zwischwn uns irgendeine menschliche Beziehung gibt, aber ich kenne Sie nur als digitales Bild auf meinem Schirm. - Wir
+210903 -- arbeiten für dieselbe Firma. Im Prinzip sind Sie für mich nur ein Emoji.
