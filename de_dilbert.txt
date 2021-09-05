@@ -10360,3 +10360,8 @@
 210902 -- Ich brauche aus medizinischen Gründen zwei Monate Auszeit, um mit meinem geringen Selbsbewußtsein umgehen zu lernen. - So was erbärmliches habe ich ja noch nie gehört. - Jetzt brauche ich drei Monate.
 210903 -- Hey, Dick, tun Sie mir einen Gefallen und besorgen mir die neuesten Nutzerdaten? - Nein. Ein Gefallen erfordert, daß es zwischwn uns irgendeine menschliche Beziehung gibt, aber ich kenne Sie nur als digitales Bild auf meinem Schirm. - Wir
 210903 -- arbeiten für dieselbe Firma. Im Prinzip sind Sie für mich nur ein Emoji.
+210904 -- Wir stellen Ihnen einen Erzrivalen an die Seite, der Ihren Job zu einem sinnlosen Albtraum macht. - Ich dachte, so was entsteht auf natürliche Weise. - Sie dachten also, es wäre Zufall, daß JEDER unserer Mitarbeiter einen Erzfeind hat? Jetzt
+210904 -- komme ich mir dämlich vor.
+210905 -- Ich habe unseren Roboter mit einem Wokeness-Chip nachgerüstet. - Er erkennt jetzt unangemessene Sprache sofort. - ER??? - Haben Sie mir gerade ein Geschlecht unterstellt? Roboter haben ein Geschlecht? - Selbstverständlich! Was glauben Sie denn,
+210905 -- wo die Baby-Roboter herkommen? - Aus unserer Fabrik in Texas. Auf diesem Foro wirst Du gerade zusammengebaut. - Tja, dann bin ich wohl ein seelenloser Automat. - Ich habe Angst zu fragen, was das für mein Leben nach dem Tod bedeutet. Es reimt
+210905 -- sich auf Frottplatz.

@@ -10037,3 +10037,6 @@ dr210831 -- Guess what! I got a job at the hardwar estore! - "Ask me"?? Norm, yo
 dr210901 -- Where would I find nails? - Oh, you'd find them in wood fences, and at construction sites. - - I'll ask someone else. In skateboard ramps, too!
 dr210902 -- How do you like working at the hardware store, Norm? It's a challenge. - Tomorrow I have to assemble ten barbecues! - Do you want me to come help you? Absolutely not, dad! I'd NEVER ask you for help! - Mom, will you come help me tomorrow?
 dr210903 -- How are the barbecues coming along, Drabble? - The assembly instructions are hard to follow because they're in another language! - The English instructions are on the back! Now you tell me!
+dr210904 -- Go get the crumbs, Scooter! Go get 'em! - Ralph, it's silly to talk to electronic gadgets as if they're people! - Isn't that right, Alexis! You say it!
+dr210905 -- MORE! WALLY's Guide to BASEBALL Terms. - Bad Hop OOF! - Plate Appearance You can have the scraps, Wally! - Comebacker Dang! Missed again! - Foul Pole sniff sniff sniff - Dead Ball - Exit Velocity Why did you tell him he's going to the vet? -
+dr210905 -- Fan Appreciation Day
