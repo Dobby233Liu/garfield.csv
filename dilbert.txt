@@ -13662,3 +13662,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210905 -- Here's a picture of you being assembled. - Well, it appears I am a soulless automaton. - I'm afraid to ask what this implies for my afterlife. It rhymes with gunkyard.
 210906 -- I did a study on the relationship between my vacation day and our stock price. - As you can see, they rise over the years in a highly correlated way. - Are you using misleading data to scam mor evacation days? So you're saying you don't care
 210906 -- about our stockholder?
+210907 -- I built an app that makes fake graphs so you can win any argument. - I need that. You certainly do. - Do you have a source for your claim that gravity is caused by pollution? Boom.
