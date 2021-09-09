@@ -10370,3 +10370,5 @@
 210907 -- Ich habe eine App erstellt, die falsche Grafiken erstellt, damit Sie bei jeder Auseinandersetzung gewinnen können. - Die brauche ich. Unbedingt. - Können Sie Ihre Behauptung belegen, daß die Erdanziehungskraft auf Umweltverschmutzung beruht?
 210907 -- Hier, bitte.
 210908 -- Mein Leben hat sich erheblich verbessert, seit ich mir für alles meine eigenen Daten ausdenke. - Wie sehr hat es sich verbessert? Um 27,4%! - Hu! Das sollt eich auch mal versuchen. Sie werden es lieben!
+210909 -- Soll ich die Aufgaben abarbeiten, die Sie mir gegeben haben, oder lieber etwas sinnvolles tun? - Ich möchte, daß Sie die sinnvollen Aufgaben erledigen, die ich Ihnen gegeben habe. - Wenn das so ist, bin ich wohl fertig. Wollen Sie mir damit
+210909 -- etwas sagen?
