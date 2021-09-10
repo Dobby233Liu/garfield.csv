@@ -10372,3 +10372,4 @@
 210908 -- Mein Leben hat sich erheblich verbessert, seit ich mir für alles meine eigenen Daten ausdenke. - Wie sehr hat es sich verbessert? Um 27,4%! - Hu! Das sollt eich auch mal versuchen. Sie werden es lieben!
 210909 -- Soll ich die Aufgaben abarbeiten, die Sie mir gegeben haben, oder lieber etwas sinnvolles tun? - Ich möchte, daß Sie die sinnvollen Aufgaben erledigen, die ich Ihnen gegeben habe. - Wenn das so ist, bin ich wohl fertig. Wollen Sie mir damit
 210909 -- etwas sagen?
+210910 -- Manchmal frage ich mich, wie es wohl ist, wie SIE zu sein. Sie meinen, eine Führungskraft zu sein? - Ich meine, eine Komposthaufen statt eines Gehirns im Schädel zu haben. - Jetzt müssen Sie murren, oder irgendwie so was... HMPF.

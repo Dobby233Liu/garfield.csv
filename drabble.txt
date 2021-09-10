@@ -10043,4 +10043,5 @@ dr210905 -- Fan Appreciation Day
 dr210906 -- Whoops! - I guess you were right, Dad. - You can't barbecue spaghetti! Some people are determined to learn things the hard way!
 dr210907 -- Ever wonder what your dog does when you're not home? - We sit and stare at the door, waiting for you to come home! - - A watched door never opens!
 dr210908 -- Who will feed me? Are they ever coming back? Who'll feed me? Did they move and forget to take me with them? Who will feed me? - A lot of things run through you dog's mind when you're gone!
-dr210909 -- I'll sit here and stare at tthe door until someone comes home. - I HATE being alone! - In case you're wondering, when the people agre gone, the cat's in charge! - I hate being alone with the cat even more.
+dr210909 -- I'll sit here and stare at the door until someone comes home. - I HATE being alone! - In case you're wondering, when the people agre gone, the cat's in charge! - I hate being alone with the cat even more.
+dr210910 -- - - - It's hard to yawn with a tennis ball in your mouth!
