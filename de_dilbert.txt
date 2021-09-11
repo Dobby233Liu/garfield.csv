@@ -10373,3 +10373,5 @@
 210909 -- Soll ich die Aufgaben abarbeiten, die Sie mir gegeben haben, oder lieber etwas sinnvolles tun? - Ich möchte, daß Sie die sinnvollen Aufgaben erledigen, die ich Ihnen gegeben habe. - Wenn das so ist, bin ich wohl fertig. Wollen Sie mir damit
 210909 -- etwas sagen?
 210910 -- Manchmal frage ich mich, wie es wohl ist, wie SIE zu sein. Sie meinen, eine Führungskraft zu sein? - Ich meine, eine Komposthaufen statt eines Gehirns im Schädel zu haben. - Jetzt müssen Sie murren, oder irgendwie so was... HMPF.
+210911 -- Ich habe in dieser Woche nichts zustandegebracht, weil ich einen Kurs besucht habe, um meine technischen Fähigkeiten zu verbessern. - Eigentlich habe ich seit meinem ersten Arbeitstag rein gar nichts zustandegebracht. Aber ich habe meine
+210911 -- Fähigkeiten erheblich verbessert. - Sollte ich mich je dafür entscheiden, was sionnvolles zu tun, stellen Sie sich nur vor, wie gut vorbereitet ich wäre!
