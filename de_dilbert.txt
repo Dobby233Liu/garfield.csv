@@ -10378,3 +10378,5 @@
 210912 -- Ich muß bis zum Jahresende noch zwei Wochen Urlaub nehmen. - Soll ich eine teure, umständliche Reise machen? An irgendeinen Ort, den ich schon von Fotos und Videso kenne? - Oder zu Hause rumhängen, mich unnütz fühlen und mich langweilen? - Du
 210912 -- könntest als Freiwilliger den Bedürftigen helfen. - Ich hasse die Bedürftigen, weil sie alle glücklicher sind als ich. - Vielleicht brauchst Du eine Frau, die Dich zwingt, Dinge zu tun, die Du nicht tun willst. - Das ist keine schlechte Idee.
 210912 -- Gibt es noch andere Vorteile einer Ehe? - Ja, zum Beispiel mußt Du Dir nie wieder Gedanken machen, ob Du wesentliche Charakterfehler hast.
+210913 -- Ich habe in dieser Woche das Labor aufgeräumt und die ganze alte Ausrüstung rausgeworfen. - Ich habe in dieser Woche nichts erreicht, weil jemand all meine Kabel versteckt und meinen Prototypen weggeworfen hat. - Versuchen Sie mal, mehr wie
+210913 -- Alice zu sein. Die kriegt wenigstens was zustande.
