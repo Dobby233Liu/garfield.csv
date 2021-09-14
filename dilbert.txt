@@ -13672,3 +13672,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210912 -- volunteer to help the less fortunate. - I hate the less fortunate because they're all happier than I am. - Maybe you need a wife to make you do things you don't want to do. - That's not a bad idea. Are there any other benefits of marriage? -
 210912 -- Yes, for example, you'll never need to wonder if you have any major character flaws.
 210913 -- My accomplishment this week was reorganizing the lab and throwing out all the old equipment. - I accomplished nothing this week because someon hid all of my cables and threw away my prototype. - Try to be more like Alice. She gets things done.
+210914 -- I'm happy to report that I met all of my deadlines before you canceled my project for no good reason. - In that one moment, you transformed my meaningful work into a tedious slog toward oblivion. - And now I'm left to rot in this meeting. I
+210914 -- never know the right time for a high-five.

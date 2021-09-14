@@ -10380,3 +10380,5 @@
 210912 -- Gibt es noch andere Vorteile einer Ehe? - Ja, zum Beispiel mußt Du Dir nie wieder Gedanken machen, ob Du wesentliche Charakterfehler hast.
 210913 -- Ich habe in dieser Woche das Labor aufgeräumt und die ganze alte Ausrüstung rausgeworfen. - Ich habe in dieser Woche nichts erreicht, weil jemand all meine Kabel versteckt und meinen Prototypen weggeworfen hat. - Versuchen Sie mal, mehr wie
 210913 -- Alice zu sein. Die kriegt wenigstens was zustande.
+210914 -- Ich freue mich, berichten zu können, daß ich alle Terminvorgaben eingehalten hatte, bevor Sie mein Projekt grundlos abgesagt haben. - Damit haben Sie meine sinnvolle Arbeit in eine überflüssige Schinderei verwandelt. - Jetzt kann ich hier nur
+210914 -- noch verrotten. Wäre das jetzt ein guter Moment für ein "High Five"?
