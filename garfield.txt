@@ -16604,3 +16604,4 @@ ga210911 -- Aaah... - BURP! - This testimonial was brought to you by Vito's Pizz
 ga210912 -- * O-dieeee... - Odie, I'll hold the football, and you come running up and kick it! - - C'mon! Pleeeease?! - Okay then, fine! I'LL do the kicking! - - KICK!
 ga210913 -- Lunch is ready. - - Not gonna happen. What are you, lazy?!
 ga210914 -- I'm feeling depressed. - - Pooky?
+ga210915 -- "Dear Ask A Dog, why do cats have nine lives?" - I'll take this one, Odie... - It's simple. Cats have too much sarcasm for just one life.
