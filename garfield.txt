@@ -16606,3 +16606,5 @@ ga210913 -- Lunch is ready. - - Not gonna happen. What are you, lazy?!
 ga210914 -- I'm feeling depressed. - - Pooky?
 ga210915 -- "Dear Ask A Dog, why do cats have nine lives?" - I'll take this one, Odie... - It's simple. Cats have too much sarcasm for just one life.
 ga210916 -- Do I want to stay in? - Or do I want to go out? - 
+ga210917 -- Miss me? - huh? - I have ice cream. Arlene! Where have you been?
+ga210918 -- Today's Garfield math lesson: Six donuts plus six donuts equals... - GULP - Two empty plates!
