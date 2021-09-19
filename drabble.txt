@@ -10053,3 +10053,4 @@ dr210915 -- Hey, Ralph! Hello, Steinbauer. - What are you doing tonight? - I'll 
 dr210916 -- Welcome to Polecat National Park! Enjoy your day, and no photos please! - NO PHOTOS?? Just kidding!
 dr210917 -- Where would I find door mats? I have no idea. - Ask me something else! - How did you get hired? I filled out an application. - This job is so easy!
 dr210918 -- POP! - BLAM! - KABLOOIE! - Summer's over!
+dr210919 -- I must say, Ralph... - You look pretty good for a man of sixty! - I'm forty-seven! Yeah, I know. You look even better for a man of seventy-five!
