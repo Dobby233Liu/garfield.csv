@@ -10054,3 +10054,4 @@ dr210916 -- Welcome to Polecat National Park! Enjoy your day, and no photos plea
 dr210917 -- Where would I find door mats? I have no idea. - Ask me something else! - How did you get hired? I filled out an application. - This job is so easy!
 dr210918 -- POP! - BLAM! - KABLOOIE! - Summer's over!
 dr210919 -- I must say, Ralph... - You look pretty good for a man of sixty! - I'm forty-seven! Yeah, I know. You look even better for a man of seventy-five!
+dr210920 -- WALLY It's Saturday!! - It's Sturday! It's Saturday! - It's Saturday! - Actually, it's Monday. When you're a dog, every day is Saturday!
