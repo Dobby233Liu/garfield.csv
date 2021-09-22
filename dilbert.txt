@@ -13683,3 +13683,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210919 -- feels good.
 210920 -- I decided to become more of a socialist. - With any lick, I'll benefit from your hard work without adding any value myself. - That feels immoral. Get back to work. I have bills to pay.
 210921 -- As a newly minted socialist, I look down on your capitalist ways. - Why can't you be more generous and caring, like me? - Shouldn't you be working? It's optional under my system.
+210922 -- We won't meet our launch date because the user manual isn't done yet. - Stick a manual from a different model in the box and ship it. What? - Today I found out why we don't offer a money-back staisfaction guarantee.

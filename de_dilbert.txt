@@ -10391,3 +10391,5 @@
 210919 -- entlarvt, der ich immer war. Ich kündige. - Das ist mein erster Sieg in einem Meeting. Fühlt sich gut an.
 210920 -- Ich habe beschlossen, Sozialist zu werden. - Mit etwas Glück profitiere ich von Ihrer harten Arbeit, ohne daß ich selbst etwas beitrage. - Das klingt unmoralisch. Ran an die Arbeit, ich muß Rechnungen bezahlen!
 210921 -- Als frischgebackener Sozialist verabscheue ich Dein kapitalistisches Verhalten. - Wieso kannst Du nicht großzügiger und fürsorglicher sein, wie ich? - Müßtest Du jetzt nicht gerade arbeiten? In meinem System ist das optional.
+210922 -- Wir können den Termin der Markteinführung nicht einhalten. weil das Benutzerhandbuch noch nicht fertig ist. - Dann stopfen Sie ein Handbuch eines anderen Modells in den Karton und raus damit. Was? - Heute habe ich herausgefunden, warum wir bei
+210922 -- Unzufriedenheit keine Geld-zurück-Garantie anbieten.
