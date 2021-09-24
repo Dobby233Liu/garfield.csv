@@ -16614,3 +16614,4 @@ ga210920 -- I'm a rule follower. - Rule number one... - The rules don't apply to
 ga210921 -- The robot vacuum stopped. Is it broken? - HAAA AACK! - No, just a hairball.
 ga210922 -- I dream about chasing rabbits. - I dream about chasing lasagna. - Lasagna? Yeah, and without doing that silly leg thing you do.
 ga210923 -- I love you, Garfield! - How about a hug? - How about a large lasagna pizza instead?
+ga210924 -- I'm a great listener. - Really? Yes! - There's a pizza guy two doors down, ans the ice cream truck has just rounded the corner.
