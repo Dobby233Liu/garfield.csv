@@ -10395,3 +10395,8 @@
 210922 -- Unzufriedenheit keine Geld-zurück-Garantie anbieten.
 210923 -- Soll ich Alice sagen, was Sie bei ihrem Projekt alles falsch macht? Gute Idee. - Was kann schon sclimmes passieren? - Sie wußten, daß sie mir die Unterhose bis über den Kopf hochziehen würde, stimmt's? Könnte sein.
 210924 -- Ihr Handy-Display hat keine Schutzfolie und das Display ist gesprungen. - Arbeiten Sie im Marketing? Ja! - Sind Sie ein Hellseher? Besser. Software-Entwickler.
+210925 -- Mein Projekt ist aufgrund Pandemie-bedingter Lieferketten-Probleme sechs Monate im Verzug. - Hmm, ja. Von den Lieferkettenproblemen habe ich in den Nachrichten erfahren. - Hast Du wirklich ein Problem mit den Lieferungen? Könnte passieren,
+210925 -- sollte ich je mit dem Projekt anfangen.
+210926 -- Grübelst Du auch manchmal über die wahre Natur der Realität nach? - Ich meiner, ist hier irgendwas wirklich real? - Womöglich sind wir eine digitale Simulation, die entwickelt wurde, um eine höhere Intelligenz zu unterhalten. - Inwiefern
+210926 -- sollten wir für die unterhaltsam sein? - Das übliche: idiotisches Verhalten. - Ich habe ein kleines Geheimnis. - Unser Schöpfer benutzt mich als Avatar, um Dich zu einem besseren Verständnis Deiner Realität zu geleiten. - Ich glaube Dir nicht.
+210926 -- Er wußte, daß Du das sagen wirst.

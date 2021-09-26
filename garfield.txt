@@ -16615,3 +16615,5 @@ ga210921 -- The robot vacuum stopped. Is it broken? - HAAA AACK! - No, just a ha
 ga210922 -- I dream about chasing rabbits. - I dream about chasing lasagna. - Lasagna? Yeah, and without doing that silly leg thing you do.
 ga210923 -- I love you, Garfield! - How about a hug? - How about a large lasagna pizza instead?
 ga210924 -- I'm a great listener. - Really? Yes! - There's a pizza guy two doors down, ans the ice cream truck has just rounded the corner.
+ga210925 -- I feel like the world doesn't know the real me. - Well that's just great. - Why should the world get all the breaks?
+ga210926 -- - - Uh-oh! - I am NOT ready for autumn yet. - Do NOT fall off that tree! - WHOOMP -
