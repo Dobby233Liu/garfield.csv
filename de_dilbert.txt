@@ -10402,3 +10402,5 @@
 210926 -- Er wußte, daß Du das sagen wirst.
 210927 -- Wie war Ihr Wochenende? Ziemlich normal. - Ich habe auf dem Sofa gesessen und auf meinem Handy gespielt, bis das Wochenende vorbei war. Und jetzt bin ich hier. - Ich habe keine weiteren Fragen. Die hat niemand.
 210928 -- Was kann ich nur gegen meine Soziophobie tun? - Versuche, im Hinterkopf zu behalten, daß Du allen völlig egal bist. - Das funktioniert, aber ich glaube, das könnte zu neuen Problemen führen. Mir doch egal.
+210929 -- Dogberts Tipps für Videokonferenzen Damit Sie über die Kamer schlanker aussehen... - ...sollten Sie versuchen, sich gut zu ernähren und Sport zu treiben. - Wenn das nicht funktioniert, richten Sie die Kamera so ein, daß sie nur Ihre Stirn
+210929 -- zeigt.
