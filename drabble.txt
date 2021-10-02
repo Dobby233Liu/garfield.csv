@@ -10066,3 +10066,4 @@ dr210928 -- - - How's your autumn going?
 dr210929 -- PIZZA I miss college, Echo, but I thought it was time for me to join the workforce! - I've already learned so many things! - Like, when you punch a time clock, you don't actually punch it!
 dr210930 -- This table is wobbly! - Now that I work in a hardware store, I know how to fix things! - I'll fix that wobble in no time! - Voila!
 dr211001 -- I love candy corn! It's on sale! Three bags for $5! - Really? Or five bags for $7! - REALLY?? Or eight bags for $10! - REALLY? I'll go get you another cart!
+dr211002 -- Here's your order, sir! - I'll be back with your order, ma'am! - Go ahead and start eating, Ralph. Don't wait for... - Huh? Never mind.
