@@ -257,6 +257,22 @@ comicids_fix = {
         " ",
         -1,
     ),
+    "210930 -- Ich traue den Experten nicht, wenn es um meine Gesundheit geht, deshalb mache ich meine eigenen Recherchen. - Neulich habe ich zum Beispiel gelernt, daß ich meine Gicht heilen kann, indem ich die Asche eines toten Eichhörnchens auf einen":(
+        "210830",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "210930 -- Rosenbusch streue. - Vielleicht sollten Sie lieber nicht selbst recherchieren. Wieso nicht? Es funktioniert bestens!":(
+        "210830",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
     # TODO - it's unoffical, gonna take me a while
     # Drabble
     "dr010201 -- Time to check the local traffic conditions... - Tipster No-Neck called to report a Rottweiler running loose along the northbound 710! - ...and now we've just received a call from tipster Drabble CORRECTING tipster No-Neck: It's not a": (
