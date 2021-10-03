@@ -10409,3 +10409,6 @@
 211001 -- Dogberts Tipps für Videokonferenzen Hosen sind bei Videokonferenzen optional. - Das finde ich aber gar nicht cool. - Ich sagte ja nicht, daß es dem Sessel gefällt. Versetz Dich mal für einen Tag in meine Lage. Es ist ei Albtraum!
 211002 -- Ich brauche ein Geburtstagsgeschenk für unseren Geschäftsführer. Aber was schenkt man jemandem, der schon alles hat? - Am besten, Sie stehlen ihm etwas, packen es schön ein und sagen ihm dann, das wäre ein Ersatz für das, was ihm gestohlen
 211002 -- wurde. - Würde ihm das nicht auffallen? Ich hoffe nicht. Ich schenke ihm seinen Chefsessel.
+211003 -- Ein Teil der Ausrüstung, die wir bei Ihnen gekauft haben, muß repariert werden. - Oh, wie schade. Es sieht so aus, als wäre gestern Ihre Garantie abgelaufen. - Das klingt verdächtig. - Eine programmierbare Maschine gibt genau dann den Geist
+211003 -- auf, wenn es für den Herstellter am profitabelsten ist? - Das klingt, als wäre Ihr Betriebssystem darauf ausgerichtet, mich zu manipulieren, um eine neuere Version zu kaufen. - Merken Sie nicht, wie verrückt das klingt? Das System manipuliert
+211003 -- doch nicht nur SIE. - Es ist darauf ausgerichtet, JEDEN zu manipulieren! - Das ist auch nicht besser! Herrje! Ich meine ja nur, Sie sollten nicht immer nur an SICH denken!

@@ -10067,3 +10067,4 @@ dr210929 -- PIZZA I miss college, Echo, but I thought it was time for me to join
 dr210930 -- This table is wobbly! - Now that I work in a hardware store, I know how to fix things! - I'll fix that wobble in no time! - Voila!
 dr211001 -- I love candy corn! It's on sale! Three bags for $5! - Really? Or five bags for $7! - REALLY?? Or eight bags for $10! - REALLY? I'll go get you another cart!
 dr211002 -- Here's your order, sir! - I'll be back with your order, ma'am! - Go ahead and start eating, Ralph. Don't wait for... - Huh? Never mind.
+dr211103 -- Time to get on the scale. - - WHOOOFFPP! - - PHEEEWW! - It doesn't help to suck in your stomach when you weigh yourself! I was just trying to see the numbers!
