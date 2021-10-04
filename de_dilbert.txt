@@ -10412,3 +10412,4 @@
 211003 -- Ein Teil der Ausrüstung, die wir bei Ihnen gekauft haben, muß repariert werden. - Oh, wie schade. Es sieht so aus, als wäre gestern Ihre Garantie abgelaufen. - Das klingt verdächtig. - Eine programmierbare Maschine gibt genau dann den Geist
 211003 -- auf, wenn es für den Herstellter am profitabelsten ist? - Das klingt, als wäre Ihr Betriebssystem darauf ausgerichtet, mich zu manipulieren, um eine neuere Version zu kaufen. - Merken Sie nicht, wie verrückt das klingt? Das System manipuliert
 211003 -- doch nicht nur SIE. - Es ist darauf ausgerichtet, JEDEN zu manipulieren! - Das ist auch nicht besser! Herrje! Ich meine ja nur, Sie sollten nicht immer nur an SICH denken!
+211004 -- Hi, ich bin der inlfationsbiber. Ich bin gekommen, um an Deiner Brieftasche zu nagen. - Ich will nicht alles haben, ich knabbere nur an den Ecken. - Kann ich Dich ignorieren? Ja, solange Du nicht versuchst, irgendwas zu kaufen.
