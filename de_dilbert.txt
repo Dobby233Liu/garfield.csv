@@ -10415,4 +10415,6 @@
 211004 -- Hi, ich bin der inlfationsbiber. Ich bin gekommen, um an Deiner Brieftasche zu nagen. - Ich will nicht alles haben, ich knabbere nur an den Ecken. - Kann ich Dich ignorieren? Ja, solange Du nicht versuchst, irgendwas zu kaufen.
 211005 -- Mein Lohn hält mit der Inflation nicht Schritt. - Ich bin zuversichtlich, daß Ihnen beiden eine Lösung einfällt, die alle glücklich macht. - Dieser idiot glaubt, ich könnte die Inflation eindämmen.
 211006 -- Ich habe gehört, daß Sie hinter meinem Rücken schlecht über mich gesprochen haben. - Nur so kann ich Ihre Aufmerksamkeit erlangen, denn Sie antworten ja nicht auf meine SMS, E-Mails oder Anrufe. - Geben Sie mir eine Minute, um mich zu sammeln.
-211006 -- Ic hatte nicht erwartet, daß ich bei dem Gespräch so schlecht abschneide.
+211006 -- Ich hatte nicht erwartet, daß ich bei dem Gespräch so schlecht abschneide.
+211007 -- Ich stelle immer wieder Mitarbeiter ein, die gute Fähigkeiten mitbringen, die sich aber dann auch als ein wenig bösartig entpuppen. - Nur der letzte Fall stellt eine Ausnahme von dieser Regel dar. - Keine Fähigkeiten und zu 100% bösartig? Warum
+211007 -- haben Sie solche Angst vor Veränderung?
