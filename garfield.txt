@@ -16630,3 +16630,4 @@ ga211005 -- Garfield, I decided I should read more! - "Fortified with essential 
 ga211006 -- Dogs are natual leaders. - - Cats are natural ignorers.
 ga211007 -- We have a very special guest artist today. - The part of Odie will be played by Nermal. - BOOT!
 ga211008 -- Growing up, I had an imaginary friend. Mee, to! - Hey... - Maybe we should introduce them sometime! Jon, Jon, Jon...
+ga211009 -- I've been thinking about things. - Yo uhave? - Shouldn't you leave stuff like that to someone better qualified?
