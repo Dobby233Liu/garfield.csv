@@ -16631,3 +16631,5 @@ ga211006 -- Dogs are natual leaders. - - Cats are natural ignorers.
 ga211007 -- We have a very special guest artist today. - The part of Odie will be played by Nermal. - BOOT!
 ga211008 -- Growing up, I had an imaginary friend. Mee, to! - Hey... - Maybe we should introduce them sometime! Jon, Jon, Jon...
 ga211009 -- I've been thinking about things. - Yo uhave? - Shouldn't you leave stuff like that to someone better qualified?
+ga211010 -- Oh, Garfield... - Oh, Garrrrrfield! Would you like a treat? - One that doesn't have a pill in it, of course! That would be silly! - Who could imagine such a thing?! - I believe I'll have this one instead. - Heh, heh, heh. - Heh, heh, heh. I
+ga211010 -- think I've just been had.
