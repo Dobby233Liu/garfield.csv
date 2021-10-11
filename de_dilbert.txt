@@ -10423,3 +10423,5 @@
 211010 -- Ihre Daten zeigen, daß Ihr Prototyp auch nicht schneller als das bisherige System ist. - Nein, die Daten belegen, daß der Prototyp schneller als das alte System ist. - Ich sehe mir ja die Daten gerade an, und sie belegen eindeutig Ihr Versagen.
 211010 -- - Das meinen Sie nur, weil Sie mein Versagewn vorhergesagt haben. Sie sehen nur das, was Sie sehen wollen. - Vielleicht meinen Sie nur, es würde funktionieren, weil Sie es so vorhergesagt haben. - Also...wir sehen uns beide dieselben Daten an
 211010 -- und kommen zu gegensätzlichen Schlußfolgerungen? - Wenn Daten meine Entscheidungen beeinflussen würden, ließe ich Sie diese nicht zusammentragen. - Ich brauche mal eine Minute, um meine gesamte Existenz zu überprüfen.
+211011 -- ...und das war jetzt der sinnvolle Teil dieses Meetings. - Wer möchte noch bleiben und sich eine lange, ausufernde Geschichte ohne Sinn und Verstand anhören? - Ich bin dabei...besser als Arbeiten. Sie heißt, "Wie der Waschbär in meine Toilettte
+211011 -- gelangte".

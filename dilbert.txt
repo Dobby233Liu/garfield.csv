@@ -13708,3 +13708,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211010 -- Our data shows your prototype did not increase speed over the existing system. - No, the data proves the prototype is faster than the old system. - I'm looking at the data right now, and it clearly shows failure. - It looks that way because you
 211010 -- predicted it would fail. You're seeing what you want to see. - Maybe it only looks to you as if it worked because you predicted it would work. - So...we're bot looking at exactly the same data and reaching opposite conclusions? - If I thought
 211010 -- data would influence my decisions, I wouldn't let you gather it. - Give me a moment to reassess my entire existence.
+211011 -- And that comcludes the useful part of the meeting. - Who wants to stay and hear a long, rambling story with no point? - Count me in. It beats working. I call this one "How a raccoon got in my toilet."
