@@ -10074,5 +10074,6 @@ dr211106 -- More candy for the trick-or-treaters, Ralph? - Didn't you just buy H
 dr211007 -- Steinabuer, I know we've never seen eye to eye... - How would you like to come over and watch the baseball game with me? - Sure, Ralph! I'm excited about the game today! Me too! - My team is gonna OBLITERATE your team! Wait, what?
 dr211008 -- How can you bear to watch your team lose like this, Ralph? - HAHA! You guys STINK! - I TOLD you your bullpen would blow it! HA HA HA HA!! - Say, you got any more of this guacamo... NO!
 dr211009 -- - - PLEASE CLOSE THE DOOR NEXT TIME!
-dr211010 -- Z - HEY, WALLY! WANNA GO FOR A RIDe I THE CAR? - I'll take that as a yes! Wally goes from zero to sixty faster than our car!
+dr211010 -- Z - HEY, WALLY! WANNA GO FOR A RIDE I THE CAR? - I'll take that as a yes! Wally goes from zero to sixty faster than our car!
 dr211011 -- UGH! I never thought I'd say it... - I think I had too many doughnuts! - Dad finally put the "ugh" in doughnuts! Oh, yeah!
+dr211012 -- How was your day at the hardware store, Norman? Not bad... - They asked me to work in the paint department! I figured. Make sure those lids are on tight before you put 'em in the shaker!
