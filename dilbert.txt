@@ -13710,3 +13710,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211010 -- data would influence my decisions, I wouldn't let you gather it. - Give me a moment to reassess my entire existence.
 211011 -- And that comcludes the useful part of the meeting. - Who wants to stay and hear a long, rambling story with no point? - Count me in. It beats working. I call this one "How a raccoon got in my toilet."
 211012 -- How did you decide to recomment option B? - I compared the unknown risks and benefits of each plan to the unknown risks and benefits of the alternatives. - You mean you guessed. That is such a cynical way to look at it.
+211013 -- We're having trouble hiring qualified technical people. Have any suggestions? - Maybe you could stop managing the company incredibly incompetently and also pay everyone more. - That is not what I was looking for. Was it close?

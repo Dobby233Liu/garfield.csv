@@ -10077,3 +10077,4 @@ dr211009 -- - - PLEASE CLOSE THE DOOR NEXT TIME!
 dr211010 -- Z - HEY, WALLY! WANNA GO FOR A RIDE I THE CAR? - I'll take that as a yes! Wally goes from zero to sixty faster than our car!
 dr211011 -- UGH! I never thought I'd say it... - I think I had too many doughnuts! - Dad finally put the "ugh" in doughnuts! Oh, yeah!
 dr211012 -- How was your day at the hardware store, Norman? Not bad... - They asked me to work in the paint department! I figured. Make sure those lids are on tight before you put 'em in the shaker!
+dr211013 -- I miss college. You know how I quit ecause I thoght I cloud succeed in the real world? - Yeah. Are you ready to go back? I can't. I just got a promotion! BFFPP!
