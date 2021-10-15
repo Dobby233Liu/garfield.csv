@@ -13712,3 +13712,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211012 -- How did you decide to recomment option B? - I compared the unknown risks and benefits of each plan to the unknown risks and benefits of the alternatives. - You mean you guessed. That is such a cynical way to look at it.
 211013 -- We're having trouble hiring qualified technical people. Have any suggestions? - Maybe you could stop managing the company incredibly incompetently and also pay everyone more. - That is not what I was looking for. Was it close?
 211014 -- Allow me to introduce our new senior vice president of micellaneous stuff. - He's in charge of this-and-that, whatnot, whatever, and et cetera. - Would you like to say a few words? Brick...elbow...pudding...et cetera.
+211015 -- Give me a report on your progress with the system upgrade. - I've made no progress at all because you keep making me do reports. - Don't mention that in the report.

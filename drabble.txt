@@ -10078,5 +10078,6 @@ dr211010 -- Z - HEY, WALLY! WANNA GO FOR A RIDE I THE CAR? - I'll take that as a
 dr211011 -- UGH! I never thought I'd say it... - I think I had too many doughnuts! - Dad finally put the "ugh" in doughnuts! Oh, yeah!
 dr211012 -- How was your day at the hardware store, Norman? Not bad... - They asked me to work in the paint department! I figured. Make sure those lids are on tight before you put 'em in the shaker!
 dr211013 -- I miss college. You know how I quit ecause I thought I cloud succeed in the real world? - Yeah. Are you ready to go back? I can't. I just got a promotion! BFFPP!
-dr211014 -- Did you just say you got a PROMOTION?? Yeah. - Mr. Stadler, the owner, said I remind him of himself. - He said I'm bound to succeed because I'm not afraid to make mistakes, and I
-dr211014 -- 'm always on time for work. - YIKES, I'M LATE! One-for-two isn't bad.
+dr211014 -- Did you just say you got a PROMOTION?? Yeah. - Mr. Stadler, the owner, said I remind him of himself. - He said I'm bound to succeed because I'm not afraid to make mistakes, and
+dr211014 -- I'm always on time for work. - YIKES, I'M LATE! One-for-two isn't bad.
+dr211015 -- My familiy all went to visit grandma! - I'm alone tonight! I can go anyplace I want for dinner! - Decisions, decisions... - I don't know whether to eat at the truxk stop, the mini-mart, or the car wash!
