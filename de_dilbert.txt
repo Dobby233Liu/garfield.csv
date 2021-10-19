@@ -10431,3 +10431,10 @@
 211013 -- vorgestellt. War ich nah dran?
 211014 -- Gestatten Sie mir, Ihnen den neuen Senior-Vizepräsidenten für Diverses vorzustellen. - Er ist zuständig für dies und das, alles mögliche und et cetera. - Möchten Sie ein paar Worte sagen? Ziegelstein...Ellbogen...Pudding...et cetera.
 211015 -- Schreiben Sie mir einen Bericht über Ihre Fortschritte bei der System-Aktualisierung. - Ich habe keine Fortschritte gemacht, weil Sie mich immer wieder zwingen, Berichte zu verfassen. - Erwähnen Sie das aber nicht in Ihrem Bericht.
+211016 -- Ich verfüge über genau die richtige Energie, um heute hochproduktiv zu sein. - Ein seltener Moment der Klarheit und der Ruhe. Ich bin gespannt, was ich heute alles schaffen werde. - Sie kommen zu spät zur Pflichtübung, wie man sicher auf einem
+211016 -- Bürostuhl sitzt. Und schon hat sich das erledigt.
+211017 -- Wir können nur Erfolg haben, wenn wir kreative Risikobereitschaft wertschätzen. - Wollen Sie damit sagen, wir werden auch dann belohnt, wenn unsere Risiken sich als riesiege Fehler entpuppen? - Nein, für Fehler werde ich Sie niemals belohnen. -
+211017 -- Wieso sollten wir dann kreative Risiken eingehen? - Weil die Firma das braucht. - Es ist also eine Art Selbstmord-Mission? - Ganz und gar nicht. Sie könnte ja auch mal Erfolg haben. - Und dann gäb's mehr Geld? Wir zahlen das Marktübliche.
+211018 -- Durch die Technik fühle ich mich realen Menschen nicht mehr verbunden. - In neunzig Prozent der Zeit fühle ich mich allein. - Und was wollen Sie dagegen unternehmen? Ich hoffe, Sie können mir dabei helfen, die restlichen zehn Prozent auch noch
+211018 -- zu schaffen.
+211019 -- Diese Zahlen können nicht stimmen. Es sind Schätzungen. - Wo hast Du die Schätzungen her, und hast Du Dir dabei den Kopf an dem Sandwisch gestoßen, das Du dabeihattest? - War das jetzt zu visuell ausgedrückt? Nein. Volltreffer.

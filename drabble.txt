@@ -10074,10 +10074,14 @@ dr211106 -- More candy for the trick-or-treaters, Ralph? - Didn't you just buy H
 dr211007 -- Steinabuer, I know we've never seen eye to eye... - How would you like to come over and watch the baseball game with me? - Sure, Ralph! I'm excited about the game today! Me too! - My team is gonna OBLITERATE your team! Wait, what?
 dr211008 -- How can you bear to watch your team lose like this, Ralph? - HAHA! You guys STINK! - I TOLD you your bullpen would blow it! HA HA HA HA!! - Say, you got any more of this guacamo... NO!
 dr211009 -- - - PLEASE CLOSE THE DOOR NEXT TIME!
-dr211010 -- Z - HEY, WALLY! WANNA GO FOR A RIDE I THE CAR? - I'll take that as a yes! Wally goes from zero to sixty faster than our car!
+dr211010 -- Z - HEY, WALLY! WANNA GO FOR A RIDE IN THE CAR? - I'll take that as a yes! Wally goes from zero to sixty faster than our car!
 dr211011 -- UGH! I never thought I'd say it... - I think I had too many doughnuts! - Dad finally put the "ugh" in doughnuts! Oh, yeah!
 dr211012 -- How was your day at the hardware store, Norman? Not bad... - They asked me to work in the paint department! I figured. Make sure those lids are on tight before you put 'em in the shaker!
 dr211013 -- I miss college. You know how I quit ecause I thought I cloud succeed in the real world? - Yeah. Are you ready to go back? I can't. I just got a promotion! BFFPP!
 dr211014 -- Did you just say you got a PROMOTION?? Yeah. - Mr. Stadler, the owner, said I remind him of himself. - He said I'm bound to succeed because I'm not afraid to make mistakes, and
 dr211014 -- I'm always on time for work. - YIKES, I'M LATE! One-for-two isn't bad.
 dr211015 -- My familiy all went to visit grandma! - I'm alone tonight! I can go anyplace I want for dinner! - Decisions, decisions... - I don't know whether to eat at the truxk stop, the mini-mart, or the car wash!
+dr211016 -- Dad! Is that your Halloween costume? No, I'm doing undercover work today at the National Park! - I'm going to catch people who violate the "Don't Feed the Bears" sign! What on earth could go wrong?
+dr210117 -- That's a long putt you have to make, dad! - Yeah, and the green is a mess because od the wind! - There are lots of leaves and junk between the ball and the hole! - You were smart to bring the robotic vacuum! HUMMMMMMMMM
+dr211018 -- KRINKLE KRINKLE - RIP! TEAR! KRINKLE - That's for the trick-or-treaters! It's the 21st century! You'd think they would have invented quiet candy bags by now!
+dr211019 -- Go long, Wally! - - He's so literal.

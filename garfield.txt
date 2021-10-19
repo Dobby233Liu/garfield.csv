@@ -16638,3 +16638,7 @@ ga211012 -- I'm happy. - - According to my face.
 ga211013 -- Okay, Odie... - I have devised an elaborate escape plan... - Which will be activated if we hear Jon say "Tofu," "Exercise" or "Romantic Comedy".
 ga211014 -- I have a thousand photos stored on my phone. Really? - 999 pictures of cheese... - and one of mom. You sentimental fool, you.
 ga211015 -- How are you today, Gaefield? - Uh... - What answer can I give that won't lead to a checkup?
+ga211016 -- I'm not going to be at your beck and call! - I have important things to do! Yeah, I guess you're right. - That sock drawer isn't going to organize itself.
+ga211017 -- - BARK! BARK! BARK! BARK! BARK! BARK! - - Pardon me. And excuse me. - - Dranka  lot of water this morning. Coffee here. - BARK! BARK! BARK! BARK! BARK! BARK!
+ga211018 -- Garfield, you can't just lie there all day. - Yes, I can. - I have a doctor's note.
+ga211019 -- I'm going to try to be more positive. - THE DAM HAS BURST! - Here come the fish!
