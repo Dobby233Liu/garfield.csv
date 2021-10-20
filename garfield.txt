@@ -16642,3 +16642,5 @@ ga211016 -- I'm not going to be at your beck and call! - I have important things
 ga211017 -- - BARK! BARK! BARK! BARK! BARK! BARK! - - Pardon me. And excuse me. - - Dranka  lot of water this morning. Coffee here. - BARK! BARK! BARK! BARK! BARK! BARK!
 ga211018 -- Garfield, you can't just lie there all day. - Yes, I can. - I have a doctor's note.
 ga211019 -- I'm going to try to be more positive. - THE DAM HAS BURST! - Here come the fish!
+ga211020 -- "Dear Ask A Dog, what's the best way to get a dog to stop barking?" - Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! - Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark!
+ga211020 -- Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark!
