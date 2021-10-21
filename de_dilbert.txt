@@ -10440,3 +10440,5 @@
 211019 -- Diese Zahlen können nicht stimmen. Es sind Schätzungen. - Wo hast Du die Schätzungen her, und hast Du Dir dabei den Kopf an dem Sandwisch gestoßen, das Du dabeihattest? - War das jetzt zu visuell ausgedrückt? Nein. Volltreffer.
 211020 -- Der beste Manager, dem ich je begegnet bin, hat zu seinen Untergebenen gesagt, sie sollen die Raubtiere sein, nicht die Beute. - Er war ein toller Motivator. Alle seine Leute haben die Herausforderung angenommen. - Wie lange hat es gedauert,
 211020 -- bis sie ihn umgebracht haben? Acht Minuten.
+211021 -- Ist Ihnen je aufgefallen, wie viel Papierarbeit es bedeutet, jemanden zu feuern? - Und so was kann einem buchstäblich die Luft zum Atmen nehmen. - Versuchen Sie gerade vorzusorgen, daß ich Sie nicht rauswerfe? Es soll sich so anfühlen, als wäre
+211021 -- man lebendig begraben.
