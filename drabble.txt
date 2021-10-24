@@ -10077,7 +10077,7 @@ dr211009 -- - - PLEASE CLOSE THE DOOR NEXT TIME!
 dr211010 -- Z - HEY, WALLY! WANNA GO FOR A RIDE IN THE CAR? - I'll take that as a yes! Wally goes from zero to sixty faster than our car!
 dr211011 -- UGH! I never thought I'd say it... - I think I had too many doughnuts! - Dad finally put the "ugh" in doughnuts! Oh, yeah!
 dr211012 -- How was your day at the hardware store, Norman? Not bad... - They asked me to work in the paint department! I figured. Make sure those lids are on tight before you put 'em in the shaker!
-dr211013 -- I miss college. You know how I quit ecause I thought I cloud succeed in the real world? - Yeah. Are you ready to go back? I can't. I just got a promotion! BFFPP!
+dr211013 -- I miss college. You know how I quite cause I thought I could succeed in the real world? - Yeah. Are you ready to go back? I can't. I just got a promotion! BFFPP!
 dr211014 -- Did you just say you got a PROMOTION?? Yeah. - Mr. Stadler, the owner, said I remind him of himself. - He said I'm bound to succeed because I'm not afraid to make mistakes, and
 dr211014 -- I'm always on time for work. - YIKES, I'M LATE! One-for-two isn't bad.
 dr211015 -- My familiy all went to visit grandma! - I'm alone tonight! I can go anyplace I want for dinner! - Decisions, decisions... - I don't know whether to eat at the truxk stop, the mini-mart, or the car wash!
@@ -10089,3 +10089,5 @@ dr211020 -- How was your day, honeybunch? Exhausting! - I never knew homeschooli
 dr211021 -- - yawn! - - OK, maybe these old black-and-white monster movies aren't as scary as I thought they were! zzyzx
 dr211022 -- PET HOSPITAL I'm worried about him, doc! He doesn't get around like he used to. He has no Energy. All he does is sleep! Please tell me he's gonna be OK! I wish I could, Mr. Drabble... - But I'm a veterinarian, not a vacuum repairman! He's
 dr211022 -- like a member of the family!
+dr211023 -- - - - Wiener doga love a challenge.
+dr211024 -- I lovew this time of year! - The falling leaves... - The pretty colors... - The candy corn... - The excitement in the air... - I just never understand why the pumpkins are always in such a bad mood! skattle skattle skattle

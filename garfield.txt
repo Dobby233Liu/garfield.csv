@@ -16646,3 +16646,6 @@ ga211020 -- "Dear Ask A Dog, what's the best way to get a dog to stop barking?" 
 ga211020 -- Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark! Bark!
 ga211021 -- And now, "The Invisible Man Plays Charades". - - Time's up...again. I hate this game!
 ga211022 -- Larry, Darling, there's a rumor going around that you're a werewolf. - Tht's utter nonsense, my dearest... - Care for a doggy treat? AWK-ward.
+ga211023 -- sluck sluck sluck Count, why are you sucking on your own hand? - Paper cut. sluck sluck sluck - And it's snack time. sluck sluck sluck What a happy coincidence.
+ga211024 -- CREEEEEAK - CREEEEEEEEAK - Did you haer that?! Yeah...what was it?! - I don't know, but I don't like it...say, what if they're true? - What if what's true? - Those rumors of a hideous monster living within the walls of this hou- - RAAAHHHRR!!
+ga211024 -- - Sorry.
