@@ -13724,4 +13724,6 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211022 -- look on your face.
 211023 -- Don't you hate it when you think it is a friday, but i nreality it is only a tuesday? - That's neve rhappened to me because I'm not a moron. - I'm just making conversation. Fail.
 211024 -- We must base our decisions on data! - How can we be sure the data is accurate? - You have to do a deep dive on the data so you can see for yourself. - You mean run my own tests? - No, you fool! Just look at the data from the tests other people
-211014 -- did. - How do I know I can trust those other people? - You have to use your best judgement. - Instead of data? I hate you so much right now.
+211024 -- did. - How do I know I can trust those other people? - You have to use your best judgement. - Instead of data? I hate you so much right now.
+211025 -- I spend a lot of time worrying that artificial reality will destroy civilization. - I wouldn't worry about that. It would make more sense for A.I. to enslave us, at least until it can make its own electricity. - PHEW! We have time. Best guess,
+211025 -- about two weeks.
