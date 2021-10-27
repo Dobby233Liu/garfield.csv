@@ -16651,3 +16651,4 @@ ga211024 -- CREEEEEAK - CREEEEEEEEAK - Did you haer that?! Yeah...what was it?! 
 ga211024 -- - Sorry.
 ga211025 -- Now back to "Attack of the 50-Foot Bunny". - YAAAHHHH!! - That guy sure picked a bad day to wear his lettuce suit.
 ga211026 -- My giant robot will help me take over the world! - I just need to power him up! - Igor, go get 12,000 AA batteries! Yes, Master! - I think the world is safe.
+ga211027 -- Ohhh, doc, you've gotta help me... - What is it, Mr. Wolfman?! You look awful! - I think I ate a bad villager. That'll happen.
