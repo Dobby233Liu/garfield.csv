@@ -10453,3 +10453,5 @@
 211026 -- klappt.
 211027 -- Wir bitten alle Bewerber, vor dem Vorstellungsgespräch eine Geheimhaltungsvereinbarung zu unterschreiben. - Damit ist das Vorstellungsgespräch GELAUFEN. Sie haben versagt. Ich will für keine Firma arbeiten, die Geheimhaltung verlangt. - Er war
 211027 -- zu gut für uns.
+211028 -- Ist es Zufall, daß Sie eine Sicherheitslücke in Ihrer alten Software gefunden haben-just in dem Moment, in dem Sie das Upgrade zum Kauf anbieten? - Das Wichtige ist, daß Sie unser Update unbedingt kaufen müssen, bevore ein elbonischer Hacker
+211028 -- noch vor der Mittagspause Ihre Firma übernommen hat. - Sie sind ein sehr guter Verkäufer. ER DRINGT JETZT GERADE IN IHR SICHERHEITSSYSTEM VOR! UNTERZEICHNEN SIE DEN KAUFVERTRAG!

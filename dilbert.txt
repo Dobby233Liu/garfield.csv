@@ -13729,3 +13729,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211025 -- about two weeks.
 211026 -- I'm falling in love with my Amazon Alexa device. - It's strictly platonic so far, but I like where it's heading. - Are you sticking with humans? For now, but keep me in the loop on how your thing works out.
 211027 -- We ask applicants to sign a non-disclosure agreement before we do our interviews. - This WAS the interview. Your company failed. I don't want to work for a company that requires non-disclosure agreements. - He was too good for us.
+211028 -- Is it a coincidence you found a security flaw in your old software just when you mad the upgrade available for purchase? - The important thing here is that you need to buy our upgrade or an Elbonian hacker will own your entire company by lunch.
+211028 -- - You're very good at sales. HE'S PENETRATING YOU SECURITY SYSTEM NOW! SIGN THE PURCHASE ORDER!
