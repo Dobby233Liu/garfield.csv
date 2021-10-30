@@ -10456,3 +10456,5 @@
 211028 -- Ist es Zufall, daß Sie eine Sicherheitslücke in Ihrer alten Software gefunden haben-just in dem Moment, in dem Sie das Upgrade zum Kauf anbieten? - Das Wichtige ist, daß Sie unser Update unbedingt kaufen müssen, bevore ein elbonischer Hacker
 211028 -- noch vor der Mittagspause Ihre Firma übernommen hat. - Sie sind ein sehr guter Verkäufer. ER DRINGT JETZT GERADE IN IHR SICHERHEITSSYSTEM VOR! UNTERZEICHNEN SIE DEN KAUFVERTRAG!
 211029 -- Wenn ich einen Weitblick hatte, dann nur, weil ich auf den Schultern eines Riesen stand. - Ich weiß nie, wann Sie mich veralbern und wann Sie es ernst meinen. - Belassen wir es dabei. Für mich funktioniert es so bestens.
+211030 -- Unsere Leute im Homeoffice streiken seit zwei Monaten. - Sie demonstrieren vor ihren eigenen Häusern und blockieren ihre eigenen Garagenzufahrten. - Und was verlangen sie? Das wissen wir nicht. Vermutlich benutzen sie noch unsere alte
+211030 -- E-Mail-Adresse.
