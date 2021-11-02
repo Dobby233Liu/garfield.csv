@@ -10458,3 +10458,7 @@
 211029 -- Wenn ich einen Weitblick hatte, dann nur, weil ich auf den Schultern eines Riesen stand. - Ich weiß nie, wann Sie mich veralbern und wann Sie es ernst meinen. - Belassen wir es dabei. Für mich funktioniert es so bestens.
 211030 -- Unsere Leute im Homeoffice streiken seit zwei Monaten. - Sie demonstrieren vor ihren eigenen Häusern und blockieren ihre eigenen Garagenzufahrten. - Und was verlangen sie? Das wissen wir nicht. Vermutlich benutzen sie noch unsere alte
 211030 -- E-Mail-Adresse.
+211031 -- Ich sehe hier nicht, daß Ihre Idee funktionieren könnte. - Oooh! Da scheine ich einen Nerv getroffen zu haben. - Das bedeutet, daß an meinen Worten viel Wahres dran sein muß. - Nein, das bedeutet, daß Ihre Idee dämlich ist und mir Kopfschmerzen
+211031 -- bereitet. - Ho-ho! Diese Ablehnung muß bedeuten, daß ich voll ins Schwarze getroffen habe. - NEIN, DAS BEDEUTET ES NICHT! IHRE LÄCHERLICHEN RATGEBERPHRASEN HABEN NICHTS MIT WEISHEIT ZU TUN! - Hören Sie mit diesen abgenutzten Sprüchen auf, denn
+211031 -- sie bedeuten rein gar nichts! - Mich dünkt, Ihr widersprecht zu viel. AAAAAAAAHH!!
+211101 -- Dogberts Schadenfreude-Training -> - Wie viel kostet der Kurs? Wenn Sie das fragen müssen, können Sie ihn sich nicht leisten. - Jetzt fühle ich mich wie ein Versager. Was mich entzückt. Das war Ihre erste Lektion.

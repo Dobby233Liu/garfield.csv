@@ -10098,3 +10098,6 @@ dr211027 -- How do you like my Jack-O'-Lantern? - - I don't get it. - Charlie Br
 dr211028 -- DING DONG! - Hello, I'm here to pick up trick-or-treat candy for Surrey, Bennett, and Liv! - Thanks! - I miss the old-fashioned Halloweens before kids had DoorDash!
 dr211029 -- Baylor, Mr. Drabble really likes Halloween candy! In fact, he probably ate it all himself! - Kids, instead of candy, how about if I swear you inas JUNIOR FOREST RANGERS?! Raise your right hand... Told ya!
 dr211030 -- Mr. Drabble's house is this way, Rory! I feel so mean I'm so forlorn - Here it's Halloween And I ate all your candy corn. Trick or...oh, forget it!
+dr211031 -- August 15 CANDY CORN YES! I can't believe they're already selling cany corn! - August 31 I LOVE candy corn! - September 15 More candy corn? Are you sure this is all for the trick-or-treaters? - September 30 I wish I could stop eating candy
+dr211031 -- corn! - October 15 Ooohh! I'm getting sick of candy corn! - October 30 I never want to see candy corn again for as long as I live! - October 31 TRICK OR TREAT! CANDY CORN GAAH!
+dr211101 -- Trick or treat! Halloween was yesterday. - You ate all the candy before we got here! What makes you think I'd have more candy now? - Because it all went on sale today! Sigh...

@@ -16655,3 +16655,5 @@ ga211027 -- Ohhh, doc, you've gotta help me... - What is it, Mr. Wolfman?! You l
 ga211028 -- And now back to "Dracula texts his Victim". - I VAN TO BITE YR NEK tap tap tap - :-) :-) :-)
 ga211029 -- And now tonight's feature film... - "The Giant Bloodsucking Leech... - versus A Personal Injury Attorney". This one could go either way.
 ga211030 -- We found the giant monster's weakness! - HEE! HEE! HO! HO! HOO! HOO! - He's ticklish! That's one huge feather.
+ga211031 -- - - - Greetings, earthling! I come in peace! - I wish to learn about your Earth customs and traditions! - Can you show me? Sure. - How'd it go? Fire up the death ray.
+ga211101 -- - - Enjoying your retirement?
