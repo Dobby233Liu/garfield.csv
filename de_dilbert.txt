@@ -10464,3 +10464,5 @@
 211101 -- Dogberts Schadenfreude-Training -> - Wie viel kostet der Kurs? Wenn Sie das fragen müssen, können Sie ihn sich nicht leisten. - Jetzt fühle ich mich wie ein Versager. Was mich entzückt. Das war Ihre erste Lektion.
 211102 -- Ich schreibe gerade meine Autobiographie und habe überlegt, ob Sie sich vielleicht die ersten drei Kapitel mal ansehen könnten. - GERN! Welchen Anteil an den Tantiemen bekomme ich dafür? - Ähm... Gibt es auch ein Kapitel darüber, wie Sie Ihre
 211102 -- Untergebenen ausnutzen?
+211103 -- Ich brauche mehr Daten, bevor ich eine Entscheidung über die Aktualisierung des Netzwerks treffe. - Weil Sie der letzte Mensch auf Erden sind, der immer noch darauf vertraut, daß alle Daten akkurat sind und richtig in Zusammenhang gebracht
+211103 -- wurden? - Warum klingt bei Ihnen immer alles nach einer schlechten Idee? Ich bin Programmierer.

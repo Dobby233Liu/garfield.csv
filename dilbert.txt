@@ -13737,3 +13737,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211031 -- pushback, it means I must be over the target. - NO, IT DOESN'T! YOUR RIDICULOUS BUMPER STICKER THINKING IS NOT WISDOM! - Stop repeating worn-out sayings as if they actually mean something! - Methinks thou dost protest too much. AAAIIIEEE!!!
 211101 -- Dogberts Schadenfreude Training - How much does the class cost? If you have to ask, you can't afford it. - Now I feel like a loser. Which delights me. That was your first lesson.
 211102 -- I'm writing my autobiography, and I wondered if you could take a look at the first three chapters. - SURE! What percentage of the royalties do I get for doing that? - Um...Is there a chapter about how to take advantage of your subordinates?
+211103 -- I'll need more data before making a decision on the network upgrade. - Is that because you are the last person on earth who still trusts data to be accurate and also properly contextualized? - How do you make everything sound like a bad idea?
+211103 -- I'm an engineer.
