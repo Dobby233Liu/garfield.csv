@@ -10466,3 +10466,5 @@
 211102 -- Untergebenen ausnutzen?
 211103 -- Ich brauche mehr Daten, bevor ich eine Entscheidung über die Aktualisierung des Netzwerks treffe. - Weil Sie der letzte Mensch auf Erden sind, der immer noch darauf vertraut, daß alle Daten akkurat sind und richtig in Zusammenhang gebracht
 211103 -- wurden? - Warum klingt bei Ihnen immer alles nach einer schlechten Idee? Ich bin Programmierer.
+211104 -- Ich kann die Daten nicht finden, die ich zum Abschluss meiner Analyse brauche. - Die Analyse muß nicht korrekt sein. Sie muß nur die Entscheidung befürworten, die ich längst getroffen habe. - Also ist mein Job eigentlich gar nicht real? Es ist
+211104 -- eher eine Placebo-Situation.
