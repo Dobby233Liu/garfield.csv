@@ -10468,3 +10468,5 @@
 211103 -- wurden? - Warum klingt bei Ihnen immer alles nach einer schlechten Idee? Ich bin Programmierer.
 211104 -- Ich kann die Daten nicht finden, die ich zum Abschluss meiner Analyse brauche. - Die Analyse muß nicht korrekt sein. Sie muß nur die Entscheidung befürworten, die ich längst getroffen habe. - Also ist mein Job eigentlich gar nicht real? Es ist
 211104 -- eher eine Placebo-Situation.
+211105 -- Unser neues Produkt wird in den sozialen Medien schlecht bewertet. - Ein Twitter-Nutzer beschreibt unsere Benutzeroberfläche als "eine Kreuzung zwischen einem Stinktierkamp und orthopädischen Strümpfen". - Das ergibt doch keine Sinn. Unsere
+211105 -- Benutzeroberfläche anscheinend auch nicht.

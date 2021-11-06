@@ -16660,3 +16660,4 @@ ga211101 -- - - Enjoying your retirement?
 ga211102 -- I'm going grocery shopping. - To buy food...all of which you will eat... - Leaving me nothing! Sounds like a plan.
 ga211103 -- Grrrrr... What's your problem, Odie? - - Never underestimate the power of a hug.
 ga211104 -- Don't swat me! - - Whoa...now what?
+ga211105 -- I couldn't sleep thinking about you last night, Liz. - How swee- - SNORE

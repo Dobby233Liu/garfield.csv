@@ -13740,3 +13740,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211103 -- I'll need more data before making a decision on the network upgrade. - Is that because you are the last person on earth who still trusts data to be accurate and also properly contextualized? - How do you make everything sound like a bad idea?
 211103 -- I'm an engineer.
 211104 -- I can't find the data to finish my analysis. - The analysis doesn't need to be correct. It only needs to support the decision I already made. - So...my job isn't actually real? It's more of a placebo situation.
+211105 -- Our lates product is getting a bad reputation on social media. - A Twitter user describes our user interface as "a cross between a skunk fight and orthopedic socks." - That doesn't make sense. Apparently, neither does our user interface.
