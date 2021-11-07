@@ -13741,3 +13741,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211103 -- I'm an engineer.
 211104 -- I can't find the data to finish my analysis. - The analysis doesn't need to be correct. It only needs to support the decision I already made. - So...my job isn't actually real? It's more of a placebo situation.
 211105 -- Our lates product is getting a bad reputation on social media. - A Twitter user describes our user interface as "a cross between a skunk fight and orthopedic socks." - That doesn't make sense. Apparently, neither does our user interface.
+211106 -- Catbert: Evil Director of Human Resources Do you have a career plan? - I plan to drift from one dead-end project to another until I die in my cubicle. - OKay, good, because I was going to suggest that.

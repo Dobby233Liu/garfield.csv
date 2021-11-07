@@ -16661,3 +16661,4 @@ ga211102 -- I'm going grocery shopping. - To buy food...all of which you will ea
 ga211103 -- Grrrrr... What's your problem, Odie? - - Never underestimate the power of a hug.
 ga211104 -- Don't swat me! - - Whoa...now what?
 ga211105 -- I couldn't sleep thinking about you last night, Liz. - How swee- - SNORE
+ga211106 -- I want to get everything I can out of life. - - Especially frosting!

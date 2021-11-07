@@ -10470,3 +10470,5 @@
 211104 -- eher eine Placebo-Situation.
 211105 -- Unser neues Produkt wird in den sozialen Medien schlecht bewertet. - Ein Twitter-Nutzer beschreibt unsere Benutzeroberfläche als "eine Kreuzung zwischen einem Stinktierkamp und orthopädischen Strümpfen". - Das ergibt doch keine Sinn. Unsere
 211105 -- Benutzeroberfläche anscheinend auch nicht.
+211106 -- Catbert, der boshafte Direktor der Parsonalabteilung Haben Sie einen Karriereplan? - Ich habe vor, von einem sinnlosen Projekt zum nächsten zu wechseln, bis ich in meiner Bürokabine sterbe. - Okay, gut, denn genau das wollte ich gerade
+211106 -- vorschlagen.
