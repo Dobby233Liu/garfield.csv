@@ -10106,3 +10106,4 @@ dr211103 -- Times have changed. When I was a kid, I had to empty the pencil shar
 dr211104 -- - Hey, how's it going? - Excuse me. - I liked that Jack-o'-Lantern!
 dr211105 -- WALLY - WALLY - WALLY - It's hard to fall asleep with a football in your mouth!
 dr211106 -- WALLY It's morning! - I can't wait to go outside and bark at the falling leaves! - Darn! Now I know why they're called leaves! - Most of them have already left!
+dr211107 -- - ? - - - Wally - Ice Cream - -  I can't remember what I came into the kitchen for! I'd go with "Feed the dog."
