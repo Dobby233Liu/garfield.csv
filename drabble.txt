@@ -10108,3 +10108,5 @@ dr211105 -- WALLY - WALLY - WALLY - It's hard to fall asleep with a football in 
 dr211106 -- WALLY It's morning! - I can't wait to go outside and bark at the falling leaves! - Darn! Now I know why they're called leaves! - Most of them have already left!
 dr211107 -- - ? - - - Wally - Ice Cream - -  I can't remember what I came into the kitchen for! I'd go with "Feed the dog."
 dr211108 -- Speak Wally! Why? - Roll over! Why? - Shake hands! Why? - Mayb I should bribe him with treats! People are so hard to train.
+dr211109 -- Here you go, Penny! - Remember to say Thank You! - Thank you! You're welcome! - If I'm welcome, how come I still have to say thank you?
+dr211110 -- - - I'm going on my break now. - I'm glad he watches over our property, butI wish he'd do it from someplace else!
