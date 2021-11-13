@@ -10110,3 +10110,5 @@ dr211107 -- - ? - - - Wally - Ice Cream - -  I can't remember what I came into t
 dr211108 -- Speak Wally! Why? - Roll over! Why? - Shake hands! Why? - Mayb I should bribe him with treats! People are so hard to train.
 dr211109 -- Here you go, Penny! - Remember to say Thank You! - Thank you! You're welcome! - If I'm welcome, how come I still have to say thank you?
 dr211110 -- - - I'm going on my break now. - I'm glad he watches over our property, butI wish he'd do it from someplace else!
+dr211111 -- - - - Want one? Dachshunds go to great lengths to get attention!
+dr211112 -- I got another promotion at work, dad! - That's great, son! - I have a dozen people working under me! - That's because I now work on the second floor!
