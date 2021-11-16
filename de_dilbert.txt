@@ -10484,4 +10484,5 @@
 211112 -- erst ausgelöst, das mir zum Vorwurf gemacht wird? - Ja. Warum fragen Sie?
 211113 -- Ich möchte, daß Sie alle kreativ sind und Initiative entwickeln. - Sie haben alle Mitarbeiter entlassen, die dachtem, sie meinten es ernst, als Sie das das letzte Mal gesagt haben. - So sortieren wir die Dummen aus.
 211114 -- Woran erkenne ich, ob eine Frau mich mag? - Sagen Sie etwas zu ihr und warten Sie ab, wie genervt sie ist, weil sie ihre Kopfhörer rausnehmen muß. - Genervt? - Ja, achten Sie auf Grimassen, empörte Blicke und tiefe Kehlkopflaute. - Wie ein
-121114 -- Knurren? Ja, aber gruseliger. - Hey, Lisa, haben Sie schon gehört, der... - WAAAAS? - Nicht gut! Nicht gut! Nicht gut!
+211114 -- Knurren? Ja, aber gruseliger. - Hey, Lisa, haben Sie schon gehört, der... - WAAAAS? - Nicht gut! Nicht gut! Nicht gut!
+211115 -- Glückwunsch! Ich ernenne Sie zum Mitarbeiter des Jahres! - Haben Sie nicht gerade erst Alice zur Mitarbeiterin des Jahres ernannt? - Das Gute an den bedeutungslosen Titeln ist, daß ich sie unbegrenzt oft vergeben kann.
