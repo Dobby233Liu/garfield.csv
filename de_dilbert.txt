@@ -10486,3 +10486,5 @@
 211114 -- Woran erkenne ich, ob eine Frau mich mag? - Sagen Sie etwas zu ihr und warten Sie ab, wie genervt sie ist, weil sie ihre Kopfhörer rausnehmen muß. - Genervt? - Ja, achten Sie auf Grimassen, empörte Blicke und tiefe Kehlkopflaute. - Wie ein
 211114 -- Knurren? Ja, aber gruseliger. - Hey, Lisa, haben Sie schon gehört, der... - WAAAAS? - Nicht gut! Nicht gut! Nicht gut!
 211115 -- Glückwunsch! Ich ernenne Sie zum Mitarbeiter des Jahres! - Haben Sie nicht gerade erst Alice zur Mitarbeiterin des Jahres ernannt? - Das Gute an den bedeutungslosen Titeln ist, daß ich sie unbegrenzt oft vergeben kann.
+211116 -- Haben Sie schon gehört...? Sie wurden für den ersten bemannten Flug zum Mars auserkoren. - Ich wußte gar nicht, daß ich mich darum beworben hatte. Es ist ein langer Flug, daher werden Sie die ganze Zeit schlafen. - Wie wollen die mich so lange
+211116 -- in Schlaf versetzen? Ich sollihnen diese Pille geben. Fortsetzung folgt...
