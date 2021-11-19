@@ -16672,4 +16672,5 @@ ga211113 -- - - Stop staring at my sweater. Mom?
 ga211114 -- tap tap tap   tap tap tap - tap tap tap   tap tap tap - tap tap tap   tap  Finished! - Finished? Finished my Christmas shopping! - - - The black ten goes on the red jack.
 ga211115 -- - - The seasons, they are a-changin'.
 ga211116 -- Hey, cat! - Get out of here! Why? - I have a family of nuthatches coming to look at this tree. You real estate agents are sure pushy!
-ga211117 -- - DIG DIG DIG DIG DIG DIG  PAT PAT PAT PAT  TAP TAP TAP TAP - HeÄll still forget where he buried it. BONE v
+ga211117 -- - DIG DIG DIG DIG DIG DIG  PAT PAT PAT PAT  TAP TAP TAP TAP - He'll still forget where he buried it. BONE v
+ga211118 -- So how do spiders build such intricate webs? - Good question... - I have an app for that. I should have guessed.

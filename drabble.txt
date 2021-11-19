@@ -10116,4 +10116,5 @@ dr211113 -- Why are you watching the football game with the sound off, dad? Beca
 dr211114 -- HIKE... - SMACK! - ...your pants up!
 dr211115 -- We're home! Where have you been, Norman? - I took Wally for a ride in the car!
 dr211116 -- We're home, honeybunch! Where have you been, Ralph? - I took Wally and Norman for a ride in the car!
-dr211117 -- May I take your order pleas? You never get it right. Surprise me. - Here you go, a double cheeseburger, no tomato, onion rings, and a large root beer! - This is what I always order! - You got it right this time! Surprise!
+dr211117 -- May I take your order please? You never get it right. Surprise me. - Here you go, a double cheeseburger, no tomato, onion rings, and a large root beer! - This is what I always order! - You got it right this time! Surprise!
+dr211118 -- ...and here's yours, Oogie! - Look, Wally, this dish says OOGIE , and your dish says WALLY. - SNARF! - I thought it said DINNER and DESSERT!
