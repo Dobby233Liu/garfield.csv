@@ -13759,3 +13759,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211117 -- He won't be bothering us today. I tricked him into taking a sleeping pill. - I told him he was chosen for a flight to Mars and the pill was to put him into suspended animation. - Are you planning to wake him up? Depends on how hard it is to get
 211117 -- a feeding tube into him. continued...
 211118 -- Wake up. I have some bad news about your trip to Mars... Uuuh? - The suspended animation pill you took was so strong that you slept all the way there and back. - Why is it still the same day I left? Sounds like a black hole situation.
+211119 -- I see you majored in Elbonian literature. Why did you pick that? - Elbonia only has six books, and I like to sleep in. - Did you learn their language? No, but it turns out you can judge their books by the covers.
