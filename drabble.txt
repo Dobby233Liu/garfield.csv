@@ -10119,3 +10119,4 @@ dr211116 -- We're home, honeybunch! Where have you been, Ralph? - I took Wally a
 dr211117 -- May I take your order please? You never get it right. Surprise me. - Here you go, a double cheeseburger, no tomato, onion rings, and a large root beer! - This is what I always order! - You got it right this time! Surprise!
 dr211118 -- ...and here's yours, Oogie! - Look, Wally, this dish says OOGIE , and your dish says WALLY. - SNARF! - I thought it said DINNER and DESSERT!
 dr211119 -- There's no Wi-Fi in this national park! - You're welcome.
+dr211120 -- The car up ahead has a bumper sticker... - It says the driver is a member of a high I.Q. club. - Which car? - The one that's had its blinker on for ten minutes!

@@ -10494,3 +10494,5 @@
 211118 -- meiner Abreise? Das muß mit einem schwarzen Loch zu tun haben.
 211119 -- Wie ich sehe, haben Sie elbonische Literatur studiert. Warum hatten Sie sich dafür entschieden? - In Elbonien gibt es nur sechs Bücher und ich schlafe beim Lesen immer sehr schnell ein. - Haben Sie denn Elbonisch gelernt? Nein, aber ihre Bücher
 211119 -- kann man gut nach ihrem Cover beurteilen.
+211120 -- Ich möchte Ihnen ehrlich sagen, daß dieser Job mit harter Arbeit und Überstunden einhergeht. - MAN HÄTTE MICH VORWARNEN KÖNNEN, BEVOR ICH IN DIESEM BLÖDEN ANZUG DEN WEITEN WEG HIERHERGEFAHREN BIN!!! - Ich hatte eine andere Reaktion erwartet.
+211120 -- Werden Sie von den meisten noch vermöbelt, bevor sie wieder gehen?
