@@ -10496,3 +10496,6 @@
 211119 -- kann man gut nach ihrem Cover beurteilen.
 211120 -- Ich möchte Ihnen ehrlich sagen, daß dieser Job mit harter Arbeit und Überstunden einhergeht. - MAN HÄTTE MICH VORWARNEN KÖNNEN, BEVOR ICH IN DIESEM BLÖDEN ANZUG DEN WEITEN WEG HIERHERGEFAHREN BIN!!! - Ich hatte eine andere Reaktion erwartet.
 211120 -- Werden Sie von den meisten noch vermöbelt, bevor sie wieder gehen?
+211121 -- Würden Sie meinem Sohn eine Berufsberatung geben? - Auf meinen Rat hört er nicht, weil ich sein Vater bin. - Ja, das wird der Grund sein. - Nun, Junior, was schwebt Dir beruflich vor? - Ich möchte einen Beruf, den ich mit Leidenschaft ausübe. -
+211121 -- Und er muß Spaß machen, aber er darf nicht zu anstrengend sein. - Hast Du Dich schon mal gefragt, wieso noch niemand anderes auf diese Idee gekommen ist? - Weil Ihr alle Idioten seid? Du hast irgendwas an Dir, was förmlich nach "Manager"
+211121 -- schreit.

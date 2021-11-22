@@ -13762,3 +13762,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211119 -- I see you majored in Elbonian literature. Why did you pick that? - Elbonia only has six books, and I like to sleep in. - Did you learn their language? No, but it turns out you can judge their books by the covers.
 211120 -- I'll be honest with you, the job will require hard work and long hours. - I WISH SOMEONE HAD WARNED ME ABOUT THAT BEFORE I DROVE ALL THE WAY OVER HERE IN THIS STUPID SUIT!!! - I was looking for a different reaction. Do most people punch you
 211120 -- before leaving?
+211121 -- Would you mind giving my son some career advice? - He won't listen to my advice because I'm his father. - Yeah, that's the reason. - So, Junior, what do you want to do for a career? - I want to do something I'm passionate about. -And it has to
+211121 -- be fun but not a lot of work. - Have you ever wondered why the rest of us didn't think of doing something like that? - Is it because you're idiots? There's something about you that screams "manager".
