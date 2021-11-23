@@ -13764,3 +13764,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211120 -- before leaving?
 211121 -- Would you mind giving my son some career advice? - He won't listen to my advice because I'm his father. - Yeah, that's the reason. - So, Junior, what do you want to do for a career? - I want to do something I'm passionate about. -And it has to
 211121 -- be fun but not a lot of work. - Have you ever wondered why the rest of us didn't think of doing something like that? - Is it because you're idiots? There's something about you that screams "manager".
+211122 -- Can we meet for lunch so I can show you our new line of products? Show it to me by e-mail. - I can't do that because no one buys our products unless we lie in person. - How about I send our most attractive salesperson to have lunch with you?
+211122 -- That'll work.
