@@ -10501,3 +10501,5 @@
 211121 -- schreit.
 211122 -- Können wir uns zum Mittagessen treffen, damit ich Ihnen unsere neue Produktreihe zeigen kann? Schicken Sie's mir als E-Mail. - Das geht nicht, denn niemand kauft unsere Produkte, wenn er nicht persönlich von uns belogen wird. - Und wenn ich
 211122 -- Ihnen unsere attraktivste Verkäuferin zum Mittagessen schicke? Das würde gehen.
+211123 -- Wenn Sie planen, pünktlich fertig zu werden, dann planen Sie falsch. - Nehmen Sie sich vor, zehn Minuten zu früh fertig zu sein, dann sind Sie immer noch pünktlich, falls was dazwischenkommt. - Ich plane auf FÜNFZEHN Minuten früher, denn ich
+211123 -- bin besser als Sie. Schluß jetzt.
