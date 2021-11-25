@@ -13767,3 +13767,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211122 -- Can we meet for lunch so I can show you our new line of products? Show it to me by e-mail. - I can't do that because no one buys our products unless we lie in person. - How about I send our most attractive salesperson to have lunch with you?
 211122 -- That'll work.
 211123 -- If you plan to be on time, you are planning to fail. - lan to be ten minutes early, so you will be still on time if something comes up. - I plan to be FIFTEEN minutes early because I'm better than you. Stop it.
+211124 -- Looks like we are out of time. Thanks for joining me for the full ninety minutes. - Seventy-five of which involved trying to make the audio and video work for our remote attendees. - At least we got in fifteen minutes of quality time. I wish I
+211124 -- hadn't slept through that part.
