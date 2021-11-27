@@ -10125,4 +10125,6 @@ dr211121 -- don't want to. - My dog ears! Someone dropped a potato chip next doo
 dr211122 -- THINGS YOUR CAT IS THANKFUL FOR - - - Well? I'm thinking! I'm thinking!
 dr211123 -- Things your cat is thankful for... - Hmmm... - Let me answer instead! I have an answer! Oh please! Oh please! I'm thankful I'm not a dog!
 dr211124 -- sniff sniff - I smell a turkey! - Oh.
-dr211125 -- Pizza for ralph! - Thanks for working on Thanksgiving. - I'm glad I could help! Never leave your dog alone with a turkey. Happy Thanksgiving!
+dr211125 -- Pizza for Ralph! - Thanks for working on Thanksgiving. - I'm glad I could help! Never leave your dog alone with a turkey. Happy Thanksgiving!
+dr211126 -- Time to enjoy some Thanksgiving leftovers! - The food is gone, but we still haven't watched "A Charlie Brown Thanksgiving"!
+dr211127 -- DOGGONE IT!! - WHO PUT THE TOILET PAPER ROLL ON BACKWARDS!! I always wondered what would happen if someone did that!
