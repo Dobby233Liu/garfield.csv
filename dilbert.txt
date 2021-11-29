@@ -13772,3 +13772,6 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211125 -- I'd like to recognize Dilbert for his excellent accomplishments this quarter. - Which one of you is Dilbert? - Didn't you say you came to "recognize Dilbert?" GET AWAY FROM ME, STRANGER!
 211126 -- I decided to give all of you nicknames to lighten the mood arond here and improve morale. - For example, Alice's new nickname will be "Angry Big-Hair." - Maybe someone else could come up with the nicknames. Settle down, /Adolph/.
 211127 -- How's it going, boss? - I was doing okay until your condescending greeting spiked my cortisol levels and nearly obliterated my immune system. - Shake it off, champ! I'M DYING HERE!
+211128 -- I'm promoting you to vice president of the network audit. - Is this a stealth way of firing me? Gotta go. - The audit will be done in three months. - Then I'll be the vice president of nothing. - You can eliminate the entire function and never
+211128 -- have to confront me about why you fired me. - But first you'll make me fire all my staff before you fire me. - YOU TRIED TO MISDIRECT MY ATTENTION FROM YOUR TREACHERY WITH A BOGUS PROMOTION THAT COMES WITH NO EXTRA PAY! - In my defense, I
+211128 -- didn't expect him to know any of that.
