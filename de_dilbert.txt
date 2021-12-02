@@ -10512,4 +10512,8 @@
 211128 -- Ich befördere Sie zum Vizepräsidenten der Netzwerkkontrolle. - Bin ich damit auf listige Weise entlassen? Ich muß los. - Die Kontrolle wird in drei Monaten abgeschlossen sein. - Und dann bin ich der Vizepräsident von gar nichta. - Dann können
 211128 -- Sie diese Funktion streichen und müssen mich nie damit konfrontieren, weshalb ich entlassen wurde. - Aber bevor Sie mich entlassen, zwingen Sie mich nich, all meine Mitarbeiter zu feuern. - SIE VERSUCHEN, MICH MIT EINER FINGIERTEN BEFÖRDERUNG
 211128 -- VON IHRER HEIMTÜCKE ABZULENKEN! UND DAS OHNE MEHR ZU ZAHLEN! - Zu meiner Verteidigung...ich hatte nicht erwartet, daß er das alles weiß.
-211129 -- Heute darf ich nicht gestört werden. - Ich muß einen Wutschutzschild aktivieren, um Störenfriede abzuwehren. - AAAAH! WARUM TUT ES WEH, IN IHRER NÄHE ZU SEIN?! Der Schild hat noch 95% Energie.
+211129 -- Asok, es gibt zwei Sorten von Angestellten. Die eine Sorte arbeitet hart und hofft auf das Beste. - Die andere Sorte lernt, wie man Ferien im Kopf macht und nur so tut, als würde man arbeiten. - Wo sind Sie gerade? Ich schlürfe gerade einen
+211129 -- Kaffee in einem Fjord.
+211130 -- Heute darf ich nicht gestört werden. - Ich muß einen Wutschutzschild aktivieren, um Störenfriede abzuwehren. - AAAAH! WARUM TUT ES WEH, IN IHRER NÄHE ZU SEIN?! Der Schild hat noch 95% Energie.
+211201 -- Würden Sie mit mir eine Wanderung unternehmen? Ich sehe mal in meinem Kalender nach. - Das ist nicht Ihr Kalender, das ist eine Wetter-App. - Wenn sie etwas nicht machen will, sucht sie Termine aus, die wahrscheinlich wegen Regens abgesagt
+211201 -- werden müssen. Klingt sympathisch.

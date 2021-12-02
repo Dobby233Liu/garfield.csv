@@ -10129,4 +10129,7 @@ dr211125 -- Pizza for Ralph! - Thanks for working on Thanksgiving. - I'm glad I 
 dr211126 -- Time to enjoy some Thanksgiving leftovers! - The food is gone, but we still haven't watched "A Charlie Brown Thanksgiving"!
 dr211127 -- DOGGONE IT!! - WHO PUT THE TOILET PAPER ROLL ON BACKWARDS!! I always wondered what would happen if someone did that!
 dr211128 -- GASP! - WE ONLY WENT TO DINNER AND A MOVIE! Trust me, the best entertainment was here tonight!
-dr211129 -- I feel so good! - It's November 30th and I can honestly say my Christmas  shopping is done! - - Where are you going? The pet supplies store.
+dr211129 -- OK, everybody, help me put away THSE decorations, and then we'll get out the CHRISTMAS decorations! OK, honeybunch! - Mom's the only person I know who decorates for Black Friday!
+dr211130 -- I feel so good! - It's November 30th and I can honestly say my Christmas  shopping is done! - - Where are you going? The pet supplies store.
+dr211201 -- Secret Santa Guess what, Wally! It's December 1st! - Only 24 more sleeps until Christmas! ...or in my case, 317!
+
