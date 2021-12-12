@@ -143,6 +143,14 @@ comicids_fix = {
         " ",
         -1,
     ),
+    "211109 -- Why can't you just admit that adding servers will increase energy costs? - Well, for one thing, it's obvious to any idiot. Secondly, it isn't related to our dicussion. - Those are fairly good reasons.":(
+        "211009",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
     # TODO - you can use search in the website
     # Dilbert (in Deutsch)
     "080819 -- Aah! Sie haben Ihren Kaugummi auf diesem wiederverwertbaren Abfall geklebt!!! - WIE FÜHLT SICH DAS IN IHREM HAAR AN? HÄ? GAR NICHT MEHR SO KOMISCH, SIE BAUM-MÖRDER? - Das schlimmste ist, daß ich ihn um seine Leidenschaft für den Job beneide.": (
