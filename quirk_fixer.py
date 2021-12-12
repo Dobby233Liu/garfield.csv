@@ -1115,22 +1115,6 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr211007 -- Steinabuer, I know we've never seen eye to eye... - How would you like to come over and watch the baseball game with me? - Sure, Ralph! I'm excited about the game today! Me too! - My team is gonna OBLITERATE your team! Wait, what?":(
-        "dr211107",
-        "dr",
-        " ",
-        "--",
-        " ",
-        -1,
-    ),
-    "dr211008 -- How can you bear to watch your team lose like this, Ralph? - HAHA! You guys STINK! - I TOLD you your bullpen would blow it! HA HA HA HA!! - Say, you got any more of this guacamo... NO!":(
-        "dr211108",
-        "dr",
-        " ",
-        "--",
-        " ",
-        -1,
-    ),
     # TODO - needs some effort; search on GoComics
     # Garfield
     "ga810102 -- Just what is a diet? - A diet is self-denial. - Fortunately, I'm such a swell fellow I haven't the heart to deny myself anything.": (
