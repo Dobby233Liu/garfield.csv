@@ -1091,6 +1091,22 @@ comicids_fix = {
         " ",
         -1,
     ),
+    "dr211105 -- October! - When the leaves turn colors. - And my thoughts... - Turn to candy corn!":(
+        "dr211005",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr211106 -- More candy for the trick-or-treaters, Ralph? - Didn't you just buy Halloween candy last week? - Yes, but I underestimated. - ...how much of it I would eat myself.":(
+        "dr211006",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
     "dr210117 -- That's a long putt you have to make, dad! - Yeah, and the green is a mess because od the wind! - There are lots of leaves and junk between the ball and the hole! - You were smart to bring the robotic vacuum! HUMMMMMMMMM": (
         "dr211007",
         "dr",
