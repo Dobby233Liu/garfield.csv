@@ -143,7 +143,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "211109 -- Why can't you just admit that adding servers will increase energy costs? - Well, for one thing, it's obvious to any idiot. Secondly, it isn't related to our dicussion. - Those are fairly good reasons.":(
+    "211109 -- Why can't you just admit that adding servers will increase energy costs? - Well, for one thing, it's obvious to any idiot. Secondly, it isn't related to our dicussion. - Those are fairly good reasons.": (
         "211009",
         "",
         " ",
@@ -265,7 +265,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "210930 -- Ich traue den Experten nicht, wenn es um meine Gesundheit geht, deshalb mache ich meine eigenen Recherchen. - Neulich habe ich zum Beispiel gelernt, daß ich meine Gicht heilen kann, indem ich die Asche eines toten Eichhörnchens auf einen":(
+    "210930 -- Ich traue den Experten nicht, wenn es um meine Gesundheit geht, deshalb mache ich meine eigenen Recherchen. - Neulich habe ich zum Beispiel gelernt, daß ich meine Gicht heilen kann, indem ich die Asche eines toten Eichhörnchens auf einen": (
         "210830",
         "",
         " ",
@@ -273,7 +273,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "210930 -- Rosenbusch streue. - Vielleicht sollten Sie lieber nicht selbst recherchieren. Wieso nicht? Es funktioniert bestens!":(
+    "210930 -- Rosenbusch streue. - Vielleicht sollten Sie lieber nicht selbst recherchieren. Wieso nicht? Es funktioniert bestens!": (
         "210830",
         "",
         " ",
@@ -1083,7 +1083,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr211103 -- Time to get on the scale. - - WHOOOFFPP! - - PHEEEWW! - It doesn't help to suck in your stomach when you weigh yourself! I was just trying to see the numbers!":(
+    "dr211103 -- Time to get on the scale. - - WHOOOFFPP! - - PHEEEWW! - It doesn't help to suck in your stomach when you weigh yourself! I was just trying to see the numbers!": (
         "dr211003",
         "dr",
         " ",
@@ -1091,7 +1091,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr211104 -- Ding! A tweet from Wendy! - Norman, please unfollow me. - tap tap tap Why? - Because you're getting on my nerves!":(
+    "dr211104 -- Ding! A tweet from Wendy! - Norman, please unfollow me. - tap tap tap Why? - Because you're getting on my nerves!": (
         "dr211004",
         "dr",
         " ",
@@ -1099,7 +1099,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr211105 -- October! - When the leaves turn colors. - And my thoughts... - Turn to candy corn!":(
+    "dr211105 -- October! - When the leaves turn colors. - And my thoughts... - Turn to candy corn!": (
         "dr211005",
         "dr",
         " ",
@@ -1107,7 +1107,7 @@ comicids_fix = {
         " ",
         -1,
     ),
-    "dr211106 -- More candy for the trick-or-treaters, Ralph? - Didn't you just buy Halloween candy last week? - Yes, but I underestimated. - ...how much of it I would eat myself.":(
+    "dr211106 -- More candy for the trick-or-treaters, Ralph? - Didn't you just buy Halloween candy last week? - Yes, but I underestimated. - ...how much of it I would eat myself.": (
         "dr211006",
         "dr",
         " ",
