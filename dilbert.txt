@@ -13788,3 +13788,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211208 -- Are you a player in this simulation or a non-player character? - I like beer and golf. HIGH FIVE! - AIR GUITAR! I have no further questions.
 211209 -- You're not the only one who built a parallel world in the Metaverse. - I built one just for the challenge of avoiding work in two realities at once. - You wouldn't understand my mindset because you've probably never been super-good at anything.
 211210 -- I had a dream about you last night. - What was I doing? You were screaming, "Stop hitting me!" - Did you stop? No, it was a dream, not a nightmare.
+211211 -- My home garbage has not been picked up in three weeks. - That's because our garbage collectors are working from home now. - So...should I bring my garbage to their homes? Fine with me.
