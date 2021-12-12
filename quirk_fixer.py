@@ -1108,7 +1108,7 @@ comicids_fix = {
         -1,
     ),
     "dr210117 -- That's a long putt you have to make, dad! - Yeah, and the green is a mess because od the wind! - There are lots of leaves and junk between the ball and the hole! - You were smart to bring the robotic vacuum! HUMMMMMMMMM": (
-        "dr211007",
+        "dr211017",
         "dr",
         " ",
         "--",
