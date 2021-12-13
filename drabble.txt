@@ -10144,3 +10144,5 @@ dr211208 -- - Whoah! My foot's asleep! - Hopefully my restless leg will wake it 
 dr211209 -- I just fed you for dinner. Don't look at me with those big sad eyes! - They'd be a lot less sad if you fed me dinner again!
 dr211210 -- WALLY! COME BACK HERE WITH THAT POPCORN STRING! - IT IS NOT A TOY! I know! I was thinking of it as a dessert!
 dr211211 -- I appreciate it when people decorate for hoildays! - It makes the world more cheerful and fun! - That's what I try to tell you every Taco Tuesday! It is possible to get a little carried away.
+dr211212 -- Hey! That's not where I hung the gingerbread ornament! - And this isn't where I put the candy cane! - I could've sworn I put this ugly ornament in the back of the tree! - All the ornaments are in different places! - After you went to bed last
+dr211212 -- night, one of Santa's elves must have come and redecorated our tree! - Is that even a THING?? Yes, you've just never noticed it before!
