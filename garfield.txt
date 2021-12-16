@@ -16700,3 +16700,5 @@ ga211210 -- Santa is watching you. - - Get a life, Santa.
 ga211211 -- I love Christmas. - That Santa Claus is one generous guy. - If he knows what's good for him.
 ga211212 -- - - - - - - Oh, come on!
 ga211213 -- I enjoy decorating for Christmas. Is that so? - GARFIELD! - Why is there cheese on the tree?!
+ga211214 -- Garfield, did you find the tinsel? - No. - But Odie did.
+ga211215 -- Dear Santa, Too blah. - Dear Sir, Too stuffy. - Oh Bearded One,
