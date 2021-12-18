@@ -10540,3 +10540,5 @@
 211215 -- Ich habe einen gut aussehenden Typen ohne jedes Talent eingestellt. - Er hat keinerlei Fähigkeiten, aber er sieht so gut aus. Und das muß doch auch für was gut sein. - Ich habe vor, nett zu ihm zu sein. Er ist dafür prädestiniert, unser
 211215 -- nächster Geschäftsführer zu werden.
 211216 -- Ich habe wieder Covid und muß für zwei Wochen zu Hause bleiben. - Das ist das dritte Mal, daß Sie diese Ausrede verwenden. - Eine asymptomatische Pandemie kommt nur einmal im Berufsleben vor. Das muß ich doch vollends auskosten.
+211217 -- Wie lange dauert es, diese Funktion hinzuzufügen? Vier Wochen. - Kriegen Sie's auch in einer Woche hin? Ja, aber weniger qualitätsvoll. - Okay, machen Sie das. Und bitten Sie Tina, das Benutzerhandbuch noch verwirrender zu machen, damit die
+211217 -- Kunden denken, es sei ihre eigene Schuld, wenn was nicht funktioniert.
