@@ -10542,3 +10542,5 @@
 211216 -- Ich habe wieder Covid und muß für zwei Wochen zu Hause bleiben. - Das ist das dritte Mal, daß Sie diese Ausrede verwenden. - Eine asymptomatische Pandemie kommt nur einmal im Berufsleben vor. Das muß ich doch vollends auskosten.
 211217 -- Wie lange dauert es, diese Funktion hinzuzufügen? Vier Wochen. - Kriegen Sie's auch in einer Woche hin? Ja, aber weniger qualitätsvoll. - Okay, machen Sie das. Und bitten Sie Tina, das Benutzerhandbuch noch verwirrender zu machen, damit die
 211217 -- Kunden denken, es sei ihre eigene Schuld, wenn was nicht funktioniert.
+211218 -- Wie Sie wissen, habe ich ein Tiger-Team zusammengestellt, das sich ein neues Produkt ausdenken soll. - Das ist nicht gut gelaufen. Der Tiger hat Hunger bekommen und alle anderen im Team aufgefressen. - Sie dachten, da muß ein echter Tiger dabei
+211218 -- sein? Ber Begriff ist eben unpassend gewählt.
