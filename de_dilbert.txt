@@ -10551,3 +10551,5 @@
 211221 -- Ich muß Sie aufschreiben, weil Sie einen Kollegen angeatmet haben. - Ihnen ist wohl nicht bewuß, wie viele tödliche Pathogene aus Ihrer Fressluke kommen. - Soll ich aufhören zu atmen, oder was? Nur bis wir Sie in Beton eingegossen haben.
 211222 -- Im Homeoffice waren die Mitarbeiter glückliche rund motivierter. - Daher...erzählen Sie mir doch noch einmal, warum jetzt alle wieder ins Büro kommen müssen. - Damit ich weniger Zeit mit meiner Familie verbringen muß. Okay, das kann ich
 211222 -- respektieren.
+211223 -- Es ist wichtig, daß Sie die ganze Nacht durcharbeiten, um damit bis morgen fertig zu werden. - AM NÄCHSTEN TAG ICH BIN FERTIG! Sehr gut. Kommen Sie nächsteWoche wieder, um es mit zu erklären. - Jetzt möchte ich Sie am liebsten mit bloßen Händen
+211223 -- erwürgen. Wieso kriege ich das immer wieder zu hören?
