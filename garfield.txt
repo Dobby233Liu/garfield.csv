@@ -16712,3 +16712,4 @@ ga211222 -- * - Hold this ribbon down. -
 ga211223 -- Dear Santa, I would like a new suit for Christmas. tic tic tic - Attached is a picture of the style I prefer. tic tic tic tic - Do we have any lime green polyester left in the warehouse?
 ga211224 -- Oh, boy! - It's Christmas eve! - Whaddya say we all go to bed early and not be able to sleep?!
 ga211225 -- What were your favorite gifts, guys? Urf! My squeaky mouse! My candle! - Mine is being here with you. -
+ga211226 -- - How cuuute! - I love it when your mom makes you matching (snicker) sweaters for Christmas. - What's that? For you. -
