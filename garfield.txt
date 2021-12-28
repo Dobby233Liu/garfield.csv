@@ -16713,3 +16713,4 @@ ga211223 -- Dear Santa, I would like a new suit for Christmas. tic tic tic - Att
 ga211224 -- Oh, boy! - It's Christmas eve! - Whaddya say we all go to bed early and not be able to sleep?!
 ga211225 -- What were your favorite gifts, guys? Urf! My squeaky mouse! My candle! - Mine is being here with you. -
 ga211226 -- - How cuuute! - I love it when your mom makes you matching (snicker) sweaters for Christmas. - What's that? For you. -
+ga211227 -- - - If I don't open my eyes, monday can't get me.
