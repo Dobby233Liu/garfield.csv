@@ -10564,3 +10564,4 @@
 211227 -- Seil versenden kann.
 211228 -- Was höre ich da? Sie wollen unser Netzwerk durch ein verknotetes Seil ersetzen? - Blödsinn. Ich habe nichts dergleichen gesagt. Ich erzähle allen, daß Sie einen Rückzieher machen. - Erzählen Sie lieber, daß ich das nie gesagt habe. Ich erzähle,
 211228 -- daß Sie sich nicht an die Spielregeln halten.
+211229 -- Unsere Forschungsabteilung hat eine Technik entwickelt, die Idioten in schlaue Leute verwandelt. - Nur ein Idiot würde so was glauben. Ich nenne diese Leute lieber "die Zielgruppe".
