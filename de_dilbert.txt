@@ -10570,3 +10570,6 @@
 211231 -- 75% der Leute sind nach einer Behandlung mit unserem Produkt, das einen schlauer machen soll, verstorben. - Zum Glück sind wir die einzigen, die das wissen. - Das müssen wir den Leuten mitteilen. Das klingt, als brauchten Sie eine Behandlung.
 220101 -- Ich will mich über ein Produkt Ihrer Firma beschweren. - Sie versprechen, es würde mich schlauer machen, aber ich fühle mich unverändert. - Das liegt daran, daß Sie bereits ein Genie sind, Sie wissen es nur noch nicht. Okay, das klingt
 220101 -- plausibel.
+220102 -- Ich habe Ihren Projektzeitplan bei der Exekutivkommission eingereicht. - Wie geht das, wenn ich Ihnen den Plan noch gar nicht gegeben habe? - Ich hab ihn aus dem Hut gezaubert. Wie bitte? Ich hab ihn aus dem Hut gezaubert. Sie meinen, Sie haben
+220102 -- geraten? - Nein, alles basiert auf meiner Erfahrung. - Sie haben buchstäblich /null/ Erfahrung in der Programmentwicklung. - Ich hoffe, das kompensieren zu können, indem ich Sie zwinge, den Zeitplan, den ich eingereicht habe, einzuhalten. -
+220102 -- Jetzt müssen Sie sagen, wie erfrischend ehrlich ich bin. Nö.

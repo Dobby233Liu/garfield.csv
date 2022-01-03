@@ -10169,3 +10169,5 @@ dr211229 -- - - Don't let the door hit you on the way out 2021 I remember when p
 dr211230 -- 172,958...172,957...172,956... - 172,955... Most people don't start their New Year's countdown until they're at *10*! He's really excited!
 dr211231 -- Norman, are you planning to tak out anyone on New Year's Eve? Nope. - I have no one to take out. I have a suggestion. -
 dr220101 -- When we watch football every New Year's day, she always puts the bowl of good chips closer to her! - - Talk about bowl games!
+dr220102 -- Don't look at me with those big sad eyes! - I'm not going to feed you again! You're not getting any more! - Why are you so excited? - Didn't you understand what I just said? - I think so, but maybe you should repeat it! - I said!... - Blah
+dr220102 -- blah blah...feed you again...blah blah blah... I understood perfectly!
