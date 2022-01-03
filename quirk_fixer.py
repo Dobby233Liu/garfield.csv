@@ -1123,6 +1123,14 @@ comicids_fix = {
         " ",
         -1,
     ),
+    "dr121214 -- Your car is ready, Mr. Drabble. Auto Mechanic - It was way overdure! I know I know... - Daylight saving time ended a month ago! I would've turned back the car clock myself, but I don't have an engineering degree!": (
+        "dr211214",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
     # TODO - needs some effort; search on GoComics
     # Garfield
     "ga810102 -- Just what is a diet? - A diet is self-denial. - Fortunately, I'm such a swell fellow I haven't the heart to deny myself anything.": (
