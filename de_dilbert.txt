@@ -10573,3 +10573,5 @@
 220102 -- Ich habe Ihren Projektzeitplan bei der Exekutivkommission eingereicht. - Wie geht das, wenn ich Ihnen den Plan noch gar nicht gegeben habe? - Ich hab ihn aus dem Hut gezaubert. Wie bitte? Ich hab ihn aus dem Hut gezaubert. Sie meinen, Sie haben
 220102 -- geraten? - Nein, alles basiert auf meiner Erfahrung. - Sie haben buchstäblich /null/ Erfahrung in der Programmentwicklung. - Ich hoffe, das kompensieren zu können, indem ich Sie zwinge, den Zeitplan, den ich eingereicht habe, einzuhalten. -
 220102 -- Jetzt müssen Sie sagen, wie erfrischend ehrlich ich bin. Nö.
+220103 -- Ich fühle mich nur zu Männern hingezogen, die nicht anders können, als immer ehrlich zu sein. - Soll mir Recht sein. Umgekehrt fühle ich mich nur von Ihrem Äußeren angezogen. - WIE BITTE? Brauchen Sie noch einen Moment, um mein Aufrichtigkeit
+220103 -- würdigen zu können?

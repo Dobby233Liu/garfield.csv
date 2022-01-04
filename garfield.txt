@@ -16720,3 +16720,4 @@ ga211230 -- Guess what, Garfield. - I'm picking up Liz at 8 o'clock tonight to g
 ga211231 -- The giant ape is climbing to the top of the skyscraper! - Why would he do that? - Oooo...ahhhhh... - It's the best place to watch fireworks.
 ga220101 -- Do you have any New Year's resolutions, Liz? I thought maybe I should lose some wight. - What do YOU think? - I hate these questions. Yeah, but I LOVE your answers.
 ga220102 -- Listen up, you! - YOu need to get tough! - Jon's shouting into the mirror. - You got what it takes, pal! - You're not afraid of anything! - You can do this!! - It's laundry day. Show those socks who's boss!
+ga220103 -- Jon says I'm fat. - Not true. - His furniture is just cheap.
