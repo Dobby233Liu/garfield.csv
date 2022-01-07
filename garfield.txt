@@ -16723,3 +16723,4 @@ ga220102 -- Listen up, you! - YOu need to get tough! - Jon's shouting into the m
 ga220103 -- Jon says I'm fat. - Not true. - His furniture is just cheap.
 ga220104 -- Sigh. - I wish I could lose weight... - ? AS EASILY AS JON LOSES HIS PHONE!
 ga220105 -- Dieting? - May I recommend the DOnut Diet? - The center has zero calories!
+ga220106 -- I just finished a three-day diet. - BURP! - In 30 minutes!
