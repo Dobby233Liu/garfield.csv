@@ -16725,3 +16725,4 @@ ga220104 -- Sigh. - I wish I could lose weight... - ? AS EASILY AS JON LOSES HIS
 ga220105 -- Dieting? - May I recommend the DOnut Diet? - The center has zero calories!
 ga220106 -- I just finished a three-day diet. - BURP! - In 30 minutes!
 ga220107 -- - I love diet week. - JON'S diet week!
+ga220108 -- That's a nice fire. - Yup. - Diet books make great kindling.

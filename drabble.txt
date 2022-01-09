@@ -10176,3 +10176,4 @@ dr220104 -- Dad, your wipers are on and it's not raining anymore. - Oh, thanks! 
 dr220105 -- Unfollow Unfollow Unfollow - I decided to stop following people who are more lost than I am!
 dr220106 -- I know it's raining outside, Wally... - But I have to take you for a walk! - - On second thought, take yourself for a walk!
 dr220107 -- Yes!! I've lost five pounds! - That's reason to celebrate! - SHAKES * MALTS * SUNDAES Now why did I do that?
+dr220108 -- I love hot cocoa on a cold day! - Whipped cream...chocolate chips... - Sprinklers, nuts, charry... - Dang, I forgot the cocoa!

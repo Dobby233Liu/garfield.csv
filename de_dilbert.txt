@@ -10583,3 +10583,5 @@
 220106 -- Personalauswahl ausmerzen. Nein, ich brauche nur jemanden, dem ich es in die Schuhe schieben kann.
 220107 -- Ich nehme mir bald ein paar Tage frei und brauche jemanden, der für mich einspringt. - Oh! Es überrascht mich, aber ich fühle mich geehrt, daß Sie damit auf mich zukommen. - Gut. Also, wie lange brauchen Sie, um unseren Büro-Roboter so zu
 220107 -- programmieren, daß er für mich einspringen kann?
+220108 -- Ihr idiotischer Chef ist in Urlaub und hat mich gebeten, für ihn einzuspringen. - Ich nutze meine hochentwickelten Schaltkreise dazu, Sie zehnfach mehr zu überwachen als ein menschlicher Manager. - Wäre es nicht einfacher, gleich selbst unsere
+220108 -- Arbeut zu erledigen? VERDAMMTE LOGIK! SIE HABEN RECHT!
