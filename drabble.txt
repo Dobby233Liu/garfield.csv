@@ -10177,3 +10177,5 @@ dr220105 -- Unfollow Unfollow Unfollow - I decided to stop following people who 
 dr220106 -- I know it's raining outside, Wally... - But I have to take you for a walk! - - On second thought, take yourself for a walk!
 dr220107 -- Yes!! I've lost five pounds! - That's reason to celebrate! - SHAKES * MALTS * SUNDAES Now why did I do that?
 dr220108 -- I love hot cocoa on a cold day! - Whipped cream...chocolate chips... - Sprinklers, nuts, charry... - Dang, I forgot the cocoa!
+dr220109 -- Norman, if I fell, would you catch me? - Sure, Echo, but why would you do that? - It's called a "trust fall". I'd be trusting you to catch me! - OK! Ready? - You did it! I KNEW I could trust you! - OK, turn araound! It's your turn! - OK, here
+dr220109 -- I go! - SPLAFF!
