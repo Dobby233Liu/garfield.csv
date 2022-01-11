@@ -5,9 +5,14 @@ import traceback
 from quirk_fixer import find_first_comicid_quirkfix
 
 
+SPLITLINE_REGEX = re.compile(r"(\s+|^)-")
+COMICID_REGEX = re.compile(r"^((g[as]|dr|pg|sh|[0-9]+)[0-9a-zA-Z-]+)(\s|)(--|- -|..|. .|\*\*|\* \*)( |)")
+SPACE_CLEANUP_REGEX = re.compile(r"(\s)+")
+
+
 def splitline(text):
     # Lazier but works version - revert further if problematic
-    text = re.sub(r"(\s+|^)-", "\n", text, flags=re.I)
+    text = re.sub(SPLITLINE_REGEX, "\n", text, flags=re.I)
     arr = text.splitlines()
     text = "\n".join(list(map(lambda x: "- " + x.strip(), arr)))
     return text.strip()
@@ -23,7 +28,7 @@ def find_first_comicid(line):
         # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
         # [0] [0] full id [1] comic [2] nothing [3] sep
         result = re.findall(
-            r"^((g[as]|dr|pg|sh|[0-9]+)[0-9a-zA-Z-]+)(\s|)(--|- -|..|. .|\*\*|\* \*)( |)",
+            COMICID_REGEX,
             line,
             flags=re.I,
         )
@@ -81,7 +86,7 @@ def cleanup(input_file, output):
         if comicid[0] != _sub_comicid[0]:  # or be_there:
             # postprocessing - write and reset EVERYTHING
             _proc_line = splitline(_proc_line)
-            _proc_line = re.sub("(\s)+", r"\1", _proc_line)
+            _proc_line = re.sub(SPACE_CLEANUP_REGEX, r"\1", _proc_line)
             writer.writerow(
                 [_proc_line, comicid[0]]
             )  # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
@@ -114,7 +119,7 @@ def cleanup(input_file, output):
         intro = False
 
     _proc_line = splitline(_proc_line)
-    _proc_line = re.sub("(\s)+", r"\1", _proc_line)
+    _proc_line = re.sub(SPACE_CLEANUP_REGEX, r"\1", _proc_line)
     writer.writerow([_proc_line, comicid[0]])
 
     return
