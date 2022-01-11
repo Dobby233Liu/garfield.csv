@@ -10179,3 +10179,4 @@ dr220107 -- Yes!! I've lost five pounds! - That's reason to celebrate! - SHAKES 
 dr220108 -- I love hot cocoa on a cold day! - Whipped cream...chocolate chips... - Sprinklers, nuts, charry... - Dang, I forgot the cocoa!
 dr220109 -- Norman, if I fell, would you catch me? - Sure, Echo, but why would you do that? - It's called a "trust fall". I'd be trusting you to catch me! - OK! Ready? - You did it! I KNEW I could trust you! - OK, turn araound! It's your turn! - OK, here
 dr220109 -- I go! - SPLAFF!
+dr220110 -- Welcome 2022 It seems to take longer and longer to clean up after Christmas! Don't worry, dad. - I'm sure we'll get rid of the rest of the cardboard boxes by spring.

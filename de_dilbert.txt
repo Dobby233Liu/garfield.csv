@@ -10588,3 +10588,5 @@
 220109 -- Mir ist bei den Aufgaben, die ich Ihnen gebe, ein verstörendes Muster aufgefallen. - Sie sagen immer, Sie werden sich darum kümmern, aber tun es dann nicht. - Wenn ich Sie später danach frage, sagen Sie, Sie würden sich jetzt WIRKLICH darum
 220109 -- kümmern. - Aber Sie tun es wieder nicht. - Ich sage Ihnen hiermit, daß Sie sich das nicht aussuchen können. - Sie müssen tun, was ich Ihnen sage. Ja, das stimmt. - Ich kümmere mich ab sofort darum. OKay, gut. - Wieso fühlt sich das nicht wie
 220109 -- ein Sieg an?
+220110 -- Ted, Sie müssen mir helfen und einen Karton oben vom Regal herunternehmen. - Da komme ich nicht ran. Stellen Sie sich auf diesen instabilen Bürostuhl. Ich halte ihn dann fest. - Zu meiner Verteidigung...er hätte mir gar nicht erst vertrauen
+220110 -- dürfen.
