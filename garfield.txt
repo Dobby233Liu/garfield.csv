@@ -16722,9 +16722,10 @@ ga220101 -- Do you have any New Year's resolutions, Liz? I thought maybe I shoul
 ga220102 -- Listen up, you! - YOu need to get tough! - Jon's shouting into the mirror. - You got what it takes, pal! - You're not afraid of anything! - You can do this!! - It's laundry day. Show those socks who's boss!
 ga220103 -- Jon says I'm fat. - Not true. - His furniture is just cheap.
 ga220104 -- Sigh. - I wish I could lose weight... - ? AS EASILY AS JON LOSES HIS PHONE!
-ga220105 -- Dieting? - May I recommend the DOnut Diet? - The center has zero calories!
+ga220105 -- Dieting? - May I recommend the Donut Diet? - The center has zero calories!
 ga220106 -- I just finished a three-day diet. - BURP! - In 30 minutes!
 ga220107 -- - I love diet week. - JON'S diet week!
 ga220108 -- That's a nice fire. - Yup. - Diet books make great kindling.
 ga220109 -- - - PLEASE HELP - - - KLINK -
 ga220110 -- Ah, monday... - I try to ease into the week. - So that by the time I'm fully awake, it's Friday.
+ga220111 -- - OK! OK! I confess! I ATE THE LAST COOKIE! - Some people just aren't cut out for a life of crime. SOB

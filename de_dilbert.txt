@@ -10590,3 +10590,5 @@
 220109 -- ein Sieg an?
 220110 -- Ted, Sie müssen mir helfen und einen Karton oben vom Regal herunternehmen. - Da komme ich nicht ran. Stellen Sie sich auf diesen instabilen Bürostuhl. Ich halte ihn dann fest. - Zu meiner Verteidigung...er hätte mir gar nicht erst vertrauen
 220110 -- dürfen.
+220111 -- Ich habe gehört, Sie haben Ted umgebracht. - Nein, es war allein seine Schuld, daß er sich auf einen wacklichen Stuhl gestellt hat, um an eine Kiste heranzukommen. - Hatten Sie ihm gesagt, Sie würden den Stuhl festhalten? Ja, aber das wurde mir
+220111 -- dann langweilig.
