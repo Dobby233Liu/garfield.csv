@@ -10593,3 +10593,5 @@
 220111 -- Ich habe gehört, Sie haben Ted umgebracht. - Nein, es war allein seine Schuld, daß er sich auf einen wacklichen Stuhl gestellt hat, um an eine Kiste heranzukommen. - Hatten Sie ihm gesagt, Sie würden den Stuhl festhalten? Ja, aber das wurde mir
 220111 -- dann langweilig.
 220112 -- In unserem Bezirk gab es in dieser Woche null Covid-Tote. - Das heißt also, Covid hat in diesem Zeitraum weniger Menschen getötet, als Sie es getan haben. - Lassen Sie mich da raus. Können Sie mir einen anderen Mörder empfehlen?
+220113 -- Laut unserer neuen Firmenpolitik könne Sie unbegrenzt Urlaub nehmen. - Aber rechnen Sie damit, daß ich hinter ihrem Rücken über Sie urteile und Ihnen auf subtile Weise den Spaß daran verderben werde. - Warum wird es dann eingeführt? Das hat
+220113 -- etwas mit Benefits zu tun.
