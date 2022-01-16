@@ -10596,3 +10596,5 @@
 220113 -- Laut unserer neuen Firmenpolitik könne Sie unbegrenzt Urlaub nehmen. - Aber rechnen Sie damit, daß ich hinter ihrem Rücken über Sie urteile und Ihnen auf subtile Weise den Spaß daran verderben werde. - Warum wird es dann eingeführt? Das hat
 220113 -- etwas mit Benefits zu tun.
 220114 -- Hallo. Hier ist Dogbert vom Kundendienst. - Mein Motto lautet: "Der Kunde hat immer Recht". - Können Sie mir helfen, meinen Computer wieder in Gang zu bringen? Machen Sie's doch selber. Sie sind doch derjenige, der immer Recht hat.
+220115 -- Unsere neue Personalpolitik verlangt, daß jeder von Ihnen jeden Tag den Inhalt seiner Recyclingtronne aufißt. - DAS IST JA UNGEHEUERLICH! Hey, ich mache die Regeln nicht. - Wer macht denn die Regeln? Keine Ahnung, die tauchen einfach irgendwie
+220115 -- auf.
