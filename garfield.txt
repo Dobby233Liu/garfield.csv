@@ -16733,8 +16733,7 @@ ga220112 -- You're new. What's your name? - I'm not sure. - It's either "Get out
 ga220113 -- I need to get Liz a present for her birthday. - Something great. Hang on! - Not that. Don't like the frame?
 ga220114 -- I look out for number one! - Yes! - You understand that "number one" is me, right? Actually, you're more like number four.
 ga220115 -- I'm cutting back. - - No sprinkles!
-ga220116 -- I haven't lost a debate since I learned to treat everything as a personal insult. - I doubt that method works every time. - Are you calling me a liar? - What? No! I'm just skeptical it works in every situation. - What data do you have to back
-ga220116 -- up that opinion? - I don't have any data. I just think it's kind of...um...obvious? - So you're calling me stupid. NO, NO! NEVER MIND. I DON'T KNOW WHAt I'M TALKING ABOUT! - Works every time.
-ga220116 -- WHAT?! - Are you KIDDING me?! This is an OUTRAGE!! - SPLOT - - - Forgot the lemon wedge again, didn't you? You'd think I'd learn.
+ga220116 -- WHAT?! - Are you KIDDING me?! This is an OUTRAGE!! - SPLOT - - - - Forgot the lemon wedge again, didn't you? You'd think I'd learn.
 ga220117 -- The coffee goes in... - SLURP - And the awesome comes out!
 ga220118 -- Every day, I get in 10,000 steps... - - ...between the couch and refrigerator.
+ga220119 -- Odie let his mind wander... - - And it hasn't come back yet.
