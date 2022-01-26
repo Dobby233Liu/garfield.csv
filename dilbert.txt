@@ -13841,4 +13841,6 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220121 -- I can get you started.
 220122 -- Dogbert the Futurist I've been named Futurist of the Year because I make the scariest predictions. - Test me. Name any topic, and I'll make the scariest prediction you've ever heard. - Will I live a long live? Yes.
 220123 -- After all I've done for you, I would think you could do ONE small thing for me. - You don't do anything for me. WHAT?! - That's ridiculous! - Have you ever been killed by a poisonous spider? - No. You're welcome. - Maybe you could tell me
-220123 -- exactly how you sto
+220123 -- exactly how you stopped me from being killed by poisonous spiders. - Maybe YOU could show more /gratitude/ and less /attitude/. - Okay, I give up. I'll make the popcorn. Finally!
+220124 -- I got you a desk chair for your birthday. - Wow! That's perfect timing because someone stole my chair this morning. - You're welcome. Wait...
+220125 -- I expected more fromyou on this project. - There were no standards for success. You're comparing me to the imginary. - And you're losing. Badly! I don't think we are on the same point.

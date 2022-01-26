@@ -16741,3 +16741,5 @@ ga220120 -- - Hey! Shut the door! You're letting all the cold out! What are you 
 ga220121 -- Liz, if you were a superhero... - What superpower would you want? - The power to travel through time and avoid this conversation. Take me with you.
 ga220122 -- Herbie? - BURP - Herbie sends his regards.
 ga220123 -- - - - - - click -
+ga220124 -- Know what's the best part of waking up on a monday morning? - Me neither. - Z
+ga220125 -- I was busy today. - Too busy. - I'll have to do twice as much nothing tomorrow.

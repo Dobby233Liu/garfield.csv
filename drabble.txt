@@ -10194,3 +10194,7 @@ dr220121 -- - - - I hate it when I use facial recognition to open my smartphone 
 dr220122 -- skattle skattle skattle - hop hop hop - Why on earth are running around the house? skattle skattle - It's snowing outside and I don't have a gym membership!
 dr220123 -- ...Sigh... - Wally, the sliding glass is open! You can just come in! - There's no need to beg! - You can come in any time you want! The door isn't closed! - Just walk in! Don't make me pretend to open the door! - - OK, fine! - Boy, I thought
 dr220123 -- *I* was dumb! I can't believe the things you'll do for me!
+dr220124 -- Supermarket Hey, they changed the layout in here! - They put the ice cream way over there, and the donuts are now way over here! - I have to walk that way for pizza, and this way for candy! - Why would they do that?? Maybe they want you to
+dr220124 -- get more exercise!
+dr220125 -- Supermarket I spoke to the manager and said I didn't like the new layout. - I told him I don't like walking all over the store to get the things I want! - Is he going to change everything back to the way it was before? Even better! - Behold
+dr220125 -- the Ralph Drabble Aisle! Ralph Drabble Aisle Pizza Ice Cream Junk Food
