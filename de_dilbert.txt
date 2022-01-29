@@ -10619,4 +10619,6 @@
 220126 -- Entschuldigen Sie die Verspätung. Ich habe mehr gearbeitet als ein einäugiger Biber in einem Strickwettbewerb. - Verdammt! Ich möchte sauer auf Sie sein, aber Ihr leutseliger Charme macht mir das unmöglich! - Sie sehen aus wie eine Steckrübe in
 220126 -- der Jagdsaison. ES FUNKTIONIERT JA! SCHLUSS DAMIT!
 220127 -- Hey. AAAAH! Schleichen Sie sich nicht so an mich ran! - Das war MEINE Schuld? Ja, weil Sie sich immer anschleichen. - Worüber redet Ihr gerade? AAAAH!
+220128 -- Gehen Sie Tina fragen, wann ihr erster Entwurf fertig ist. Das kann ich nicht machen. - Tina schreit immer auf, wenn ich in ihre Nähre komme, weil Sie denkt, daß ich mich anschleiche. - Aber wenn sich das gelegt hat... Dann belehrt sie mich,
+220128 -- ich würde zu sehr herumtrampeln.
 
