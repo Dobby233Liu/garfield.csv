@@ -10621,4 +10621,6 @@
 220127 -- Hey. AAAAH! Schleichen Sie sich nicht so an mich ran! - Das war MEINE Schuld? Ja, weil Sie sich immer anschleichen. - Worüber redet Ihr gerade? AAAAH!
 220128 -- Gehen Sie Tina fragen, wann ihr erster Entwurf fertig ist. Das kann ich nicht machen. - Tina schreit immer auf, wenn ich in ihre Nähre komme, weil Sie denkt, daß ich mich anschleiche. - Aber wenn sich das gelegt hat... Dann belehrt sie mich,
 220128 -- ich würde zu sehr herumtrampeln.
+220129 -- Solltest Du jetzt nicht gerade an einer Video-Konferenz teilnehmen? - Da smache ich auch, aber zwei der Teilnehmer reden immer gleichzeitig. Willst Du's Dir mal ansehen? - Aber... Wie ich... Sorry... Das... Was? Sorry... Okay, ich... Was?
+220129 -- Nein... Ich... Ja, bitte... sie... hihi
 
