@@ -6,7 +6,10 @@ from quirk_fixer import find_first_comicid_quirkfix
 
 
 SPLITLINE_REGEX = re.compile(r"(\s+|^)-", flags=re.I)
-COMICID_REGEX = re.compile(r"^((g[as]|dr|pg|sh|[0-9]+)[0-9a-zA-Z-]+)(\s|)(--|- -|..|. .|\*\*|\* \*)( |)", flags=re.I)
+COMICID_REGEX = re.compile(
+    r"^((g[as]|dr|pg|sh|[0-9]+)[0-9a-zA-Z-]+)(\s|)(--|- -|..|. .|\*\*|\* \*)( |)",
+    flags=re.I,
+)
 SPACE_CLEANUP_REGEX = re.compile(r"(\s)+")
 
 
@@ -27,10 +30,7 @@ def find_first_comicid(line):
             return fix
         # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
         # [0] [0] full id [1] comic [2] nothing [3] sep
-        result = re.findall(
-            COMICID_REGEX,
-            line
-        )
+        result = re.findall(COMICID_REGEX, line)
         # raise IndexError(result[0])
 
         if len(result) <= 0:
