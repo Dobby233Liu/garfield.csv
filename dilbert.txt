@@ -13855,3 +13855,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220130 -- me-it's almost time for your annual performance review. - Did you find a way to cut the salary budget? I'm still priming the pump.
 220131 -- We're getting pressure to stop doing business with Elbonia. - Critics say they make fertilizer out of ophans. There are hundreds of videos of this happening.  But the Elbonian government denies it. Sounds like a "wait and see" situation.
 220201 -- Your assignment is to invent something amazing and add my name to the patent application. - Why would I add your name to my patent? Because I told you to invent something. - Well, I guess that's true. Now go do the easy part.
+220202 -- The financial projections for your preferred strategy look bad. - Change the assumptions until they look good. - Now if you will excuse me, I need to get back to Twitter so I can mock people for ignoring data.
