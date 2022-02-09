@@ -10211,3 +10211,4 @@ dr220204 -- HEY, DON'T EAT THE CAT FOOD! - HEY, QUIT BARKING! arf arf arf!! - HE
 dr220205 -- Honeybunch, if you were snoring  ever so lightly last night, would you want to tell me? It depends. - How long might I have benn lightly snoring? I don't know. - I finally went out and slept in the car!
 dr220206 -- I have to tell you this, Dad, but the Super Bowl is NEXT sunday! - Then how come the Super Bowl pre-game show is on TV?? - Well, it does seem to get longer every day!
 dr220207 -- Smile, Wally! - Hold still! - Say cheese! - The PUP-arazzi is so annoying!
+dr220208 -- Is it time to go? - Go where? - I asked you one question, and you don't know two things about it! - I'm sure I don't know more things about it than that!

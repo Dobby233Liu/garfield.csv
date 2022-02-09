@@ -13862,3 +13862,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220206 -- Now that I have demolished your argument with my superior logic, what will you do? - I SEE AN ANALOGY FORMING! - DON'T DO IT! DON'T YOU DARE! - Okay, I won't use an analogy. Good. - How about an EXAMPLE insteand of an analogy? Um, oky. - What
 220206 -- if a bear tried to make popcorn in the vacuum of space? - THAT'S AN ANALOGY, AND IT HAS NOTHING TO DO WITH WHAT WE WERE DISCUSSING! - Why can't you admit you're wrong? BOOM!
 220207 -- In summary, if we execute our plan with great skill, we can expect a great outcome. - So, you're saying we should execute the plan. - No, I would only recommend that to a company with great skill.
+220208 -- I'm confused by your analysis of the plan. - You say it will succeed if we execute the plan with great skill, yet you're recommending we don't try. - What am I missing? Skill.
