@@ -10643,3 +10643,5 @@
 220208 -- Ihre Analyse des Plans verwirrt mich. - Sie sagen, er wird erfolgreich sein, wenn er gekonnt ausgeführt wird, dennoch empfehlen Sie, wir sollten es nicht versuchen. - Mir fehlt hier irgendwas. Das Können.
 220209 -- Die Presse wirft uns vor, wir hätten jahrelang unentdeckt mit unseren Kunden ein betrüherisches Spiel gespielt. - HAHA-HAHA!!! - Ich bin versucht, dem zu widersprechen, aber so klingt es besser, als wenn ich sage "Wir wissen gar nicht, wie so
 220209 -- was geht".
+220210 -- Ich habe gerade entdeckt, daß wir durch einen Fehler in unserer Software unseren Kunden jahrelang zu viel berechnet haben. - Wenn ich diese Beträge herausrechne, ist unser Gewinn im Schnitt um 11% im Jahr gesunken, seit Sie Geschäftsführer
+220210 -- sind. - Was soll ich jetzt tun? Kommen Sie mit aufs Dach. Ganz am Rand möchte ich Ihnen mal etwas zeigen.
