@@ -13866,3 +13866,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220209 -- The press is accusing us of running a clever con game on our customers for years without detection. - HAHA-HAHA!!! - I'm tempted to correct them, but it sounds better than "we don't know how to make stuff."
 220210 -- I just discovered we've been overcharging all of our customers for years because of a bug in our billing software. - If I back out of all those charges, our revenue went down an average of 11% every year you have benn CEO. - What should I do?
 220210 -- Come to the roof with me. I want to show you something near the edge.
+220211 -- This was a great idea to come up on the roof to look at the view. - I thought you'd be mad that I found a bug in our billing software because it makes your leadership successes look like incompetence or theft. - The view is better if you stand
+220211 -- on the ledge. Can I call you my mentor?

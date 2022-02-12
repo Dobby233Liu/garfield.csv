@@ -10214,3 +10214,4 @@ dr220207 -- Smile, Wally! - Hold still! - Say cheese! - The PUP-arazzi is so ann
 dr220208 -- Is it time to go? - Go where? - I asked you one question, and you don't know two things about it! - I'm sure I don't know more things about it than that!
 dr220209 -- Honeybunch, I know you like your fancy thermos... - But are you sure you want to carry it around all day? - It might get heavy! I'll be fine. -
 dr220210 -- Hey, Ralph!.. - mumble mumble mumble - I can't hear you from upstairs! - What? I can't hear you from downstairs!
+dr220211 -- Play - - I've been dreading this all my life. - There are only so many times you can watch "Abbott and Costello Meet Frankenstein." Stop
