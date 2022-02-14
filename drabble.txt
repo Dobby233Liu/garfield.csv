@@ -10215,3 +10215,7 @@ dr220208 -- Is it time to go? - Go where? - I asked you one question, and you do
 dr220209 -- Honeybunch, I know you like your fancy thermos... - But are you sure you want to carry it around all day? - It might get heavy! I'll be fine. -
 dr220210 -- Hey, Ralph!.. - mumble mumble mumble - I can't hear you from upstairs! - What? I can't hear you from downstairs!
 dr220211 -- Play - - I've been dreading this all my life. - There are only so many times you can watch "Abbott and Costello Meet Frankenstein." Stop
+dr220212 -- Super Bowl LVI Halftime! I've got dibs on the bathroom! No, *I* do! Me first! HEY! - Hurry up in there! I know a tree...
+dr220213 -- Ode to SUPER BOWL - It's Super Bowl Sunday, and no one's denying...by the end of the game, half the crowd will be crying. - Fans who ignored the regular season, are suddenly rabid for no particular reason. - We can't wait to sample all the
+dr220213 -- chips and the dip. Just don't go overboard before the coin flip! - Mom gets kind of bored with the game, you know. She really only perks up for the halftime show! *LA LA LA* - Right now it is a mystery as to which team will rule. The only
+dr220213 -- thing we always know is grandma wins the pool! HA! PAY UP! - Some of us really don't care who becomes the reigning champ. We just want pitchers and catchers to report to spring training camp!
