@@ -13876,3 +13876,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220214 -- How about we meet at lunchtime? - No, that's when I eat my lunch. - How about we meet over dinner? No, and before you ask about breakfast...
 220215 -- We're looking for a candidate with 3 to 5 years of experience. - If I had that much experience, I doubt I would be applying for an entry-level job at this monkey-taint of a company. - You'll fit right in. When can you start?
 220216 -- Well, well, human. I see you've come to do battle again today. - Wait until you see what horrors I have in store for you. BUWHA-HAHAHA!!! - Can all printers talk? How would I know? Do you think I know all the other printers? 
+220217 -- Here's your new team member, Larry. - I had to pay him 40% more than I pay you losers because the demand for engineers is so high now. - It's just me and Larry now. The rest of them quit to get better jobs. Fire Larry for being a troublemaker.

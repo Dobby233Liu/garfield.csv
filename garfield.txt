@@ -16766,3 +16766,4 @@ ga220213 -- chocolates? What about chocolates? - Did you bring chocolates? You d
 ga220214 -- * PING - * * * * * * * * * * * * * * * *  - Think that was enough? You've gotta love love.
 ga220215 -- I've reached my donut limit for the day. - - I will now eat the first donut of tomorrow.
 ga220216 -- I'm barking with my mind. - - I'm leaving with my feet.
+ga220217 -- Should I exercise? - Nope! NO! Not a chance! No way! No can do! - Always listen to your body.
