@@ -10659,3 +10659,5 @@
 220216 -- ich kenne all die anderen Drucker?
 220217 -- Das ist Larry, unser neues Team-Mitglied. - Ich mußte ihm 40% mehr zahlen, als Sie Versager von mir bekommen, denn die NAchfrage nach Programmierern ist gerade sehr hoch. - Ich habe jetzt nur noch Larry. Alle anderen haben geündigt, um sich was
 220217 -- besseres zu suchen. Kündigen Sie Larry, weil er Unruhe stiftet.
+220218 -- Laut Ihrem Persönlichkeitstest der Personalabteilung sind Sie ein Sadist. - Ich versetze Sie in die Abteilung, die die Benutzeroberflächen für die Selbstbedienungskassen im Supermarkt gestaltet. - Sie wollen, daß das ein Sadist übernimmt?
+220218 -- Glauben Sie mir, das wird niemand merken.
