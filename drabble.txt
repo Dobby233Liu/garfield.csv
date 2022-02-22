@@ -10226,3 +10226,4 @@ dr220217 -- You'll like Echo, Wally! We're a lot alike! - In fact, we're so much
 dr220218 -- WALLY! COME BACK HERE! rowf rowf rowf rowf! - He's chasing mittens! - Mittens?? Don't tell me you have a CAT!! - What would be worse? Actually, Mittens is our pet badger!
 dr220219 -- Wally chased Mittens into a burrow! - Don't worry! I'll follow him and drag him out! Nothing can stop me! NOTHING! - If you crawl in there, you'll need a BATH afterwards! - OK, forget it! skattle skattle skattle
 dr220220 -- Home at last! It's about time! - - Dibs on the bathroom! - Hey! Sorry! - - I'm in here. - Just a sec! rap rap rap - Can I borrow your bathroom, Steinbauer? Again?
+dr220221 -- Why would anyone have a pet badger?? - Besides, badgers and dachshunfd are enemies! - Enemies?? Why?? - Badgers are cute and cuddly! I hate to say this, but she's weird!

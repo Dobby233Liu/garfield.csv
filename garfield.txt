@@ -16769,4 +16769,5 @@ ga220216 -- I'm barking with my mind. - - I'm leaving with my feet.
 ga220217 -- Should I exercise? - Nope! NO! Not a chance! No way! No can do! - Always listen to your body.
 ga220218 -- Just setting a workout reminder. - Fooooooor... - Never. tap
 ga220219 -- I read a book about getting rid of clutter. - I'll start in the living room. - I got the fridge.
-ga220220 -- - - - - - - Noooooot quite warn enough yet.
+ga220220 -- - - - - - - Noooooot quite warm enough yet.
+ga220221 -- Wi-Fi's down, coffee maker broke, the store sold out of donuts and it's hailing outside. - Wow... - Today is even monday-er than usual.
