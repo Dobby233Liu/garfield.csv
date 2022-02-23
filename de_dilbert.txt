@@ -10666,4 +10666,6 @@
 220220 -- Wir setzen ab sofort auf "extreme Transparenz". - Das bedeutet, alle Mitarbeiter haben Zugang zu denselben Informationen wie ihre Vorgesetzten. - Ich gehe mit gutem Beispiel voran und werde jetzt all Ihre Fragen ehrlich beantworten. - Sagen Sie
 220220 -- mir, was Sie von mir halten. - Okay, wenn ich Sie betrachte, sehe ich eine nasse Papiertüte voller abgeschnittener Zehennägel vor mir. - ICH FINDE DIESE EHRLICHKEIT ERFRISCHEND! - Und was halten Sie von Alice, Dilbert, Asok, Carol, Ted und
 220220 -- Tina? - Es ist nicht gut gelaufen. Ehrlichkeit verdoppeln und nochmals versuchen.
-220221 -- Dogbert, der Finanzexperte Was sollten Investoren im kommenden Jahr tun? - Nj ja, Bob, ich empfehle die totale Panik. - Ich hatte gehofft, Sie wären konstruktiver. Ich bin kein Sklave Ihrer Hoffnungen, Bob.
+220221 -- Dogbert, der Finanzexperte Was sollten Investoren im kommenden Jahr tun? - Na ja, Bob, ich empfehle die totale Panik. - Ich hatte gehofft, Sie wären konstruktiver. Ich bin kein Sklave Ihrer Hoffnungen, Bob.
+220222 -- Dogbert, der Finanzexperte Haben Sie einen Rat für die, die noch keine Erfahrung mit Investitionen haben? - Kaufen Sie immer eine Covered-Call-Option auf Ihr elangfristigen Anleihen auf den Wertverlust Ihres Fremdkapitalverhältnisses. - Das
+220222 -- ergibt gar keinen Sinn. Deshalb sage ich das auch nur zu Leuten, die keine Erfahrung haben.

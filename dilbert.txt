@@ -13883,3 +13883,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220220 -- Our new company policy is "Extreme Transparancy." - That means employees will have access to the same information as their leaders. - I will model our new culture by honestly answering any of your questions. - Tell me what you think of me. -
 220220 -- Okay. When I look at you, I see a wet paper bag full of toenail clippings. - I FIND YOUR HONESTY REFRESHING! - Now tell us what you think of Alice, Dilbert, Asok, Carol, Ted, and Tina. - It did not go well. Double the honesty and try again.
 220221 -- Dogbert the Financial Expert What should investors do in the coming year? - Well, Bob, I recommend full-on panic. - I'd hoped you would be more constructive. I'm not a slave to your hopes, Bob.
+220222 -- Dogbert the Financial Expert Do you have any advice for people who are new to investing? - Always buy a covered call option on your long bond index depreciation leverage ratio. - That makes zero sense. That's why I only say it to people who are
+220222 -- new to investing.
