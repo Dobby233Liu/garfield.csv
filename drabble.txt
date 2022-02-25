@@ -10227,4 +10227,6 @@ dr220218 -- WALLY! COME BACK HERE! rowf rowf rowf rowf! - He's chasing mittens! 
 dr220219 -- Wally chased Mittens into a burrow! - Don't worry! I'll follow him and drag him out! Nothing can stop me! NOTHING! - If you crawl in there, you'll need a BATH afterwards! - OK, forget it! skattle skattle skattle
 dr220220 -- Home at last! It's about time! - - Dibs on the bathroom! - Hey! Sorry! - - I'm in here. - Just a sec! rap rap rap - Can I borrow your bathroom, Steinbauer? Again?
 dr220221 -- Why would anyone have a pet badger?? - Besides, badgers and dachshunfd are enemies! - Enemies?? Why?? - Badgers are cute and cuddly! I hate to say this, but she's weird!
-I have a dachshund and you have a badger! Our pets are natural enemies! - This is an impossible situation! I agree. I t will never work. - You have to choose, Norman. Either Wally goes or *I* go! - Poor girl!
+dr220222 -- I have a dachshund and you have a badger! Our pets are natural enemies! - This is an impossible situation! I agree. I t will never work. - You have to choose, Norman. Either Wally goes or *I* go! - Poor girl!
+dr220223 -- You're giving me an ultimatum Echo? Our pets are natural enemies. - Our lives together would be chaotic! Therefore, you have to choose between your dog and me! - Well, take care of yourself! Let's go, Norm! - Norm?
+dr220224 -- I'm home. Did Echo like Wally? - Wally didn't get along with Echo's pet badger. Pet badger?? - She gave me an ultimatum: either Wally goes or SHE goes. - Hey, where's Wally?! It was a tough choice!
