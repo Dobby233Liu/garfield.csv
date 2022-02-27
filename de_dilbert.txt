@@ -10672,3 +10672,5 @@
 220223 -- Dogbert, der Finanzexperte Wie kann man auf dem heutigen Markt am besten verdienen? - Hochstapelei. Das geht am schnellsten und bringt am meisten. - Klingt aber riskant. Ach was. Ich binzum Beispiel gerade dabei...
 220224 -- Dogbert, der Finanzexperte Ich empfehle Ihnen, all Ihr Geld in einen Aktien-Investmentfonds zu stecken. - Legen Sie Ihr eigenes Geld auch so an? - Wenn Sie darauf bestehen, Fragen zu stellen, kann ich nicht mit Ihnen arbeiten.
 220225 -- Wir haben ein Problem. PROBLEM?!?! - Sagen Sie nicht "Problem". - Sagen Sie, wir haben eine "Herausforderung". - Okay...ein Sturmtief hat uns die Herausforderung gebracht, unser Datenzentrum ohne die Bürde der Elektrizität zu betreiben.
+220226 -- Wally, melden Sie sich in der Personalabteilung und erfragen Sie, welche Konsequenzen Ihr unangebrachtes Verhalten mit sich bringt. - Was habe ich falsch gemacht? Weiß ich nicht, aber Sie sehen wie jemand aus, der furchtbare Dinge tun würde. -
+220216 -- Glückstreffer.
