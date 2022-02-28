@@ -10232,3 +10232,5 @@ dr220223 -- You're giving me an ultimatum Echo? Our pets are natural enemies. - 
 dr220224 -- I'm home. Did Echo like Wally? - Wally didn't get along with Echo's pet badger. Pet badger?? - She gave me an ultimatum: either Wally goes or SHE goes. - Hey, where's Wally?! It was a tough choice!
 dr220225 -- You're #1 Echo said I had to choose between her and Wally... SO WHAT DID YOU DO WITH WALLY?? - Nothing. He's right there! Oh, thank goodness! Sorry, I had to stop and bark at something!
 dr220226 -- I came to apologize. I never should have given you an ultimatum! - Although I have a pet badger and you have a pet dachshund, I'm sure we can... - ROWF! ROWF! ROWF! - MITTENS! I TOLD YOU TO STAY IN THE CAR!!
+dr220227 -- It's dark in here! - click click click! - Dang! Honeybunch programmed it so I have to ask ALEXIS! - Hey, Alexis! Turn on the light! - Sigh! - You have to be more specific! I'll show you how easy it is!.. - Hey, Alexis! Turn on the green lamp
+dr220227 -- that my aunt gave us for our tenth anniversary in the living room by the sofa! - blink! See how easy that was? I'd rather be in the dark.

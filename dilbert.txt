@@ -13887,5 +13887,8 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220222 -- new to investing.
 220223 -- Dogbert the Financial Expert What's the best way to make money in today's market? - Fraud. It's the fastest, and it has the biggest upside. - That sounds risky. Not really. I'm doing it right now.
 220224 -- Dogbert the Financial Advisor I recommend putting all of your money in a managed stock fund. - Is that where you put your own money? - I cn't work with you if you insist on asking questions.
-220215 -- We've got a problem. PROBLEM?!?! - Don't say we have a "problem." Say we have an "opportunity." - Okay...a large storm has given uns the opportunity to run our data center without the burden of electricity.
-220216 -- 
+220225 -- We've got a problem. PROBLEM?!?! - Don't say we have a "problem." Say we have an "opportunity." - Okay...a large storm has given uns the opportunity to run our data center without the burden of electricity.
+220226 -- Wally, report to human resources to find out the consequences of your inappropriate behavior. - What did I do wring? I don't know, but you look like the kind of guy who would do terrible things. - Lucky guess.
+220227 -- Don't interrupt me while I'm working today. I need to maintain my flow. - What if there's an emergency? - You can interrupt me for an emergency. - Would it be an emergency if you had to sign for a package? - Well, no, but come get me if I need
+220227 -- to sign for a package. - Are you about to list dozens of valid reasons to interrupt my flow until you wear me down? - Just because I have plenty of time and would enjoy it, that doesn't mean I'm DOING it. - Okay, good. What if a skunk got into
+220227 -- our heating ducts?

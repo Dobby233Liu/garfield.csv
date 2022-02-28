@@ -10673,4 +10673,7 @@
 220224 -- Dogbert, der Finanzexperte Ich empfehle Ihnen, all Ihr Geld in einen Aktien-Investmentfonds zu stecken. - Legen Sie Ihr eigenes Geld auch so an? - Wenn Sie darauf bestehen, Fragen zu stellen, kann ich nicht mit Ihnen arbeiten.
 220225 -- Wir haben ein Problem. PROBLEM?!?! - Sagen Sie nicht "Problem". - Sagen Sie, wir haben eine "Herausforderung". - Okay...ein Sturmtief hat uns die Herausforderung gebracht, unser Datenzentrum ohne die Bürde der Elektrizität zu betreiben.
 220226 -- Wally, melden Sie sich in der Personalabteilung und erfragen Sie, welche Konsequenzen Ihr unangebrachtes Verhalten mit sich bringt. - Was habe ich falsch gemacht? Weiß ich nicht, aber Sie sehen wie jemand aus, der furchtbare Dinge tun würde. -
-220216 -- Glückstreffer.
+220226 -- Glückstreffer.
+220227 -- Stör mich heute nicht beim Arbeiten. Ich muß meinen Flow aufrechterhalten. - Und wenn es ein Notfall ist? - Wegen eines Notfalls darfst Du mich stören. - Wäre es ein Notfall, wenn Du den EMpfang eines Pakets bestätigen mußt? - Na ja, nein, aber
+220227 -- komm mich in diesem Fall ruhig holen. - Willst Du jetzt Dutzende Gründe aufzählen, bis ich völlig erledigt bin  und gar nicht nehr arbeiten kann? - Nur weil ich jede Menge Zeit habe, die ich genießen könnte, heißt das nicht, daß ich das auch
+220227 -- TUE! - Okay, gut. Was ist, wenn ein Stinktier in unserem Heizsystem feststeckt?
