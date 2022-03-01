@@ -10677,3 +10677,5 @@
 220227 -- Stör mich heute nicht beim Arbeiten. Ich muß meinen Flow aufrechterhalten. - Und wenn es ein Notfall ist? - Wegen eines Notfalls darfst Du mich stören. - Wäre es ein Notfall, wenn Du den EMpfang eines Pakets bestätigen mußt? - Na ja, nein, aber
 220227 -- komm mich in diesem Fall ruhig holen. - Willst Du jetzt Dutzende Gründe aufzählen, bis ich völlig erledigt bin  und gar nicht nehr arbeiten kann? - Nur weil ich jede Menge Zeit habe, die ich genießen könnte, heißt das nicht, daß ich das auch
 220227 -- TUE! - Okay, gut. Was ist, wenn ein Stinktier in unserem Heizsystem feststeckt?
+220228 -- Ihr DNA-Test kam mit der Bemerkung "Diesen Mann nicht befördern" zurück. - Es ist Ihr Schicksal, ein kaffeeschlürfender Haufen unbrauchbaren organischen Materials zu bleiben, bis Sie plötzlich irgendwann ins Gras beißen. - Das ziehe ich
+220228 -- gnadenlos durch.

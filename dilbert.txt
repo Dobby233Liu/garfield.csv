@@ -13892,3 +13892,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220227 -- Don't interrupt me while I'm working today. I need to maintain my flow. - What if there's an emergency? - You can interrupt me for an emergency. - Would it be an emergency if you had to sign for a package? - Well, no, but come get me if I need
 220227 -- to sign for a package. - Are you about to list dozens of valid reasons to interrupt my flow until you wear me down? - Just because I have plenty of time and would enjoy it, that doesn't mean I'm DOING it. - Okay, good. What if a skunk got into
 220227 -- our heating ducts?
+220228 -- Your DNA test came back as "do not promote." - You are destined to remain a coffee-swiulling blob of useless organic matter until you suddenly die. - I call that "Sticking the Landing."
