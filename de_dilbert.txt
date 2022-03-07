@@ -10680,3 +10680,12 @@
 220228 -- Ihr DNA-Test kam mit der Bemerkung "Diesen Mann nicht befördern" zurück. - Es ist Ihr Schicksal, ein kaffeeschlürfender Haufen unbrauchbaren organischen Materials zu bleiben, bis Sie plötzlich irgendwann ins Gras beißen. - Das ziehe ich
 220228 -- gnadenlos durch.
 220301 -- Alle finden, daß Sie das Netzwerk falsch skalieren. - Tatsächlich? Alle denken das? Oder ist es vielleicht nur eine Person, die ihr eigenes Argument nicht unterfüttern kann? - Und könnten SIE diese Person sein? WIE MACHEN SIE DAS?!
+220302 -- Und dann hat mein Experiment ein Quantum-Bit in eine höhere Dimension geschickt. - Können Sie das beweisen? Nur, wenn es jemand zurückschickt. - Glauben Sie, die haben jemanden, der das kann? Nein, aber vielleicht haben sie jemanden, der
+220302 -- behauptet, daß er es kann.
+220303 -- Hätten Sie am Wochenende Zeit für ein Mittagessen? Nein, da habe ich vielleicht was vor. - Vielleicht? Wann kann ich denn noch einmal nachfragen? Keine Ahnung. - Soll ich optimistisch bleiben? Ja, das wäre unterhaltsamer.
+220304 -- Bekomme ich einen Bonus, wenn ich bei Meetings über Ihre Witze lache? - Ich habe bereits Schmeichler, die diese Funktion kostenlos übernehmen. Was würde mir das zusätzlich bringen? - Ich könnte Kaffee aus der Nase prusten. Gut. Sehr Gut. Damit
+220304 -- kann ich arbeiten.
+220305 -- Sie dürfen Ihren privaten Computer nicht für die Arbeit verwenden. - Und Ihr Firmen-Laptop kommt erst in zwei Wochen. - Und was soll ich den ganzen Tag machen? Wissen Sie, was Pantomime ist?
+220306 -- Weshalb dürfen wir nicht im Home-Office arbeiten? - Na ja, hauptsächlich weil der lockere Kontakt am Arbeitsplatz die Kommunikation unter den Mitarbeitern fördert. - Echt? So kommt es mir aber gar nicht vor. - Es ist eher wie Waterboarding mit
+220306 -- anhaltenden Tröpfchen sinnloser Unterbrechungen. - Hier gibt's nur heisse Luft und Gemeckere. Ich verkrampfe, wenn ich Schritte höre, die sich nähern. Das raubt mir sicher Jahre meines Lebens. - Ich komme mir ehrlich gesagt wie eine Geisel vor.
+220306 -- - Der zweite Grund lautet: Es ist gut für die Arbeitsmoral.
