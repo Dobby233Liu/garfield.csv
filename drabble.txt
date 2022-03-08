@@ -10242,3 +10242,4 @@ dr220304 -- Ahh...I love the aroma of breakfast in the morning! - Pncakes and ba
 dr220305 -- Hey, pooch! - Sweet doggie! - good boy! - I enjoy widespread pup-ularity!
 dr220306 -- May I take your order? I'll have a cheeseburger. - And for you? What's your soup of the day? - Pumkin squash. Is it more pumpkiny or more squashy? - It's hard to say. Was it made fresh today? - I'm nor sure. I'll go back and ask. I suppose I
 dr220306 -- could just have the clam chowder. - The chef said it's made fresh daily. - Decisions, decisions. - I'll have the avocado chicken salad. - Good thing we got here before the line formed! Amazing how that always happens!
+dr220307 -- Darn! Birds are building a nest over our front porch! Why would they build it under the eave? - Maybe they enjoy the warmth of the Christmas lights you still haven't taken down! It's only March, for heaven's sake.
