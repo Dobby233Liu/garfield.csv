@@ -10694,3 +10694,5 @@
 220308 -- Beurteilung zurückkommen? Sobald die Wolken aufbrechen.
 220309 -- Jagen Sie diese Zahlen durch das Vsadd, und dann sheen wir mal, ob sie auf den Kopf gestellt werden. - Vsadd? Was ist das? RAUS AUS MEINEM BÜRO, SIE UNERFAHRENER IDIOT! - Was macht man denn in so einer Situation? Ich gebe normalerweise vor,
 220309 -- nichts gehört zu haben.
+220310 -- Sie müssen meine Erzfeind ausspionieren und mir berichten, was er über mich denkt. - Er denkt, Sie sind ein unmoralischer Verräter ohne jegliche ausgleichende Qualitäten. - Sie haben ihn doch noch gar nicht ausspioniert. - Ich kann sehr gut
+220310 -- raten.
