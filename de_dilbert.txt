@@ -10696,3 +10696,5 @@
 220309 -- nichts gehört zu haben.
 220310 -- Sie müssen meine Erzfeind ausspionieren und mir berichten, was er über mich denkt. - Er denkt, Sie sind ein unmoralischer Verräter ohne jegliche ausgleichende Qualitäten. - Sie haben ihn doch noch gar nicht ausspioniert. - Ich kann sehr gut
 220310 -- raten.
+220311 -- Sie haben sich jetzt 45 Minuten am Stück über Kollegen beklagt. - Ist Ihnen schonmal aufgefallen, daß SIE das verbindende Element in all den Geschichten sind, in denen Leute sich wie Idioten benehmen? - Was sagt Ihnen das? Daß ich gerade mit
+220311 -- einem Idioten rede!
