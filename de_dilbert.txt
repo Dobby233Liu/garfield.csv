@@ -10700,3 +10700,6 @@
 220311 -- einem Idioten rede!
 220312 -- Ted, ich befördere Sie zum "Direktor für diverse Projekte". - Als solcher werden Sie sich in Uneindeutigkeit winden, bis sowohl Ihr Körper als auch Ihr Geist sich in Schmutz auflösen. - BITTE FEUERN SIE MICH DOCH EINFACH! Es ist weniger
 220312 -- Papierkram, Sie einfach ins Nichts zu befördern.
+220313 -- Sie sollten dem Rat der Experten folgen. - Und wenn die nicht einer Mainung sind? - Gehen Sie mit der Mehrheit. So funktioniert Wissenschaft? - Na ja, nein, Sie müssen schon auch selbst recherchieren, welche Experten Recht haben. - Wenn ich
+220313 -- wüßte, welche Experten Recht haben, wäre ich dann nicht schaluer als die Experten? - Ich recherchiere selbst, Sie können also immer zu mir kommen und fragen, wer Recht hat. - Woher weiß ich, daß Sie Recht haben? - Weil ich selbst recherchiere.
+220313 -- Könnten Sie den Experten nicht beibringen, wie das geht?
