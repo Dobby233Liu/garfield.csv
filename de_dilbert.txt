@@ -10704,3 +10704,4 @@
 220313 -- wüßte, welche Experten Recht haben, wäre ich dann nicht schaluer als die Experten? - Ich recherchiere selbst, Sie können also immer zu mir kommen und fragen, wer Recht hat. - Woher weiß ich, daß Sie Recht haben? - Weil ich selbst recherchiere.
 220313 -- Könnten Sie den Experten nicht beibringen, wie das geht?
 220314 -- Haben Sie unseren technischen Leitfaden schon fertiggestellt? - Nein, aber ich habe einen Leitfaden erstellt, wie man den Leitfaden fertigstellt. - Kann ich den mal sehen? Das ist mehr so eine mentale Sache.
+220315 -- Mordac, der Verhinderer von Informationsdiensten Wann werden Sie unser internes Netzwerk aktualisieren? - Darüber sprechen wir gerade noch. - Das hilft mir jetzt auch nicht weiter. Erkennen Sie das Prinzip?
