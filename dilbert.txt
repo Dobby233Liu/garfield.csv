@@ -13916,3 +13916,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220315 -- Mordac, the Preventer of Information Services. When will you upgrade our internal network? - We're having a conversation about that. - That doesn't help me at all. Spot the pattern.
 220316 -- Mordac, the Preventer of Information Services. I had to revoke your network access. - I think you know why. That's not fair! Everyone looks into inappropriate content! - You*'re the only one who does nothing else. Solid point.
 220317 -- The Dogbert Consulting Company informed me that our industry has no code of ethics. - So...you want me to create one? No. I want to exploit that loophole before anyone else notices. - That feels unethical. Not if we act fast.
+220318 -- How can I calm my nerves about my presentation tomorrow? Ask yourself what's the worst thing that can happen. - I could embarrass myself so badly that I become a serial killer and have to hide in the forest until wild pigs eat me. - Now don't
+220318 -- you feel better?
