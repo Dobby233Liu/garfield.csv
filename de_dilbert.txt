@@ -10711,3 +10711,5 @@
 220317 -- mir unmoralisch vor. Nicht, wenn wir schnell sind.
 220318 -- Morgen habe ich meine Präsentation. Wie bekomme ich meine Nervostät in den Griff? Fragen Sie sich einfach, was schlimmstenfalls passieren kann. - Ich könnte mich so sehr blamieren, daß ich zum Serienmörder werde und mich im Wald verstecken muß,
 220318 -- bis ich von Wildschweinen gefressen werde. - Und? Geht es ihnen nicht gleich viel besser?
+220319 -- Hallo, ich bin Phil, der Fürst der unzureichenden Beleuchtung und Herrscher des Höllengrundes. - Ich habe gehört, Du demonstrierst heute eine neue Technik und bin gekommen, um das fehlschlagen zu lassen. - Das ist gegen die Regeln. Wird dieses
+220319 -- Kabel dringend für irgendwas benötigt?

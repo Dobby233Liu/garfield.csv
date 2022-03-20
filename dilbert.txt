@@ -13918,3 +13918,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220317 -- The Dogbert Consulting Company informed me that our industry has no code of ethics. - So...you want me to create one? No. I want to exploit that loophole before anyone else notices. - That feels unethical. Not if we act fast.
 220318 -- How can I calm my nerves about my presentation tomorrow? Ask yourself what's the worst thing that can happen. - I could embarrass myself so badly that I become a serial killer and have to hide in the forest until wild pigs eat me. - Now don't
 220318 -- you feel better?
+220319 -- Hi, I'm Phil, the Prince of Insufficient Light and the Ruler of Heck. - I hear you're giving a technology demo today, and I came to make it fail. - This is highly irregular. Is this cable important for anything?
