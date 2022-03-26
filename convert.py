@@ -5,7 +5,7 @@ import traceback
 from quirk_fixer import find_first_comicid_quirkfix
 
 
-SPLITLINE_REGEX = re.compile(r"(\s+|^)-", flags=re.I)
+SPLITLINE_REGEX = re.compile(r"(\s+|^)-([^-]|)", flags=re.I)
 COMICID_REGEX = re.compile(
     r"^((g[as]|dr|pg|sh|[0-9]+)[0-9a-zA-Z-]+)(\s|)(--|- -|..|. .|\*\*|\* \*)( |)",
     flags=re.I,
