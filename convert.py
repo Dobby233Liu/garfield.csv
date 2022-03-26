@@ -16,8 +16,8 @@ SPACE_CLEANUP_REGEX = re.compile(r"(\s)+")
 def splitline(text):
     # Lazier but works version - revert further if problematic
     text = re.sub(SPLITLINE_REGEX, "\n", text)
-    arr = text.splitlines()
-    text = "\n".join(list(map(lambda x: "- " + x.lstrip(), arr)))
+    arr = text.splitlines(True)
+    text = "\n".join(list(map(lambda x: "- " + x.strip(), arr)))
     return text.strip()
 
 
