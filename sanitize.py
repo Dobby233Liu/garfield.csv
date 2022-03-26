@@ -3,7 +3,9 @@ import csv, sys, traceback
 ids = []
 tsrts = {}
 bad = False
+numbad = False
 reject = True
+extracheck = False
 num = 0
 
 # def eprint(*args, **kwargs):
@@ -57,9 +59,10 @@ with open(sys.argv[1]) as f:
             eprint("strip '%s' already exists in csv" % magic)
             for i in tsrts[magic]:
                 print_related_lines(i, magic)
-        if magic.startswith("ga") and len(tsrts[magic][-1].splitlines()) < 3:
+        if extracheck and magic.startswith("ga") and len(tsrts[magic][-1].splitlines()) < 3:
             tbad = bad = True
-            print("strip '%s' has lesser than 3 lines" % magic)
+            numbad = True
+            eprint("strip '%s' has lesser than 3 lines" % magic)
         ids.append(magic)
         if tbad:
             eprint("-" * 20)
@@ -68,6 +71,8 @@ if bad:
     eprint("This CSV file has errors.")
 else:
     eprint("This CSV file has no errors.")
+if numbad:
+    eprint("Detected abnormal number of lines. This may be a false positive, since it can be a dataset issue.")
 if reject:
     sys.exit(1 if bad else 0)
 elif bad:
