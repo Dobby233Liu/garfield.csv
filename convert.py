@@ -5,7 +5,7 @@ import traceback
 from quirk_fixer import find_first_comicid_quirkfix
 
 
-SPLITLINE_REGEX = re.compile(r"(\s+|^)-(?!->)", flags=re.I)
+SPLITLINE_REGEX = re.compile(r"(\s+|^)-(?!(-|)>)", flags=re.I)
 COMICID_REGEX = re.compile(
     r"^((g[as]|dr|pg|sh|[0-9]+)[0-9a-zA-Z-]+)(\s|)(--|- -|..|. .|\*\*|\* \*)( |)",
     flags=re.I,
@@ -17,7 +17,7 @@ def splitline(text):
     # Lazier but works version - revert further if problematic
     text = re.sub(SPLITLINE_REGEX, "\n", text)
     arr = text.splitlines()
-    text = "\n".join(list(map(lambda x: "- " + x.strip(), arr)))
+    text = "\n".join(list(map(lambda x: "- " + x.lstrip(), arr)))
     return text.strip()
 
 
