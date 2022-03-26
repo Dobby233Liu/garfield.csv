@@ -17,6 +17,9 @@ def splitline(text):
     # Lazier but works version - revert further if problematic
     text = re.sub(SPLITLINE_REGEX, "\n", text)
     arr = text.splitlines(True)
+    # Hack to keep last line
+    if len(arr) > 0 and arr[-1].endswith("\n"):
+        arr.push("")
     text = "\n".join(list(map(lambda x: "- " + x.strip(), arr)))
     return text.strip()
 
