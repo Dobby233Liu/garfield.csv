@@ -104,8 +104,6 @@ def cleanup(input_file, output):
                 traceback.print_exc(file=sys.stderr)
                 print("\n\nLine text:\n%s" % line, file=sys.stderr)
                 print("-" * 20, file=sys.stderr)
-            if DEBUG and comicid[1] == "ga" and len(_proc_line.splitlines()) < 3:
-                print("WARNING: %s has lesser than 3 lines" % comicid[0])
 
         _proc_line += (" " if not intro else "") + (
             line[
