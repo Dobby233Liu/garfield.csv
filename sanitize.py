@@ -57,6 +57,9 @@ with open(sys.argv[1]) as f:
             eprint("strip '%s' already exists in csv" % magic)
             for i in tsrts[magic]:
                 print_related_lines(i, magic)
+        if magic.startswith("ga") and len(tsrts[magic].splitlines()) < 3:
+            tbad = bad = True
+            print("strip '%s' has lesser than 3 lines" % magic)
         ids.append(magic)
         if tbad:
             eprint("-" * 20)
