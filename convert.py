@@ -19,7 +19,7 @@ def splitline(text):
     arr = text.splitlines(True)
     # Hack to keep last line
     if len(arr) > 0 and arr[-1].endswith("\n"):
-        arr.push("")
+        arr.append("")
     text = "\n".join(list(map(lambda x: "- " + x.strip(), arr)))
     return text.strip()
 
@@ -27,9 +27,9 @@ def splitline(text):
 def find_first_comicid(line):
     try:
         fix = find_first_comicid_quirkfix(line)
-        if fix != None:
+        if fix is not None:
             if len(fix) < 6:
-                raise Exception("invaild")
+                raise Exception("Comicid quirkfix tuple invaild")
             return fix
         # QUIRK: dataset has a spew of typos and oddities, so the regex has to be complex
         # [0] [0] full id [1] comic [2] nothing [3] sep
