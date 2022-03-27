@@ -10262,3 +10262,5 @@ dr220322 -- Wake up! It's time to eat! Z - It's still dark outside! - Who wants 
 dr220323 -- I'm never sure if people are just looking at their phones, or taking a video of me! - He's probably just looking at his phone. - But to be on the safe side, you might want to tuck in your shirt!
 dr220324 -- * - The "thums-up" emoji might not have been the appropriate reaction to that post, Ralph. - Someone's cat ran away. Maybe use the "sad face" emoji instead. - Maybe I'm not a cat person. scratch! claw!
 dr220325 -- - - A cat can jump through a wall of bubbles and not break one! - Dogs, on the other hand...
+dr220326 -- Ralph, check out the weather forecast on your phone for me! - scroll scroll scroll scroll - scroll scroll scroll scroll - One Hour Later Did you check the weather? Oh yeah, huh!
+dr220327 -- What a day at work! I'm exhausted! - I need to sit down and relax! - - - - - ZZYZX WALLY
