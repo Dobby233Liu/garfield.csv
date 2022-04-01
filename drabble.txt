@@ -10267,3 +10267,5 @@ dr220327 -- What a day at work! I'm exhausted! - I need to sit down and relax! -
 dr220328 -- Thank you for coming over, Ralph. Sure, grandma! What's the problem? - My TV reception is poor. I guess I just don't understand modern technology! - I've adjusted these rabbit ears every which way!
 dr220329 -- Pharmacy Wouldn't it be more convenient if they put the drive-thru window on the OTHER side? - You just drove in the wrong way! Maybe I shouldn't refill these meds!
 dr220330 -- - How's your sore back, Ralph? No improvement.
+dr220331 -- ? ? - Where is it?? - ...Sigh...Why is it always so far away?? - I guess that's why it's called a "remote."
+dr220401 -- My back is killing me! * * * - I hate to ask you this, Norm, but can you put my shoes on for me? - Of course, dad! Never hesitate to ask for my help. - They're a little loose in the toe.
