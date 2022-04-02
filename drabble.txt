@@ -10269,3 +10269,4 @@ dr220329 -- Pharmacy Wouldn't it be more convenient if they put the drive-thru w
 dr220330 -- - How's your sore back, Ralph? No improvement.
 dr220331 -- ? ? - Where is it?? - ...Sigh...Why is it always so far away?? - I guess that's why it's called a "remote."
 dr220401 -- My back is killing me! * * * - I hate to ask you this, Norm, but can you put my shoes on for me? - Of course, dad! Never hesitate to ask for my help. - They're a little loose in the toe.
+dr220402 -- Mx back is killing me! Pooe Wally... - He needs some help! - I'm so glad we bought him that doggie ramp! * * +

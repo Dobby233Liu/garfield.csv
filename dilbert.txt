@@ -13938,3 +13938,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220331 -- When I had a heart attack, I was technically dead for three minutes before doctors revived me. - How do I know you're really you and not a demon who used a soulless carcass to hitch a ride to the mortal plane? - Would a demon let you have
 220331 -- birthday cake in the break room? I think a demon would insist on it.
 220401 -- I'm not getting people's reports in a timely manner. - Put together a report on why I'm not getting timely reports. - Are there any other ways you want me to waste my time? Let's play it by ear.
+220402 -- Hi, I'm Dilbert's telepresence robot. He'll be online in a few minutes. - You're probably wondering if I feel violated when he inhabits me. - I wasn't. Oh, right. I forgot, I'm garbage to you.
