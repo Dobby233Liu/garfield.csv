@@ -13939,3 +13939,6 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220331 -- birthday cake in the break room? I think a demon would insist on it.
 220401 -- I'm not getting people's reports in a timely manner. - Put together a report on why I'm not getting timely reports. - Are there any other ways you want me to waste my time? Let's play it by ear.
 220402 -- Hi, I'm Dilbert's telepresence robot. He'll be online in a few minutes. - You're probably wondering if I feel violated when he inhabits me. - I wasn't. Oh, right. I forgot, I'm garbage to you.
+220403 -- Can you check with Larry to see if marketing has any feedback? - Larry is a morin. - Okay, ask someone else in that department. They're idiots too. - All of them? Yes, that's how it works. - Larry is a moron and Larry works i marketing, so
+220403 -- therefore, everyone in marketing is a moron. - Did you make the colossal mistake of watching the news and learning that each person in a group defined the entire group? - Yes, and I have to say, it wasn't an intuitive idea. - But I trust
+220403 -- science, so it must be true. You're ruining things for all helmet-haired women.

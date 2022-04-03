@@ -10737,3 +10737,6 @@
 220401 -- Die Berichte der Mitarbeiter erreichen mich nicht rechtzeitig. - Erstellen Sie einen Bericht, der die GrÃŒnde dafÃŒr benennt. - FÃ€llt Ihnen sonst nichts ein, wie Sie meine Zeit verschwenden kÃ¶nnen? - Das entscheidet sich spontan.
 220402 -- Ich bin Dilberts neuer Telepräsenzeroboter. Er wird in ein paar Minuten online sein. - Sie fragen sich wahrscheinlich, ob ich mich mißbraucht fühle, wenn er mir innewohnt. - Das frage ich mich eigentlich nicht. Oh, stimmt ja, ich vergaß...für
 220402 -- Sie bin ich nur Schrott.
+220403 -- Könnten Sie Larry um ein Feedback vom Marketing bitten? - Larry ist ein Trottel. - Dann fragen Sie jemand anderen aus der Abteilung. Das sind auch alles Idioten. - Alle? Ja, so ist das nunmal. - Larry ist ein Trottel und arbeitet im Marketing.
+220403 -- Daher sind Alle vom Marketing Trottel. - Haben Sie den kolssalen Fehler begangen, den Nachrichten zu entnehmen, daß jede Person in einer Gruppe die gesamte Gruppe definiert? - Klar, ich sage das ja nicht aus einem Bauchgefühl heraus. - Ich
+220403 -- vertraue der Wissenschaft, das muß stimmen. Dann sieht es für Frauen mit Helmfrisuren ja nicht gut aus...

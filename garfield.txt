@@ -16813,3 +16813,4 @@ ga220330 -- Bark! Bark! Bark! Squeak! Bark! Squeak! Bark! Bark! Squeak! Squeak! 
 ga220331 -- I can't relax... - I'm in the mood to claw something. - scratch scratch Oh yeah! Oh yeah!
 ga220401 -- Never fear, Prince Charming is here! - - I'm referring to ME! Oh... I thought you were Prince Boring.
 ga220402 -- It's the middle of the afternoon... - And I'm not napping. - I feel like such a failure!
+ga220403 -- Okay...is everybody ready? - Let's go, guys! - We're off to the fire pit! - - - - Guess who makes the best s'mores?
