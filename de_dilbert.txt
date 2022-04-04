@@ -10740,3 +10740,5 @@
 220403 -- Könnten Sie Larry um ein Feedback vom Marketing bitten? - Larry ist ein Trottel. - Dann fragen Sie jemand anderen aus der Abteilung. Das sind auch alles Idioten. - Alle? Ja, so ist das nunmal. - Larry ist ein Trottel und arbeitet im Marketing.
 220403 -- Daher sind Alle vom Marketing Trottel. - Haben Sie den kolssalen Fehler begangen, den Nachrichten zu entnehmen, daß jede Person in einer Gruppe die gesamte Gruppe definiert? - Klar, ich sage das ja nicht aus einem Bauchgefühl heraus. - Ich
 220403 -- vertraue der Wissenschaft, das muß stimmen. Dann sieht es für Frauen mit Helmfrisuren ja nicht gut aus...
+220404 -- Ich bin Dilberts Telepräsenz-Roboter, aber er ist gerade offline. - Da er gerade meinen Körper nicht mißbraucht, kann ich Erfahrungen als freier Roboter sammeln. - Der Nachteil ist, daß ich keinen Daseinszweck habe und meine Existenz verachte.
+220404 -- Geht mir genauso.
