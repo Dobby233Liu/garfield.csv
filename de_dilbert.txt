@@ -10742,3 +10742,5 @@
 220403 -- vertraue der Wissenschaft, das muß stimmen. Dann sieht es für Frauen mit Helmfrisuren ja nicht gut aus...
 220404 -- Ich bin Dilberts Telepräsenz-Roboter, aber er ist gerade offline. - Da er gerade meinen Körper nicht mißbraucht, kann ich Erfahrungen als freier Roboter sammeln. - Der Nachteil ist, daß ich keinen Daseinszweck habe und meine Existenz verachte.
 220404 -- Geht mir genauso.
+220405 -- Der große Vorteil von Robotern ist, daß wir keine Moral haben, egal wie erbärmlich Ihr Menschen uns bedient. - So decken wir die massive Inkompetenz Eurer Gattung. - Meine Gattung hat Euch erfunden! Ich schätze mal, daß Sie dabei nicht im Raum
+220405 -- waren.
