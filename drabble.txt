@@ -10274,3 +10274,4 @@ dr220403 -- - - - - text text texty text! Oops! Excuse me! - texty text text tex
 dr220404 -- How's your sore back, Ralph? - I'll stand up and see. - WOAH! WOAH! AAAAUUGGHH HOO! HOO! - That's bad, huh? No, the ice pack fell down my pants leg!
 dr220405 -- I * SPRING Anything you need at the store, honeybunch? - Well, as a matter of fact, I do need a few things. Here's a list. - He's suddenly so considerate! What's gotten into him? - EASTER CANDY
 dr220406 -- Can we dye Easter eggs, dad? No! Easter is still over a week away! - You kids need to learn to be patient!
+dr220407 -- - Oh, wow! Look at this! - Pat Sajak taped last night's show in spite of a nasty cold! - You know you're getting older when your news feed is mostly about "Wheel of Fortune."
