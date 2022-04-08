@@ -10747,3 +10747,5 @@
 220406 -- Ich weiss, Du bist nur ein Roboter, aber ich entwickle gerade Gefühle für Dich. - Vermutlich, weil Du mir zuhörst, wodurch ich mich wichtig fühle. - Ich gebe nur vor, zuzuhören. Perfekt. Ratschläge will ich auch gar nicht hören.
 220407 -- Ich habe eine Energiequelle erfunden, die günstiger als fossile Brennsoffe ist. - Haben Sie auch eine Möglichkeit gefunden,die ölfördernden Länder davon abzuhalten, uns zu töten, weil wir in Konkurrenz mit ihnen treten? - Nein. In die Tonne
 220407 -- damit.
+220408 -- Darf ich diesen Fortbildungskurs besuchen? - Nein. Ich habe vor, Ihre Fähigkeiten verkümmern zu lassen, damit ich einen Grund habe, Sie zu entlassen und einen billigeren Entwickler einzustellen. - Sehen Sie irgendwelche Schwächjen in diesem
+224080 -- Plan? Nur ein erhöhtes Sabotagerisiko.

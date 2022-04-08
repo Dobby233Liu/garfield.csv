@@ -13947,3 +13947,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220405 -- room when that happened.
 220406 -- I know you're just a robot, but I'm developing feelings for you. - I think it's because you listen to me, and that makes me feel important. - I only pretend to listen. That's perfect. I don't want suggestions.
 220407 -- I invented an energy source that is cheaper then fossil fuels! - Did you also invent a way to prevent the oil-producing countries from trying to kill us for competing with them? - No. Toss it in the trash.
+220408 -- Can I take this training class? - No, my plan is to let your skills atrophy so I have a reason to fire you and hire a cheaper engineer. - Do you see any flaws in my plan? Only an elevated risk of employee sabotage.
