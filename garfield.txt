@@ -16819,3 +16819,4 @@ ga220405 -- Nothing exciting ever happens to me. - You wait here while I go get 
 ga220406 -- Odie and Jon are playing chess. - It's always a tough match... - And Odie wins again! He ate my king!
 ga220407 -- - NO DOGS ALLOWED - Ahhhh!
 ga220408 -- Burgers, hot off the grill! Ooh... - Is that cilantro on top? Um... - Burgers, hot off the grill, and fresh off the grass.
+ga220409 -- I had a friend who performed at birthday parties. - But he had to quit... - For health reasons. Ah, yes...Pete, the Human Pinata.

@@ -10748,4 +10748,5 @@
 220407 -- Ich habe eine Energiequelle erfunden, die günstiger als fossile Brennsoffe ist. - Haben Sie auch eine Möglichkeit gefunden,die ölfördernden Länder davon abzuhalten, uns zu töten, weil wir in Konkurrenz mit ihnen treten? - Nein. In die Tonne
 220407 -- damit.
 220408 -- Darf ich diesen Fortbildungskurs besuchen? - Nein. Ich habe vor, Ihre Fähigkeiten verkümmern zu lassen, damit ich einen Grund habe, Sie zu entlassen und einen billigeren Entwickler einzustellen. - Sehen Sie irgendwelche Schwächjen in diesem
-224080 -- Plan? Nur ein erhöhtes Sabotagerisiko.
+224008 -- Plan? Nur ein erhöhtes Sabotagerisiko.
+220409 -- Sie erinnern sich noch daran, was ich vor zwölf Jahren korrekt vorhergesagt habe... - Daher sollten Sie auch meine Worte zu diesem völlig anders gelagerten Thema beherzigen. - Ergibt das irgendeinen Sinn? Fragen lasse ich nicht zu.
