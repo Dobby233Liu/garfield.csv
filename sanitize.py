@@ -50,6 +50,7 @@ with open(sys.argv[1]) as f:
         if not magic:
             tbad = bad = True
             eprint("strip #%d has falsy magic: '%s'" % (num, r[1]))
+
         if tsrts.get(magic, None) == None:
             tsrts[magic] = []
         tsrts[magic].append(r[0])
@@ -59,10 +60,23 @@ with open(sys.argv[1]) as f:
             eprint("strip '%s' already exists in csv" % magic)
             for i in tsrts[magic]:
                 print_related_lines(i, magic)
+
+        try:
+            if int(magic[-2:]) > 31 or int(magic[-2:]) < 1:
+                tbad = bad = True
+                eprint("strip '%s''s day is invaild" % magic)
+        except Exception: pass
+        try:
+            if int(magic[-4:-2]) > 12 or int(magic[-4:-2]) <1:
+                tbad = bad = True
+                eprint("strip '%s''s month is invaild" % magic)
+        except Exception: pass
+
         if extracheck and magic.startswith("ga") and len(tsrts[magic][-1].splitlines()) < 3:
             tbad = bad = True
             numbad = True
             eprint("strip '%s' has lesser than 3 lines" % magic)
+
         ids.append(magic)
         if tbad:
             eprint("-" * 20)
