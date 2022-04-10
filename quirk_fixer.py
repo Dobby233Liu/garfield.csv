@@ -103,6 +103,22 @@ comicids_fix = {
         " ",
         -1,
     ),
+    "202018 -- it was in August.": (
+        "201018",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "202019 -- That silde deck in yesterday's meeting was lethally boring. - Luckily, allo of my training kicked in. - And that training taught you to...? Go to the bathroom and never return.": (
+        "201018",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
     "201120 -- We bought a start-up that makes autonomous drones armed with machine guns. - For use by the military? Good idea. I hadn't thought of that. - It's too dangerous for private use. You sound just like my neighbor when he still had a gazebo.": (
         "200120",
         "",
