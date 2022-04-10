@@ -65,11 +65,13 @@ with open(sys.argv[1]) as f:
             if int(magic[-2:]) > 31 or int(magic[-2:]) < 1:
                 tbad = bad = True
                 eprint("strip '%s' 's day is invaild" % magic)
+                print(tsrts[magic])
         except Exception: pass
         try:
             if int(magic[-4:-2]) > 12 or int(magic[-4:-2]) < 1:
                 tbad = bad = True
                 eprint("strip '%s' 's month is invaild" % magic)
+                print(tsrts[magic])
         except Exception: pass
 
         if extracheck and magic.startswith("ga") and len(tsrts[magic][-1].splitlines()) < 3:
