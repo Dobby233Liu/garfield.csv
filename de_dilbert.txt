@@ -10753,3 +10753,5 @@
 220410 -- Wollen wir uns lieber Montag oder Dienstag treffen? tipp tipp tipp... - Ja. - Diese Antwort legt nahe, daß Sie meine Frage nicht richtig gelesen haben. tipp tipp tipp... - Ich bitte Sie, einen Tag auszuwählen, Montag oder Dienstag, nach 13
 220410 -- Uhr... tipp tipp tipp... 10 Uhr passt bei mir. - An welchem Tag? Und diese Uhrzeit stand nicht zur Debatte. tipp tipp tipp... - Bitte lesen Sie noch einmal genau: Eine Zeit nach 13 Uhr, entweder am Montag oder Dienstag. tipp tipp tipp... - Geht
 220410 -- auch 11 Uhr am Freitag? - Ich kann Ihnen gar nicht beschreiben, wie sehr ich Sie gerade hasse.
+220411 -- Das haben Sie falsch gemacht. Ich ahbe es so gemacht, wie Sie gesagt haben. - Dann haben Sie mich falsch verstanden. Dann haben Sie sich unklar ausgedrückt. - Können wir uns darauf einigen, daß es irgendwie Ihre Schuld ist? Ja, das spart sicher
+220411 -- eine Menge Zeit.
