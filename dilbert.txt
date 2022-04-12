@@ -13953,3 +13953,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220410 -- - 10 A.M. works for me. - You didn't specify which day, and you picked a time that wasn't offered. tap-tap-tap... - Please read ALL of the words in this message and give me a time AFTER 1 P.M. AND on either Monday or Tuesday. tap-tap-tap... -
 220410 -- Does 11 A.M. on Friday work for you? I can't describe how much I hate you right now.
 220411 -- You did this wrong. I did it the way you told me to do it. - I think you misunderstood me. I think you were unclear. - Can we agree this is somehow your fault? Yes, that feels as if it would save time.
+220412 -- We haven't made it hard enough for customers to reach us for service. - Granted, we've made it impossible to navigate our phone menus, chat bots, and webpages, but people still keep showing up in our lobby. - Is there any way to remove our
+220412 -- building from satellite photos? I feel as if we've turned a dark corner.
