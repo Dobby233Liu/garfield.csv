@@ -16824,3 +16824,4 @@ ga220410 -- - Ah, springs... - The first green grass of spring... - The first fl
 ga220411 -- GULP GOBBLE SNARF NOM NOM NOM - CHOMP SNARF SNORK SLURP YURP YURP - Secret diet hack...if you eat fast enough, you burn off all the calories.
 ga220412 -- - - It's called the chipmunk diet.
 ga220413 -- I'm trying an all-liquid diet. - SCHLURRRRK - Pancake batter is technically a liquid.
+ga220414 -- If you give me a good number, I'll make it worth your while. - You can't bribe me! - Two words: unlimited batteries. Hellooooo, SKINNY!

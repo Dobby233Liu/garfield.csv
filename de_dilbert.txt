@@ -10758,3 +10758,4 @@
 220412 -- Wir haben es den Kunden zu leicht gemacht, unseren Kundenservice zu erreichen. - Selbst wenn wir es unmöglich machen, sich durch das Telefonmenü, die Chatbots und Webseiten zu navigieren, tauchen die Leute trotzdem noch in unserer Lobby auf. -
 220412 -- Könnten wir unser Gebäude irgendwie von Satellitenfotos entfernen? Ich finde, das nimmt keine gute Wendung.
 220413 -- Hätten Sie eine Minute Zeit? Oh! Wow! - Ich hatte vor, Ihnen eine Frage zu stellen, aber Ihre leblosen Zombieaugen sagen mit, daß das Zeitverschwendung wäre. - Können Sie sprechen? Nur, um mich zu beklagen.
+220414 -- Ich habe für Ihr Projekt kein Budget. - Fragen Sie bei anderen Projektmanagern nach, ob die aus ihren Budgets etwas beisteuern können. - Was glauben Sie, kommt dabei raus? Ein riesiger Erfolg?
