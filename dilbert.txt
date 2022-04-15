@@ -13957,3 +13957,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220412 -- building from satellite photos? I feel as if we've turned a dark corner.
 220413 -- Do you have a minute? Oh, wow. - I was planning to ask a question, but your lifeless, corporate-zombie eyes tell me it would be a waste of time. - Do you speak? Only to complain.
 220414 -- I don't have a budget for your project. - Ask the other project managers if they will kick in some funds from their budgets. - How do you think that ends? Huge success?
+220415 -- We couldn't get parts for our products because of supply chain issues. - So I assigned Wally the job of sourcing substitute parts, and he came through for us. Wally, tell us how you did it. - The breakthrough came when I realized fiber-optic
+220415 -- cable and string are basically the same thing.

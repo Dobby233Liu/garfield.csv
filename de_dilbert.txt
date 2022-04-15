@@ -10759,3 +10759,5 @@
 220412 -- Könnten wir unser Gebäude irgendwie von Satellitenfotos entfernen? Ich finde, das nimmt keine gute Wendung.
 220413 -- Hätten Sie eine Minute Zeit? Oh! Wow! - Ich hatte vor, Ihnen eine Frage zu stellen, aber Ihre leblosen Zombieaugen sagen mit, daß das Zeitverschwendung wäre. - Können Sie sprechen? Nur, um mich zu beklagen.
 220414 -- Ich habe für Ihr Projekt kein Budget. - Fragen Sie bei anderen Projektmanagern nach, ob die aus ihren Budgets etwas beisteuern können. - Was glauben Sie, kommt dabei raus? Ein riesiger Erfolg?
+220415 -- Aufgrund von Problemen in der Lieferkette haben wir manche Bauteile für unsere Produkte nicht bekommen. - Daher habe ich Wally damit beauftragt, andere Quellen aufzutun, und er hatte Erfolg damit. Wally, wie haben Sie das geschafft? - Der
+220415 -- Durchbruch war, als mir bewußt wurde, daß Glasfaserkabel und Bindfäden im Prinzip ein und dasselbe sind.
