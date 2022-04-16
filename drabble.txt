@@ -10283,3 +10283,4 @@ dr220412 -- - - Never stand behind a happy dog!
 dr220413 -- Well? Aren't you going to move? - Fine, I'll sit on the other side! - Your dog will never unfriend you, but he might block you now and then!
 dr220414 -- Tap it in, dad! - tap! - KER-PLUNK! - I like the winter because it snows and you can't play golf!
 dr220415 -- I want my easter egg to be purple! - I want a blue one! Mine will be half pink and half yellow! - What kind of easter egg do you want, dad? Chocolate with nuts!
+dr220416 -- Through the window? - The doggie door? - Down the chimney? - I don't know how the Easter bunny plans on getting in, but I'll be ready for him!
