@@ -10284,3 +10284,5 @@ dr220413 -- Well? Aren't you going to move? - Fine, I'll sit on the other side! 
 dr220414 -- Tap it in, dad! - tap! - KER-PLUNK! - I like the winter because it snows and you can't play golf!
 dr220415 -- I want my easter egg to be purple! - I want a blue one! Mine will be half pink and half yellow! - What kind of easter egg do you want, dad? Chocolate with nuts!
 dr220416 -- Through the window? - The doggie door? - Down the chimney? - I don't know how the Easter bunny plans on getting in, but I'll be ready for him!
+dr220417 -- ZZYZX - Z*Z - I'm thirsty! - - GRRRRR! - - WALLY!! NO!!!
+dr220418 -- Hey! Where's my chocolate Easter egg?? - I was saving that for last! - Oh, that was YOUR Easter basket? I thought it was mine! - See? It fits!

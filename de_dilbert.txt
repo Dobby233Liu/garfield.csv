@@ -10763,3 +10763,7 @@
 220415 -- Durchbruch war, als mir bewußt wurde, daß Glasfaserkabel und Bindfäden im Prinzip ein und dasselbe sind.
 220416 -- Ich verdiene eine Gehaltserhöhung, weil ich seit Jahren die Last der gesamten Abteilung trage. - Alice, ich schätze an Ihnen, daß Sie eine unermüdliche Arbeiterin sind, aber furchtbar schlecht verhandeln können. - Ich geb's auf. Ich hab noch zu
 220416 -- tun. Perfekter könnten Sie gar nicht sein.
+220417 -- Ich habe die Technologie entwickelt, die Ihnen am meisten einbringt. - Das Produkt gehört eindeutig der Firma, aber ich finde, da wäre ein Bonus angemessen. - Wenn Sie es nicht erfunden hätten, hätte es eben ein Kollege getan. Das bedeutet, Ihr
+220417 -- Nettobeitrag war Null Komma Null. - JETZT KEIN WUTAUSBRUCH... - Meine Beine werden steif... - Ich werde ohnmächtig. - Wie nennt man das noch gleich? "Fainting Goat".
+220418 -- Wie war Ihr Tag? - Ich habe einen Chip erfunden, der auf Basis stochastischer Thermodynamik saubere Energie erzeugt, aber ich mußte dazu das Nyquist-Theorem abändern. - Und wie war IHR Tag? Ich habe Kartoffelchips gegessen, bis meine Lippen zu
+220418 -- bluten anfingen.
