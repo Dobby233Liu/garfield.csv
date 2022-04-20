@@ -10769,3 +10769,5 @@
 220418 -- bluten anfingen.
 220419 -- Ich habe meiner Gattin von unserem neuen Produkt erzählt. Sie hat ein paar Änderungen vorgeschlagen. - Das sind zwar alles keine guten Ideen, aber ich will verheiratet bleiben, nehmen Sie die Änderungen also trotzdem vor. - Das würde Monate
 220419 -- dauern. Ich hatte von zwei Tagen gesprochen, lassen Sie mich jetzt nicht dumm dastehen.
+220420 -- Ich habe die Änderungen umgesetzt, die Ihre Frau vorgeschlagen hat. Obwohl die Ideen furchtbar waren. Sehr gut. - Sie hat heute morgen eine neue Liste mit Ideen erstellt. Arbeiten Sie diese jetzt ab. - Wird das jemals wieder aufhören? Ich habe
+220420 -- keinen Grund, optimistisch zu sein.
