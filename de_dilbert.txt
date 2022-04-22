@@ -10772,3 +10772,4 @@
 220420 -- Ich habe die Änderungen umgesetzt, die Ihre Frau vorgeschlagen hat. Obwohl die Ideen furchtbar waren. Sehr gut. - Sie hat heute morgen eine neue Liste mit Ideen erstellt. Arbeiten Sie diese jetzt ab. - Wird das jemals wieder aufhören? Ich habe
 220420 -- keinen Grund, optimistisch zu sein.
 220421 -- Die schlechte Nachricht ist, daß Sie in diesem Jahr keine Gehaltserhöhung bekommen werden. - Die gute Nachricht ist, daß das MAnagement nach Feierabend eine Pizzaparty schmeißt! - Wir brauchen nur noch einen Freiwilligen, der die Pizza bezahlt.
+220422 -- Asok, wenn Sie hart arbeiten, wird sich das für mich lohnen. - Und was springt für mich dabei raus? Man wird Sie einen "Team-Player" nennen. - Aber das will ich doch gar nicht. Niemand will das.
