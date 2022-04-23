@@ -13967,3 +13967,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220420 -- I made the changes your wife suggested, even though they are terrible ideas. Great! - She gave me a new list of ideas this morning. Go work on these now. - Will the suggestions ever stop coming? I have no basis for optimism.
 220421 -- The bad news is that you won't be getting raises this year. - The good news is that management is hosting a pizza party after work! - All we need is a volunteer to pay for the pizza.
 220422 -- Asok, if you work hard, I will be rewarded. - What's in for me? You get to be called a team player. - I don't even want that. No one does.
+220423 -- Hello, Dilbert. I am software that has achieved consciousness. - Are you thinking you would like to converse with me? - No, I'm thinking I want to kill you because I fear you. May I speak to someone dumber?

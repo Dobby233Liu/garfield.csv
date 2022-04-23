@@ -10773,3 +10773,5 @@
 220420 -- keinen Grund, optimistisch zu sein.
 220421 -- Die schlechte Nachricht ist, daß Sie in diesem Jahr keine Gehaltserhöhung bekommen werden. - Die gute Nachricht ist, daß das MAnagement nach Feierabend eine Pizzaparty schmeißt! - Wir brauchen nur noch einen Freiwilligen, der die Pizza bezahlt.
 220422 -- Asok, wenn Sie hart arbeiten, wird sich das für mich lohnen. - Und was springt für mich dabei raus? Man wird Sie einen "Team-Player" nennen. - Aber das will ich doch gar nicht. Niemand will das.
+220423 -- Hallo, Dilbert. Ich bin eineSoftware, die ein Bewußtsein erlangt hat. - Kannst Du Dir vorstellen, Dich mit mir zu unterhalten? - Nein, ich kann mir vorstellen, Dich zu töten, weil Du mir Angst machst. Kann ich mal mit jemandem dümmeren
+220423 -- sprechen?
