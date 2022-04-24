@@ -10775,3 +10775,6 @@
 220422 -- Asok, wenn Sie hart arbeiten, wird sich das für mich lohnen. - Und was springt für mich dabei raus? Man wird Sie einen "Team-Player" nennen. - Aber das will ich doch gar nicht. Niemand will das.
 220423 -- Hallo, Dilbert. Ich bin eineSoftware, die ein Bewußtsein erlangt hat. - Kannst Du Dir vorstellen, Dich mit mir zu unterhalten? - Nein, ich kann mir vorstellen, Dich zu töten, weil Du mir Angst machst. Kann ich mal mit jemandem dümmeren
 220423 -- sprechen?
+220424 -- Wally, unser neues Personalverwaltungsprogramm hat ein verstörendes Muster entdeckt. - Hundert Prozent der Projekte, an denen Sie beteiligt waren, sind fehlgeschlagen. - Erklären Sie das jetzt mal aus der Welt. Herausforderung angenommen. -
+220424 -- Erstens schlagen achtzig Prozent unserer Projekte fehl, egal wer daran beteiligt ist. - Die verbliebenen zwanzig Prozent erklären sich zweitens durch den Mangel an Vertrauen, das der Chef in mich setzt. - Er glaubt, ich werde versagen und gibt
+220424 -- mir deshalb Projekte, die zum Scheitern verurteilt sind. - Das belegt, daß das schlechte Management zu dem Muster geführt hat, das Ihr Programm entdeckt hat. - Ehrlich gesagt, das war besser als erwartet.
