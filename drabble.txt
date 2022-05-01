@@ -10300,3 +10300,5 @@ dr220427 -- Hi, dad! Hey. - Let's go to the movies tomorrow night. OK. - Wanna p
 dr220428 -- I heard a joke... - Knock knock! Who's there... - ROWF ROWF ROWF ROWF ROWF ROWF ROWF ROWF ROWF ROWF! Besides Wally?
 dr220429 -- PHARMACY I don't mind when register tapes are as long as a roll of bathroom tissue... - I just wish bathroom tissue now wasn't the size of register tape!
 dr220430 -- I think Wally is hyperactive! skattle skattle skattle   skattle skattle skattle skattle  skattle skattle - Better than being hyper-INactive! Z
+dr220501 -- WALLY Dinnertime, Wally! - Why do you get so excited for food? - We feed you twice a day! - And it's usually the same thing! - And it takes you about two seconds to eat it! Why do you... - HEY, DON'T RUN BETWEEN MY FEET! - WHOA! - I probably
+dr220501 -- had that coming.
