@@ -10303,3 +10303,4 @@ dr220430 -- I think Wally is hyperactive! skattle skattle skattle   skattle skat
 dr220501 -- WALLY Dinnertime, Wally! - Why do you get so excited for food? - We feed you twice a day! - And it's usually the same thing! - And it takes you about two seconds to eat it! Why do you... - HEY, DON'T RUN BETWEEN MY FEET! - WHOA! - I probably
 dr220501 -- had that coming.
 dr220502 -- - * BONK! * - * * * I guess sometimes the apple DOES fall far from the tree!
+dr220503 -- The doctor will see you now, Mr. Drabble. - Sorry about the wait. - Thanks for your patience. - I finally figured out why we're called "patients."
