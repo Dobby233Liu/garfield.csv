@@ -10305,3 +10305,4 @@ dr220501 -- had that coming.
 dr220502 -- - * BONK! * - * * * I guess sometimes the apple DOES fall far from the tree!
 dr220503 -- The doctor will see you now, Mr. Drabble. - Sorry about the wait. - Thanks for your patience. - I finally figured out why we're called "patients."
 dr220504 -- The doctor would like to see you again a month from today. - What time would you like to come in? I don't care. - Schedule me for any time, and I'll come in a hour later. - Then I'll only have to wait for 15 minutes!
+dr220505 -- What are you doing out here? - I want to watch the sunrise. I've heard it's very pretty. - You've never seen a sunrise? Nope. - That explains why you're out here at 10 P.M..
