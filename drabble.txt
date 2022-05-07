@@ -10307,3 +10307,4 @@ dr220503 -- The doctor will see you now, Mr. Drabble. - Sorry about the wait. - 
 dr220504 -- The doctor would like to see you again a month from today. - What time would you like to come in? I don't care. - Schedule me for any time, and I'll come in a hour later. - Then I'll only have to wait for 15 minutes!
 dr220505 -- What are you doing out here? - I want to watch the sunrise. I've heard it's very pretty. - You've never seen a sunrise? Nope. - That explains why you're out here at 10 P.M..
 dr220506 -- Norman, if you want to see the sunrise, you're facing the wrong direction. The sun comes up over there! - Why would it come up over there?? I saw it go down over HERE!
+dr220507 -- One pocket comb. - One dollar. - Thank you. - Whom comes all the way to the DOLLAR STORE to buy one thing??
