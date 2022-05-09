@@ -16850,3 +16850,4 @@ ga220505 -- I don't believe there's a monster in the closet. - click - But to ma
 ga220506 -- Your key or mine? - Mine. - ROWWRRRR
 ga220507 -- Jon and I have a lot in common. - Sigh. - Both of our lives revove around me!
 ga220508 -- Sigh - You know, there's nothing like having a picture of your mom around to warm a home. - So here you go, boys! - - - 
+ga220509 -- Some artists work in oils... - Some work in pastels... - I prefer sofas.
