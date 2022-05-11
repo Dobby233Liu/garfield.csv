@@ -10805,3 +10805,7 @@
 220508 -- beginne zu glauben, Sie haben beides aufgegessen und versuchen es jetzt zu vertuschen! - UNVERSCHÄMTE BEHAUPTUNG!! - Und warum riecht Ihr Atem dann nach MEINEM Sandwich? - Lenken Sie nicht vo Thema ab...
 220509 -- Ich habe die Woche wegen der Probleme mit der Lieferkette bei meinem Projekt keinerlei Fortschritte gemacht. - Aber Sie können mich nicht feuern, weil Sie mich brauchen, wenn die Lieferungen wieder eintrudeln. - Sie könnten ja vorgeben zu
 220509 -- arbeiten, bis alles wieder läuft. Ich würde ja sagen, das wäre das Geringste, was ich tun kann, aber das stimmt nicht.
+220510 -- Ich habe von der Softwareplattform gehört, die Sie entwickelt haben.  Da sklingt fantastisch. - Flirten Sie gerade mit mir? Ich bin sapiosexuell. Das bedeutet, ich fühle mich zu schlauen Männern hingezogen. - Ich weiß, was das Wort bedeutet.
+220510 -- SCHMACHT
+220511 -- Wußtest Du, daß manche Frauen sich zu schlauen Männern hingezogen fühlen? - Das klingt nicht richtig. Ich weiß, aberich habe eine kennengelernt, die behauptet, so zu sein. - Klingt nach einer Falle. Ja, deshalb behandle ich sie so, als wäre sie
+220511 -- Luft.

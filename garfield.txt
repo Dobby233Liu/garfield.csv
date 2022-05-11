@@ -16851,3 +16851,5 @@ ga220506 -- Your key or mine? - Mine. - ROWWRRRR
 ga220507 -- Jon and I have a lot in common. - Sigh. - Both of our lives revove around me!
 ga220508 -- Sigh - You know, there's nothing like having a picture of your mom around to warm a home. - So here you go, boys! - - - 
 ga220509 -- Some artists work in oils... - Some work in pastels... - I prefer sofas.
+ga220510 -- Nermal, I got you a new hat. - Seriously? Why would a selfish, uncaring fat slob like you ever want to give me a hat? - Ah.
+ga220511 -- Grrr. - Cheer up. Grrr.
