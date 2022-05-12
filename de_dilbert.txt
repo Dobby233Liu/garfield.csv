@@ -10809,3 +10809,5 @@
 220510 -- SCHMACHT
 220511 -- Wußtest Du, daß manche Frauen sich zu schlauen Männern hingezogen fühlen? - Das klingt nicht richtig. Ich weiß, aberich habe eine kennengelernt, die behauptet, so zu sein. - Klingt nach einer Falle. Ja, deshalb behandle ich sie so, als wäre sie
 220511 -- Luft.
+220512 -- Wieso gehen Sie mir aus dem Weg, seit ich Ihnen erzählt habe, daß ich schlaue Männer anziehend finde? - Ich wäge einfahc nur ab. Entweder Sie legen mich rein, oder Sie sind eine leere menschliche Hülle, die von einem Dämon besessen ist. - Oder
+220512 -- ich mag einfach schlaue Männer. Das klingt ganz danach, als würde ein Dämon aus Ihnen sprechen.

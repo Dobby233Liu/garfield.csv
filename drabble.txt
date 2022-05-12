@@ -10313,3 +10313,4 @@ dr220508 -- Breakfast in bed! Happy Mother's Day! At least this year he didn't l
 dr220509 -- Having a job makes me feel good about myself! - It's a great feeling to leave here at night knowing that I didn't mess up anything! - Of course, that's only happened once! DRABBLE!!!
 dr220510 -- What brings you here, dad? - I just have a simple Do-it-yourself project. - Our toilet keeps running. - What would you recommend? Call a plumber.
 dr220511 -- Our toilet needs a new flapper. Are you sure? - Trust me. I've done extensive research. - What size flapper do you need? - I'll be back in a few minutes.
+dr220512 -- Did you get the toilet fixed, dad? - Almost. I just came back because I need to buy a couple more things. - What do you need? A wrench? A screwdriver? - Wading boots.
