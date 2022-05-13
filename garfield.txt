@@ -16854,3 +16854,4 @@ ga220509 -- Some artists work in oils... - Some work in pastels... - I prefer so
 ga220510 -- Nermal, I got you a new hat. - Seriously? Why would a selfish, uncaring fat slob like you ever want to give me a hat? - Ah.
 ga220511 -- Grrr. - Cheer up. Grrr.
 ga220512 -- I'm starting a new workout routine. - One. Tomorrow is Leg Day.
+ga220513 -- ...and then, after two weeks, I found the sandwich in my shoe! - - Care for some lunch? No, thanks.

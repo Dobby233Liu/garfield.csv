@@ -10811,3 +10811,5 @@
 220511 -- Luft.
 220512 -- Wieso gehen Sie mir aus dem Weg, seit ich Ihnen erzählt habe, daß ich schlaue Männer anziehend finde? - Ich wäge einfahc nur ab. Entweder Sie legen mich rein, oder Sie sind eine leere menschliche Hülle, die von einem Dämon besessen ist. - Oder
 220512 -- ich mag einfach schlaue Männer. Das klingt ganz danach, als würde ein Dämon aus Ihnen sprechen.
+220513 -- Dilbert will nicht mit mir reden, weil ich ihm erzählt habe, daß ich mich zu schlauen Männern hingezogen fühle. Er denkt, das ist gelogen. - Es macht Ihnen also nichts aus, daß er aussieht wie eine Kreuzung aus Max Mustermann und Bart Simpson
+220513 -- nach Gehirnwäsche? Offifiell bin ich blind. Rätsel gelöst.
