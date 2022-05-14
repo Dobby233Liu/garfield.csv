@@ -16855,3 +16855,4 @@ ga220510 -- Nermal, I got you a new hat. - Seriously? Why would a selfish, uncar
 ga220511 -- Grrr. - Cheer up. Grrr.
 ga220512 -- I'm starting a new workout routine. - One. Tomorrow is Leg Day.
 ga220513 -- ...and then, after two weeks, I found the sandwich in my shoe! - - Care for some lunch? No, thanks.
+ga220514 -- Cats are naturally curious. - Want to see the mole on my back? - But not THAT curious.
