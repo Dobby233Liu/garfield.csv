@@ -10316,3 +10316,4 @@ dr220511 -- Our toilet needs a new flapper. Are you sure? - Trust me. I've done 
 dr220512 -- Did you get the toilet fixed, dad? - Almost. I just came back because I need to buy a couple more things. - What do you need? A wrench? A screwdriver? - Wading boots.
 dr220513 -- Welcome back, dad! How's the Do-it-yourself project going? Did you get the toilet fixed? Not yet. - I just came in to use your bathroom!
 dr220514 -- NOW what do you need, dad? - Don't tell me you're still trying to fix the toilet! Of course not! Give me some credit! - I came to buy a new one!
+dr220515 -- Wally - Hey, Wal... - ...ly, it's... - dinner... - time! - skattle skattle skattle skattle CHOMP! skattle skattle skattle skattle! - Faster than the speed of sound!

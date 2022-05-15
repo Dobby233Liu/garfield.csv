@@ -13998,3 +13998,6 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220512 -- something a demon would say.
 220513 -- Dilbert won't talk to me because I told him I'm attracted to smart men and he thinks I'm lying. - So...you don't mind him looking like a cross between the Pillsbury Dough Man and the Michelin Tyte Guy? - I'm legally blind. Mystery solved.
 220514 -- I can't finish all of the projects you piled on me. - Try working smarter. - Okay, I quit. Not THAT smart. Dial it back.
+220515 -- I forgot about this for a month, and now it is top priority. - When is it die? Last week. - Then it's already too late. Not if we hurry. - You know that hurrying does not reverse the arrow of time, right? - If we hurry, we might be able to
+220515 -- submit our bid after the deadline. - It sounds as if you are asking me to work day and night to finish something that is almost certainly a waste of time. - It will be fine. Trust me. - Two Days Later It's done. YOU FOOL! I CANT'T SUBMIT A LATE
+220515 -- BID!
