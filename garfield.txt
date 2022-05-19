@@ -16859,3 +16859,5 @@ ga220514 -- Cats are naturally curious. - Want to see the mole on my back? - But
 ga220515 -- - - ** - snicker snicker snicker - -
 ga220516 -- Garfield! Are you going to get up today or not?! - I'll get back to you on that. - Tomorrow.
 ga220517 -- Y'know, Garfield, shades make a man cool. - And I don't mean just "cool"... - It makes him ULTRA cool! The mirror is over there. That's a picture of your mother.
+ga220518 -- "Dear Ask a Dog, my cat is mean to me. What can I do?" - Heeey...wait a minute. - I recognize your handwriting, Jon Arbuckle!
+ga220519 -- I love to read! Me, too! WHAP! - I prefer e-books, though.
