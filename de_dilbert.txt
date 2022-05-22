@@ -10822,3 +10822,9 @@
 220518 -- Ich kann diesen Auftrag nicht bearbeiten, weil er mir Angst macht. - Wenn Sie den Auftrag NICHT bearbeiten, machen Sie aber MIR Angst. - Wir brauchen einen Angstschlichter, der ermitteln muss, wer hier mehr Ansprüche hat. Fortsetzung folgt
 220519 -- Angst-Schlichter Tina, wie ich höre, bekommen Sie durch die Zusammenarbeit mit Asok Angstzustände. - Und trifft es zu, Asok, daß Tina auch Ihnen Angst macht? Sehr große sogar. - Ich verkünde ein Unentschieden. Los, zurück an die Arbeit und
 220519 -- bringen Sie sich weiterhin ganz langsam um. Das klingt fair.
+220520 -- Angst-Schlichter Ich habe eine Liste mit allen Mitarbeitern erstellt, die wegen ihrer Angstzustände eine Sonderbehandlung brauchen. - Das ist die Liste all unserer Mitarbeiter. Haben Sie die überhaupt bearbeitet? - Oder bin ich einfach nur
+220520 -- gründlich?
+220521 -- Ich bin mit allen Aufträgen fertig und bereit, meinen Urlaub zu genießen. - Hie rist noch eine Menge Arbeit, die ich monatelang ganz vergessen hatte...und jetzt ist es dringend. - Was soll jetzt dieses Getue?
+220522 -- Carl, Sie haben drei Wochen, um zu beweisen, daß Sie sen Job beherrschen. - Das ist Mordac. Er wird Ihnen helfen, Online Zugang zu allen Daten zu erlangen, die Sie brauchen. - Wie lange wird es dauern, bis ich Zugang zum Netzwerk habe? - Etwa
+220522 -- einen Monat. - Aber ich werde ja schon eine Woche vorher gefeuert, wenn ich nicht produktiv war. - Tja, das war dann wohl die falsche Berufswahl. - Min MEINEM Beruf werde ich für etwas bezahlt, was ich sogar kostenlos tun würde. - Nämlich...?
+220522 -- Menschen demütigen.

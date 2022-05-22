@@ -10322,3 +10322,6 @@ dr220517 -- Norm! We got baseball tickets for tomorrow's game! That's great, dad
 dr220517 -- leave right now!
 dr220518 -- Being at the ballpark was different when I was a kid. - I know, I know...everything was better at the ballpark when you were a kid! - How much for a bag of peanuts? $25. - OK, what were you saying?
 dr220519 -- Our pitcher is throwing a perfect game! No batter has reached first base! - I hope the manager doesn't pull him out of the game! - Don't worry. Why would any manager remove a pitcher who's got a perfect game? - It's 2022. Oh, yeah, huh!
+dr220520 -- We almost saw a perfect game, honeybunch! - Oh, no! What happened? - Don't tell me the manager pulled the pitcher to prevent a sore arm! - No, it's because we left in the 7th inning! Anything to beat traffic!
+dr220521 -- Relax, Wally! - This isn't for you. - Remember, "Eat to live, don't live to eat"! - Another bowl of ice cream?? This is living!
+dr220522 -- Sigh... - TOYS - - - - Mr, Drabble, the doctor will see you mow. Well, it's about time!
