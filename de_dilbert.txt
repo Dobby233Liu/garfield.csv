@@ -10832,3 +10832,5 @@
 220523 -- Panther, der die MEnschen töten soll, wenn sie auch nur versuchen, die Roboter anzurühren. Hihi. Panther. Die alten Witze sind die besten!
 220524 -- Seit Elon Musk unsere Firma gekauft hat, sind die Umsätze um 23% gestiegen. Und er hat die Marketingabteilung gefeuert. - Das hat so gut funktioniert, daß ich plane, die Entwicklungsabteilung zu feuern, um ihn zu beeindrucken. - Machen Sie auch
 220524 -- etwas, um ihn zu beeindrucken? Ja, ich werde SIE feuern. Ich denke, das wird ihm gefallen.
+220525 -- Da Elon Musk jetzt unsere Firma übernommen hat, will er alle unsere internen Dokumente sehen. - Davon uabhängig ist unser Datenzentrum bis auf die Grundmauern niedergebrannt und wir haben all unsere Backups verloren. - Das klingt aber nicht
+220525 -- nach einem Zufall. Falls jemand fragt, sagen Sie, es waren elbonische Terroristen...
