@@ -14021,3 +14021,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220529 -- The new guy works twice as many hours as you. - And what does that tell you? - It tells me he's a dedicated team player and you're lazy. - That's one interpretation. - Another way to look at it is that he writes garbarge code, whereas I create
 220529 -- masterpieces in half the time. - Or maybe he hasn't yet had the life force drained from his body by your bad management. - And he might be lying about working long hours at home. - I literally hate everyone. Same.
 220530 -- We've decided to become a big pharma company. - As business expert Willie Sutton once advised, "Because that's where the moneyis." - He was talking about bank robbery. What's your point?
+220531 -- Now that we're a big pharma company, I need you to lead the data integrity team. - You want me to make sure all of the data from our drug trials is accurate? - Maybe you're not the right fit for this job.
