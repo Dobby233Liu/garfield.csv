@@ -10840,3 +10840,5 @@
 220528 -- Elon Musk hat angeboten, unsere Firma zu kaufen. - Der Vorstand will das Angebot ablehnen, weil sie finden, daß die Firma das doppelte wert ist. - Was hat er denn geboten? Dreihundert Dollar. Fortsetzung folgt
 220530 -- Wir haben beschlossen, ein "Big Pharma"-Konzern zu werden. - Wie Business-Experte Willie Sutton einst sagte: "Denn da ist das Geld." - Das hatte er auf Banküberfälle bezogen. Worauf wollen Sie hinaus?
 220531 -- Da wir jetzt ein Pharmariese sind, müssen Sie für mich das Datensicherheitsteam leiten. - Ich soll also dafür sorgen, daß die Daten all unserer Arzneimitteltests akkurat sind? - Vielleicht sind Sie doch nicht der Richtige für den Job.
+220601 -- Als großer Pharmakonzern werden wir stärker kontrolliert als andere Firmen. - Deshalb darf man uns nie dabei ertappen, daß wir Vorschriften umgehen oder gegen Gesetze verstoßen. - Mit anderen Worten: Wir sollen ehrlich und anständig sein?
+220601 -- Zumindest sollte es in Ihren E-Mails danach aussehen.

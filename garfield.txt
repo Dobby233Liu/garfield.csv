@@ -16875,3 +16875,4 @@ ga220528 -- munch munch munch - munch munch munch - If you don't see what you're
 ga220529 -- - BARK! - BARK! BARK! BARK! - BARK! BARK! - BARK! BARK! BARK! - bark! bark! bark! bark! bark! bark! bark! bark! - How's business? Booming! BARKING LESSONS
 ga220530 -- Z - Time for the night shift. - Z
 ga220531 -- Life is short. Eat dessert first... - And second... - And third...
+ga220601 -- It's so wonderful to see you, Odie. - - Sarcasm is wasted on the simple.
