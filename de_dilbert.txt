@@ -10843,3 +10843,5 @@
 220601 -- Als großer Pharmakonzern werden wir stärker kontrolliert als andere Firmen. - Deshalb darf man uns nie dabei ertappen, daß wir Vorschriften umgehen oder gegen Gesetze verstoßen. - Mit anderen Worten: Wir sollen ehrlich und anständig sein?
 220601 -- Zumindest sollte es in Ihren E-Mails danach aussehen.
 220602 -- Wally, ich übertrage Ihnen die Verantwortung für die groß angelegte, stichprobenartige, kontrollierte Studie zu unserem neuen Arzneimittel. - Gern. Welches Ergenis hätten Sie denn gern? - Sie sind fast zu perfekt für diesen Job. Danke sehr.
+220603 -- Wir haben bei unserem Arzneimitteltest genauso viele Menschen umgebracht, wie wir gerettet haben. - Schnüren Sie ein Bestechungsgeld-Paket, mit dem wir unseren Weg zur Zulassung gestalten können. - Bin ich jetzt ein Krimineller? Ich sehe Sie
+220603 -- eher als Helfershelfer.
