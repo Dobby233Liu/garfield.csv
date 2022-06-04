@@ -14026,3 +14026,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220601 -- in your e-mails. 
 220602 -- Wally, I'm putting you in charge of testing our newe drug in a large-scale, randomized, controlled study. - Sure. What result do you want me to give you? - You're almost too perfect for this job. Thank you.
 220603 -- Our drug trial data shows we killed as many people as we saved. - Put together a budget for bribing our way to government approval. - Am I a criminal now? I think of you as more of an accomplice.
+220604 -- My company plans to sell a pill that killed half of the volunteers in the clinical trial! - My anxiety is through the roof! I don't know how to slow down my pulse! - Try your new pill.
