@@ -16879,4 +16879,5 @@ ga220601 -- It's so wonderful to see you, Odie. - - Sarcasm is wasted on the sim
 ga220602 -- Ooooo! zzzzzzzzzz - BONK! THUD - Hi-def flower garden. Oww.
 ga220603 -- What's your favorite color? That's a good question... - Hmmm... - I can't decide between chocolate brown, pizza sauce red or donut frosting pink.
 ga220604 -- I don't think you appreciate me. - Nonsense... - I made you employee of the month, didn't I?
+ga220605 -- - It's a perfect day! - Well, almost. - It could be a couple of degrees warmer. - The floor could be a giant pillow. - The ceiling could be a huge TV screen - And why aren't you a bacon sandwich? Go away.
 
