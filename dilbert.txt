@@ -14029,3 +14029,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220604 -- My company plans to sell a pill that killed half of the volunteers in the clinical trial! - My anxiety is through the roof! I don't know how to slow down my pulse! - Try your new pill.
 220605 -- Click here to get a verification code by email. - Nice try. I know you won't send me a code. You never send me a code. - This time I really will, I promise. - No, you won't. I will sit here checking my inbox over and over, and it will never
 220605 -- come. - Check your spam and junk folders. - I ALWAYS CHECK MY SPAM AND JUNK FOLDERS!!! IT IS NEVER THERE!!! - This time it will be. I promise. OKay, okay. - Two hours later click click click click click click click click click click click
+220606 -- The clinical trial data says our new pill makes people grow antlers and drop dead. - URK! - That might be the most persuasive presentation I've ever seen.
