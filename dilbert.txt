@@ -14030,3 +14030,6 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220605 -- Click here to get a verification code by email. - Nice try. I know you won't send me a code. You never send me a code. - This time I really will, I promise. - No, you won't. I will sit here checking my inbox over and over, and it will never
 220605 -- come. - Check your spam and junk folders. - I ALWAYS CHECK MY SPAM AND JUNK FOLDERS!!! IT IS NEVER THERE!!! - This time it will be. I promise. OKay, okay. - Two hours later click click click click click click click click click click click
 220606 -- The clinical trial data says our new pill makes people grow antlers and drop dead. - URK! - That might be the most persuasive presentation I've ever seen.
+220607 -- A new study says the pill we started selling doesn't cure headaches, but it does kill 25% of the people who take it. - Try doubling the dose and redefining dead people as "cured." - That feels unethical. Have you ever met a dead person with a
+220607 -- headache?
+220608 -- People on Twitter are questioning the safety of our new pill. - Tell then the data they are using is fake. - They're using /our/ data. That's how I know it's fake.

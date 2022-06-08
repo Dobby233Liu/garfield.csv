@@ -16881,3 +16881,5 @@ ga220603 -- What's your favorite color? That's a good question... - Hmmm... - I 
 ga220604 -- I don't think you appreciate me. - Nonsense... - I made you employee of the month, didn't I?
 ga220605 -- - It's a perfect day! - Well, almost. - It could be a couple of degrees warmer. - The floor could be a giant pillow. - The ceiling could be a huge TV screen - And why aren't you a bacon sandwich? Go away.
 ga220606 -- 998...999... - 1,000! - A new personal best for lie-downs.
+ga220607 -- CRUNCH CRUNCH CRUNCH - CRICK - Stupid snacker's elbow. *
+ga220608 -- MEOW! MEOW! MEOW! MEOW! - - It'll never replace barking. Oh, come on!
