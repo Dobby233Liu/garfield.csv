@@ -14033,3 +14033,6 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220607 -- A new study says the pill we started selling doesn't cure headaches, but it does kill 25% of the people who take it. - Try doubling the dose and redefining dead people as "cured." - That feels unethical. Have you ever met a dead person with a
 220607 -- headache?
 220608 -- People on Twitter are questioning the safety of our new pill. - Tell then the data they are using is fake. - They're using /our/ data. That's how I know it's fake.
+220609 -- We need some crooked doctors to endorse our new pill. - Offer them lucrative speking deals in return for endorsing the safety of our new pill. - How do I know which ones are crooked? They're the ones who say yes.
+220610 -- Doctor Ratbert, I understand you have offered to endorse our new pill. - Yes, absolutely. By the way, do you have any lucrative speaking gigs at five-star resorts you could steer my way? - As a matter of fact, we do. Your pill already made me
+220610 -- happy!

@@ -10854,4 +10854,8 @@
 220607 -- Eine Studie besagt, daß unsere neue Pille zwar keine Kopfschmerzen heilt, aber 25% der Menschen, die sie einnehmen, tötet. - Verdoppeln Sie die Dosis und deklarieren tote Menschen als "geheilt". - Das erscheint mir unmoralisch. Haben Sie
 220607 -- schonmal eine tote Person mit Kopfschmerzen gesehen?
 220608 -- Auf Twitter wird die Sicherheit unserer neuen Pille infrage gestellt. - Sagen Sie denen, daß die Daten, die sie verwenden, Fake sind. - Sie verwenden unsere Daten. Daher weiss ich ja, dass sie Fake sind.
+220609 -- Wir brauchen ein paar korrupte Ärzte, die für unsere neue Pille werben. - Bieten Sie ihnen lukrative Rednerverträge als Gegenleistung für die Empfehlung Ihrer Pille an. - Woher weiß ich, welche korrupt sind? Sie erkennen sie daran, daß sie ja
+220609 -- sagen.
+220610 -- Dr. Ratbert, ich habe gehört, daß Sie sich bereit erklärt haben, unsere neue Pille zu bewerben. - Aber natürlich. Haben Sie übrigens irgendwelche lukrativen Rednerauftritte in Fünf-Sterne-Resorts, die Sie mir empfehlen können? - In der Tat
+220610 -- hätten wir da was. Ihre neue Pille hat mich jetzt schon glücklich gemacht!
 
