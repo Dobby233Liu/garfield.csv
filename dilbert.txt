@@ -14036,3 +14036,6 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220609 -- We need some crooked doctors to endorse our new pill. - Offer them lucrative speking deals in return for endorsing the safety of our new pill. - How do I know which ones are crooked? They're the ones who say yes.
 220610 -- Doctor Ratbert, I understand you have offered to endorse our new pill. - Yes, absolutely. By the way, do you have any lucrative speaking gigs at five-star resorts you could steer my way? - As a matter of fact, we do. Your pill already made me
 220610 -- happy!
+220611 -- Whistleblowers are telling the press we sell pills that are dangerous and ineffective. - We need to grind up all the evidence and spread the dust in a remote desert. - What about the whistleblowers? That's who I'm talking about.
+220612 -- I often sy employees are the key to our success. - But that's only so I can blame you when things go wring. - The truth is I could replace 99% of you, and we'd have the same outcomes. - And what are the odds you're in the top 1% of
+220612 -- contributors? - If you left tomorrow, it would be a month before anyone noticed. - I've already forgotten most of your names. - To be honest, I think of you as scenery. - You were right about honesty being the best approach. I enjoyed it.
