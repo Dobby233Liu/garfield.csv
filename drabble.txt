@@ -10347,3 +10347,6 @@ dr220609 -- Honeybunch, I have an idea! - Let's sit on the couch... - Turn on a 
 dr220610 -- Bye, honeybunch! - Don't get into that big bag of chocolate chips in the pantry? - I counted them and I know exactly how many are in there! - I'm sure she was bluffing. Maybe.
 dr220611 -- Remember, Ralph, when you listen to music on earphones, don't turn the sound up loud. - Your hearing can be impacted! - Extended exposure to loud sounds can be harmful! - WERE YOU TALKING TO ME?
 dr220612 -- Let's go for a walk, Wally! - Never put on Wally's leash inside the house! ! Why not? - I SMELL A BADGER! - - - False alarm! Just trust me!
+dr220613 -- Ralph! You shouldn't let Penny play with your phone! - Don't worry. She's just showing me how to download an app!
+dr220614 -- I'm on my way to my doctor's office. - By the way, you look...I mean, you're really...I mean... - Oh, forget it! - There is no good way to tell your wife she looks pretty in a mask!
+dr220615 -- * * * - * * * - Don't you want to put your arm around me? I sure do! - 
