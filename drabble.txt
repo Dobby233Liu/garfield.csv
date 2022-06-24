@@ -10353,3 +10353,10 @@ dr220615 -- * * * - * * * - Don't you want to put your arm around me? I sure do!
 dr220616 -- OK, dad...try to attack me! - shake shake - ACHOO! - If you don't have papper spray, use a shaker!
 dr220617 -- WALLY He's home! - WALLY, NO!! - One of these days, I might not catch you! Yeah, right!
 dr220618 -- - ROWF * - - Wow! Second floor!
+dr220619 -- ...Sigh.. - HAPPY FATHER'S DAY!! - We made you breakfast in bed! - Sorry we're a little late. - "A LITTLE late"? It's almost noon! - Why did it take so long to make cold cereal? - We had to go to the store to buy milk! And on the way home, we
+dr220619 -- stopped for pancakes!
+dr220620 -- Echo! ** - How have you been, Norman? Fine, thanks! - Do you stil have that...you know what? - My pet badger? ROWF ROWF ROWF ROWF ROWF ROWF!
+dr220621 -- It's the badger lady! - I'm surprised you didn't get rid of your badger, Echo. They don't get along with dachshunds! - Don't worry. I did something even better! grrr... - I sent him to obedience school! I bet he cheated on the exams!
+dr220622 -- Your sent your pet badger to obedience school? - He graduated with honors. Now he's kind and gentle! - He gets along with everyone! - Want to see him? NO!
+dr220623 -- Here, mittens! - Show them how sweet you are after graduating obedience school! - Don't laugh or I'll rip your face off! - Such a good boy! Have a treat!
+dr220624 -- Good boy! Here's a treat, Mittens! - He's kind and gentle as long as I give him treats. - Otherwise, he reverts to his old self! - I have to give him a treat every 30 seconds! 26...27...28...
