@@ -10878,6 +10878,7 @@
 220620 -- jetzt feuere ich Sie auch noch, weil Sie das gerade gesagt haben.
 220621 -- Dogbert, der egoistische Therapeut. Ich erzähle immer allen, wie grossartig ich bin, aber aus irgendeinem Grund finde ich keine Freunde. - Haben Sie's mal mit Schreien versucht? Wie sollte das helfen? - Ich dachte nur, das wäre lustiger, denn
 220621 -- die Leute hassen Sie ja sowieso.
-220622 -- Dogbert, der egoistische Therapeut. Versuchen Sie mal eine dieser starken Schlaftabletten. - Schlaftabletten? Ich habe Ihnen ja noch gar nichts von meinem Problem erzählt. - Das versuche ich ja von Anfang an abzuwenden.
-220623 -- Dogbert, der egoistische Therapeut. Versuchen Sie, Ihr geringes Selbsbewusstsein neu auszurichten. - Sie sind nicht WERTLOS. Sie sind nur WENIGER wert als alle anderen. - Die Heilung geht schneller, wenn Sie es singen. Was?
-220624 -- Dogbert, der egoistische Therapeut. ...also, das ist meine Situation. - Hatten Sie die ganze Zeit Kopghörer auf? - Keine Ahnung, was er sagt, aber er sieht nicht glücklich aus.
+220622 -- Dogbert, der egoistische Therapeut Versuchen Sie mal eine dieser starken Schlaftabletten. - Schlaftabletten? Ich habe Ihnen ja noch gar nichts von meinem Problem erzählt. - Das versuche ich ja von Anfang an abzuwenden.
+220623 -- Dogbert, der egoistische Therapeut Versuchen Sie, Ihr geringes Selbsbewusstsein neu auszurichten. - Sie sind nicht WERTLOS. Sie sind nur WENIGER wert als alle anderen. - Die Heilung geht schneller, wenn Sie es singen. Was?
+220624 -- Dogbert, der egoistische Therapeut ...also, das ist meine Situation. - Hatten Sie die ganze Zeit Kopghörer auf? - Keine Ahnung, was er sagt, aber er sieht nicht glücklich aus.
+220625 -- Dogbert, der egoistische Therapeut Denken Sie nicht, Sie hätten keine Freude. - Betrachten Sie sich als jemanden, der einen Fremden dafür bezahlen muss, damit er vorgibt, Sie zu mögen. - Mögen Sie mich? Nicht zu diesen Preisen.
