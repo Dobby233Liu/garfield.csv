@@ -10885,3 +10885,5 @@
 220626 -- Ich muss mich für heute krank melden. Ich habe Krämpfe. - In de Beinen? - Nein. - Ähm... - Ist das so ein "Woke"-Ding? - Ich identifiziere mich als gebärender Mensch. - Um ehrlich zu sein, ich mache das nur wegen der Vorteile, und ich glaube,
 220626 -- dass mein Plan unter unseren derzeitigen Richtlinien aufgeht, oder nicht? - Mistkerl... Bis morgen, Sie Weichei.
 220627 -- Unsere Firma steigt jetzt in den Markt der elektronischen Wahlmaschinen ein. - Haben Sie eine Vorstellung davon, was das bedeutet? - Bedeutet das, dass meine Stimme nicht gezählt wird? Manchmal aber auch doppelt.
+220628 -- Ratbert, ich übertrage Ihnen die Verantwortung für die Datensicherheit bei unseren Wahlmaschinen. - Setzen Sie all unser Wissen und Ihre Erfahrung ein, um Möchtegern-Hacker abzuwehren. - Ich habe weder das Wissen noch die Erfahrung. Sagen Sie
+220628 -- das nicht den Prüfern.
