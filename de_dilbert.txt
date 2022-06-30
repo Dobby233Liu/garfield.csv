@@ -10887,3 +10887,7 @@
 220627 -- Unsere Firma steigt jetzt in den Markt der elektronischen Wahlmaschinen ein. - Haben Sie eine Vorstellung davon, was das bedeutet? - Bedeutet das, dass meine Stimme nicht gezählt wird? Manchmal aber auch doppelt.
 220628 -- Ratbert, ich übertrage Ihnen die Verantwortung für die Datensicherheit bei unseren Wahlmaschinen. - Setzen Sie all unser Wissen und Ihre Erfahrung ein, um Möchtegern-Hacker abzuwehren. - Ich habe weder das Wissen noch die Erfahrung. Sagen Sie
 220628 -- das nicht den Prüfern.
+220629 -- Laut unserer Umfrage vertraut uns niemand bei der Herstellung von Wahlmaschinen. - Um das zu beheben, wollen wir die Maschinen so manipulieren, dass nur Politiker gewählt werden, die den Leuten sagen, sie müssen sich keine Sorgen darum machen.
+220629 -- - Und wieso vertraut uns niemand? Das frage ich mich auch.
+220630 -- Experten behaupten, unsere Wahlmaschinen wurden gehackt, denn ein Kandidat hat 100% der Stimmen bekommen. - Wir müssen sofort einen Journalisten bestechen, der darüber schreibt, was für eine tolle Kampagne der Kandidat geführt hat. - Dieser
+220630 -- Kandidat war Ihr Bruder. Hoffen wir, dass das sonst niemand weiss.

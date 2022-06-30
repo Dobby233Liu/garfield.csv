@@ -14057,3 +14057,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220626 -- guidelines, is it not? - Jerk. See you tomorrow, bigot!
 220627 -- Our company is entering the electronic voting machine market. - Do you have any idea what this means? - Does it mean my vote won't count? Sometimes it will count twice!
 220628 -- Ratbert, I'm putting you in charge of data security for our voting machine products. - I want you to use all of your skill and experience to thwart would-be hackers. - I don't have any skills or experience. Don't mention that to the auditors.
+220629 -- According to our internal polling, the public doesn't trust us to make electronic voting machines. - We plan to fix that by rigging voting machines to elect politicians who will tell people there's nothing to worry about. - Why don't people
+220629 -- trust us? I was wondering the same thing.
+220630 -- Pundits are saying our voting machines were hacked because one candidate got 100% of the votes. - We need to quickly bribe a reporter to write a story about how that candidate ran a great campaign. - That candidate was your brother. Let's hope
+220630 -- no one else knows that.
