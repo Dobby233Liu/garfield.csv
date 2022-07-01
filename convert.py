@@ -93,12 +93,12 @@ def cleanup(input_file, output):
                 [_proc_line, comicid[0]]
             )  # NOTE: this accounts for gpt-2-simple, which reads [0] only for csvs
             intro = True
-            introline_invaild = False
+            # introline_invaild = False
             _proc_line = ""
             try:
                 comicid = _sub_comicid = find_first_comicid(line)
             except IndexError as e:
-                introline_invaild = True
+                # introline_invaild = True
                 traceback.print_exc(file=sys.stderr)
                 print("\n\nLine text:\n%s" % line, file=sys.stderr)
                 print("-" * 20, file=sys.stderr)
