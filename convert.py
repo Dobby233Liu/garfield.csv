@@ -12,8 +12,6 @@ COMICID_REGEX = re.compile(
 )
 SPACE_CLEANUP_REGEX = re.compile(r"(\s)+")
 
-DEBUG = True
-
 
 def splitline(text):
     # Lazier but works version - revert further if problematic
