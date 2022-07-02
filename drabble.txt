@@ -10367,3 +10367,4 @@ dr220628 -- OK, 10...9...8...7... - He'll never find us here! - ? ? - ZZYZX! Nev
 dr220629 -- Great shot, dad! You hit it right down the middle! - Which club do you want to use next? - I have no idea. - I'm not used to hitting balls from the fairway!
 dr220630 -- Relax, Wally. - It's not time for your dinner yet. - You still have a good half-hour! - Something tells me it won't be that good!
 dr220701 -- ROWF ROWF ROWF! - ROWF ROWF ROWF ROWF! - RROOOWFF! I've never seen a dog bark and yawn at the same time! Wally multitasks!
+dr220702 -- Wally, slow down! skattle skattle skattle skattle Chill out! - Relax! - You're talking to a dachshund!
