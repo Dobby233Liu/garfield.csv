@@ -10368,3 +10368,5 @@ dr220629 -- Great shot, dad! You hit it right down the middle! - Which club do y
 dr220630 -- Relax, Wally. - It's not time for your dinner yet. - You still have a good half-hour! - Something tells me it won't be that good!
 dr220701 -- ROWF ROWF ROWF! - ROWF ROWF ROWF ROWF! - RROOOWFF! I've never seen a dog bark and yawn at the same time! Wally multitasks!
 dr220702 -- Wally, slow down! skattle skattle skattle skattle Chill out! - Relax! - You're talking to a dachshund!
+dr220703 -- I'm ready to go! Me, too! Where's mom? - Beats me! She said we were leaving in five minutes! And that was ten minutes ago! - ...Sigh... * - I'm going to the bathroom. Me, too. - I'll get my doll! I'll make sure the back door is locked. - Why
+dr220703 -- are they never ready on time??

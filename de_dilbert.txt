@@ -10895,3 +10895,6 @@
 220701 -- ANGEGRIFFEN! Auf welcher Seite stehe ich nun?
 220702 -- Wir haben beschloseen, unsere Wahlmaschinen-Tochtergesellschaft mit unserem Pharma-Bereich und dem Ladengeschäft zusammenzulegen. - So haben wir bessere Aufstiegsmöglichkeiten für die Mitarbeiter, die keinen Sinn dafür haben, was richtig oder
 220702 -- falsch ist. - Das nennt man Synergie.
+220703 -- Ich möchte klarstellen, welche Art von Begrüssung ich bevorzuge. - Männer begrüsse ich bevorzugt mit einem Faustcheck oder mit einem High Five. - Frauen lieber mit einem klassischen Händedruck. - Es sei denn, die Frau ist besonders attraktiv,
+220703 -- dann behalte ich die Hände lieber an der Seite. - Denn es besteht ja die Chance, dass sie gern Leute umarmt. - Ich will cool wirken, falls sie den ersten Schritt macht. - Hat das jemals geklappt? Noch nicht. - Warum tun sie's dann? - Welchen
+227030 -- Teil von "Cool wirken" verstehen Sie nicht?
