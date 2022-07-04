@@ -10897,4 +10897,5 @@
 220702 -- falsch ist. - Das nennt man Synergie.
 220703 -- Ich möchte klarstellen, welche Art von Begrüssung ich bevorzuge. - Männer begrüsse ich bevorzugt mit einem Faustcheck oder mit einem High Five. - Frauen lieber mit einem klassischen Händedruck. - Es sei denn, die Frau ist besonders attraktiv,
 220703 -- dann behalte ich die Hände lieber an der Seite. - Denn es besteht ja die Chance, dass sie gern Leute umarmt. - Ich will cool wirken, falls sie den ersten Schritt macht. - Hat das jemals geklappt? Noch nicht. - Warum tun sie's dann? - Welchen
-227030 -- Teil von "Cool wirken" verstehen Sie nicht?
+220703 -- Teil von "Cool wirken" verstehen Sie nicht?
+220704 -- Wie finde ich einen höhere Sinn in meiner Arbeit? - Würden Sie eine Gehaltskürzung akzeptieren, wenn ich Ihnen eine sinnvollere Aufgabe zuteile? - Nein. Sie haben gerade den Marktwert von "Sinn" auf Null gesetzt.
