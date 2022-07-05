@@ -2,7 +2,7 @@ import re
 import csv
 import sys
 import traceback
-from quirk_fixer import find_first_comicid_quirkfix
+from garfieldcsv.quirk_fix_db import find_first_comicid_quirkfix
 
 
 SPLITLINE_REGEX = re.compile(r"(\s+|^)-(?!(-|)>)", flags=re.I)
@@ -48,7 +48,7 @@ def find_first_comicid(line):
         raise IndexError("Can't find comicid") from e
 
 
-def cleanup(input_file, output):
+def convert(input_file, output):
     def line_iterator(f):
         line = True
         while line:

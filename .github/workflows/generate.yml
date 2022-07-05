@@ -25,16 +25,17 @@ jobs:
         working-directory: ${{ runner.temp }}
 
       # cp1250 -sig utf-8
-      #- run: python enc_convert.py ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt cp858 utf-8
+      #- run: python -m garfieldcsv.enc_converter ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt cp858 utf-8
       - run: iconv -f ISO8859-15 -t UTF-8 ${{ runner.temp }}/${{ matrix.file }}.txt > ${{ matrix.file }}.txt
       - uses: actions/upload-artifact@v2
         with:
           path: ${{ matrix.file }}.txt
           name: original
 
-      - run: python main.py ${{ matrix.file }}.txt ${{ matrix.file }}.csv
+      - run: python setup.py install
+      - run: python -m garfieldcsv ${{ matrix.file }}.txt ${{ matrix.file }}.csv
       - continue-on-error: true
-        run: python sanitize.py ${{ matrix.file }}.csv
+        run: python -m garfieldcsv.sanitizer ${{ matrix.file }}.csv
 
       - uses: actions/upload-artifact@v2
         with:

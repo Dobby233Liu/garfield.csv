@@ -1,16 +1,17 @@
 """
-GUI for the convert module based on argparse.
+CLI for the convert module based on argparse.
 
 Usage:
 
 give -h as an argument while running this file
 """
 
-from argparse import ArgumentParser
+from argparse import ArgumentParser, ArgumentTypeError
 import sys
+from . import convert
 
 
-class FileTypeMy(object):
+class FileTypeMine(object):
     """Factory for creating file object types
 
     Instances of FileType are typically passed as type= arguments to the
@@ -29,7 +30,7 @@ class FileTypeMy(object):
             elif "w" in self._kwargs["mode"]:
                 return sys.stdout
             else:
-                msg = _('argument "-" with mode %r') % self._kwargs["mode"]
+                msg = 'argument "-" with mode %r' % self._kwargs["mode"]
                 raise ValueError(msg)
 
         # all other arguments are used as file names
@@ -37,7 +38,7 @@ class FileTypeMy(object):
             return open(string, *self._args, **self._kwargs)
         except OSError as e:
             args = {"filename": string, "error": e}
-            message = _("can't open '%(filename)s': %(error)s")
+            message = "can't open '%(filename)s': %(error)s"
             raise ArgumentTypeError(message % args)
 
     def __repr__(self):
@@ -58,21 +59,15 @@ parser = ArgumentParser(
 )
 parser.add_argument(
     "data",
-    type=FileTypeMy(mode="r", encoding="utf-8"),
+    type=FileTypeMine(mode="r", encoding="utf-8"),
     help="Filename for the original transcript",
 )
 parser.add_argument(
     "output",
-    type=FileTypeMy(mode="w", encoding="utf-8", newline=""),
+    type=FileTypeMine(mode="w", encoding="utf-8", newline=""),
     help="Filename for the CSV output",
 )
 
-from convert import cleanup
-
 if __name__ == "__main__":
-    # with sys.stdout if fn == "-" else open(fn, "w", encoding="utf-8", newline='') as w:
-    # QUIRK: we don't know the encoding
-    # with sys.stdin if datname == "-" else open(datname, 'r', encoding="latin-1") as f:
-    #  cleanup(f, w)
     args = parser.parse_args()
-    cleanup(args.data, args.output)
+    convert(args.data, args.output)
