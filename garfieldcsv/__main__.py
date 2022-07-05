@@ -8,7 +8,7 @@ give -h as an argument while running this file
 
 from argparse import ArgumentParser, ArgumentTypeError
 import sys
-from . import convert
+from garfieldcsv import convert
 
 
 class FileTypeMine(object):
