@@ -10371,3 +10371,4 @@ dr220702 -- Wally, slow down! skattle skattle skattle skattle Chill out! - Relax
 dr220703 -- I'm ready to go! Me, too! Where's mom? - Beats me! She said we were leaving in five minutes! And that was ten minutes ago! - ...Sigh... * - I'm going to the bathroom. Me, too. - I'll get my doll! I'll make sure the back door is locked. - Why
 dr220703 -- are they never ready on time??
 dr220704 -- HAPPY 4TH There, there...I know you don't like loud noises, but come out from under the couch! - Not until he stops barking! ROWF ROWF ROWF!
+dr220705 -- YIKES! - Help me with this!!
