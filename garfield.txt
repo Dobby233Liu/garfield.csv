@@ -16912,3 +16912,6 @@ ga220703 -- the pork chops for 12 hours in olive oil, maple syrup, balsamic vine
 ga220703 -- bip
 ga220704 -- We're making some changes her ein the country, folks. - From now on... - Roads will be paved with bacon! Best place to live ever!
 ga220705 -- Hi, fellas! - This is a special day at the diner. Oh, we know! - It's the semi-annual changing of the fryer grease!
+ga220706 -- - BOOT! - I hate it when he doesn't pay attention.
+ga220707 -- CRICK! - U-hoh! My back went out! Whatever will I do? - munch munch munch
+ga220708 -- Arlene! - You are twenty minutes late for our date! - How late were you? Only fifteen.

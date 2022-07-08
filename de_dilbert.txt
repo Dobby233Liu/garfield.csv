@@ -10901,3 +10901,8 @@
 220704 -- Wie finde ich einen höhere Sinn in meiner Arbeit? - Würden Sie eine Gehaltskürzung akzeptieren, wenn ich Ihnen eine sinnvollere Aufgabe zuteile? - Nein. Sie haben gerade den Marktwert von "Sinn" auf Null gesetzt.
 220705 -- Ich bin die Zahlen mal durchgegangen. Die Business-Strategie, die Sie vorschlagen, kann nicht funktionieren. - Ich habe unserem Geschäftsführer erzählt, wir haben schon damit begonnen und es läuft prächtig. - Kann ich diesen Erfolg auch auf
 220705 -- meine Fahnen schreiben? Nein, ich hasse Lügner.
+220706 -- Wenn ich eines hasse, dann sind es Lügner. - Sind Sie sich darüber im Klaren, dass Sie sechsmal pro Minute lügen? - Das können Sie nicht beweisen. Wir verfolgen das mit einer gemeinsam geführten Tabelle.
+220707 -- Ich habe gerade erfahren, dass meine Mitarbeiter meine Lügen in einer Tabelle zusammentragen. - Wird das ein Weckruf für Sie sein, den Angestellten gegenüber ehrlicher zu werden? - Ich habe ihnen erklärt, durch die gemeinsame Nutzung einer
+220707 -- Tabelle verbreiten sich die Affenpocken.
+220708 -- Ich habe den aktuellen Nettowert kalkuliert, Whistleblower zu werden und es mit meinem Job verglichen, in dem ich mich nur um meinen Kram schere. - Es stellte sich heraus, dass ich finanziell am besten dastehe, wenn ich Ihr Todfeind werde und
+220708 -- Sie es erst mitbekommen, wenn es zu spät ist. - Wie soll ich Ihnen jemals trauen? Eine fette Bonuszahlung könnte helfen.
