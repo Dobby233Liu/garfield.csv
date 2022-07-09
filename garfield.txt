@@ -16915,3 +16915,4 @@ ga220705 -- Hi, fellas! - This is a special day at the diner. Oh, we know! - It'
 ga220706 -- - BOOT! - I hate it when he doesn't pay attention.
 ga220707 -- CRICK! - U-hoh! My back went out! Whatever will I do? - munch munch munch
 ga220708 -- Arlene! - You are twenty minutes late for our date! - How late were you? Only fifteen.
+ga220709 -- Everything changes. - I wonder what it's like to swim through pudding. - Except Jon.
