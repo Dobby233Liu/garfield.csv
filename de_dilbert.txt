@@ -10911,3 +10911,5 @@
 220710 -- Wally, Sie haben unser Hauptziel in diesem Jahr verfehlt. Ich habe nichts "verfehlt", ich ahbe meinen Blick geschärft. - Sie...haben Ihren Blick geschärft? - Ganz genau. Mein ursprüngliches Ziel war es, all unsere Server zu aktualisieren. -
 220710 -- Aber dann habe ich mich daraif konzentriert, die Engpässe zu beseitigen. - Sie haben also Engpässe beseitigt? - Nein. Das kam mir zu schwierig vor. Deshalb habe ich mich darauf konzentriert, den ganzen Tag wach zu bleiben. - Sie sind also wach
 220710 -- geblieben? Ich hab's versucht, aber das ist schwerer, als ich dachte.
+220711 -- Wie läuft bei uns der Prozess der Entsorgung alter Computer ab? - Verstauen Sie ihn unter Ihrem Schreibtisch und warten Sie, bis Sie den Job wechseln oder in Rente gehen. - Wir brauchen eine bessere Methode. Gut, dann ist es jetzt Ihre
+220711 -- Aufgabe, eine zu finden.
