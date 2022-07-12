@@ -10378,4 +10378,5 @@ dr220708 -- Share the pool noodle, Patrick! I will! - Here you go!
 dr220709 -- This is an exciting time of year! - Yeah, the weather is warm, and baseball season is in full swing! And Bulk Club starts selling Halloween candy next month!
 dr220710 -- Thanks for the pizza, Norman! Allow me to help you with, your jacket, Echo! - Thank you! Put your right arm in first. Wait, what? OK. - Now I can't find my other sleeve! Oops! Put your left arm in here! Like this? No, like this... - Well,
 dr220710 -- this should be a fun walk home! ?
-dr220711 -- Whaew! What a day at work! - - After a hard day, it's nice to come home to a sympathetic dog! Is there anyone you'd like me to bite?
+dr220711 -- Whew! What a day at work! - - After a hard day, it's nice to come home to a sympathetic dog! Is there anyone you'd like me to bite?
+dr220712 -- - YEESH! - The past six months have not been kind to me. - The first 47 years weren't a walk in the park, either!

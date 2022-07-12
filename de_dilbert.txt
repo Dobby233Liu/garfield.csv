@@ -10913,3 +10913,5 @@
 220710 -- geblieben? Ich hab's versucht, aber das ist schwerer, als ich dachte.
 220711 -- Wie läuft bei uns der Prozess der Entsorgung alter Computer ab? - Verstauen Sie ihn unter Ihrem Schreibtisch und warten Sie, bis Sie den Job wechseln oder in Rente gehen. - Wir brauchen eine bessere Methode. Gut, dann ist es jetzt Ihre
 220711 -- Aufgabe, eine zu finden.
+220712 -- Die Mitarbeiter, die an Ihren Zoom-Meetings teilnehmen, beschweren sich, sie fühlten sich ignoriert. - Das ist Teil meines Plans, sie zu zwingen, wieder ins Büro zu kommen, ohne dass es es so aussieht, als wäre es meine Schuld. - Ich wünschte,
+220712 -- ich wüsste nichts davon. Ich nenne das "aufgeklärtes Management."

@@ -14075,3 +14075,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220710 -- Wally, you failed at your primary goal for the year. - I didn'r "fail." I sharpened my focus. - You...sharpened your forus? - That's right. my original goal was to upgrade all of our servers. - But then I sharpened my focus to removing the
 220710 -- bottlenecks. - So...your emoved the bottlenecks? - No. That seemed too hard, so I sharpenede my focus to staying awake during the workday. - So, you stayed awake... I tried, but it was harder than it looked.
 220711 -- What's our process for discarding old computers? - Stuf fit under your desk and wait until you change jobs or retire. - We need a better process than that. Okay, you're in charge of creating it.
+220712 -- The employees who attend your meetings on Zoom are complaining  they feel ignored. - It's part of my plan to make then commute to the office without making it look like my fault. - I wish I didn't know that. It's called "Enlightened
+220712 -- Management."
