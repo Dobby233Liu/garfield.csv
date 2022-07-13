@@ -14077,3 +14077,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220711 -- What's our process for discarding old computers? - Stuf fit under your desk and wait until you change jobs or retire. - We need a better process than that. Okay, you're in charge of creating it.
 220712 -- The employees who attend your meetings on Zoom are complaining  they feel ignored. - It's part of my plan to make then commute to the office without making it look like my fault. - I wish I didn't know that. It's called "Enlightened
 220712 -- Management."
+220713 -- I've been asked to lay off ten percent of my employees so the company can stay solvent during the downturn. - I can't tell who is doing a good job, so my plan is to fire the first person who asks me a dumb question. - What if the question isn't
+220713 -- dumb? We have a winner.
