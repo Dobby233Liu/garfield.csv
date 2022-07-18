@@ -10386,4 +10386,5 @@ dr220715 -- What kind of dinner would you like tonight, Ralph? Triangular food. 
 dr220716 -- Is it time to feed me? - You just had your dinner! - I did? ...Sigh... - That must be why I'm standing here!
 dr220717 -- RALPH DRABBLE: PARK RANGER - Informative Almost 95% of the park is designated wilderness. It is known for its granite cliffs, clear streams, giant sequoia s, lakes, mountains, waterfalls. I just wanted to know where the bathroom is! - Shares
 dr220717 -- His Knowledge Do not Feed the Animals. But OK to feed rangers! - Here to assist Say "Cheese!" - Help Visitors to find parking places on busy days OK, you're good. - Finds wonders in natue Whoa! Another dollar! - Worked remotely during the
-dr220717 -- oandemic Pick that up!
+dr220717 -- pandemic Pick that up!
+dr220718 -- ZZYZX - I hate it when he takes all the covers!
