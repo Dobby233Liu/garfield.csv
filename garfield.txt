@@ -16935,3 +16935,4 @@ ga220724 -- Z - Z - - Z - - Z - Cat snooze alarm.
 ga220725 -- Monday... - - Side effects include headache, nausea, fatigue and general apathy.
 ga220726 -- Have you been harassed, barked at or chased up a tree? - You could be entitled to compensation. - Camm Mr. Whiskers, cat attorney. Ooh, they pay the settlements in tuna!
 ga220727 -- "Dear Ask A Dog, if you were a millionaire, what would you do?" - Bark! Bark! Bark! - Drink from a toilet. Bark! Bark! Bark! Bark! - A platinum toilet, with gold filagree and diamond inlay.
+ga220728 -- Happy birthday, Jon. - - What? I was told there would be cake.
