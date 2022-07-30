@@ -16937,3 +16937,4 @@ ga220726 -- Have you been harassed, barked at or chased up a tree? - You could b
 ga220727 -- "Dear Ask A Dog, if you were a millionaire, what would you do?" - Bark! Bark! Bark! - Drink from a toilet. Bark! Bark! Bark! Bark! - A platinum toilet, with gold filagree and diamond inlay.
 ga220728 -- Happy birthday, Jon. - - What? I was told there would be cake.
 ga220729 -- Are you scared of ghosts, Liz? - No. - She's so brave. She does date you.
+ga220730 -- Dogs are a lot like people. - - Bark! Bark! Bark! No, I won't take that back.

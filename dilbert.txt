@@ -14099,3 +14099,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220727 -- Did you approve my request for funding? - No, I need you to fill out an auxiliary purchase preferred vendor waiver request form. - Where do I get one of these? The best I can do is send you the wrong link.
 220728 -- I'm forming a Long Covid support group to fight against motivated privilege. - We will be demanding naps instead of goals and reparations from the healthy. - How will I know who has Long Covid? Look for nappers.
 220729 -- I'm recruiting for my Long Covid support group. - That sounds like an obvious scam to let you take naps at work. - Let's agree we disagree on the "obvious" part.
+220730 -- I want our company to fund my new support group for employees with Long Covid symptoms. - We need pillows, blankets, daily shoulder massages, and shorter hours. - You asked for all of there sthings before you got Covid. Don't hate me for being
+220730 -- consistent.
