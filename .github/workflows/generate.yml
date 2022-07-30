@@ -10,11 +10,24 @@ jobs:
   generate-csv:
     name: Generate CSVs
     runs-on: ubuntu-latest
+
     strategy:
       fail-fast: false
       matrix:
-        file: [de_dilbert, dilbert, drabble, garfield, Tom]
+        include:
+          - file: de_dilbert
+            encoding: ISO8859-15
+          - file: dilbert
+            encoding: ISO8859-15
+          - file: drabble
+            encoding: ISO8859-15
+          - file: garfield
+            encoding: ISO8859-15
+          - file: Tom
+            encoding: UTF-8
+
     steps:
+
       - uses: actions/checkout@v2
 
       - uses: actions/setup-python@v2
