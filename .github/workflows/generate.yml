@@ -22,7 +22,7 @@ jobs:
           - file: drabble
             encoding: ISO8859-15
           - file: garfield
-            encoding: ISO8859-15
+            encoding: windows-1250
           - file: Tom
             encoding: UTF-8
 
