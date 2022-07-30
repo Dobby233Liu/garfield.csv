@@ -37,9 +37,7 @@ jobs:
       - run: wget http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/${{ matrix.file }}.txt
         working-directory: ${{ runner.temp }}
 
-      # cp1250 -sig utf-8
-      #- run: python -m garfieldcsv.enc_converter ${{ runner.temp }}/${{ matrix.file }}.txt ${{ matrix.file }}.txt cp858 utf-8
-      - run: iconv -f ISO8859-15 -t UTF-8 ${{ runner.temp }}/${{ matrix.file }}.txt > ${{ matrix.file }}.txt
+      - run: iconv -f ${{ matrix.encoding }} -t UTF-8 ${{ runner.temp }}/${{ matrix.file }}.txt > ${{ matrix.file }}.txt
       - uses: actions/upload-artifact@v2
         with:
           path: ${{ matrix.file }}.txt
