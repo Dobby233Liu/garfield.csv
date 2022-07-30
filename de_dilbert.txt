@@ -10734,7 +10734,7 @@
 220330 -- Eilmedung: Eine neue Studie belegt, daß alle Studien in die Irre führen. - Floop! - Sein Hirn hat sich im Schädel verdreht. Wenn sich das Stammhirn wieder auseinanderwickelt, geht's ihm wieder gut.
 220331 -- Nach meinem Herzinfarkt war ich für drei Minuten klinisch tot, bis mich die Ärzte wiederbelebt haben. - Woher weiß ich. daß Sie wirklich Sie selbst sind, und kein Dämon, der Ihre seelenlose Hülle benutzt, um auf die Ebene der Sterblichen zu
 220331 -- gelangen? - Würde ein Dämon Ihnen erlauben, im Pausenraum eine Geburtstagstorte zu essen? Ich denke, ein Dämon würde sogar darauf bestehen.
-220401 -- Die Berichte der Mitarbeiter erreichen mich nicht rechtzeitig. - Erstellen Sie einen Bericht, der die GrĂĽnde dafĂĽr benennt. - FĂ¤llt Ihnen sonst nichts ein, wie Sie meine Zeit verschwenden kĂ¶nnen? - Das entscheidet sich spontan.
+220401 -- Die Berichte der Mitarbeiter erreichen mich nicht rechtzeitig. - Erstellen Sie einen Bericht, der die GrĂ¼nde dafĂ¼r benennt. - FĂ¤llt Ihnen sonst nichts ein, wie Sie meine Zeit verschwenden kĂ¶nnen? - Das entscheidet sich spontan.
 220402 -- Ich bin Dilberts neuer Telepräsenzeroboter. Er wird in ein paar Minuten online sein. - Sie fragen sich wahrscheinlich, ob ich mich mißbraucht fühle, wenn er mir innewohnt. - Das frage ich mich eigentlich nicht. Oh, stimmt ja, ich vergaß...für
 220402 -- Sie bin ich nur Schrott.
 220403 -- Könnten Sie Larry um ein Feedback vom Marketing bitten? - Larry ist ein Trottel. - Dann fragen Sie jemand anderen aus der Abteilung. Das sind auch alles Idioten. - Alle? Ja, so ist das nunmal. - Larry ist ein Trottel und arbeitet im Marketing.
