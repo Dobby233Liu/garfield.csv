@@ -13,7 +13,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        file: [de_dilbert, dilbert, drabble, garfield]
+        file: [de_dilbert, dilbert, drabble, garfield, Tom]
     steps:
       - uses: actions/checkout@v2
 
