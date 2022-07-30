@@ -1591,6 +1591,16 @@ comicids_fix = {
         -1,
     ),
     # TODO - search on lasagna.cz or GoComics
+    # Tom
+    # FIXME: I have no idea what this is
+    "19979618 -- Woher stammt also die Bezeichnung \"Barbar\"? -Einzer? Von den Bärten der wilden Männer des Nordens! - Sehr gut! -Was verstehen wir unter einem \"Akt der Barbarei\"? -Huschke? - Die Socken in den Sandalen der wilden Männer des Nordens...": (
+        "19970618",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
 }
 
 
