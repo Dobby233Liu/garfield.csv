@@ -10734,7 +10734,7 @@
 220330 -- Eilmedung: Eine neue Studie belegt, daß alle Studien in die Irre führen. - Floop! - Sein Hirn hat sich im Schädel verdreht. Wenn sich das Stammhirn wieder auseinanderwickelt, geht's ihm wieder gut.
 220331 -- Nach meinem Herzinfarkt war ich für drei Minuten klinisch tot, bis mich die Ärzte wiederbelebt haben. - Woher weiß ich. daß Sie wirklich Sie selbst sind, und kein Dämon, der Ihre seelenlose Hülle benutzt, um auf die Ebene der Sterblichen zu
 220331 -- gelangen? - Würde ein Dämon Ihnen erlauben, im Pausenraum eine Geburtstagstorte zu essen? Ich denke, ein Dämon würde sogar darauf bestehen.
-220401 -- Die Berichte der Mitarbeiter erreichen mich nicht rechtzeitig. - Erstellen Sie einen Bericht, der die GrÃŒnde dafÃŒr benennt. - FÃ€llt Ihnen sonst nichts ein, wie Sie meine Zeit verschwenden kÃ¶nnen? - Das entscheidet sich spontan.
+220401 -- Die Berichte der Mitarbeiter erreichen mich nicht rechtzeitig. - Erstellen Sie einen Bericht, der die GrĂĽnde dafĂĽr benennt. - FĂ¤llt Ihnen sonst nichts ein, wie Sie meine Zeit verschwenden kĂ¶nnen? - Das entscheidet sich spontan.
 220402 -- Ich bin Dilberts neuer Telepräsenzeroboter. Er wird in ein paar Minuten online sein. - Sie fragen sich wahrscheinlich, ob ich mich mißbraucht fühle, wenn er mir innewohnt. - Das frage ich mich eigentlich nicht. Oh, stimmt ja, ich vergaß...für
 220402 -- Sie bin ich nur Schrott.
 220403 -- Könnten Sie Larry um ein Feedback vom Marketing bitten? - Larry ist ein Trottel. - Dann fragen Sie jemand anderen aus der Abteilung. Das sind auch alles Idioten. - Alle? Ja, so ist das nunmal. - Larry ist ein Trottel und arbeitet im Marketing.
@@ -10850,7 +10850,7 @@
 220605 -- Klicken Sie hier, um einen Bestätigungscode per E-Mail zu erhalten. - Netter Versuch. Ich weiß, daß mir keiner einen Code schickt. Sie schicken nie eine Code. - Diesmal ganz bestimmt versprochen! - Das glaube ich nicht! Ich sitze dann hier,
 220605 -- prüfe ständig meinen Posteingang-und er kommt doch nie! - Sie sollten auch im Spam-Ordner nachsehen. - ICH SEHE AUCH IM SPAM-ORDNER NACH! UND NIE KOMMT WAS AN!! - Diesmal aber doch. Ich verspreche es. OKay, okay. - Zwei Stunden später KLICK
 220605 -- KLICK KLICK KLICK KLICK KLICK KLICK KLICK KLICK KLICK KLICK KLICK
-220606 -- Die Daten der klinischen Studie belegen, dass unsere neue Pille den Leuten ein Geweih wachsen und sie tot umfallen lÃ€sst. - URK! - Das könnte die überzeugendste Präsentation sein, die ich je gesehen habe.
+220606 -- Die Daten der klinischen Studie belegen, dass unsere neue Pille den Leuten ein Geweih wachsen und sie tot umfallen lĂ¤sst. - URK! - Das könnte die überzeugendste Präsentation sein, die ich je gesehen habe.
 220607 -- Eine Studie besagt, daß unsere neue Pille zwar keine Kopfschmerzen heilt, aber 25% der Menschen, die sie einnehmen, tötet. - Verdoppeln Sie die Dosis und deklarieren tote Menschen als "geheilt". - Das erscheint mir unmoralisch. Haben Sie
 220607 -- schonmal eine tote Person mit Kopfschmerzen gesehen?
 220608 -- Auf Twitter wird die Sicherheit unserer neuen Pille infrage gestellt. - Sagen Sie denen, daß die Daten, die sie verwenden, Fake sind. - Sie verwenden unsere Daten. Daher weiss ich ja, dass sie Fake sind.
@@ -10867,7 +10867,7 @@
 220613 -- "Danke" zu sagen?
 220614 -- Alice, Sie können nicht jeden Tag im Homeoffice arbeiten. - Wieso nicht? Meine Kollegen sind zu 80% nicht zu gebrauchen, und 20% haben Covid. - Sie hatte gute Argumente.
 220615 -- Ich habe Angst, dass mein Gehirn nach der Corona-Infektion benebelt sein könnte. - Woran würden wir den Unterschied erkennen? - Hä? Sehen Sie, genau das meine ich.
-220616 -- Seit durch Corona Ihr Hirn benebelt ist, haben Sie die besten Entscheidungen getroffen. - In Ihrem Fall ist dieser NebenŽl vielleicht eine Verbesserung. - Mag sonst noch jemand Käse? Sie kommunizieren jetzt auch viel besser.
+220616 -- Seit durch Corona Ihr Hirn benebelt ist, haben Sie die besten Entscheidungen getroffen. - In Ihrem Fall ist dieser Neben´l vielleicht eine Verbesserung. - Mag sonst noch jemand Käse? Sie kommunizieren jetzt auch viel besser.
 220617 -- Ich wurde positiv auf Corona getestet, daher bleibe ich für zehn Tage zu Hause. - Das klingt hochgradig verdächtig, denn das ist das siebte Mal, dass Sie in diesem Jahr Corona haben. - Dies ist nicht der richtige Zeitpunkt, um an der
 220617 -- Wissenschaft zu zweifeln.
 220618 -- Warum sind Sie mit Ihrem Projekt zu spät dran, Dave? - Probleme mit der Lieferkette, Klimawandel, systemischer Rassismus, Corona und irgendwas mit Inflation. - Ich weiss nie, ob Sie gerade scherzen. Das mag ich so sehr an Ihnen.
