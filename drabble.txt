@@ -9930,7 +9930,7 @@ dr210523 -- OK, let's go! Wait for me in the car. I need to use the restroom. - 
 dr210523 -- DOESN'T WORK! - What's the men's room code again? 24703. - Number 209! 20903. - What on earth could be taking him so long? Well, it IS Norman, remember!
 dr210524 -- I've decided to become popular on twitter by telling jokes! - How much does a pirate pay for an ear of corn? - A dollar a cob! - You were supposed to say a buccaneer! Dang! I just lost my follower!
 dr210525 -- We have nothing in common. You're cool but I'm a nerd. At least I have a pet duck who loves me! - JINX!
-dr210526 -- - - Never trust a smiling dog. Don't go in th kitchen, OK?
+dr210526 -- - - Never trust a smiling dog. Don't go in the kitchen, OK?
 dr210527 -- SIT! - Good boy! - SIT! - Good boy! He sure gets tired a lot!
 dr210528 -- Feed me or I'll cough up a fur ball! - Here's your dinner, Oogie! - I think I'll cough up a fur ball anyway. Tell me again why we bought a cat.
 dr210529 -- WHIRRRRRR... ZZYZX - 'atta boy! Chicken!
@@ -9943,11 +9943,11 @@ dr210604 -- I'll have a burger and fries! - What would you like, honeybunch? - I
 dr210604 -- and fries, too!
 dr210605 -- Another beautiful morning! So long, Wally. - I'm off to the rat race! Take me with you. I'd win!
 dr210606 -- Good heavens! - How on earth did you get in there?? - Daddy will take you home now! Veterinary - It's just the vacuum! - Sigh... - Is your dog a rescue? Every day! GRRRR...
-dr210607 -- SLOW DOWN!! - WATCH WHERE YOU'RE GOING! - I'm obviously the only sane person on the road today! - ...sais the guy who yells to himself. WHAT'S WRONG WITH EVERYONE?!!
+dr210607 -- SLOW DOWN!! - WATCH WHERE YOU'RE GOING! - I'm obviously the only sane person on the road today! - ...said the guy who yells to himself. WHAT'S WRONG WITH EVERYONE?!!
 dr210608 -- What are you staring at, dad? - Why does our neighbor always mow his lawn in a dress shirt and slacks? - Weird! - The least he could do is wear a tie!
 dr210609 -- Eat your carrots, Penny! I don't like carrots! - Just eat this much! No! I won't! - Penny has a strong will. She has a stronger WON'T!
-dr210610 -- Sit, Wally! Sit! - Wally! Come back here! I'm not sure obedience scholl on Zoom is a great idea!
-dr210611 -- - Hi, dad! Hello, son. - Why are you walking the vavcuum? huh? Oh, I guess I got distracted. WHIRRRR
+dr210610 -- Sit, Wally! Sit! - Wally! Come back here! I'm not sure obedience school on Zoom is a great idea!
+dr210611 -- - Hi, dad! Hello, son. - Why are you walking the vacuum? huh? Oh, I guess I got distracted. WHIRRRR
 dr210612 -- GRRRR! - sniff sniff sniff - Hello! - How could you tell he was nice by smelling him? No badgers detected!
 dr201613 -- Darn! Someone left the hose out! - RALPH! WE'RE LATE FOR CHURCH! LET'S GO! - I'LL BE RIGHT THERE! CRANK CRANK! CRANK! - I NEED TO WIND UP THE HOSE! CRANK CRANK CRANK - ALMOST DONE! CRANK CRA... - AAAKK! - ...Sigh...
 dr210614 -- WALLY! HOW MANY TIMES HAVE I TOLD YOU NOT TO GET INTO THE KITCHEN TRASH?!! - Just today? eleven.
@@ -9955,7 +9955,7 @@ dr210615 -- Sorry, Wally... - You're not allowed in the kitchen. - It's nothing 
 dr210616 -- honeybunch, I bought a new kitchen trash can that Wally can't get into! - The lid onöy opens with a food pedal! - It's dog proof! - Take it back and get one that's WIENER dog-proof!
 dr210617 -- Honeybunch, I have finally succeeded in making the kitchen trash can Wally-proof! - I built a cage around it! - There's no way Wally can get into it now! He'd have to... - DANG! Wally loves a challenge!
 dr210618 -- Wally sure keeps me on my toes! - I can't take my eyes off him! He'll get into everything! - Fast, sneaky, and doesn't understand the word "no." - Having a dachshund is like having two-year-old twins! CRASH!
-dr210619 --- Happy Father's Day, mom! Mom gets a Father's Day card?? - Sure! She always works hard on Father's Day! She waraps presents and bakes a cake! - She deserves recognition! So, what can we do for you on Father's Day, mom? Breakfast in bed would
+dr210619 --- Happy Father's Day, mom! Mom gets a Father's Day card?? - Sure! She always works hard on Father's Day! She wraps presents and bakes a cake! - She deserves recognition! So, what can we do for you on Father's Day, mom? Breakfast in bed would
 dr210619 -- be nice!
 dr210620 -- click! - WHIRRRRRRRRR - WALLY RRRRRRRRR - RRRRRRRRRRRR skattle skattle skattle! - RRRRRRRRRR - RRRRRRRRRRRRRR! - Indiana Jones would be proud!
 dr210621 -- I thought of a gift I might like for Christmas, honeybunch! - Why do you always wait until the last minute to give me gift ideas?? - Christmas is six months away! - You know I like to shop early! ...Sigh...
@@ -9972,7 +9972,7 @@ dr210701 -- Whoops! - Sorry, Steinbauer! It's been a long time since I played co
 dr210702 -- Food, food, food! Is that all you ever thinggkk aphouupph? - Sorry, I had my mouth full!
 dr210703 -- HAPPY 4th - -
 dr210704 -- I love the fourth of July! - Hot dogs, games, fireworks... - And a big picnic in the park with friends and neighbors! - It's been a tough year, but no one can dampen my enthusiasm! - Except for whoever programmed the sprinklers to come on!
-dr210705 -- Welcome to Polecat National Park! - Mountain lions may be present and are unpredictable. - They have been known to attack witout warning. Your safety cannot be guaranteed. - Have a nice day!
+dr210705 -- Welcome to Polecat National Park! - Mountain lions may be present and are unpredictable. - They have been known to attack without warning. Your safety cannot be guaranteed. - Have a nice day!
 dr210706 -- The beauty of our national park is astounding! - Yeah, that must be why it's so crowded every summer! - They should cut down some of these trees and build another parking lot!
 dr210707 -- When exploring a national park, find a good walking stick! - It helps you keep your balance over rugged terrain! - It's also good for fending off dangerous animals! -
 dr210708 -- This national park is a work of art! Art? Who's Art?? - The views are breathtaking! I don't want my breath to be taken! HA! - You need to experience the wonders of nature! We are! We're wondering what we're doing here! - Keep trying, dad! I
@@ -9996,7 +9996,7 @@ dr210724 -- Ralph! What are you eating? We're having dinner in five minutes! - O
 dr210725 -- Outta my way! I'm late for work! - WHOA! Slow down! - Back off! - WATCH WHERE YOU'RE GOING! - beep beep! - Thank goodness I don't work from home. There's much less traffic on my commute!
 dr210726 -- Kids, I'm happy to announce that I'm making a career change! I have found my dream job! - I'm going to be a PARK RANGER! I always assumed his dream job would involve donuts!
 dr210727 -- That's right, kids! I'm officially a National Park Ranger! - How could you become a park ranger, dad? - I thought it required years of college courses! - Thank goodness for Zoom!
-dr210728 -- A park ranger? What qualifications do you have to be a park ranger? - Are you kidding? I know that park like the back of my hand! - You got los there two weeks ago! - They gave me my own map! I only found you because I heard you crying!
+dr210728 -- A park ranger? What qualifications do you have to be a park ranger? - Are you kidding? I know that park like the back of my hand! - You got lost there two weeks ago! - They gave me my own map! I only found you because I heard you crying!
 dr210729 -- But dad, in order to be a park ranger, you need to know a lot about wildlife! - Son, I've been a mall cop, an airport screener, and a pro wrestler! - Believe me, I'm a wildlife expert! He has a point!
 dr210730 -- I became a park ranger to enjoy nature... - And get away from the hustle and bustle of city life! - I never thought I'd be directing traffic!
 dr210731 -- I can't wait to see dad on duty as a park ranger! - Today he's working at the entrance! - What the... I'm back from lunch! Thanks for filling in! WELCOME
@@ -10009,7 +10009,7 @@ dr210806 -- I think I'm getting cranky in my old age! Don't be silly, dear! - Yo
 dr210807 -- Sorry, Wally... - I'm not feeding YOU! - I'm feeding the cat! - That works too!
 dr210808 -- YOGURT - That'll be $7.50! You can swipe your card there. - If you'd like to include a tip, you can tap 18%, 20%, 25%, or more! - Why would I include a tip?? - I got my own yogurt! you didn't do anything! - You didn't even say hello when I
 dr210808 -- came in! - Hello. OK, but only 25%!
-dr210809 -- I'm offended, Ralph! - You didn't wishe me a happy birthday! - Is today your birthday? - No, but YOU didn't know that!
+dr210809 -- I'm offended, Ralph! - You didn't wish me a happy birthday! - Is today your birthday? - No, but YOU didn't know that!
 dr210810 -- XMAS Decorations - Too early. But it'll be labor day before we know it!
 dr210811 -- Here's your pizza: half cheese and the other half, the works! - I think we've finally found an area where we don't think alike! You can have one of my cheese slices because your mushrooms are touching it!
 dr210812 -- BAP! - - CLOMP! - Now I know why tennis balls come in cans of three!
@@ -10018,7 +10018,7 @@ dr210814 -- Wally, knock it off! ROWF! skattle skattle skattle - These are the d
 dr210815 -- WALLY! - WALLY! - WALLY! SNARF SNARF SNARF - WALLY! POP! - WALLY! - WALLY! SNARF! - What's going around here?? skattle skattle skattle It's called the Dog Days of Summer!
 dr210816 -- DING DONG! * - Beef jerky, minidonuts, barbecue potato chips... - A grape slush, sunflower seeds, and a chocolate pop tart! Thanks. - Dad's the only guy who gets doordashes from the truck stop.
 dr210817 -- Mom, dad... - I have some news to share. - News that you may find shocking. - So maybe I'd better sit down!
-dr210818 -- I want to quit college. WHAT? WHY?? - I'm not larning much. I'm just getting more confused! - What will you do instead? Do you have a plan? Of course! - For starters, I'm going to join a softball league!
+dr210818 -- I want to quit college. WHAT? WHY?? - I'm not learning much. I'm just getting more confused! - What will you do instead? Do you have a plan? Of course! - For starters, I'm going to join a softball league!
 dr210819 -- Norman, why would you want to drop out of college?? - You've been there for so long! - And do I seem any smarter? - Well... He's got a point there!
 dr210820 -- Ralph, go talk Norman out of quitting college! - Norm, we don't want you to quit college! - But think of all the money you'd save on tuition, dad! - Well? Sorry, honeybunch. I gave it my best shot!
 dr210821 -- I'm taking a break from college. I need to see what the world has to offer! - Maybe I'll succeed at something, and maybe one success will lead to another! - If I'm wrong, I can always go back next semester! - What do you think? I think you're
@@ -10033,7 +10033,7 @@ dr210828 -- Do any other animals around here talk? - The chipmunks, but don't ge
 dr210829 -- Halloween candy? - IT'S AUGUST!! - Why are they selling Halloween candy already?? It's two months away! - It's ridiculous! Every year they start selling candy earlier and earlier! - Well, I absolutely refuse to buy Halloween candy in August!
 dr210829 -- Ooooh! Christmas wrapping paper! NOEL HO HO HO
 dr210830 -- I need to find a job. I'll start at the bottom and work my way up! - So, where could I work my way up the ladder? - That's it! A hardware store!
-dr210831 -- Guess what! I got a job at the hardwar estore! - "Ask me"?? Norm, you don't know anything about hardware! - That's the beauty of it, dad! - By the end of the week, I'll be an expert! If he lasts that long!
+dr210831 -- Guess what! I got a job at the hardware store! - "Ask me"?? Norm, you don't know anything about hardware! - That's the beauty of it, dad! - By the end of the week, I'll be an expert! If he lasts that long!
 dr210901 -- Where would I find nails? - Oh, you'd find them in wood fences, and at construction sites. - - I'll ask someone else. In skateboard ramps, too!
 dr210902 -- How do you like working at the hardware store, Norm? It's a challenge. - Tomorrow I have to assemble ten barbecues! - Do you want me to come help you? Absolutely not, dad! I'd NEVER ask you for help! - Mom, will you come help me tomorrow?
 dr210903 -- How are the barbecues coming along, Drabble? - The assembly instructions are hard to follow because they're in another language! - The English instructions are on the back! Now you tell me!
@@ -10043,23 +10043,23 @@ dr210905 -- Fan Appreciation Day
 dr210906 -- Whoops! - I guess you were right, Dad. - You can't barbecue spaghetti! Some people are determined to learn things the hard way!
 dr210907 -- Ever wonder what your dog does when you're not home? - We sit and stare at the door, waiting for you to come home! - - A watched door never opens!
 dr210908 -- Who will feed me? Are they ever coming back? Who'll feed me? Did they move and forget to take me with them? Who will feed me? - A lot of things run through you dog's mind when you're gone!
-dr210909 -- I'll sit here and stare at the door until someone comes home. - I HATE being alone! - In case you're wondering, when the people agre gone, the cat's in charge! - I hate being alone with the cat even more.
+dr210909 -- I'll sit here and stare at the door until someone comes home. - I HATE being alone! - In case you're wondering, when the people are gone, the cat's in charge! - I hate being alone with the cat even more.
 dr210910 -- - - - It's hard to yawn with a tennis ball in your mouth!
 dr210911 -- ROWF ROWF ROWF ROWF!! - WALLY; GO TO SLEEP! THERE ARE NO BADGERS OUTSIDE! - Isn't it nice to know that someone is protecting us while we sleep? - Who's sleeping? Certainly not the badgers!
 dr210912 -- HUMMMMMMM - Oh no! - Scooter ran away from home! - Vacuums don't run away! Whatever! - How will we ever find him? - Follow his tracks! Tracks?? - Thank goodness the leaves are falling!
 dr210913 -- Dad, I just read that a man your age should drink at least 64 ounces of water per day! O do! - You do?? If you count the water in my root beer!
-dr210914 -- And now for the whippes ice cream! shake shake - SHOOOP! - I like it when dad makes dinner! SHOOP! Wait 'til you see the dessert!
+dr210914 -- And now for the whipped ice cream! shake shake - SHOOOP! - I like it when dad makes dinner! SHOOP! Wait 'til you see the dessert!
 dr210915 -- Hey, Ralph! Hello, Steinbauer. - What are you doing tonight? - I'll tell you what I'm doing after you tell me why you're asking. - I need help moving a big... I'M SICK IN BED!
 dr210916 -- Welcome to Polecat National Park! Enjoy your day, and no photos please! - NO PHOTOS?? Just kidding!
 dr210917 -- Where would I find door mats? I have no idea. - Ask me something else! - How did you get hired? I filled out an application. - This job is so easy!
 dr210918 -- POP! - BLAM! - KABLOOIE! - Summer's over!
 dr210919 -- I must say, Ralph... - You look pretty good for a man of sixty! - I'm forty-seven! Yeah, I know. You look even better for a man of seventy-five!
-dr210920 -- WALLY It's Saturday!! - It's Sturday! It's Saturday! - It's Saturday! - Actually, it's Monday. When you're a dog, every day is Saturday!
+dr210920 -- WALLY It's Saturday!! - It's Saturday! It's Saturday! - It's Saturday! - Actually, it's Monday. When you're a dog, every day is Saturday!
 dr210921 -- STOMP STOMP SLAM! - BANG! STOMP! THUMP! - Something wrong, honeybu...oh. * la la * BANG! - It's always hard to tell if she's mad or just wearing ear buds!
 dr210922 -- Hey, Alexis! - Aw, just a ding-dang minute... - OK, speak up, sonny! The meter's running! - I think our Alexis is old! Ask me something about the 1980s!
 dr210923 -- Motion-sensor outdoor security lights are on sale. - We should get one! - ROWF ROWF ROWF ROWF ROWF!! - Why? Good point.
-dr210924 -- Hey, Alexis! What's the weather like right now? - Muffle muffle muffle muffle ? - We can't be too careful! miffle muffle
-dr210925 -- The grocery store had candy corn on sale, honeybinch! Three bags for five bucks! - How come one of these bags is empty? WHAT?! I'm gonna march right back to that store and tell them! Better get the orange out of your teeth first!
+dr210924 -- Hey, Alexis! What's the weather like right now? - Muffle muffle muffle muffle ? - We can't be too careful! muffle muffle
+dr210925 -- The grocery store had candy corn on sale, honeybunch! Three bags for five bucks! - How come one of these bags is empty? WHAT?! I'm gonna march right back to that store and tell them! Better get the orange out of your teeth first!
 dr210926 -- DON'T! - Donuts DON'T DON'T DON'T! - DON'T DON'T DON'T DON'T DON'T DON'T - Don't? DON'T! - I couldn't resist! The only thing that turns a "DON'T" into a "DONUT" is "U"!
 dr210927 -- - - - That escalated quickly!
 dr210928 -- - - How's your autumn going?
@@ -10071,7 +10071,7 @@ dr211103 -- Time to get on the scale. - - WHOOOFFPP! - - PHEEEWW! - It doesn't h
 dr211104 -- Ding! A tweet from Wendy! - Norman, please unfollow me. - tap tap tap Why? - Because you're getting on my nerves!
 dr211105 -- October! - When the leaves turn colors. - And my thoughts... - Turn to candy corn!
 dr211106 -- More candy for the trick-or-treaters, Ralph? - Didn't you just buy Halloween candy last week? - Yes, but I underestimated. - ...how much of it I would eat myself.
-dr211007 -- Steinabuer, I know we've never seen eye to eye... - How would you like to come over and watch the baseball game with me? - Sure, Ralph! I'm excited about the game today! Me too! - My team is gonna OBLITERATE your team! Wait, what?
+dr211007 -- Steinbauer, I know we've never seen eye to eye... - How would you like to come over and watch the baseball game with me? - Sure, Ralph! I'm excited about the game today! Me too! - My team is gonna OBLITERATE your team! Wait, what?
 dr211008 -- How can you bear to watch your team lose like this, Ralph? - HAHA! You guys STINK! - I TOLD you your bullpen would blow it! HA HA HA HA!! - Say, you got any more of this guacamo... NO!
 dr211009 -- - - PLEASE CLOSE THE DOOR NEXT TIME!
 dr211010 -- Z - HEY, WALLY! WANNA GO FOR A RIDE IN THE CAR? - I'll take that as a yes! Wally goes from zero to sixty faster than our car!
@@ -10080,7 +10080,7 @@ dr211012 -- How was your day at the hardware store, Norman? Not bad... - They as
 dr211013 -- I miss college. You know how I quite cause I thought I could succeed in the real world? - Yeah. Are you ready to go back? I can't. I just got a promotion! BFFPP!
 dr211014 -- Did you just say you got a PROMOTION?? Yeah. - Mr. Stadler, the owner, said I remind him of himself. - He said I'm bound to succeed because I'm not afraid to make mistakes, and
 dr211014 -- I'm always on time for work. - YIKES, I'M LATE! One-for-two isn't bad.
-dr211015 -- My familiy all went to visit grandma! - I'm alone tonight! I can go anyplace I want for dinner! - Decisions, decisions... - I don't know whether to eat at the truxk stop, the mini-mart, or the car wash!
+dr211015 -- My family all went to visit grandma! - I'm alone tonight! I can go anyplace I want for dinner! - Decisions, decisions... - I don't know whether to eat at the truck stop, the mini-mart, or the car wash!
 dr211016 -- Dad! Is that your Halloween costume? No, I'm doing undercover work today at the National Park! - I'm going to catch people who violate the "Don't Feed the Bears" sign! What on earth could go wrong?
 dr210117 -- That's a long putt you have to make, dad! - Yeah, and the green is a mess because od the wind! - There are lots of leaves and junk between the ball and the hole! - You were smart to bring the robotic vacuum! HUMMMMMMMMM
 dr211018 -- KRINKLE KRINKLE - RIP! TEAR! KRINKLE - That's for the trick-or-treaters! It's the 21st century! You'd think they would have invented quiet candy bags by now!
@@ -10089,7 +10089,7 @@ dr211020 -- How was your day, honeybunch? Exhausting! - I never knew homeschooli
 dr211021 -- - yawn! - - OK, maybe these old black-and-white monster movies aren't as scary as I thought they were! zzyzx
 dr211022 -- PET HOSPITAL I'm worried about him, doc! He doesn't get around like he used to. He has no Energy. All he does is sleep! Please tell me he's gonna be OK! I wish I could, Mr. Drabble... - But I'm a veterinarian, not a vacuum repairman! He's
 dr211022 -- like a member of the family!
-dr211023 -- - - - Wiener doga love a challenge.
+dr211023 -- - - - Wiener dogs love a challenge.
 dr211024 -- I love this time of year! - The falling leaves... - The pretty colors... - The candy corn... - The excitement in the air... - I just never understand why the pumpkins are always in such a bad mood! skattle skattle skattle
 dr211025 -- DING! I just got a Facebook message. - Hello, Ralph! Thanks for your friend request! - I didn't send you a friend request! YOU sent ME a friend request! tappity tappity tap! - No, YOU sent ME a request! LIAR! I don't have high hopes for this
 dr211025 -- friendship!
@@ -10098,7 +10098,7 @@ dr211027 -- How do you like my Jack-O'-Lantern? - - I don't get it. - Charlie Br
 dr211028 -- DING DONG! - Hello, I'm here to pick up trick-or-treat candy for Surrey, Bennett, and Liv! - Thanks! - I miss the old-fashioned Halloweens before kids had DoorDash!
 dr211029 -- Baylor, Mr. Drabble really likes Halloween candy! In fact, he probably ate it all himself! - Kids, instead of candy, how about if I swear you inas JUNIOR FOREST RANGERS?! Raise your right hand... Told ya!
 dr211030 -- Mr. Drabble's house is this way, Rory! I feel so mean I'm so forlorn - Here it's Halloween And I ate all your candy corn. Trick or...oh, forget it!
-dr211031 -- August 15 CANDY CORN YES! I can't believe they're already selling cany corn! - August 31 I LOVE candy corn! - September 15 More candy corn? Are you sure this is all for the trick-or-treaters? - September 30 I wish I could stop eating candy
+dr211031 -- August 15 CANDY CORN YES! I can't believe they're already selling candy corn! - August 31 I LOVE candy corn! - September 15 More candy corn? Are you sure this is all for the trick-or-treaters? - September 30 I wish I could stop eating candy
 dr211031 -- corn! - October 15 Ooohh! I'm getting sick of candy corn! - October 30 I never want to see candy corn again for as long as I live! - October 31 TRICK OR TREAT! CANDY CORN GAAH!
 dr211101 -- Trick or treat! Halloween was yesterday. - You ate all the candy before we got here! What makes you think I'd have more candy now? - Because it all went on sale today! Sigh...
 dr211102 -- Shakespeare wrote, "When great leaves fall, then Winter is at hand." - That's certainly true at my house!
@@ -10107,9 +10107,9 @@ dr211104 -- - Hey, how's it going? - Excuse me. - I liked that Jack-o'-Lantern!
 dr211105 -- WALLY - WALLY - WALLY - It's hard to fall asleep with a football in your mouth!
 dr211106 -- WALLY It's morning! - I can't wait to go outside and bark at the falling leaves! - Darn! Now I know why they're called leaves! - Most of them have already left!
 dr211107 -- - ? - - - Wally - Ice Cream - -  I can't remember what I came into the kitchen for! I'd go with "Feed the dog."
-dr211108 -- Speak Wally! Why? - Roll over! Why? - Shake hands! Why? - Mayb I should bribe him with treats! People are so hard to train.
+dr211108 -- Speak Wally! Why? - Roll over! Why? - Shake hands! Why? - Maybe I should bribe him with treats! People are so hard to train.
 dr211109 -- Here you go, Penny! - Remember to say Thank You! - Thank you! You're welcome! - If I'm welcome, how come I still have to say thank you?
-dr211110 -- - - I'm going on my break now. - I'm glad he watches over our property, butI wish he'd do it from someplace else!
+dr211110 -- - - I'm going on my break now. - I'm glad he watches over our property, but I wish he'd do it from someplace else!
 dr211111 -- - - - Want one? Dachshunds go to great lengths to get attention!
 dr211112 -- I got another promotion at work, dad! - That's great, son! - I have a dozen people working under me! - That's because I now work on the second floor!
 dr211113 -- Why are you watching the football game with the sound off, dad? Because it's an undisputable fact... - The announcers ALWAYS want the other team to win! Every fanatical sports fan knows this!
@@ -10120,7 +10120,7 @@ dr211117 -- May I take your order please? You never get it right. Surprise me. -
 dr211118 -- ...and here's yours, Oogie! - Look, Wally, this dish says OOGIE , and your dish says WALLY. - SNARF! - I thought it said DINNER and DESSERT!
 dr211119 -- There's no Wi-Fi in this national park! - You're welcome.
 dr211120 -- The car up ahead has a bumper sticker... - It says the driver is a member of a high I.Q. club. - Which car? - The one that's had its blinker on for ten minutes!
-dr211121 -- MORe THINGS WALLY IS THANKFUL FOR  - Naps and Laps - Couch Cushion Cracks Sweet! A cheeto! - My considerate family always speaks up when they talk to me. WALLY! STOP THAT!! - Exciting Dreams wuf wuf... - They take me for walks even when they
+dr211121 -- MORE THINGS WALLY IS THANKFUL FOR  - Naps and Laps - Couch Cushion Cracks Sweet! A cheeto! - My considerate family always speaks up when they talk to me. WALLY! STOP THAT!! - Exciting Dreams wuf wuf... - They take me for walks even when they
 dr211121 -- don't want to. - My dog ears! Someone dropped a potato chip next door! - Messy Eaters Oops! - Everyone I love most lives here in my house!
 dr211122 -- THINGS YOUR CAT IS THANKFUL FOR - - - Well? I'm thinking! I'm thinking!
 dr211123 -- Things your cat is thankful for... - Hmmm... - Let me answer instead! I have an answer! Oh please! Oh please! I'm thankful I'm not a dog!
@@ -10129,12 +10129,12 @@ dr211125 -- Pizza for Ralph! - Thanks for working on Thanksgiving. - I'm glad I 
 dr211126 -- Time to enjoy some Thanksgiving leftovers! - The food is gone, but we still haven't watched "A Charlie Brown Thanksgiving"!
 dr211127 -- DOGGONE IT!! - WHO PUT THE TOILET PAPER ROLL ON BACKWARDS!! I always wondered what would happen if someone did that!
 dr211128 -- GASP! - WE ONLY WENT TO DINNER AND A MOVIE! Trust me, the best entertainment was here tonight!
-dr211129 -- OK, everybody, help me put away THSE decorations, and then we'll get out the CHRISTMAS decorations! OK, honeybunch! - Mom's the only person I know who decorates for Black Friday!
+dr211129 -- OK, everybody, help me put away THOSE decorations, and then we'll get out the CHRISTMAS decorations! OK, honeybunch! - Mom's the only person I know who decorates for Black Friday!
 dr211130 -- I feel so good! - It's November 30th and I can honestly say my Christmas  shopping is done! - - Where are you going? The pet supplies store.
 dr211201 -- Secret Santa Guess what, Wally! It's December 1st! - Only 24 more sleeps until Christmas! ...or in my case, 317!
 dr211202 -- I did almost all of my Christmas shopping online. - I used to have to drive into town and go from store to store to pick out gifts. - Sometimes I miss those days. ding! - Especially when I get a notification that some of my items won't arrive
 dr211202 -- until February!
-dr211203 -- pick pick claw claw OOGIE! - Our new couchis not your scratching post! - I know that! - If it was, I wouldn't be scratching it!
+dr211203 -- pick pick claw claw OOGIE! - Our new couch is not your scratching post! - I know that! - If it was, I wouldn't be scratching it!
 dr211204 -- Have you started your Christmas shopping, Norman? Yes, Patrick, but it's not going well. - Ducks are hard to shop for! We can always use some beak balm!
 dr211205 -- Let's go, everybody! We don't want to be late! - On your feet! Here we go! Now! - Oops, I forgot my purse! - OK, let's go! Get up! - Wait, where's my phone?? - OK! I'm serious! Let's go now! - Shouldn't we be getting up? Nah, that was only
 dr211205 -- the third warning! Hang on...
@@ -10143,14 +10143,14 @@ dr211207 -- - BAP! - BOP! - Stop looking at me, you rude ornament!
 dr211208 -- - Whoah! My foot's asleep! - Hopefully my restless leg will wake it up! People have lots of weird problems!
 dr211209 -- I just fed you for dinner. Don't look at me with those big sad eyes! - They'd be a lot less sad if you fed me dinner again!
 dr211210 -- WALLY! COME BACK HERE WITH THAT POPCORN STRING! - IT IS NOT A TOY! I know! I was thinking of it as a dessert!
-dr211211 -- I appreciate it when people decorate for hoildays! - It makes the world more cheerful and fun! - That's what I try to tell you every Taco Tuesday! It is possible to get a little carried away.
+dr211211 -- I appreciate it when people decorate for holidays! - It makes the world more cheerful and fun! - That's what I try to tell you every Taco Tuesday! It is possible to get a little carried away.
 dr211212 -- Hey! That's not where I hung the gingerbread ornament! - And this isn't where I put the candy cane! - I could've sworn I put this ugly ornament in the back of the tree! - All the ornaments are in different places! - After you went to bed last
 dr211212 -- night, one of Santa's elves must have come and redecorated our tree! - Is that even a THING?? Yes, you've just never noticed it before!
 dr211213 -- Here's your stocking, Wally! YES! - THANK YOU! SNARF! - skattle skattle skattle - You're supposed to leave it up for Santa to fill with gifts! There's MORE??
-dr121214 -- Your car is ready, Mr. Drabble. Auto Mechanic - It was way overdure! I know I know... - Daylight saving time ended a month ago! I would've turned back the car clock myself, but I don't have an engineering degree!
+dr121214 -- Your car is ready, Mr. Drabble. Auto Mechanic - It was way overdue! I know I know... - Daylight saving time ended a month ago! I would've turned back the car clock myself, but I don't have an engineering degree!
 dr211215 -- MALL ...and on Halloween, I took a piece of my brother's candy, and then last month I fouled someone in a soccer game... - So, no...I haven't been a good girl all year! Penny is so honest! She'd never make it in politics!
 dr211216 -- Dad, what's the origin of the word NOEL? - What does it mean and why is it associated with Christmas? - Because "Merry Christmas" has no *L* in it! - That has nothing to do with anything!
-dr211217 -- I'm going down to the basement, honeybunch! - - I thik you're giving that tree too much water!
+dr211217 -- I'm going down to the basement, honeybunch! - - I think you're giving that tree too much water!
 dr211218 -- Let's hang up our Christmas stockings! - We're gonna need a bigger fireplace! I have four feet, you know! W A LL Y
 dr211219 -- ROWF ROWF ROWF! - What's wrong, Wally? Are there badgers out there? grrrr! - Hey! Christmas treats! - You'd be surprised how even those we didn't think liked us can get caught up in the spirit and show kindness and love! - Looks like someone
 dr211219 -- left us a plate of... - Dog biscuits?? - "To Wally, merry Christmas from the badgers". I always knew they weren't all bad!
@@ -10161,13 +10161,13 @@ dr211223 -- The tree is trimmed, we've watched all our favorite Christmas movies
 dr211223 -- wonderful life." You can say that again.
 dr211224 -- - I discovered dachshunds are faster than reindeer! WALLY
 dr211225 -- MORE BADGERS!! ROWF! rowf rowf rowf! BARK! yap yap BARK BARK! - ROWF ROWF!! Maybe next year I'll switch back to reindeer! grrrr WALLY
-dr211226 -- 'twas the day after Christmas, and all Through the Town... - The kids were so happy that Santa came 'round! - The reath on the door is still where we displayed it... - But inside, our Christmas tree just barely made it! - The kids loved their
+dr211226 -- 'twas the day after Christmas, and all Through the Town... - The kids were so happy that Santa came 'round! - The wreath on the door is still where we displayed it... - But inside, our Christmas tree just barely made it! - The kids loved their
 dr211226 -- toys, a fact Santa knows... - And Wally happily chews up old ribbons and bows! - Old Saint Nick is gone, but he'll come here once more... - We just found his smartphone right here on the floor! *
 dr211227 -- Norman, I have one thing to say,,, . I like you TRES BEAUCOUP! - Thanks. That means a lot! - Ha! You're so funny! I am?
 dr211228 -- What's up, honeybunch? I'm making a list of new year's resolutions! - Good for you! Congratulations for trying to improve yourself! These are for you.
 dr211229 -- - - Don't let the door hit you on the way out 2021 I remember when people used to be sad when the year ended.
 dr211230 -- 172,958...172,957...172,956... - 172,955... Most people don't start their New Year's countdown until they're at *10*! He's really excited!
-dr211231 -- Norman, are you planning to tak out anyone on New Year's Eve? Nope. - I have no one to take out. I have a suggestion. -
+dr211231 -- Norman, are you planning to take out anyone on New Year's Eve? Nope. - I have no one to take out. I have a suggestion. -
 dr220101 -- When we watch football every New Year's day, she always puts the bowl of good chips closer to her! - - Talk about bowl games!
 dr220102 -- Don't look at me with those big sad eyes! - I'm not going to feed you again! You're not getting any more! - Why are you so excited? - Didn't you understand what I just said? - I think so, but maybe you should repeat it! - I said!... - Blah
 dr220102 -- blah blah...feed you again...blah blah blah... I understood perfectly!
@@ -10176,8 +10176,8 @@ dr220104 -- Dad, your wipers are on and it's not raining anymore. - Oh, thanks! 
 dr220105 -- Unfollow Unfollow Unfollow - I decided to stop following people who are more lost than I am!
 dr220106 -- I know it's raining outside, Wally... - But I have to take you for a walk! - - On second thought, take yourself for a walk!
 dr220107 -- Yes!! I've lost five pounds! - That's reason to celebrate! - SHAKES * MALTS * SUNDAES Now why did I do that?
-dr220108 -- I love hot cocoa on a cold day! - Whipped cream...chocolate chips... - Sprinklers, nuts, charry... - Dang, I forgot the cocoa!
-dr220109 -- Norman, if I fell, would you catch me? - Sure, Echo, but why would you do that? - It's called a "trust fall". I'd be trusting you to catch me! - OK! Ready? - You did it! I KNEW I could trust you! - OK, turn araound! It's your turn! - OK, here
+dr220108 -- I love hot cocoa on a cold day! - Whipped cream...chocolate chips... - Sprinklers, nuts, cherry... - Dang, I forgot the cocoa!
+dr220109 -- Norman, if I fell, would you catch me? - Sure, Echo, but why would you do that? - It's called a "trust fall". I'd be trusting you to catch me! - OK! Ready? - You did it! I KNEW I could trust you! - OK, turn around! It's your turn! - OK, here
 dr220109 -- I go! - SPLAFF!
 dr220110 -- Welcome 2022 It seems to take longer and longer to clean up after Christmas! Don't worry, dad. - I'm sure we'll get rid of the rest of the cardboard boxes by spring.
 dr220111 -- - - THIS STRAW DOESN'T WORK!! - Straws don't work well with peanut butter!
@@ -10186,8 +10186,8 @@ dr220113 -- WHIRRRRRRR - RRRRRRRRRR - RRRRRRRRRR - RRRR This way, I can get the 
 dr220114 -- I'm home. Boy, what a day! - Is everyone out of their mind or is it just me?! - It's probably just you. - That's comforting, I guess.
 dr220115 -- Hmm... - I wonder if leftovers would taste good. - Don't ask me. - I've never had any leftovers! Wally
 dr220116 -- - - - - - - - Is it my imagination, or is there a dog in every room of the house?
-dr220117 -- scroll...scroll - * - YES! - I always click "like" on oposts with 99 likes because I want to be number 100!
-dr220118 -- The holidays are over... - I can finally watch up some TV shows I recorded! - I'm not sure which is worse: That you recorded the Christmas Day Yule Log, or that you're watching it in january!
+dr220117 -- scroll...scroll - * - YES! - I always click "like" on posts with 99 likes because I want to be number 100!
+dr220118 -- The holidays are over... - I can finally watch up some TV shows I recorded! - I'm not sure which is worse: That you recorded the Christmas Day Yule Log, or that you're watching it in January!
 dr220119 -- Ralph, go check my phone and see if I have any messages. - Dang, I don't know her passcode. - ...Sigh... - I hate having to use facial recognition!
 dr220120 -- Din-Din? WALLY - Num-Nums? - Bow-Wow! - She speaks my language!
 dr220121 -- - - - I hate it when I use facial recognition to open my smartphone and it laughs at me! Yikes! Har har!
@@ -10208,7 +10208,7 @@ dr220201 -- WHIRRRRRRRR Oh no... - There's only one thing more annoying than tha
 dr220202 -- Legend has it that if the groundhog sees his shadow when he emerges from his burrow, we'll have six more weeks of winter. - Well? Why isn't he coming out? Maybe he watches the news.
 dr220203 -- - Why did you move the refrigerator over there? - The doctor said I need to increase the number of steps I take each day!
 dr220204 -- HEY, DON'T EAT THE CAT FOOD! - HEY, QUIT BARKING! arf arf arf!! - HEY, STOP THAT! - I must be in my HEY DAY!
-dr220205 -- Honeybunch, if you were snoring  ever so lightly last night, would you want to tell me? It depends. - How long might I have benn lightly snoring? I don't know. - I finally went out and slept in the car!
+dr220205 -- Honeybunch, if you were snoring  ever so lightly last night, would you want to tell me? It depends. - How long might I have been lightly snoring? I don't know. - I finally went out and slept in the car!
 dr220206 -- I have to tell you this, Dad, but the Super Bowl is NEXT sunday! - Then how come the Super Bowl pre-game show is on TV?? - Well, it does seem to get longer every day!
 dr220207 -- Smile, Wally! - Hold still! - Say cheese! - The PUP-arazzi is so annoying!
 dr220208 -- Is it time to go? - Go where? - I asked you one question, and you don't know two things about it! - I'm sure I don't know more things about it than that!
@@ -10220,13 +10220,13 @@ dr220213 -- Ode to SUPER BOWL - It's Super Bowl Sunday, and no one's denying...b
 dr220213 -- chips and the dip. Just don't go overboard before the coin flip! - Mom gets kind of bored with the game, you know. She really only perks up for the halftime show! *LA LA LA* - Right now it is a mystery as to which team will rule. The only
 dr220213 -- thing we always know is grandma wins the pool! HA! PAY UP! - Some of us really don't care who becomes the reigning champ. We just want pitchers and catchers to report to spring training camp!
 dr220214 -- Happy Valentine's Day, Echo! - You brought me plastic flowers? - You're so thoughtful! - That means I can keep them forever! They're also drought resistant!
-dr220215 -- This has been a nice Valentie's Day, Norman! - I can't believe how much we have in common. We like all the same things! - We think so much alike, we even finish each other's... - French fries? No, sentences!
+dr220215 -- This has been a nice Valentine's Day, Norman! - I can't believe how much we have in common. We like all the same things! - We think so much alike, we even finish each other's... - French fries? No, sentences!
 dr220216 -- Where are you going, Norm? Wally and I are going to Echo's house! - I hope she likes dogs. - Echo and I like all the same things. besides, how could anyone not like Wally? - I hope she keeps her garbage can in a convenient place!
 dr220217 -- You'll like Echo, Wally! We're a lot alike! - In fact, we're so much alike, nothing will ever come between us! knock knock - Hi, Echo! I'd like you to meet... - WALLY!!! ROWF ROWF ROWF ROWF!
 dr220218 -- WALLY! COME BACK HERE! rowf rowf rowf rowf! - He's chasing mittens! - Mittens?? Don't tell me you have a CAT!! - What would be worse? Actually, Mittens is our pet badger!
 dr220219 -- Wally chased Mittens into a burrow! - Don't worry! I'll follow him and drag him out! Nothing can stop me! NOTHING! - If you crawl in there, you'll need a BATH afterwards! - OK, forget it! skattle skattle skattle
 dr220220 -- Home at last! It's about time! - - Dibs on the bathroom! - Hey! Sorry! - - I'm in here. - Just a sec! rap rap rap - Can I borrow your bathroom, Steinbauer? Again?
-dr220221 -- Why would anyone have a pet badger?? - Besides, badgers and dachshunfd are enemies! - Enemies?? Why?? - Badgers are cute and cuddly! I hate to say this, but she's weird!
+dr220221 -- Why would anyone have a pet badger?? - Besides, badgers and dachshund are enemies! - Enemies?? Why?? - Badgers are cute and cuddly! I hate to say this, but she's weird!
 dr220222 -- I have a dachshund and you have a badger! Our pets are natural enemies! - This is an impossible situation! I agree. I t will never work. - You have to choose, Norman. Either Wally goes or *I* go! - Poor girl!
 dr220223 -- You're giving me an ultimatum Echo? Our pets are natural enemies. - Our lives together would be chaotic! Therefore, you have to choose between your dog and me! - Well, take care of yourself! Let's go, Norm! - Norm?
 dr220224 -- I'm home. Did Echo like Wally? - Wally didn't get along with Echo's pet badger. Pet badger?? - She gave me an ultimatum: either Wally goes or SHE goes. - Hey, where's Wally?! It was a tough choice!
@@ -10235,19 +10235,19 @@ dr220226 -- I came to apologize. I never should have given you an ultimatum! - A
 dr220227 -- It's dark in here! - click click click! - Dang! Honeybunch programmed it so I have to ask ALEXIS! - Hey, Alexis! Turn on the light! - Sigh! - You have to be more specific! I'll show you how easy it is!.. - Hey, Alexis! Turn on the green lamp
 dr220227 -- that my aunt gave us for our tenth anniversary in the living room by the sofa! - blink! See how easy that was? I'd rather be in the dark.
 dr220228 -- WALLY ZZYZX - WHIRRRRRRRRR - RRRRRRRRRRR - RRRRRRRRRRR I hate this thing!
-dr220301 -- WHIRRRRRRRRRRR WALLY ZZYZX - RRRRRRRRRRRR BUMP! - RRRRRRRRRRR - I've heard of sleepwalking, but this is rdiculous! zzyzx
+dr220301 -- WHIRRRRRRRRRRR WALLY ZZYZX - RRRRRRRRRRRR BUMP! - RRRRRRRRRRR - I've heard of sleepwalking, but this is ridiculous! zzyzx
 dr220302 -- You're practicing chip shots inside the house?? Aren't you worried you might break something? That's why I do it! It makes me focus! - CRASH! - Well, at least there's more room in here now that you broke that big vase! What on earth...
 dr220303 -- skattle skattle skattle I love my doggie ramp! - - And my bed! WALLY
-dr220304 -- Ahh...I love the aroma of breakfast in the morning! - Pncakes and bacons are my favorites! - It's turkey bacon and cauliflower pancakes! - Would you like eggs? NO!
+dr220304 -- Ahh...I love the aroma of breakfast in the morning! - Pancakes and bacons are my favorites! - It's turkey bacon and cauliflower pancakes! - Would you like eggs? NO!
 dr220305 -- Hey, pooch! - Sweet doggie! - good boy! - I enjoy widespread pup-ularity!
-dr220306 -- May I take your order? I'll have a cheeseburger. - And for you? What's your soup of the day? - Pumkin squash. Is it more pumpkiny or more squashy? - It's hard to say. Was it made fresh today? - I'm nor sure. I'll go back and ask. I suppose I
+dr220306 -- May I take your order? I'll have a cheeseburger. - And for you? What's your soup of the day? - Pumpkin squash. Is it more pumpkiny or more squashy? - It's hard to say. Was it made fresh today? - I'm nor sure. I'll go back and ask. I suppose I
 dr220306 -- could just have the clam chowder. - The chef said it's made fresh daily. - Decisions, decisions. - I'll have the avocado chicken salad. - Good thing we got here before the line formed! Amazing how that always happens!
 dr220307 -- Darn! Birds are building a nest over our front porch! Why would they build it under the eave? - Maybe they enjoy the warmth of the Christmas lights you still haven't taken down! It's only March, for heaven's sake.
 dr220308 -- Some birds made a nest above our front porch! - Gee, I hope dad doesn't buy one of those fake owls to scare them away! He won't. - He's kind of a cheapskate! ! HOO!
 dr220309 -- What are you doing, Ralph? HOO! - I'm pretending to be an owl to scare away the birds that built a nest over my front porch. - This situation reminds me of a certain Alfred Hitchcock movie. - I know. "The Birds." No. "Psycho."
 dr220310 -- Ralph, you've been fined by the Home-Owners Association! - What for? Harboring wildlife at your home! chirp chirp - But if you'll hose down that nest, I'll tear up the fine! - "Squirting an elected official." Your fine's doubled! Worth it!
-dr220311 -- Why did you birds choos MY house?? - Of all the places you could have built your nest! - peep peep peep peep peep peep peep peep peep peep peep peep peep peep peep peep peep - I'M AN UNCLE!!
-dr220312 -- I'm kind of happy that the birds built a nest under our eave! - After all, our house is a nice place to raise a family! - No matter where they fly, out house will always be their home! - You're probalby going to cry when they leave! LEAVE??
+dr220311 -- Why did you birds choose MY house?? - Of all the places you could have built your nest! - peep peep peep peep peep peep peep peep peep peep peep peep peep peep peep peep peep - I'M AN UNCLE!!
+dr220312 -- I'm kind of happy that the birds built a nest under our eave! - After all, our house is a nice place to raise a family! - No matter where they fly, out house will always be their home! - You're probably going to cry when they leave! LEAVE??
 dr220313 -- Bye, honeybunch! - I'm going to the gym! - I admire your dedication, Ralph! - I need to work off today's donuts! - You ate donuts?? - Not yet, but there's a shop right next to the gym!
 dr220314 -- Do you like your dinner? - How do you expect me to know yet? - I've only taken one bite! - Yes, but you have a big mouth!
 dr220315 -- Wow! That's amazing! Look at that sign! - I haven't seen gas prices that low in a long time! - They're not gas prices. They're the number of parking spaces available! Dang.
@@ -10260,7 +10260,7 @@ dr220320 -- tomorrow night! - I don't want to go out tomorrow night! Yes you do!
 dr220321 -- Wal... - ...ly, it's... ZOOM - ...dinner... SNARF - ...time! Let me know when it's dessert time!
 dr220322 -- Wake up! It's time to eat! Z - It's still dark outside! - Who wants to eat in the middle of the night?? - Smart dog!
 dr220323 -- I'm never sure if people are just looking at their phones, or taking a video of me! - He's probably just looking at his phone. - But to be on the safe side, you might want to tuck in your shirt!
-dr220324 -- * - The "thums-up" emoji might not have been the appropriate reaction to that post, Ralph. - Someone's cat ran away. Maybe use the "sad face" emoji instead. - Maybe I'm not a cat person. scratch! claw!
+dr220324 -- * - The "thumbs-up" emoji might not have been the appropriate reaction to that post, Ralph. - Someone's cat ran away. Maybe use the "sad face" emoji instead. - Maybe I'm not a cat person. scratch! claw!
 dr220325 -- - - A cat can jump through a wall of bubbles and not break one! - Dogs, on the other hand...
 dr220326 -- Ralph, check out the weather forecast on your phone for me! - scroll scroll scroll scroll - scroll scroll scroll scroll - One Hour Later Did you check the weather? Oh yeah, huh!
 dr220327 -- What a day at work! I'm exhausted! - I need to sit down and relax! - - - - - ZZYZX WALLY
@@ -10269,7 +10269,7 @@ dr220329 -- Pharmacy Wouldn't it be more convenient if they put the drive-thru w
 dr220330 -- - How's your sore back, Ralph? No improvement.
 dr220331 -- ? ? - Where is it?? - ...Sigh...Why is it always so far away?? - I guess that's why it's called a "remote."
 dr220401 -- My back is killing me! * * * - I hate to ask you this, Norm, but can you put my shoes on for me? - Of course, dad! Never hesitate to ask for my help. - They're a little loose in the toe.
-dr220402 -- Mx back is killing me! Poor Wally... - He needs some help! - I'm so glad we bought him that doggie ramp! * * +
+dr220402 -- My back is killing me! Poor Wally... - He needs some help! - I'm so glad we bought him that doggie ramp! * * +
 dr220403 -- - - - - text text texty text! Oops! Excuse me! - texty text text text! - - The sidewalk needs an express lane for people who AREN'T looking at their phones!
 dr220404 -- How's your sore back, Ralph? - I'll stand up and see. - WOAH! WOAH! AAAAUUGGHH HOO! HOO! - That's bad, huh? No, the ice pack fell down my pants leg!
 dr220405 -- I * SPRING Anything you need at the store, honeybunch? - Well, as a matter of fact, I do need a few things. Here's a list. - He's suddenly so considerate! What's gotten into him? - EASTER CANDY
@@ -10278,11 +10278,11 @@ dr220407 -- - Oh, wow! Look at this! - Pat Sajak taped last night's show in spit
 dr220408 -- Flitter Flutter - zzzz - SWOOP! - BZZZZZZ
 dr220409 -- People don't seem to get along very well. - They could learn a lot from dogs. We get along with everybody! - GRRRRR! - Within reason!
 dr220410 -- OK! Look alive! - WAP! - - GET IN FRONT OF THE BALL! - IT'S NOT GOING TO HURT YOU! DON'T BE AFRAID OF IT! - I'LL HIT YOU ANOTHER! - Hand me a ball, Norm. - GAAAAHHH!!
-dr220411 -- Here's your jumb chocolate peanut butter shake! - Would you like your receipt? - No, thanks. - I don't want any evidence of this!
+dr220411 -- Here's your jumbo chocolate peanut butter shake! - Would you like your receipt? - No, thanks. - I don't want any evidence of this!
 dr220412 -- - - Never stand behind a happy dog!
 dr220413 -- Well? Aren't you going to move? - Fine, I'll sit on the other side! - Your dog will never unfriend you, but he might block you now and then!
 dr220414 -- Tap it in, dad! - tap! - KER-PLUNK! - I like the winter because it snows and you can't play golf!
-dr220415 -- I want my easter egg to be purple! - I want a blue one! Mine will be half pink and half yellow! - What kind of easter egg do you want, dad? Chocolate with nuts!
+dr220415 -- I want my easter egg to be purple! - I want a blue one! Mine will be half pink and half yellow! - What kind of Easter egg do you want, dad? Chocolate with nuts!
 dr220416 -- Through the window? - The doggie door? - Down the chimney? - I don't know how the Easter bunny plans on getting in, but I'll be ready for him!
 dr220417 -- ZZYZX - Z*Z - I'm thirsty! - - GRRRRR! - - WALLY!! NO!!!
 dr220418 -- Hey! Where's my chocolate Easter egg?? - I was saving that for last! - Oh, that was YOUR Easter basket? I thought it was mine! - See? It fits!
@@ -10290,8 +10290,8 @@ dr220419 -- Hmmm... - Aha! - When your Easter candy is gone, you can always find
 dr220420 -- Let's buy some fudge cookies! No, don't. - I know what will happen... - I'll sneak downstairs in the middle of the night and eat them all, and you'll get mad at me! - Fine. Sheesh! Some people are irritated by those of us with foresight.
 dr220421 -- Bee-ware! I'm coming up bee-hind you! - It bee-hooves you to bee-have. I'm a bee, you see, and you're just a... - ** THWACK! - Why'd you do that? * * Just bee-cause!
 dr220422 -- We're having a taste test! - Kitchen tap water, bathroom tap, water hose! Dad's amazing!
-dr220423 -- Hmmm... - The saturday crossword puzzle is always the hardest. - But I always finish them... - One way or another!
-dr220424 -- NO! NO! Ralph, wake up! You're having a nightmare! - Huh? Oh...sorry. What was it about! - I'll tell you in the morning. Were ther emonster sin it? Was someone trying to kill you? - I don't want to re-create it, I just want to go back to
+dr220423 -- Hmmm... - The Saturday crossword puzzle is always the hardest. - But I always finish them... - One way or another!
+dr220424 -- NO! NO! Ralph, wake up! You're having a nightmare! - Huh? Oh...sorry. What was it about! - I'll tell you in the morning. Were there monsters in it? Was someone trying to kill you? - I don't want to re-create it, I just want to go back to
 dr220424 -- sleep! - Was it about the time you got lost in the woods? - SIGH Just tell me! - Some guy was letting his dog sniff around on our lawn. That's it?? That was your nightmare?? - All that fuss over THAT?? Boy, you have boring nightmares! Good
 dr220424 -- night! - I'll see if there's anything more interesting on TV at three in the morning!
 dr220425 -- You're cute! - I love your happy smile! Thank you! - And I love your little sweater, too! Her sunglasses threw me!
@@ -10336,13 +10336,13 @@ dr220530 -- GET OFF MY RAFT! - The ol' summer kick off!
 dr220531 -- Mom, I have a fitness question... - Is it better to get a chocolate shake before of after I go to the gym? - - I'll ask dad!
 dr220601 -- I'm about to take a bite of something! - So start thinking of all the questions you're going to ask me! - What's for dinner tomorrow? Can I watch TV? What would you like for your birthday? Have you seen my shinguards? ...Sigh...
 dr220602 -- Good. - Better. Best!
-dr220603 -- In the words of Dostoevsky... - "To love is to suffer." - You'r efamiliar with Dosoevsky? Of course. - I read all of his tweets!
-dr220604 -- 21%! YES! - 22%! - Another saturday night at home, watching my phone charge.
+dr220603 -- In the words of Dostoevsky... - "To love is to suffer." - You're familiar with Dostoevsky? Of course. - I read all of his tweets!
+dr220604 -- 21%! YES! - 22%! - Another Saturday night at home, watching my phone charge.
 dr220605 -- * Rating So, where should we go for dinner, Ralph? - We could go to that soup and salad place you enjoy for some strange reason. - Or we could go to that overrated sushi place you like so much. - Or that healthy food place with the poor
 dr220605 -- service you and your book club friends love. - Or maybe your favorite seafood place, even though it's hit-or-miss! - Or we could go to that great burger joint I think is fantastic! - Don't say I never offer to go to places YOU like!
 dr220606 -- Ralph! You shouldn't let Penny play with your phone'! - Don't worry. She's just showing me how to download an app!
 dr220607 -- I wish I could make everyone smile, burn up a million calories a day... - And always fall asleep in two seconds.  Not everyone can be a wiener dog! WALLY
-dr220608 -- Look at thi! I missed a call from Warren Buffett! - It's from WARREN'S BUFFET! Oh, yeah, I left my sunglasses there!
+dr220608 -- Look at this! I missed a call from Warren Buffett! - It's from WARREN'S BUFFET! Oh, yeah, I left my sunglasses there!
 dr220609 -- Honeybunch, I have an idea! - Let's sit on the couch... - Turn on a good movie... - And stare at our phones all night!
 dr220610 -- Bye, honeybunch! - Don't get into that big bag of chocolate chips in the pantry? - I counted them and I know exactly how many are in there! - I'm sure she was bluffing. Maybe.
 dr220611 -- Remember, Ralph, when you listen to music on earphones, don't turn the sound up loud. - Your hearing can be impacted! - Extended exposure to loud sounds can be harmful! - WERE YOU TALKING TO ME?
@@ -10350,19 +10350,19 @@ dr220612 -- Let's go for a walk, Wally! - Never put on Wally's leash inside the 
 dr220613 -- Ralph! You shouldn't let Penny play with your phone! - Don't worry. She's just showing me how to download an app!
 dr220614 -- I'm on my way to my doctor's office. - By the way, you look...I mean, you're really...I mean... - Oh, forget it! - There is no good way to tell your wife she looks pretty in a mask!
 dr220615 -- * * * - * * * - Don't you want to put your arm around me? I sure do! - 
-dr220616 -- OK, dad...try to attack me! - shake shake - ACHOO! - If you don't have papper spray, use a shaker!
+dr220616 -- OK, dad...try to attack me! - shake shake - ACHOO! - If you don't have pepper spray, use a shaker!
 dr220617 -- WALLY He's home! - WALLY, NO!! - One of these days, I might not catch you! Yeah, right!
 dr220618 -- - ROWF * - - Wow! Second floor!
 dr220619 -- ...Sigh.. - HAPPY FATHER'S DAY!! - We made you breakfast in bed! - Sorry we're a little late. - "A LITTLE late"? It's almost noon! - Why did it take so long to make cold cereal? - We had to go to the store to buy milk! And on the way home, we
 dr220619 -- stopped for pancakes!
-dr220620 -- Echo! ** - How have you been, Norman? Fine, thanks! - Do you stil have that...you know what? - My pet badger? ROWF ROWF ROWF ROWF ROWF ROWF!
+dr220620 -- Echo! ** - How have you been, Norman? Fine, thanks! - Do you still have that...you know what? - My pet badger? ROWF ROWF ROWF ROWF ROWF ROWF!
 dr220621 -- It's the badger lady! - I'm surprised you didn't get rid of your badger, Echo. They don't get along with dachshunds! - Don't worry. I did something even better! grrr... - I sent him to obedience school! I bet he cheated on the exams!
 dr220622 -- Your sent your pet badger to obedience school? - He graduated with honors. Now he's kind and gentle! - He gets along with everyone! - Want to see him? NO!
 dr220623 -- Here, mittens! - Show them how sweet you are after graduating obedience school! - Don't laugh or I'll rip your face off! - Such a good boy! Have a treat!
 dr220624 -- Good boy! Here's a treat, Mittens! - He's kind and gentle as long as I give him treats. - Otherwise, he reverts to his old self! - I have to give him a treat every 30 seconds! 26...27...28...
-dr220625 -- Feed me now or else! Here you go! - SNARF! - Tht's it! No more Mr. Nice Guy! Worth it! skattle skattle skattle
+dr220625 -- Feed me now or else! Here you go! - SNARF! - That's it! No more Mr. Nice Guy! Worth it! skattle skattle skattle
 dr220626 -- Uh-oh! Ralph and Mr. Steinbauer are arguing again! - YOU are! No, YOU are! - skattle skattle skattle skattle! - AND ANOTHER THING... - - - The world needs more wiener dogs!
-dr220627 -- ROWF! ROWF! ROWF! ROWF! - ROWF rowf... rowf - rowf. - It's emarrassing when I forget what I'm barking about!
+dr220627 -- ROWF! ROWF! ROWF! ROWF! - ROWF rowf... rowf - rowf. - It's embarrassing when I forget what I'm barking about!
 dr220628 -- OK, 10...9...8...7... - He'll never find us here! - ? ? - ZZYZX! Never play Hide-and-Seek with a middle-aged man.
 dr220629 -- Great shot, dad! You hit it right down the middle! - Which club do you want to use next? - I have no idea. - I'm not used to hitting balls from the fairway!
 dr220630 -- Relax, Wally. - It's not time for your dinner yet. - You still have a good half-hour! - Something tells me it won't be that good!
@@ -10385,19 +10385,20 @@ dr220714 -- When can I take off this wristband? - Where did you get it? - They p
 dr220715 -- What kind of dinner would you like tonight, Ralph? Triangular food. - A slice of pizza, a slice of watermelon and a slice of pie. - Can you think of a triangular vegetable? - Candy corn!
 dr220716 -- Is it time to feed me? - You just had your dinner! - I did? ...Sigh... - That must be why I'm standing here!
 dr220717 -- RALPH DRABBLE: PARK RANGER - Informative Almost 95% of the park is designated wilderness. It is known for its granite cliffs, clear streams, giant sequoia s, lakes, mountains, waterfalls. I just wanted to know where the bathroom is! - Shares
-dr220717 -- His Knowledge Do not Feed the Animals. But OK to feed rangers! - Here to assist Say "Cheese!" - Help Visitors to find parking places on busy days OK, you're good. - Finds wonders in natue Whoa! Another dollar! - Worked remotely during the
+dr220717 -- His Knowledge Do not Feed the Animals. But OK to feed rangers! - Here to assist Say "Cheese!" - Help Visitors to find parking places on busy days OK, you're good. - Finds wonders in nature Whoa! Another dollar! - Worked remotely during the
 dr220717 -- pandemic Pick that up!
 dr220718 -- ZZYZX - I hate it when he takes all the covers!
-dr220719 -- I hate technology! 'Im fed up with these 21st-century problems! What's wrong, dad? - The VCR is eating our tapes! I think you've got your centuries mixed up!
+dr220719 -- I hate technology! I'm fed up with these 21st-century problems! What's wrong, dad? - The VCR is eating our tapes! I think you've got your centuries mixed up!
 dr220720 -- Is it time to eat? - Is it time for a nap? - Is it time to bark at something? - I need a secretary. WALLY
 dr220721 -- I'm going to be my best self! - - - This isn't it!
 dr220722 -- WALLY I'M AWAKE! - It's a beautiful morning! - Well, it was before everyone else woke up!
 dr220723 -- Dinner time! Wally Oogie - Never let them think you're too excited! yawn! - Good strategy!
 dr220724 -- - WHAP! - - - Oops! It got away from me! In case you didn't hear me the first 20 times, I'm sorry I forgot that yesterday was the anniversary of our first date!
-dr220725 -- Nice! I found some candy corn between the cushions! - Ralph, those have been there since october! - Candy corn never goes bad! That's true. - It's bad to begin with!
+dr220725 -- Nice! I found some candy corn between the cushions! - Ralph, those have been there since October! - Candy corn never goes bad! That's true. - It's bad to begin with!
 dr220726 -- Time to flip 'em over! - Dang! They're all breaking! - Norm, that isn't how you make barbecue potato chips! Maybe I should use a spatula!
-dr220727 -- Care for some hot chocolate, dad? - It's the middle of summer! - Who would be thinking about hot cocolate on a day like this? - I bought a Christmas tree! Besides her.
+dr220727 -- Care for some hot chocolate, dad? - It's the middle of summer! - Who would be thinking about hot chocolate on a day like this? - I bought a Christmas tree! Besides her.
 dr220728 -- We bought all these water toys, and what do the kids like the most? - The lawn sprinkler.
-dr220729 -- Wann play Corn Dog? - You mean Corn Hole? - SNARF! - Nope.
+dr220729 -- Wanna play Corn Dog? - You mean Corn Hole? - SNARF! - Nope.
 dr220730 -- We're leaving on a cruise tomorrow, Wally! WHAT?! - Don't worry! Grandma is coming over to take care of you! - Grandma?? She's nice! She feeds me a lot! - We'll be back before you know it! Take your time!
 dr220731 -- CRUISE SHIP TERMINAL Welcome Abroad! BON VOYAGE Watch Your Step You know we're cruising to Alaska, right? I thought you said ARUBA!
+dr220801 -- I can't believe we're on a cruise to Alaska! Me neither, honeybunch! - ICE CREAM Hi, Ralph! - PIZZA Hello, Ralph! - And I also can't believe we've only been on this ship for 20 minutes! That long? I'm due for another cone!

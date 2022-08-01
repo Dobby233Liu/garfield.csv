@@ -13429,7 +13429,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210314 -- the same time I also do the second-worst thing you can imagine. NOOOO!!!!
 210315 -- Okay, well, I see the closing credits scrolling by, so we must be done with our Zoom call. - Oh, I guess so. Well, goodbye everyone, Goodbye! Bye! - You added closing credits to a Zoom call? It's the only way to get people to leave.
 210316 -- Human resources is doing keyboard audits on all remote workers. - Looks like you have a keyboard right there. - Mmm-mmm! Will this take long?
-210317 -- Oh, ho...I feel a non-covid cough coming on... - Must...control it...to avoid...looking infected. - What's up with him? He looks infected.
+210317 -- Oh, ho...I feel a non-Covid cough coming on... - Must...control it...to avoid...looking infected. - What's up with him? He looks infected.
 210318 -- DOGBERT! CAN YOU KEEP DOWN THE NOISE WHILE I'M ON ZOOM?! - I'M ON A ZOOM CALL TOO. YOUR CALL ISN'T MORE IMPORTANT THAN MINE! - Sorry, I can't stop the background noise. CAN YOU KEEP IT DOWN IN THERE? I'M ON A ZOOM CALL!
 210319 -- I'd feel more comfortable if you wore a mask for this call. - I'm working at home. I can't possibly give you a virus over a video call. - Show me a study that proves that or else stop denying science. Um....
 210320 -- Wally, four out of five of your projects are behind schedule. - That's because of the pandemic. - One of oyur projects is on schedule. That's because of me.
@@ -13791,7 +13791,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211211 -- My home garbage has not been picked up in three weeks. - That's because our garbage collectors are working from home now. - So...should I bring my garbage to their homes? Fine with me.
 211212 -- We won a government contract to build a CO2 capture machine, and we need some ideas. - We're only brainstorming here, so remember, there are no "bad ideas." - We could capture the CO2 with a net. - Aren't you going to write that down? - No, I'm
 211212 -- fairy confident I'll remember that suggestion for the rest of my life. - We could attract the CO2 with some sort of food. - FORGET IT! YOUR'RE ALL IDIOTA! I'LL JUST DESIGN THE STUPID MACHINE MYSELF! - That was fun. I love brainstorming.
-211213 -- I need to stay home for two weeks because I have covid again. - This is the third time you've used that excuse. - Asymptomatic pandemics only come around once in a acreer, and I don't want to waste any of it.
+211213 -- I need to stay home for two weeks because I have Covid again. - This is the third time you've used that excuse. - Asymptomatic pandemics only come around once in a acreer, and I don't want to waste any of it.
 211214 -- You don't need to do any actual work in order to succeed here. - Just find a team that is already successful and burrow into it so deeply your incompetence goes unnoticed. - Won't the smart people notice? Yes, but no one listens to them.
 211215 -- I hired a good-looking guy with no discernable talents. - He doesn't have any skills whatsoever, but he sure looks as if he would, and that has to count for something. - I plan to be nice to hijm. I think he's destined to be our next CEO.
 211216 -- Do you remember that idea I had last week that you said it can't be done? - Our competitors just announced they are doing it. - What's your point? I just wanted to bask in your wrongness.
@@ -13803,7 +13803,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211221 -- I have to write you up for breathing on a co-worker. - I don't think you realize how many deadly pathogens come out of your toxic pie hole. - Should I stop breathing, or what? Only until we can encase you in concrete.
 211222 -- The employees were happier and more productive when they were working remotely. - So...tell me again why we all need to come to the office? - It's so I can spend less time with my family. Okay. I can respect that.
 211223 -- It is critical  that you work all night to have this done by tomorrow. - The Next Day I GOT IT DONE! Great. Get on my calendar for next week to discuss it. - Now I want to strangle you with my bare hands. Why does everyone keep saying that?
-211224 -- Ted, you are just the right guy for this assignment. - You don't have the proper dkills to do it right, but I plan to compensate  for that by being unclear in what I want. - Will that work? Frankly, it's our best shot.
+211224 -- Ted, you are just the right guy for this assignment. - You don't have the proper skills to do it right, but I plan to compensate  for that by being unclear in what I want. - Will that work? Frankly, it's our best shot.
 211225 -- Let's go around the table, and each of you tell us a bit about yourself. - My first job was night janitor in a zoo, but I got fired for petting the monkeys too hard. - Really? - Oh, sorry. I didn't think anyone would be listening.
 211226 -- Our financial model predicts slow sales for years, followed by a huge surge in year ten. - What causes the surge? - Why do you care? That's ten years away. - I ask so I can judge the credibility of your model. - I guarantee our model is as good
 211226 -- as any other ten-year projection. - Has any ten-year projection ever been right? How would I know? - Don't put in those earbuds! DOOON'T! Please continue.
@@ -13844,7 +13844,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220123 -- exactly how you stopped me from being killed by poisonous spiders. - Maybe YOU could show more /gratitude/ and less /attitude/. - Okay, I give up. I'll make the popcorn. Finally!
 220124 -- I got you a desk chair for your birthday. - Wow! That's perfect timing because someone stole my chair this morning. - You're welcome. Wait...
 220125 -- I expected more from you on this project. - There were no standards for success. You're comparing me to the imaginary. - And you're losing. Badly! I don't think we are on the same point.
-220126 -- Sorry I'm late. I was working harder than a one-eyed beaver in a knitting contest. - Darn it! I want to be mad at you for your tardiness but your folksy chram makes it impossible! - You look like a turnip during duck season. IT'S WORKING! STOP
+220126 -- Sorry I'm late. I was working harder than a one-eyed beaver in a knitting contest. - Darn it! I want to be mad at you for your tardiness but your folksy charm makes it impossible! - You look like a turnip during duck season. IT'S WORKING! STOP
 220126 -- IT!
 220127 -- Hey. GAAA!!! Stop sneaking up on me! - This is MY fault? Yes, because you sneak up on people. - What are you guys talking about? GAAAA!!!
 220128 -- Go as k Tina when her first draft will be done. I can't do that. - Tina screams in surprise whenever I get near her because she thinks I'm sneaking up on her. - But after she calms down... Then she teaches me about the flaws in my "walking
@@ -13949,7 +13949,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220407 -- I invented an energy source that is cheaper then fossil fuels! - Did you also invent a way to prevent the oil-producing countries from trying to kill us for competing with them? - No. Toss it in the trash.
 220408 -- Can I take this training class? - No, my plan is to let your skills atrophy so I have a reason to fire you and hire a cheaper engineer. - Do you see any flaws in my plan? Only an elevated risk of employee sabotage.
 220409 -- You all remember the thing I correctly predicted twelve years ago... - ...therefore, you should heed my word on this completely unrelated topic. - Does that make sense? I won't be taking questions.
-220410 -- Do you prefer meeting on monday or tuesday? tap-tap-tap... - Yes. - Your answer suggests you did not read my question. tap-tap-tap... - I'm asking you to select a specific day, either Monday or Tuesday, and any time after 1 P.M. tap-tap-tap...
+220410 -- Do you prefer meeting on Monday or Tuesday? tap-tap-tap... - Yes. - Your answer suggests you did not read my question. tap-tap-tap... - I'm asking you to select a specific day, either Monday or Tuesday, and any time after 1 P.M. tap-tap-tap...
 220410 -- - 10 A.M. works for me. - You didn't specify which day, and you picked a time that wasn't offered. tap-tap-tap... - Please read ALL of the words in this message and give me a time AFTER 1 P.M. AND on either Monday or Tuesday. tap-tap-tap... -
 220410 -- Does 11 A.M. on Friday work for you? I can't describe how much I hate you right now.
 220411 -- You did this wrong. I did it the way you told me to do it. - I think you misunderstood me. I think you were unclear. - Can we agree this is somehow your fault? Yes, that feels as if it would save time.
@@ -14022,7 +14022,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220529 -- masterpieces in half the time. - Or maybe he hasn't yet had the life force drained from his body by your bad management. - And he might be lying about working long hours at home. - I literally hate everyone. Same.
 220530 -- We've decided to become a big pharma company. - As business expert Willie Sutton once advised, "Because that's where the money is." - He was talking about bank robbery. What's your point?
 220531 -- Now that we're a big pharma company, I need you to lead the data integrity team. - You want me to make sure all of the data from our drug trials is accurate? - Maybe you're not the right fit for this job.
-220601 -- As a big pharma company, we will be under more scrutinity than other companies. - That's why we can never be seen as bending any rules or violating any laws. - In other words, we should be honest and ethical? I'm saying it should look that way
+220601 -- As a big pharma company, we will be under more scrutiny than other companies. - That's why we can never be seen as bending any rules or violating any laws. - In other words, we should be honest and ethical? I'm saying it should look that way
 220601 -- in your e-mails. 
 220602 -- Wally, I'm putting you in charge of testing our new drug in a large-scale, randomized, controlled study. - Sure. What result do you want me to give you? - You're almost too perfect for this job. Thank you.
 220603 -- Our drug trial data shows we killed as many people as we saved. - Put together a budget for bribing our way to government approval. - Am I a criminal now? I think of you as more of an accomplice.
@@ -14042,9 +14042,9 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220613 -- This article says the benefits of the "Open Office" floor plan have been totally debunked. - Luckily for all of you, I had the vision of keeping you in tiny cubicles instead of chasing fads. - Would it kill you to say, "thank you"?
 220614 -- Alice, you can't work from home every day. - Why not? My co-workers are 80% useless and 20% Covid carriers. - She had a strong argument.
 220615 -- I'm worried I might have "brain fog" after recovering from Covid. - How would we know the difference? - Huh? This is my point.
-220616 -- You've made your best decisions since you got brain fog from covid. - Maybe brain fog is an upgrade in your case. - Does anyone else like cheese? You're a better conversationalist now too.
-220617 -- I tested positive for covid, so I'll be home for ten days. - That sounds deeply suspicious because it's the seventh time this year you got covid. - This is no time to start doubting science.
-220618 -- Why is your project late, Dave? - Supply chain issues, climate change, systemic racism, covid, and something about inflation. - I can never tell if you're joking. I love that about you.
+220616 -- You've made your best decisions since you got brain fog from Covid. - Maybe brain fog is an upgrade in your case. - Does anyone else like cheese? You're a better conversationalist now too.
+220617 -- I tested positive for Covid, so I'll be home for ten days. - That sounds deeply suspicious because it's the seventh time this year you got Covid. - This is no time to start doubting science.
+220618 -- Why is your project late, Dave? - Supply chain issues, climate change, systemic racism, Covid, and something about inflation. - I can never tell if you're joking. I love that about you.
 220619 -- How was your vacation? - Great! I feel so relaxed. - While you were gone, I reorganized the lab for you. - WH-WH-WHAT???? - You don't have much storage space, so I shoved cables in drawers wherever they fit. - And I discarded any test equipment
 220619 -- I didn't recognize. - I put you lab tools in the break room so anyone can borrow what they need. - This could not be worse. I mistook a cable for a snake and created a biohazard by the test rack.
 220620 -- Ted, you've worked for me for years, and today I realized I don't know what you actually do. So, you're fired. - Did you just fire me because of your own ignorance? - Yes, but I'm also firing you because you said that.
@@ -14103,3 +14103,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220730 -- consistent.
 220731 -- I can't get enough of your stories. - Especially the ones I've already heard. - Your terrific stories need to be repeated so their wisdom sinks in. - If you think about it, that's no different than how we learn anything else. - I love the fact
 220731 -- that all of your stories have the same point: YOU'RE AWESOME. - And that's a lesson that has helped me grow as a person and as a professional. - I don't know how I can ever repay you for that gift. - Is he serious? I can't tell. No one knows.
+220801 -- Elbonian Strongman "Vlad The EMailer" has invaded Ucranium, a nation that exists only in the Metaverse. - Ucrainium has asked programmers to help them create virtual weapons to repel the attack. - Wait...how does that make sense? Fog of war?
