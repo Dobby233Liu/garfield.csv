@@ -16940,3 +16940,4 @@ ga220729 -- Are you scared of ghosts, Liz? - No. - She's so brave. She does date
 ga220730 -- Dogs are a lot like people. - - Bark! Bark! Bark! No, I won't take that back.
 ga220731 -- * - * - - What's the matter? It need something. - Hmmmmm - I know... - *
 ga220801 -- - YAAAAAAH! - You bit me! There was jelly on your ankle.
+ga220802 -- Nothing bad has happened today. - - I probably shouldn't have said that. Here come the locusts.

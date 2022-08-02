@@ -10952,3 +10952,5 @@
 220731 -- er das ernst? Das weiss niemand.
 220801 -- Der elbonische Machthaber "Vlad der E-Mailer" ist in Ucranium einmarschiert, eine Nation, die nur im Metaverse existiert. - Ucranium hat Programmierer gebeten, virtualle Waffen zu erschaffen, um den Angriff abzuwehren. - Moment...was soll das
 220801 -- alles? Nebelkerzen?
+220802 -- Im Metaversum wütet ein Krieg, da "Vlad, der E-Mailer" versucht, Ucranium zu erobern. Er behauptet, es war schon immer Teil Elboniens. - Die tapferen Verteidiger haben sich jetzt zu einer kostenpflichtigen Seite erklärt und eine
+220802 -- Verteidigungs-Paywall errichtet. - "Vlad, der E-Mailer" hat geschworen, mit einer Kreditkarte und-Gott bewahre-mit einem Gutscheincode zurückzukehren.

@@ -212,6 +212,7 @@
 20170512 -- Meine Zukunft, was können Sie sehen? Ich sehe...Klopapier, Müllbeutel, Neutralreiniger... - Neutralreiniger. - Tschuldigung! Meine Putze klemmt immer die Einkaufsliste unter die Glaskugel!
 20170513 -- Einen Espresso, bitte! To go? Ja? Das war'n Scherz, oder? - Wir haben total süsse kleine Becher! Hier! Mit Kätzchen! Espresso trinkt man sofort! Wenn man ihn rumträgt, schmeckt er scheisse! - Der Espresso hier ist eh furchtbar! Ich bin froh,
 20170513 -- wenn die Leute weit weg sind! Rotes Kätzchen.
+20170729 -- Hahaha! Mit der alten Möhre brauchst Du ja ewig bis zur Kita! Bis später! Sags ihm! - Das ist ein total neues 28-Gang Tourenrad und sauschnell, bäh! Oh, tschuldigung! Ich Idiot! - Ich meinte alte Mähre! *
 20170804 -- Hey, zeig' doch mal! Du hast Deine Jacke gebatikt! Toll! Nee, das ist gestempelt, oder? Schickes Muster! - Was nimmst Du für Farben? Alles Naturfarben. Das Rot ist Himbeere und das Braun Walnuss. - Walnuss-Feige!
 20170825 -- "Klingel defekt". Dann gehen wir eben wieder. - ** Ding Dong ** - Grundkurs Bauchreden! Hupen kann ich auch schon! Wehe! Hanni Nammi
 20170905 -- * - ? - Wuuh..
@@ -330,3 +331,4 @@
 20220729 -- Wenn das bei Ihnen noch dauert, dann mach ich inzwischen ein paar Entspannungsübungen, okay? Nur zu! - - Besser? Besser! Und wie entspannen Sie? Ich stemple Klapperschlangen.
 20220730 -- Ist das nicht herrlich? Und gleich noch einen kleinen Apörol und dann ein Ründchen in den Pool! Der Pool ist gesperrt. - Gesperrt? Mit Vollpfosten. - Die Nordic-Walking-Gruppe von Deck 12 hat sich verlaufen.
 20220801 -- Ey! Was ist mit der Rutsche?! Au! Was soll damit sein? Die ist gesperrt! Das bleibt sie auch! - Au! Au! Au!! ? - Warum ist die Rutsche offen? Nachwuchsförderung Frauenfussball.
+20220802 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... Eins werden mit dem Baum... - Eins werden mit dem Baum...eins werden mit dem Baum! Eins! Werden! Mit! Dem! Baum! B! A! U! M! - Be-setzt!

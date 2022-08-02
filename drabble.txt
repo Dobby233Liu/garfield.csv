@@ -10402,3 +10402,4 @@ dr220729 -- Wanna play Corn Dog? - You mean Corn Hole? - SNARF! - Nope.
 dr220730 -- We're leaving on a cruise tomorrow, Wally! WHAT?! - Don't worry! Grandma is coming over to take care of you! - Grandma?? She's nice! She feeds me a lot! - We'll be back before you know it! Take your time!
 dr220731 -- CRUISE SHIP TERMINAL Welcome Abroad! BON VOYAGE Watch Your Step You know we're cruising to Alaska, right? I thought you said ARUBA!
 dr220801 -- I can't believe we're on a cruise to Alaska! Me neither, honeybunch! - ICE CREAM Hi, Ralph! - PIZZA Hello, Ralph! - And I also can't believe we've only been on this ship for 20 minutes! That long? I'm due for another cone!
+dr220802 -- Alaska is amazing! - I see bears and bald eagles! - Want to look, mom? No, thanks. - I feel like I see them all the time! Where's the Spa?
