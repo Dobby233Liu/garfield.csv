@@ -16941,3 +16941,4 @@ ga220730 -- Dogs are a lot like people. - - Bark! Bark! Bark! No, I won't take t
 ga220731 -- * - * - - What's the matter? It need something. - Hmmmmm - I know... - *
 ga220801 -- - YAAAAAAH! - You bit me! There was jelly on your ankle.
 ga220802 -- Nothing bad has happened today. - - I probably shouldn't have said that. Here come the locusts.
+ga220803 -- "Dear Ask a Dog, my dog has taken over the bed, and I'm sleeping on the floor. What canI do?" - Bark! Bark! Bark! Bark! Bark! Bark! - Turn around three times before you lie down.
