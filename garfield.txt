@@ -16943,3 +16943,4 @@ ga220801 -- - YAAAAAAH! - You bit me! There was jelly on your ankle.
 ga220802 -- Nothing bad has happened today. - - I probably shouldn't have said that. Here come the locusts.
 ga220803 -- "Dear Ask a Dog, my dog has taken over the bed, and I'm sleeping on the floor. What canI do?" - Bark! Bark! Bark! Bark! Bark! Bark! - Turn around three times before you lie down.
 ga220804 -- I've lost my phone! - Also my keys, several socks, a book, sunglasses... - A bar of soap... Your mind...
+ga220805 -- Quiet evening. CRUCH CRUCH CRUCH CRUCH - - Except for the noisy chewing! What?! CRUCH CRUCH CRUCH CRUCH CRUCH CRUCH CRUCH CRUCH CRUCH

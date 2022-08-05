@@ -10405,3 +10405,4 @@ dr220801 -- I can't believe we're on a cruise to Alaska! Me neither, honeybunch!
 dr220802 -- Alaska is amazing! - I see bears and bald eagles! - Want to look, mom? No, thanks. - I feel like I see them all the time! Where's the Spa?
 dr220803 -- I can't believe we're cruising to Alaska, Patrick! Did you know that Alaska has a population of 686,293? - That's 1.2 people per square mile! Except at the cruise ship buffet!
 dr220804 -- I love to sit here after lunch and try to spot whales! - I SEE ONE! I SEE ONE!! - What? A whale? No, a slice of chocolate cake way in the back!
+dr220805 -- A whale! I saw a whale! Me too! - I thought whales were bigger! - Keep in mind, we're on the 16th floor of a floating skyscraper!

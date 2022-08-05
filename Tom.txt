@@ -209,6 +209,8 @@
 20160425 -- Ist schon wieder alles voll mit Kaugummis! Hey, Du! - Willst Du so ein geiles T-Shirt? Dann musst Du nur das ganze weisse Zeug vom Boden kratzen. Aber alles! - Haben Sie diesem Idioten gesagt, er soll den Zebrastreifen wegkratzen?
 20161015 -- Ah, Du warst einkaufen, sehr schön! ...was ist das? Badetabs! Gibts gerade im Angebot. Papaya...Butter...Milch...Kakao...Mango...Kiwi... - Such uns was leckeres aus! Ich ziehe blind! - Riecht gut! Blubbert aber gar nicht! Brühwürfel machen
 20161015 -- keine Bläschen!
+20161124 -- Du warst beim Sport? Habt Ihr einen Babysitter? Ich mach jetzt Babysport! - Rennen mit Baby, Sit-Ups mit Baby und Babystemmen für die Muckis! Obwohl, ans Hantel ist er fast schon zu schwer! Haha! Wo ist denn der kleine Moppel? - Ich müsste
+20161124 -- nochmal in den Geräteraum.
 20170420 -- Au! Au! Der beisst! Der beisst! Mein Bein! Mein Bein! Hast Du das Pfefferspray dabei? Nein! - Au! Dein Parfüm! Nimm Dein Parfüm! Au! Au! Rückzug! - Iiiih! Ich stink nach alte Tante!
 20170512 -- Meine Zukunft, was können Sie sehen? Ich sehe...Klopapier, Müllbeutel, Neutralreiniger... - Neutralreiniger. - Tschuldigung! Meine Putze klemmt immer die Einkaufsliste unter die Glaskugel!
 20170513 -- Einen Espresso, bitte! To go? Ja? Das war'n Scherz, oder? - Wir haben total süsse kleine Becher! Hier! Mit Kätzchen! Espresso trinkt man sofort! Wenn man ihn rumträgt, schmeckt er scheisse! - Der Espresso hier ist eh furchtbar! Ich bin froh,
@@ -336,3 +338,4 @@
 20220802 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... Eins werden mit dem Baum... - Eins werden mit dem Baum...eins werden mit dem Baum! Eins! Werden! Mit! Dem! Baum! B! A! U! M! - Be-setzt!
 20220803 -- Ich hab schon mal den Grill angeworfen! Du hast was?! - Du angelst schon länger, als Du sonst auf dem Klo sitzt! Da wird ja wohl bald mal was anbeissen! Klöpkes kommen auch zum Essen. -*
 20220804 -- Er ist besser als jeder Trüffelhund! Wir setzenihn zur Waldbrand-Prävention ein. An den Strassenrändern. - Ein paar Tage in rauchfreier Umgebung... - ...und er findet jede glimmende Kippe!
+20220805 -- Treten Sie ruhig näher! Mit dem Gepiesackt Werden müssen Sie sich allerdings noch etwas gedulden. Der Kollege verreist gerade. - Wie schön! Urlaub? Haha! Noch schöner! - Weiterbildung!
