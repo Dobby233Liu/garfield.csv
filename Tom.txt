@@ -27,6 +27,7 @@
 19970129 -- Also-das ist ja wohl... Spielen und Hausieren verboten! - Welcher Idiot hat schon wieder Weissglas ins Grünglas geworfen? - Es war Pfefferminzlikör!
 19979618 -- Woher stammt also die Bezeichnung "Barbar"? -Einzer? Von den Bärten der wilden Männer des Nordens! - Sehr gut! -Was verstehen wir unter einem "Akt der Barbarei"? -Huschke? - Die Socken in den Sandalen der wilden Männer des Nordens...
 19970926 -- DLRG - Verdammt...Maulsperre! - killekillekille
+19980218 -- rrrrrr... - rrrrr... **Tüdelüt** Ja? Hallo? - Und jetzt die Haare im anderen Ohr!
 19980520 -- - Geh' da nicht so nah ran! ...das ist tief! - Quatsch! Nur stille Wasser sind tief!
 19980805 -- -Anker lichten! -Maschinen volle Kraft voraus! -Steuer hart backbord! - -Alle Mann auf Kampfstation! -Luken dicht! -Alle Torpedos feuerbereit! -Angriffstiefe 90 Fuss! -
 19980904 -- Red' Du mal mit ihm...ich geb's auf! - Schau-andere Kinder freuen sich total, daß sie endlich in die Schule dürfen! - Nicht allen gewährt das Schicksal ein glückliches zuhause...
@@ -72,6 +73,7 @@
 20030514 -- gerade auf der anderen Seite der Welt passiert! Wahnsinn! - Aha..oh-was war das? Da ist eben in China ein Sack Reis umgefallen.
 20030524 -- Schauen Sie sich das gut an, Jasmin! Kein besonders schöner Anblick, gewiss... Aber stellen Sie sich mal vor, wieviel dadrin schon zerkleinert worden ist! - Und das alles! - Darf ich nach Hause? Mir ist schlecht... Mir auch!
 20030819 -- Johoo! Und hier ist wieder Euer cooler Verkehrskasper mit seinem fetten Verkehrsquiz für Kids! - Hey! Was bedeutet dieses voll krasse Schild? - "Vorsicht grosser Bruder!"
+20031120 -- Muss das sein, so früh? Sonst gehen uns die Frühschichtler durch die Lappen. Ausserdem sind müde MEnschen viel ruhiger. - ngdingdongdingdongdingdong HRRRR! - chrrr...
 20040122 -- SECURITY CHECK - - ---aus sicherheitstechnischen Gründen um einige Minuten verzögern...Ladies and Gentlemen, Flaight Number...
 20040503 -- - So! Der ist leer! Puh! öchö... - 
 20040610 -- Lalü-lalü... He! Was zum... - Auseinander! Sofort! - Herrgott-wenns juckt...
@@ -207,6 +209,8 @@
 20151017 -- mich dabei gleichzeitig gemütlich am Hintern kratzen!
 20160308 -- Ich weiss, mein Zöpfchen ist total old school! Aber ich hänge nun mal dran. Das Zöpfchen bleibt! - Aber vielleicht hat der Profi ja eine Idee, wie man es am besten geschickt integrieren kann! - DYNAMIT
 20160425 -- Ist schon wieder alles voll mit Kaugummis! Hey, Du! - Willst Du so ein geiles T-Shirt? Dann musst Du nur das ganze weisse Zeug vom Boden kratzen. Aber alles! - Haben Sie diesem Idioten gesagt, er soll den Zebrastreifen wegkratzen?
+20160903 -- Deine Mutter fährt echt chnell! Wie trainierst Du sie? Gar nicht. Ich hab einen Film über Doping gesehen! - Mit dem ganzen Zeug aus dem Bad, das ich ihr in den Kaffee rühre, ist sie schon ganz flott geworden. - An den lästigen Zwischenstopps
+20160903 -- arbeite ich noch. WC
 20161015 -- Ah, Du warst einkaufen, sehr schön! ...was ist das? Badetabs! Gibts gerade im Angebot. Papaya...Butter...Milch...Kakao...Mango...Kiwi... - Such uns was leckeres aus! Ich ziehe blind! - Riecht gut! Blubbert aber gar nicht! Brühwürfel machen
 20161015 -- keine Bläschen!
 20161124 -- Du warst beim Sport? Habt Ihr einen Babysitter? Ich mach jetzt Babysport! - Rennen mit Baby, Sit-Ups mit Baby und Babystemmen für die Muckis! Obwohl, ans Hantel ist er fast schon zu schwer! Haha! Wo ist denn der kleine Moppel? - Ich müsste
@@ -218,7 +222,7 @@
 20170729 -- Hahaha! Mit der alten Möhre brauchst Du ja ewig bis zur Kita! Bis später! Sags ihm! - Das ist ein total neues 28-Gang Tourenrad und sauschnell, bäh! Oh, tschuldigung! Ich Idiot! - Ich meinte alte Mähre! *
 20170804 -- Hey, zeig' doch mal! Du hast Deine Jacke gebatikt! Toll! Nee, das ist gestempelt, oder? Schickes Muster! - Was nimmst Du für Farben? Alles Naturfarben. Das Rot ist Himbeere und das Braun Walnuss. - Walnuss-Feige!
 20170825 -- "Klingel defekt". Dann gehen wir eben wieder. - ** Ding Dong ** - Grundkurs Bauchreden! Hupen kann ich auch schon! Wehe! Hanni Nammi
-29170826 -- Ihr habt echt noch Sex?! Na sicher! Leidenschaftlichst! - Im Ernst? So richtig mit schmutzige Dinge sagen und so? Aber sowas von! - Du hast schon wieder Hüpfburg gesagt!
+20170826 -- Ihr habt echt noch Sex?! Na sicher! Leidenschaftlichst! - Im Ernst? So richtig mit schmutzige Dinge sagen und so? Aber sowas von! - Du hast schon wieder Hüpfburg gesagt!
 20170905 -- * - ? - Wuuh..
 20171014 -- Horst! Horst! Ho-Horst! Hier! Horst! Horst!! - Äh-Schatz? Ich bin hier! Oh... Oh,entschuldigung! Ich hab Sie verwechselt! - Sie hat manchmal eine seltsame Art, mir Komplimente zu machen.
 20171104 -- Kürbissuppe! Aus dem Halloweenkürbis! - Den grossen, mit dem geschnitzten Gesicht? Das kann ich nicht essen! So künstlerisch wertvoll war der nicht. Hm-lecker! Den hat Andi Klöpke auf dem Kopf gehabt! - Muss ich den Arzt holen? Hol Pizza!
@@ -231,6 +235,7 @@
 20180526 -- Hallo, ich bin die was-mach-ich-hier-eigentlich-noch-Fee, und Du darfst Dir was wünschen! Aber hurtig! - Respekt! Ich will Respekt! -
 20180605 -- Ist das nicht fürchterlich, den ganzen Tag in offene Futterluken gucken zu müssen? - Genau das hab ich meinen Professor damals auch gefragt! Und er hat mir etwas sehr weises geantwortet, das mich in meiner Entscheidung, Zahnarzt zu werden,
 20180605 -- nachhaltig bestärkt hat! Was hat er gesagt? Lieber oben als unten!
+20180811 -- Warum gehen Männer immer ewig aufs Klo? Keine Ahnung, frag die Maus! Ich könnte gar nicht so lange auf der Schüssel hocken! - Schon gar nicht bei dieser Hitze! Nanu-schon fertig? - Eiswürfel vergessen.
 20180822 -- Klöpke *** DONGG! BALLONNG! BONNNGG! - Wie die Klingel des Mannes, so sein Johannes! - So lang er auch war, das Ende ist nah!
 20180829 -- BÄKO Ein Schokocroissant, ein Puddingplunder und das Sandwich da! Kann alles in eine Tüte. Sicher? - Klar, kommt doch alles zusammen in denselben Bauch, haha! Hahaha! - Aber leider nicht zusammen wieder raus. Das war Avocado auf dem Sandwich,
 20180929 -- oder? Geben Sie mir noch eine Tüte! Avocado kann er nicht.
@@ -268,6 +273,8 @@
 20211022 -- Eineeinmarkmarke! - Gott, ist das öde! Immer das Gleiche! Ein Hirn brilliant und voller Fachwissen! Und keiner fordert es! - Zweizweimarkmarken!
 20220129 -- Die Kinder kommen vom Spielplatz und haben Beulen am Kopf! Und? Soll ich jetzt Kissen verstreuen? Das sind Kinder, das ist normal! - So, und jetzt zeigst Du der Mama, wo Du Dir immer Aua machst! -
 20220401 -- BUH!!! - KCHCHCH!! ?? - Einen Versuch wars wert.
+20220414 -- Was soll das sein? Krampfadern? Das ist ein Osterei für meinen Papa mit seinem Tattoo drauf, du Arsch! - Und? Hast Du denn schon was auf Dein Ei gemalt, Chlodwig? Ja, einen Elefanten! Wo denn? Na, da! - Ich hab mit dem Auge angefangen. Der
+20220414 -- Rest hat nicht draufgepasst.
 20220426 -- Was macht der Föhn? Ich hab ein paar Teile gewechselt. Der schnurrt gleich wieder wie neu! - * FURZ! Bravo! Und jetzt? - Spassföhnen mit Okel Figaro Nur € 2,-
 20220507 -- ** DING DONG - HELLS ** ** BELLS! - Warn't SCherz! Da ist der Ausgang, bis später! * * * * 
 20220519 -- Na toll. Der Fahrstuhl hängt! Das kann dauern! - Und nichts zu lesen dabei... Hüstel... - Hanni Nanni
@@ -339,3 +346,7 @@
 20220803 -- Ich hab schon mal den Grill angeworfen! Du hast was?! - Du angelst schon länger, als Du sonst auf dem Klo sitzt! Da wird ja wohl bald mal was anbeissen! Klöpkes kommen auch zum Essen. -*
 20220804 -- Er ist besser als jeder Trüffelhund! Wir setzenihn zur Waldbrand-Prävention ein. An den Strassenrändern. - Ein paar Tage in rauchfreier Umgebung... - ...und er findet jede glimmende Kippe!
 20220805 -- Treten Sie ruhig näher! Mit dem Gepiesackt Werden müssen Sie sich allerdings noch etwas gedulden. Der Kollege verreist gerade. - Wie schön! Urlaub? Haha! Noch schöner! - Weiterbildung!
+20220806 -- CHRRRR! Horst! - Was...? Du schnachst! Und? Du weckst die Leute auf! - Schmarrn!
+20220808 -- Verdammte Affenhitze! Das ist affenfeindlich! Na los, Arschbombe! - Und die Bademeister? Ich hab scohn 'ne gelbe Karte... Die hocken doch sicher irfendwo im Schatten. - Nicht von der Seite reinspringen!! Fröstl * * *
+20220809 -- Kann ich mein Handy hier laden? - Nach dem Waschen! ? - WUUUUH!
+20220810 -- Die Stöcke immer schön im Schwung mitnehmen und kontrolliert aufsetzen! Wir machen ja keine Fracking-Bohrungen, haha! Auf geht's! - Halt!! Und wie heisst das Zauberwort, Herr Klöpke? - 'tschuldigung!

@@ -10406,3 +10406,8 @@ dr220802 -- Alaska is amazing! - I see bears and bald eagles! - Want to look, mo
 dr220803 -- I can't believe we're cruising to Alaska, Patrick! Did you know that Alaska has a population of 686,293? - That's 1.2 people per square mile! Except at the cruise ship buffet!
 dr220804 -- I love to sit here after lunch and try to spot whales! - I SEE ONE! I SEE ONE!! - What? A whale? No, a slice of chocolate cake way in the back!
 dr220805 -- A whale! I saw a whale! Me too! - I thought whales were bigger! - Keep in mind, we're on the 16th floor of a floating skyscraper!
+dr220806 -- Welcome home! Thanks for taking care of Wally while we were in Alaska, Granmma! - How was he? Well, he acted like he was hungry a lot! The key word is "acted."
+dr220807 -- Have you seen those cars with cameras that drive through neighborhoods taking pictures of all the houses? Yes, why? - - I REMEMBER THAT CAR!! You really shouldn't go out to get the morning paper in your underwear, Ralph!
+dr220808 -- ...and I'll have a diet cola, please. Coming right up, sir! - Here you go! - I haven't seen this much ice since our Alaska cruise.
+dr220809 -- Great minds discuss ideas. - Average minds discuss events. - Small minds dicuss... - What was I talking about? I wasn't listening.
+dr220810 -- HEY! WHO ATE ALL THE ICE CREAM?? - You were supposed to saver it for me!! - Dang! Rocky road rage!

@@ -10957,3 +10957,11 @@
 220803 -- Unser Verkaufsraum im Metaversum ist vom Klimawandel zerstört worden. - Wie kann das auch nur im entferntesten möglich sein? - Es war ein Fehler, dem Kuh-Avatar realistische Verdauungssysteme zu verpassen.
 220804 -- Der Kongress hat unseren Geschäftsführer vorgeladen, damit er zu den Gefahren unserer Produkte aussagt. - Ich möchte, dass Sie ihn darauf vorbereiten. - Damit er die Fakten richtig benennt? Damit er vielleicht der Justiz entfliehen kann.
 220805 -- Ich habe ein Portal ins Metaversum gefunden. - Es verbindet unsere Realität mit der digitalen Welt. - Und das ist ganz sicher ein Portal? Es funktioniert nur, wenn man kopfüber hineinspringt.
+220806 -- Ich fordere Sie zu einem Abnehm-Wettbewerb heraus. - Da bi ich dabei! Klingt lustig. - Glauben Sie, Sie können gewinnen? Ich versuch's gar nicht erst. Klingt mühsam.
+220807 -- Wieso sind Sie nicht mehr wie Dave? - Dave arbeitet nachts und an Wochenenden im Homeoffice und seine Projekte sind immer pünktlich fertig. - Sie werden auch pünktlich fertig, aber Sie arbeiten nie nachts oder an den Wochenenden. - Das ist, als
+220807 -- würden Sie die Firma bestehen. - Wollen Sie mich dafür bestrafen, dass ich die selbe Arbeit in der halben Zeit erledige? - Und woher wissen Sie, dass Dave auch nachts und an den Wochenenden arbeitet? Beobachtet ihn jemand? - Er sagte, er tut
+220807 -- es. Er sagt auch, dass er im Traum fehlerlose Programme schreibt. - Das sollten Sie auch tun. Soll ich seine Lügen kopieren, oder darf ich freestylen?
+220808 -- Die Fianzabteilung sagt, wir könnten den Gewinn um 18% steigern, wenn wir... - ...es dem Kunden schwerer machen, defekte Produkte zurückzugeben. - Wir haben vor, die Unannhmlichkeiten stufenweise zu steigern, So haben wir etwas Zeit, um uns an
+220808 -- das neue Niveau der Scham zu gewöhnen.
+220809 -- DOGBERT MACHT DEN KUNDENSERVICE Sie können Ihr defektes Produkt bei voller Kostenerstattung zurückgeben. - Ach, und diese Plastiktüte, die Sie beim Auspacken weggeworfen haben... - Ja...? Die brauchen Sie, um das Produkt zurückgeben zu können.
+220810 -- Um das Produkt zurückgeben zu können, brauchen Sie die Seriennummer. - Die finden Sie im Inneren des Gehäuses. Öffnen Sie es mit einer Knochensäge und Säure. - Tj, ich finde Sie auch nicht gerade hilfreich.
