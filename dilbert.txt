@@ -14117,4 +14117,6 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220808 -- shame.
 220809 -- Dogbert does Customer Support You can return your defective item for a full refund. - You know that plastic bag you threw away when you unwrapped it? - Kind of- You'll need that to return it.
 220810 -- To return the item, you'll need the serial number. - You can access it inside the case by using a bone saw and acid. - Well, I think you're unhelpful too.
+220811 -- you can retur it in the original box. - It almost seems as if you designed the packaging to make it impossible to cram everything back in the box. - I won't be asking you to take a brief survey at the end of this call.
+220812 -- You don't appear to be working. I am working. - I'm designing a network upgrade in my head. - All I ask is that you don't look like you'*re enjoying it.
 
