@@ -7,6 +7,7 @@
 19950408 -- Ohne Gangschaltung? Genau! Ohne Gänge und ohne diesen Hi-Tech Kram, den ich sowieso nich' verstehe... - Knifflig... Dann geben Sie mir eben das einfachste, das Sie haben! -
 19950410 -- He! Ich will meine Rente! -und zwar sofort!! - Fuchtelnse nicht so mit Ihrem Bleistift rum! Das ist ein Glasschneider... -
 19950411 -- ? - ? - Buh - Ah! Ich liebe diesen Job...
+19950412 -- - INDIANER!! - Na, Hauptsache unverletzt!
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
 19950614 -- Ich langweil mich sooo... - Verpiss Dich!! Okay. - - Und jetzt?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
@@ -36,6 +37,7 @@
 19981205 -- Ahem... "von drauss' vom Walde komm' ich her und äh...muss Euch..." - MAAAMAAA!! - Der Förster...
 19981212 -- "Manko"-ahem...diese Autos sind fantastisch durchzugskräftig und elastisch. Fahrwerk super (etwas tiefer). Farbton in metallic (schiefer). Servo, Niederquerschnittreifen. Ganz dezente Ralleystreifen. - Airbag, Klima, ABS. Bis zum Abwinken PS.
 19981212 -- - Fehlt noch für Schwarzbartherren Kleinhirnträgerwegfahrsperren!
+19990306 -- Er hat die volle Winter-Lethargie-bewegt sich kaum noch-Vitamine nutzen nix-ich dachte, vielleicht können Sie mit Akupunktur was machen... Hmm... - AU! - Eine Woche lang-ein Mal täglich-nach dem Essen...
 19990325 -- ...8...9...10... - ...29...30! ...ich komme! - Na los-zeig Dich! ...ich geb' auf! He!
 20000314 -- Hilfe!! Zu Hilfe!! So helfen Sie mir doch! . Ich werde verfolgt!! Tut mir leid... Ich bin nur für das nasse Element zuständig... - Dann tun Sie was! ...sie will mich küssen!
 20000729 -- Sag mal-ist das nicht Dein Hubert? Dieser Drecksack!! Na warte-Dich stampf ich ein, Bürschchen! - Contenance, meine Liebe! Dich an so einem Schuft noch beschmutzen? Ich würde das ganz cool mit dem Handy regeln... Du hast ja so Recht! Ich
@@ -180,6 +182,8 @@
 20131116 -- willst Du so viel Milchschaum machen? WUUUH! Laubex
 20131123 -- Meine Damen und Herren, heute kochen wir Huhn in roter Tunke! Dazu benötigen wir ein... * Tri-Tra-Trullala! ** - Spinnst Du?! Das ist eine Live-Sendung! Du kannst doch keine nackten Hühner tanzen lassen! Geh Backstage zu Mama! - Ääh...Huhn in
 20131123 -- roter Tunke. Dazu benötigen wir ein... * Tri-Tra-Trullala! **
+20140118 -- Haben die hier auch Sojamilch? Ich hab eine Laktoseintoleranz und wenn ich jetzt noch Coffein zu mir nehme, mache ich heute kein Auge mehr zu! Eine Leidensgenossin! - Fräulein Blüml, wollen wir mal etwas ganz verrücktes tun? Fräulein Blüml,
+20140118 -- Gisela, wollen wir gemeinsam die Nacht durchpupsen? Ich...ja! - Zwei grrrosse Milchkaffee!
 20140222 -- Guten Tag! Ein Kilo Sitzfleisch, bitte! Was? Sitzfleisch! Meine Eltern sagen, ich hätte keins. Brauch ich aber. Dringend! - Und? Hast Du Sitzfleisch bekommen? Nö. - Aber der Metzger sagt, Hirnschmalz geht auch.
 20140503 -- Ihr Espresso. Mmh...danke. - Ähm...Sie heben mir versehentlich einen mit Milchschaumhäubchen gebracht. Macht nichts, schon okay. Interessanter Geschmack! War das Sojamilch? Äh...ja...Sojafreie Sojamilch. Pardon. - Die Tauben brüten wieder
 20140503 -- über Tisch 3.
@@ -353,3 +357,6 @@
 20220810 -- Die Stöcke immer schön im Schwung mitnehmen und kontrolliert aufsetzen! Wir machen ja keine Fracking-Bohrungen, haha! Auf geht's! - Halt!! Und wie heisst das Zauberwort, Herr Klöpke? - 'tschuldigung!
 20220811 -- Vierzig Grad! Im Schatten! Die Schule ist voll klimatisiert, und wir kriegen hitzefrei! Die spinnen doch! Der spinnt auch! - Wie hält der das aus?! - Das ist Schnee.
 20220812 -- - Hey, Sierie! Spiel: "Polonäse Blankenese"! - Ich liebe diese Musikströmung! Das gibt's alles, was man braucht!
+20220813 -- Oh! Sieh nur, eine neue Villa! Sehr gut! Gut? Da ist doch alles verrammelt! Die sind verreist! - Augen auf! Das ist ein hochmodernes Smart-Home! Ding Dong ** - Guten Morgen! Das Ende ist nah!
+20220815 -- Beheizte Becken! Pah! Früher! Da gab es eine Tafel! - Da stand drauf, wie kalt das Wasser war! - Und dann ist man da rein! Wir waren härter! Blödsinn. - Wenn da nicht alle reingepinkelt hätten, hätte man gar nicht baden können!
+20220816 -- Ich brauch ein intelligentes Passwort! Hmmm...ja! "Einstein"! - Warum nicht "Horst"?! Zu intelligent. - Ah, okay! Das nächste Mal nehm ich "schlagfertig"!
