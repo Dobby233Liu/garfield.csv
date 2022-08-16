@@ -10416,3 +10416,4 @@ dr220812 -- The doctor said to wear a back brace and make it snug. - I'll wear i
 dr220813 -- I'm going to drive to the $6.98 store! The $6.98 store? - Well, it's the $0.98 store, but the gas is six bucks!
 dr220814 -- DING! - I hate it when there's some weird guy in the elevator with me! - Oh, that's a mirror!
 dr220815 -- Due to unforeseen circumstances, we are closed today. - You'd think they would've seen it coming! PSYCHIC
+dr220816 -- BURGERS The sodas here are bottomless! We can have all we want! - The fries are bottomless, too! - Is anything else here bottomless? - Just your stomach.
