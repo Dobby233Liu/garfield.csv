@@ -10417,3 +10417,4 @@ dr220813 -- I'm going to drive to the $6.98 store! The $6.98 store? - Well, it's
 dr220814 -- DING! - I hate it when there's some weird guy in the elevator with me! - Oh, that's a mirror!
 dr220815 -- Due to unforeseen circumstances, we are closed today. - You'd think they would've seen it coming! PSYCHIC
 dr220816 -- BURGERS The sodas here are bottomless! We can have all we want! - The fries are bottomless, too! - Is anything else here bottomless? - Just your stomach.
+dr220817 -- SUPERMARKET Your total is $36.47. - You can swipe, tap or insert your credit card into the chip reader. - I know I'm old, but you don't have to explain everything to me! - Did you say I can just TAP it??
