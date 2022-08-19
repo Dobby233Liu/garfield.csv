@@ -14126,4 +14126,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220816 -- Our research group wants to implant a chip in a human brain and they need a volunteer. - Maybe we should test it on animals first. - I don't think you want to die on that hill.
 220817 -- We need a volunteer for our brain chip experiment. No way would I want... - Don't struggle. Breathe in. - He's going to be mad when he wakes up. Nah. The chip will take care of that.
 220818 -- Asok, please demonstrate what you can do with our new neural chip in your brain. - THE GOVERNMENT ALWAYS TELLS THE TRUTH! - Try doing that without a neural implant. You can't do it.
-
+220819 -- The neural chip in my brain says I am hungry. And so I must eat. - Do you still have free will? I never had free will. - Did the chip force you to say that? No, it allowed me to see it.

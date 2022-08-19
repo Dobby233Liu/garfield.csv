@@ -129,6 +129,7 @@
 20080108 -- Die Wiege des 10-Meter-Bretts ist Amerika. Ursprünglich wurde es als 1-Meter-Brett Entwickelt. - Aus Sicherheitsgründen musste man den Sockel um 9 Meter verlängern. Aus Sicherheitsgründen?! - Man brauchte Platz für die Aufkleber mit all den
 20080108 -- Warnhinweisen.
 20080423 -- Immer mit Gummi! Nie ohne Gummi! Merkt Euch das endlich mal! - Ohne Gummi ist lebensgefährlich! - Manche Leute reagieren über, wenn sie kratzende Stockspitzen hören! Walküre
+20080424 -- - Gebrochen ist nichts. Einen ordentlichen blauen Fleck wirst Du allerdings ein Weilchen haben. Aber das ist ja nicht so schlimm. Glauben Sie! - Hä hä hä! Arschgeweih! Arschgeweih!
 20080513 -- Kraftvoll wirft sich der Springer in die Weite des Himmels... ...einen Augenblick schwerelos verharrend... - ...stösst er kormorangleich hinab, in gleissender Fontäne die Fluten durchschlagend. Und wir rufen ihm zu: - He! Wieder keinen Fisch
 20080513 -- erwischt?
 20080520 -- ** Palimpalim ** - Tür zu! - Ist gerade ungünstig. Mein Mann grillt. Auf dem Balkon.
@@ -214,6 +215,7 @@
 20151017 -- mich dabei gleichzeitig gemütlich am Hintern kratzen!
 20160308 -- Ich weiss, mein Zöpfchen ist total old school! Aber ich hänge nun mal dran. Das Zöpfchen bleibt! - Aber vielleicht hat der Profi ja eine Idee, wie man es am besten geschickt integrieren kann! - DYNAMIT
 20160425 -- Ist schon wieder alles voll mit Kaugummis! Hey, Du! - Willst Du so ein geiles T-Shirt? Dann musst Du nur das ganze weisse Zeug vom Boden kratzen. Aber alles! - Haben Sie diesem Idioten gesagt, er soll den Zebrastreifen wegkratzen?
+20160808 -- Ha! Verloren! Hahaha! ** Arschbombe vom Zehner! Arschbombe vom Zehner! ** - ?! - So, Sportsfreund! Vor nächstem Sommer will ich Dich hier nicht mehr sehen!
 20160903 -- Deine Mutter fährt echt chnell! Wie trainierst Du sie? Gar nicht. Ich hab einen Film über Doping gesehen! - Mit dem ganzen Zeug aus dem Bad, das ich ihr in den Kaffee rühre, ist sie schon ganz flott geworden. - An den lästigen Zwischenstopps
 20160903 -- arbeite ich noch. WC
 20161015 -- Ah, Du warst einkaufen, sehr schön! ...was ist das? Badetabs! Gibts gerade im Angebot. Papaya...Butter...Milch...Kakao...Mango...Kiwi... - Such uns was leckeres aus! Ich ziehe blind! - Riecht gut! Blubbert aber gar nicht! Brühwürfel machen
@@ -363,3 +365,4 @@
 20220617 --Den Baum berühren...den Baum spüren...eins werden mit... - Was tun Sie da?! Wonach sieht's denn aus? FORST - Da können Sie unterschreiben! Keine Neubauten im Naherholungsgebiet!!
 20220618 -- Das hast Du wundervoll gemacht, Sigurd! Bravo! Ganz, ganz toll, Sigi! - Aaah! Hört endlich auf, mich für jeden Scheiss zu loben! Ich bin doch nicht blöde! Ich weiss genau, in welcher Liga ich spiele! Das da ist Mist! - Das ist so toll von
 20220618 -- ihm, dass er auch mal andere Kinder gewinnen lässt! Ganz, ganz toll, Sigi!
+20220819 -- Wenn ich mich anständig benehme, komme ich dann wegen guter Führung früher wieder hier raus? - Sie werden sich nicht anständig benehmen. Warum? - Er kann sich nicht anständig benehmen! HELL PUNK
