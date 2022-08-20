@@ -10420,3 +10420,4 @@ dr220816 -- BURGERS The sodas here are bottomless! We can have all we want! - Th
 dr220817 -- SUPERMARKET Your total is $36.47. - You can swipe, tap or insert your credit card into the chip reader. - I know I'm old, but you don't have to explain everything to me! - Did you say I can just TAP it??
 dr220818 -- WALLY Bark my head off...run amok... - Nap...beg...frolic... - And go ballistic! - Before turning in at night, I'd like to plan my day for tomorrow!
 dr220819 -- It never fails... - I always buy one banana too many!
+dr220820 -- Want a treat? - SIT! - skattle skattle skattle - NOT THERE!
