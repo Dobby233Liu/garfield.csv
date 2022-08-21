@@ -10421,3 +10421,5 @@ dr220817 -- SUPERMARKET Your total is $36.47. - You can swipe, tap or insert you
 dr220818 -- WALLY Bark my head off...run amok... - Nap...beg...frolic... - And go ballistic! - Before turning in at night, I'd like to plan my day for tomorrow!
 dr220819 -- It never fails... - I always buy one banana too many!
 dr220820 -- Want a treat? - SIT! - skattle skattle skattle - NOT THERE!
+dr220821 -- Who wants sprinkles on their ice cream? I do! - Hey, these sprinkles are old! - It's way past the expiration date! - Should I throw them away, mom? No. - You never need to throw out old ice cream sprinkles. - Just give them to your dad! The
+dr220821 -- expiration date is just a number!

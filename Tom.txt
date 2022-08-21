@@ -28,8 +28,10 @@
 19970129 -- Also-das ist ja wohl... Spielen und Hausieren verboten! - Welcher Idiot hat schon wieder Weissglas ins Grünglas geworfen? - Es war Pfefferminzlikör!
 19979618 -- Woher stammt also die Bezeichnung "Barbar"? -Einzer? Von den Bärten der wilden Männer des Nordens! - Sehr gut! -Was verstehen wir unter einem "Akt der Barbarei"? -Huschke? - Die Socken in den Sandalen der wilden Männer des Nordens...
 19970926 -- DLRG - Verdammt...Maulsperre! - killekillekille
+19971023 -- Also: -Kasperle mit Patsch. -Auftritt Krokodil. -Kasperle: "Hahaa! etc. etc." -KAsperle vertrimmt Krokodil. -Abgang Krokodil. Alles klar? Hm. - Hahaa...he! Was zum...? - Memme!
 19980218 -- rrrrrr... - rrrrr... **Tüdelüt** Ja? Hallo? - Und jetzt die Haare im anderen Ohr!
 19980520 -- - Geh' da nicht so nah ran! ...das ist tief! - Quatsch! Nur stille Wasser sind tief!
+19980731 -- "Andrea"-"Andrea"!! -warum haben denn nun Hochs immer Männernamen... - ...und Tiefdruckgebiete Frauennamen? - -sie kommen öfter...
 19980805 -- -Anker lichten! -Maschinen volle Kraft voraus! -Steuer hart backbord! - -Alle Mann auf Kampfstation! -Luken dicht! -Alle Torpedos feuerbereit! -Angriffstiefe 90 Fuss! -
 19980904 -- Red' Du mal mit ihm...ich geb's auf! - Schau-andere Kinder freuen sich total, daß sie endlich in die Schule dürfen! - Nicht allen gewährt das Schicksal ein glückliches zuhause...
 19981120 -- "Besinnliches"-ahem...leise weisse Nebelwallen, feuchte Watte liegt auf allen grauen Feldern voller Ruh!... Krähen in den Gräben krächzen, nackte Bäume schlafend ächzen, Nebenhöhlen schwellen zu... - Feuer prasselt in Kaminen, heisses Wasser
@@ -47,6 +49,7 @@
 20001125 -- DIE RACHE DER TELETUBEN ENDE Die Stimmung im Team wurde auch zusehends schlechter. Nochmal!! - Und da ich als letzter kam, wurde ich als erster gegangen. * Hinke! Hinke! * - Wie gesagt: Ich habe es vergeigt und ich habe mich damit abgefunden,
 20001125 -- Das einzige, was mich noch quält ist: Wie haben diese kleinen Teufel bloss den Sekundenkleber in mein Kostüm bekommen?!
 20001208 -- Haushaltswaren? Durch die Parfümabteilung und dann die Rolltreppe hoch... Danke. - Testen Sie "Zlatko Noir"! "Hop-Singh" Der neue Herrenduft von "Hoss"! Ein Pröbchen, "Animaliman"? - Warste wieder im Puff?
+20010219 -- Platz da! Jetz' komm ich! - Ja! He?! - ?
 20010404 -- Soo-jetzt stellst Du Dich hier hin... - Und wenn Du dran bist, kaufst Du von dem Onkel eine Einmarkmarke. -hier hast Du eine Mark! - Geben Sie ihm lieber zwei! -sie erhöhen das Porto längeren Zeitabständen...
 20010716 -- Untern Zug gekommen? Berufsunfall... Stuntman? - Grundschullehrer. Sport? Werken. Werken? Fragen Sie lieber nicht... - Ah-Sie sind sicher das Laubsägenmassaker!
 20011110 -- Guten Tag, Meiermann...verbinden Sie mich mit dem Kundendienst! Augenblick, bitte... - Oh nein! Hör Dir das an! Warteschleifenmusik "Classics"! Haha! * * * * * * "Üb immer treu und Redlichkeit"-Plingpling! Das waren damals die ersten Anlagen!
@@ -186,6 +189,8 @@
 20140118 -- Haben die hier auch Sojamilch? Ich hab eine Laktoseintoleranz und wenn ich jetzt noch Coffein zu mir nehme, mache ich heute kein Auge mehr zu! Eine Leidensgenossin! - Fräulein Blüml, wollen wir mal etwas ganz verrücktes tun? Fräulein Blüml,
 20140118 -- Gisela, wollen wir gemeinsam die Nacht durchpupsen? Ich...ja! - Zwei grrrosse Milchkaffee!
 20140222 -- Guten Tag! Ein Kilo Sitzfleisch, bitte! Was? Sitzfleisch! Meine Eltern sagen, ich hätte keins. Brauch ich aber. Dringend! - Und? Hast Du Sitzfleisch bekommen? Nö. - Aber der Metzger sagt, Hirnschmalz geht auch.
+20140319 -- Natürlich hab ich Kohle! Ich hab mein Leben lang geschuftet wie ein Tier! Da hat man halt irgendwann ein paar Millionen! - Das ist doch keine Sünde! Geld stinkt nicht! Sie waren eine ganz gute Partie. Eine gute Partie? Hahaha! Ich wa rnicht
+20140319 -- reich, ihch war... - ...stinkreich.
 20140503 -- Ihr Espresso. Mmh...danke. - Ähm...Sie heben mir versehentlich einen mit Milchschaumhäubchen gebracht. Macht nichts, schon okay. Interessanter Geschmack! War das Sojamilch? Äh...ja...Sojafreie Sojamilch. Pardon. - Die Tauben brüten wieder
 20140503 -- über Tisch 3.
 20140530 -- Doc Wiedersehen. Tschüss. Gute Besserung! - Der Herr Klöpke scheint seine Spritze nicht gut zu vertragen! Mit einem angestochenen Hintern laufen Sie auch komisch. - Er hat sich aber den Bauch gehalten! Das ist normal. Er klaut immer die
@@ -197,6 +202,7 @@
 20140913 -- Hallihallo! Ich bin die gute Fee und hätte noch einen Wunsch zu vergeben! Interesse? Dann aber hurtig! - Ich hätte gerne Superkräfte! - Das ist der Herr Knöbl, der starrt bei uns die Löcher in den Käse.
 20141018 -- Hallihallo, ich bin die gute Fee, und Sie dürfen sich schnell was wü... BUMM! - Eine Fee! Haha, echt? Na, Ihren Job möchte ich auch gerne mal machen! - Hallihallo... Inge! Die Flinte! Schnell!
 20141212 -- Wie geht eigentlich Kricket? Hier. Versuch mal, die Burg da zu treffen. - - Ungefähr so. Plus ein paar idiotische Regeln.
+20141230 -- Schade, ich hätte ja gerne noch einen Jahresrückblick gesehen, Schulz! - Huch! Das ging jetzt aber schnell! Mehr war nicht dieses Jahr? - Die Vollidioten schneiden wir immer raus.
 20150213 -- Fasching kommt von Faschismus! Lächerliche Klamotten und alberne Musik! Nicht mit mir! Gitti ist aber sauer, wenn wir nicht kommen! - Ich schau mir doch nicht den ganzen Abend besoffene Pappnasen an! Musst Du nicht. Du bekommst nur Schönes zu
 20150213 -- sehen, versprochen? - Hellauchen! Wie süss! Kommt rein. Hallo Horst! Licht an!
 20150313 -- Vielleicht sollte ich besser nicht mehr mit meiner Kreditkarte bezahlen. Nicht, daß irgendwer ein Bewegungsmuster von mir erstellt! - Muster? Eine Gerade ist kein Muster. - Zuhause-Bierladen-Zuhause-Bierladen...
@@ -233,7 +239,8 @@
 20170905 -- * - ? - Wuuh..
 20171014 -- Horst! Horst! Ho-Horst! Hier! Horst! Horst!! - Äh-Schatz? Ich bin hier! Oh... Oh,entschuldigung! Ich hab Sie verwechselt! - Sie hat manchmal eine seltsame Art, mir Komplimente zu machen.
 20171104 -- Kürbissuppe! Aus dem Halloweenkürbis! - Den grossen, mit dem geschnitzten Gesicht? Das kann ich nicht essen! So künstlerisch wertvoll war der nicht. Hm-lecker! Den hat Andi Klöpke auf dem Kopf gehabt! - Muss ich den Arzt holen? Hol Pizza!
-29171111 -- Eine grosse Latte to go, bitte. Kaffee oder Kalauer? Was? Oh...Kaffee! Caffee Latte to go! - Gefroren?! - Pappbecher geht gar nicht!
+20171111 -- Eine grosse Latte to go, bitte. Kaffee oder Kalauer? Was? Oh...Kaffee! Caffee Latte to go! - Gefroren?! - Pappbecher geht gar nicht!
+20171123 -- Hallo, komme Sie doch rein! Oh-wären Sie so nett, die Sachen aus dem Briefkasten mitzubringen? Gerne! - Eine Benachrichtigung. "Sendung beim Nachbarn abgegeben." Ich klingel mal! - Ein Klavier! Ein Klavier! **
 20180103 -- Und? Wie schmeckts? - Ist das ein Seniorenteller? Ist es zu wenig? - Schmeckt "Kannste vergessen"!
 20180120 -- Ich sehe einen schönen Mann in Ihr Leben treten... Ach ja? - Darf ich? Danke. Und ich sehe, dass Sie auch kürzlich Geburtstag hatten... Was? Woher...? Wie haben Sie das gemacht? - Ich versuche auch seit Tagen, jemandem meine Karte für das
 20180120 -- Hansi-Hintereisen-Konzert anzudrehen.
