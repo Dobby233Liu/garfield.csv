@@ -10424,3 +10424,4 @@ dr220820 -- Want a treat? - SIT! - skattle skattle skattle - NOT THERE!
 dr220821 -- Who wants sprinkles on their ice cream? I do! - Hey, these sprinkles are old! - It's way past the expiration date! - Should I throw them away, mom? No. - You never need to throw out old ice cream sprinkles. - Just give them to your dad! The
 dr220821 -- expiration date is just a number!
 dr220822 -- Please forgive me. - I love you. Are you talking to me?? - OH, BE QUIET! - I guess that's a no! No, not you, dear!
+dr220823 -- I'm off to a wedding shower! Your dad will be making dinner tonight! - What will you be making, dad? A call to the pizzeria!
