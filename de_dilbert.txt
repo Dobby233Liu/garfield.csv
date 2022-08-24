@@ -10987,3 +10987,5 @@
 220822 -- - Also sind Sie ein Lügner. Ich bevorzuge "Opportunist".
 220823 -- Was dagegen, wenn ich mich zu Ihnen setze, NPC*? *Non-Player-Character - Mein Hirn ist müde von einem langen Arbeitstag und ich muss mich mit jemandem unterhalten, der nur in Filmzitaten antworten kann. - Setz Dich, nimm Dir 'nen Keks. Ahhh,
 220823 -- entspannend.
+220824 -- Aus Kostengründen muss ich eine Person aus meiner Abteilung entlassen. - Ich habe die Auswahl auf Dilbert und diesen seelenlosen Non-Player-Character eingegrenzt. - Nach welchen Kriterium wählen Sie aus? Ich nehme den, der sich am lautesten
+220824 -- beschwert.
