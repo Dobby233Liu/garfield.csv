@@ -10989,3 +10989,4 @@
 220823 -- entspannend.
 220824 -- Aus Kostengründen muss ich eine Person aus meiner Abteilung entlassen. - Ich habe die Auswahl auf Dilbert und diesen seelenlosen Non-Player-Character eingegrenzt. - Nach welchen Kriterium wählen Sie aus? Ich nehme den, der sich am lautesten
 220824 -- beschwert.
+220825 -- Ich möchte, dass Sie gemeinsam mit Ted an Ihrem Projekt arbeiten. - Wollen Sie das Ergebnis des Projekts verbessern, indem Sie den angewendeten IQ-Wert senken? - Darauf habe ich keine Antwort. Danke für Ihre Führungsstärke.
