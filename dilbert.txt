@@ -14135,3 +14135,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220823 -- Do you mind if I sit with you, NPC*? *Non-Player-Character - My brain is tired from a long day of work, and I need to talk to someone who can only respond with popular movie references. - You had me at Hello. Ahhh, relaxing.
 220824 -- For budget reasons, I need to lay off one person in my depertment. - I've narrowed it down to Dilbert or this non-player character who has no soul. - What criteria are you using to make the decision? I'll fire whoever complains first.
 220825 -- Dilbert, I want you to collaborate with Ted on your project. - Are you trying to improve the outcome of the project by lowering the average IQ applied to it? - I don't have to answer that. Thank you for your leadership.
+220826 -- The keys to success are passion and hard work. - Those traits are probably genetic. - All it takes is willpower. Willpower is imaginary. Your move.

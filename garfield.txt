@@ -16964,3 +16964,4 @@ ga220822 -- LOADING... *** - LOADING... *** - LOADING... Some days it's just har
 ga220823 -- It's raining outside... - - Perfect weather to annoy Jon inside. Go away.
 ga220824 -- YARD SALE We're having a yard sale! - - No.
 ga220825 -- Humans domesticated cats 9,500 years ago. - What a coincidence... - That's the same year my book says that cats domesticated humans.
+ga220826 -- I stubbed my toe on the coffee table this morning. - Aww. - That poor table. I heard that!

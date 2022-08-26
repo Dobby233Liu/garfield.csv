@@ -88,6 +88,7 @@
 20040303 -- Raus da! Sofort! Dein Platz ist auf dem Kindersitz! - Hast Du an irgendwas rumgedaddelt? Was? Wer? Ich? Nein! Ich schwörs! Na gut-ich muss zu einem Termin. Mach das Tor auf! - "...an der nächsten Ampel rechts abbiegen..." ?
 20040326 -- Ka-tschumm! Ka-tschumm! Na los! Komm schon! Komm! Ka-tschumm! Keine Reaktion! - Mehr Saft! Schnell! Ich erhöhe auf "Leinen"! - Verdammt! Wir verlieren ihn!
 20040717 -- Die Leute sind echt Arschlöcher! Keiner hat mich lieb... Wem sagen Sie das... - Auch Lehrere? Meteorologe. -
+20040903 -- ** Ding-Dong ** Ah-Hallo! Kommt rein! - Da ist noch Wasser und Cola. Die anderen sind schon alle drüben. ? ? Ist nicht mehr viel. - Nudelsalat und Bier gibts in der neuen Wohnung!
 20041006 -- HALT! Kann ich mal sehen, was Du in Deinen Taschen hast? Was? Wer? Ich? Nix! - Fünf Kilo Gummibärchen! Einfahc mitgehen lassen! Woanders würden Sie Dur die Hand dafür abhacken! Ach was! Bei Penny erwischen die mich nie!
 20041009 -- Ein Zimmer mit Blick auf die Wüste, wie schön! Verdammte Affenhitze... He! Hier gibts sogar frische Kleidung zum Wechseln! - Touristen! Deutsch. Woran siehst Du das? Billich! Cheep! Pas chair! - Sie tragen Hoteltischdecken auf dem Kopf.
 20041125 -- Huh-ist das kalt geworden! Wir sollten die Wintermäntel rausholen... - Ich hoffe, Du hattest genug Lavendelsäckchen reingetan! Was? Selbstverständlich! -
@@ -264,6 +265,7 @@
 20190223 -- Hallo! Ich hätte gerne Kaffee und Kuchen! Aber unbedingt mit ohne... Moment! - Einfach hier mit der App die Inhaltsstoffe auswählen-Kaffee hier, Kuchen da-und dann auf "Senden" tippen! Und ich bringe Ihnen dann genau, was Sie möchten. -
 20190330 -- Hey, Du! Hallo! Alles klar! Du kannst abbiegen! Es kommt keiner! Alles frei! Kann nix passieren! Gute Fahrt! ? - Ich arbeite jetzt als Toter-Winkel-Assistent! Aha. Boah-hat der Segelohren!! Untersteh Dich!
 20190509 -- Hahaha! Ich habe einen geilen Witz gelesen! Kennen Sie den? Kommt ein Mann zum Friseur... - Haha! Wollen Sie mich etwa damit rasieren? - Fragen Sie mich nach dem Witz noch mal.
+20190519 -- Da bist Du ja endlich! Guten Morgen! Verschlafen? - Ich war noch schnell im Nagelstudio! Schick, oder? ** ding dong
 20190713 -- Faulpelz! Faulpelz! Ja, Du auch! Faulpelz! - Alles Faukpelze! Ihr Stromfresser, Ihr! Fahrt gefälligst Fahrrad! - So wie ich!
 20190722 -- ? - ?? - Okay, jetzt is es nicht mehr ganz so hoch-spring!
 20190803 -- Entschuldigung, wo gehen Sie mit Ihren Kindern aufs Klo?  Nirgends. - Sie meinen...? Aber das ist doch total unhygienisch! - Mama, der eine Klostein ist abgegangen!
@@ -381,3 +383,5 @@
 20220824 -- Immer dieses Gemeckere über das Grillen! Ohne Grillen könntest Du ga rnicht meckern! - Ohne Grillen hätten wir nie eine Sprache entwickelt! Was waren wohl die ersten Worte eines Homo Erectus? Na? Pff... Überlebenswichtig! - "Vorsicht, das
 20220824 -- brennt gleich an!"
 20220825 -- Gemüse?! - Rohkost! Sehr gesund! Saisonal, regional, total genial! Und lecker! - Wie nennt sich das hier? Rohe Gewalt!
+20220826 -- Die hören jetzt alle den ganzen Tag Musik, die Leute. Ist ja schön. Aber den ganzen Tag so Stöpsel im Kopf? Nee! - Das geht auch ohne. Ich such mir morgens immer einen passenden Ohrwurm! Passend? - Für hier passt immer "Der Ring der
+20220826 -- Nibelungen"!
