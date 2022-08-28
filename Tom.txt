@@ -8,6 +8,7 @@
 19950410 -- He! Ich will meine Rente! -und zwar sofort!! - Fuchtelnse nicht so mit Ihrem Bleistift rum! Das ist ein Glasschneider... -
 19950411 -- ? - ? - Buh - Ah! Ich liebe diesen Job...
 19950412 -- - INDIANER!! - Na, Hauptsache unverletzt!
+19950413 -- Einsnoinundnoinzich... Oh-hammses nicht etwas kleiner? HÄ? - Kleingeld? - Geh' gefälligst arbeiten, Du Gammler!
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
 19950614 -- Ich langweil mich sooo... - Verpiss Dich!! Okay. - - Und jetzt?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
@@ -150,6 +151,7 @@
 20090929 -- Gesichtsklempner! Ich ruf Dich an! Tschüsschen! - Lassen Sie die Lockenwickler doch bitte noch ein bisschen drin.
 20100105 -- Und? Auch die üblichen guten Vorsätze für das neue Jahr? Die üblichen...? Na, mehr Bewegung und so. - Mehr Bewegung...Sie haben Recht, ich sollte mich wirklich mehr bewegen. Danke! Och-dafür nicht. Schulz! - 
 20100213 -- Ihr seid so peinlich! Wieso können Eltern nie zuhören?! - Wir haben gesagt, wir gehen als Na'vi, diese blauen Ausserirdischen aus dem Film Avatar! Wir alle! - Blau! Sag ich doch!
+20100409 -- So, junger Mann, dann sag doch mal: "A". Aah! Ein Irrenarzt! - Komm sofort wieder rein! Zu dem Irren? Das ist ein ganz normaler Onkel Doktor! - Normal? Mit einer Satellitenschüssel am Kopf?
 20100412 -- He! Aufpassen, Sie Rüpel! Wir sind hier nicht beim Wasserball! - Unverschämtheit! Wieso hast Du diesen Fatzke nicht getreten? Hab ich. Hast Du nicht! Hab ich! - Ach. Und wieso sehe ich dann keine Blutspur im Wasser? Ich war bei der
 20100412 -- Fusspflege.
 20100710 -- Ich hab einen Wunsch frei? Ich? Ich darf mir was wünschen? Hab ich wieder genuschelt? Ja. Einen Wunsch frei. Du. Und zwar ein bisschen plötzlich. - Oh! Puh...was wünsche ich mir denn da? Oh! Puh...äh...ich wünsche mir...puh... -
@@ -385,3 +387,4 @@
 20220825 -- Gemüse?! - Rohkost! Sehr gesund! Saisonal, regional, total genial! Und lecker! - Wie nennt sich das hier? Rohe Gewalt!
 20220826 -- Die hören jetzt alle den ganzen Tag Musik, die Leute. Ist ja schön. Aber den ganzen Tag so Stöpsel im Kopf? Nee! - Das geht auch ohne. Ich such mir morgens immer einen passenden Ohrwurm! Passend? - Für hier passt immer "Der Ring der
 20220826 -- Nibelungen"!
+20220827 -- Sagmal, raucht da einer? Spinnen die?! Wo? Da hinten auf dem Hügel! Da ist immer so ein roter Punkt.....da! - Quatsch! Das ist eins von den neuen Windrädern. Die schiessen hier gerade wie Pilze aus dem Boden! - R

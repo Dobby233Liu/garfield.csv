@@ -16965,3 +16965,5 @@ ga220823 -- It's raining outside... - - Perfect weather to annoy Jon inside. Go 
 ga220824 -- YARD SALE We're having a yard sale! - - No.
 ga220825 -- Humans domesticated cats 9,500 years ago. - What a coincidence... - That's the same year my book says that cats domesticated humans.
 ga220826 -- I stubbed my toe on the coffee table this morning. - Aww. - That poor table. I heard that!
+ga220827 -- Ah, exercise... - I love everything about it. - Except the part where you have to move.
+ga220828 -- * - - - - - BEWARE OF DOG Like they need a sign.
