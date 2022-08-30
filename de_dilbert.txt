@@ -10996,3 +10996,6 @@
 220828 -- Tun Sie mir einen Gefallen? - Das hĂ¤ngt von vielen Dingen ab. - Zum Beispiel mĂ¼sste ich wissen, ob es um etwas vernĂ¼nftiges geht, etwa das Ausleihen eines Radiergummis... - ...oder geht es eher in die Richtung "Bauen Sie mir aus dem Nichts ein
 220828 -- Betriebssystem auf"? - Dann mĂ¼sste ich Ihre Bitte mit allem anderen abgleichen, wofĂ¼r ich meine Zeit so brauche. - Und meine Gedanken zu Ihrer Person muss ich auch noch in Betracht ziehen. - Ich kĂ¶nnte zum Beispiel negative GefĂ¼hle entwickeln,
 220828 -- wenn mich jemand um etwas bittet, ohne zu sagen, worum es geht. - Ich frage jemand anderen. Versuchen Sie's bei einem dĂ¼mmeren.
+220829 -- Ihnen wird vorgeworfen, ein Verhältnis mit einer Untergebenen zu haben. - Na und? Das hat keinen Einfluss auf meine Entscheidungen als Vorstandsvorsitzender. - Haben Sie nicht kürzlich Ihre Verwaltungsassistentin zur Senior-Vizepräsidentin der
+220829 -- Programm-Entwicklung befördert? Sie leistet gute Arbeit.
+220830 -- Wir steigen in den Pandemiepräventionsmarkt ein. - In Phase eins unseres Marketingplans schaffen wir Nachfrage, indem wir ein tödliches Virus freisetzen. - Ist das nicht irgendwie illegal? Nicht, wenn man es wie einen Unfall aussehen läßt.

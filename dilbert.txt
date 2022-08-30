@@ -14140,3 +14140,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220828 -- Can you do me a favor? - That would depend on many things. - For example, I would need to know if the favor is a reasonable one, such a borrowing a stick of gum... - ...or is it more along the lines of "Help me build an operating system from
 220828 -- scratch"? - Then I would need to compare your request to all other ueses of my time. - I also need to take into account my feelings about you personally. - For example, I might harbor negative feelings about a person who asks me to do something
 220828 -- before telling me what it is. - I'll ask someone else. Try someone dumber.
+220829 -- You have been accused of having a relationship with a subordinate. - So what? It hasn't changed any of my decisions as a CEO. - Did you recently promote your admin assistant to Senior Vice President of Engineering? She does good work!
+220830 -- We're going into the pandemic prevention market. - Phase one of our marketing plan involves creating demand by unleashing a deadly virus. - Isn't that illegal ore something? Not if you make it look like an accident.
