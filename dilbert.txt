@@ -14142,3 +14142,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220828 -- before telling me what it is. - I'll ask someone else. Try someone dumber.
 220829 -- You have been accused of having a relationship with a subordinate. - So what? It hasn't changed any of my decisions as a CEO. - Did you recently promote your admin assistant to Senior Vice President of Engineering? She does good work!
 220830 -- We're going into the pandemic prevention market. - Phase one of our marketing plan involves creating demand by unleashing a deadly virus. - Isn't that illegal ore something? Not if you make it look like an accident.
+220831 -- They say it's easier to ask for forgiveness than permission. And...? - I thought I was playing a VR game, and I accidentally killed a guy from the marketing department. - In my defense, VR games are very realistic, and he did look like an ogre.
+220831 -- Reasonable doubt.
