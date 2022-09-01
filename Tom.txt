@@ -9,6 +9,20 @@
 19950411 -- ? - ? - Buh - Ah! Ich liebe diesen Job...
 19950412 -- - INDIANER!! - Na, Hauptsache unverletzt!
 19950413 -- Einsnoinundnoinzich... Oh-hammses nicht etwas kleiner? HÄ? - Kleingeld? - Geh' gefälligst arbeiten, Du Gammler!
+19950415 -- Die hast Du alle selber bemalt? 100 Stück! Hundert? - Individuelles Design, individuelle Farbgebung! Alles Einzelstücke! Meine Wasserfarben! Leer! - Jetzt müssen wir sie bloss noch kochen...
+19950418 -- Ei-was haben wir denn da? - Eine rhetorische Frage.
+19950419 -- Mein Name ist Thaler...Tim Thaler... Ich verkaufe Ihnen mein Lachen-und Sie lassen mich laufen... - PRUAHAHAWAHAHAHAHAAA! HOHOHO! GNNIHIHIHIHICHHICH... PFFRRAHAHAHAAAHEHEHEHE! WAHAHAHAHAHAHAHOHOHO! GRCHCHPFRZIAHAHAHAHAAA... - Hab' ich von
+19950419 -- Buster Keaton.
+19950420 -- Oh Gott...mir wird ganz blümerant...das lange Stehen...meine Pumpe...ich...ich...oh... - Horst? - Ich mach' mal Pause-is' grade nix los...
+19950421 -- Jetzt sagense bloss, da drin gibt's Fische! Solche Brummer! - Mein Gott, die armen Viecher! Also, ich würd' das nicht aushalten... Da is' einer dran! - 
+19950422 -- Was isst Du denn da? Wackelpudding... - - Spielen wir Mikado?
+19950424 -- Montag: 7 Uhr 30-Mein Leben hat einen Sinn bekommen: Ich sehe Sie! - Wie vom Donner gerührt bleibe ich stehen-die Erde bewegt sich: - -Sie lacht mich an...
+19950425 -- Dienstsg: Sie heisst Susi und geht in die Parallelklasse... - Sie ist verrückt nach mir... - Sie hat mir zugewunken!
+19950426 -- Mittwoch: Sie hat mich berührt! - Ich sprach sie an... - ...und ihre Hand streichelte mein Gesicht...oh Susi!
+19950427 -- Donnerstag: Meine Eltern rieten mir, mich an einen Experten zu wenden... - Doch alles, was mir fehlt, ist eine einsame Insel... - ...und Susi! Oh Susi!
+19950428 -- Freitag: Endlich allein mir ihr! - Ich gestehe ihr meine Liebe... - ...Ihr Lächeln-mein Triumph!
+19950429 -- Samsat: Wie war doch gleich der Name dieses merkwürdigen Mädchens? - Ich glaube, sie ist gestorben... - ...oder an eine andere Schule gegangen... ?
+19950502 -- Isar 12-Derrick...O.K.-Wir kommen sofort! Ende. - Eine Leiche im Kindergarten-die Leiterein...O.K., Harry, volle Pulle...und vergiss nicht wieder das Martinshorn! - *
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
 19950614 -- Ich langweil mich sooo... - Verpiss Dich!! Okay. - - Und jetzt?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
@@ -391,4 +405,7 @@
 20220829 -- Okay, wir üben heute Wiederbelebung! Hier ist unser Patient! Hier ist unser Patient-was tun? Ja? - - Ich hab mal ein Praktikum in der Robbenstation gemacht!
 20220830 -- Wo warst Du so lange? Ich hab die Klöpke getroffen. Sie hat von ihrer Schweigegrupper erzählt! - Fand ich schon sehr verwunderlich. Warum schweigt die nicht alleine? - Nach zehn Jahren Nordic Walking braucht es viele Leute, um jemanden zum
 20220830 -- Schweigen zu bringen!
-20220831 -- OKay, Sie sagen: "Mein Name ist Bond. James Bond." Und dann stecken Sie sich cool diese Zigarette an. - Sind Sie Wahnsinnig?! Ohne Filter? Auf keinen Fall!! Regieassistenz! - Der Stuntman für Mister Bond?
+20220831 -- Okay, Sie sagen: "Mein Name ist Bond. James Bond." Und dann stecken Sie sich cool diese Zigarette an. - Sind Sie Wahnsinnig?! Ohne Filter? Auf keinen Fall!! Regieassistenz! - Der Stuntman für Mister Bond?
+20220901 -- Ich hab meine Badehose vergessen! Und jetzt?! Shorts, Unterhose oder Nackedei. - Nicht unter EUR 1000,- Strafe! Das ist ein Kurstrand! Hast Du nicht mal Floristin gelernt? - *
+20220902 -- Was wird das eigentlich? Ihre Memoiren? Sehe ich aus, als hätte ich Zeit für weltlichen Firlefanz? - Das sind Höllendinge! Nichts für Sünder! Hinweg, Elender! Schulz! - Warte, Klopapier hab ich vergessen! Und bring eine Tüte von diesen
+20220902 -- leckeren Weingummiengeln mit!

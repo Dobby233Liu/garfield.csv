@@ -10434,3 +10434,4 @@ dr220829 -- HEY! - Did you chew up my sandals?! - Of course I did! - I have to d
 dr220830 -- How's your bad back, Ralph? Well, it's... - MY back is KILLING me! The pain is EXCRUCIATING! I have to sleep on the FLOOR! My doctor says he's never SEEN such a... - The only reason he asks me about my back is to tell me how much worse HIS
 dr220830 -- back is!
 dr220831 -- - Next time you let go of your golf club at the driving range, don't run after it!
+dr220901 -- It's the last month of baseball season! - There are 30 days left! Anything can happen! - Dad, our team is 31 games out of first place! - Maybe they'll play a double-header!
