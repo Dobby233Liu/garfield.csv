@@ -10435,3 +10435,4 @@ dr220830 -- How's your bad back, Ralph? Well, it's... - MY back is KILLING me! T
 dr220830 -- back is!
 dr220831 -- - Next time you let go of your golf club at the driving range, don't run after it!
 dr220901 -- It's the last month of baseball season! - There are 30 days left! Anything can happen! - Dad, our team is 31 games out of first place! - Maybe they'll play a double-header!
+dr220902 -- Ball lined up with heel of front foot... - Shoulder tilt at 45 degrees...now... - Launch it! THWACK - MAYDAY!!
