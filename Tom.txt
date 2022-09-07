@@ -25,6 +25,13 @@
 19950502 -- Isar 12-Derrick...O.K.-Wir kommen sofort! Ende. - Eine Leiche im Kindergarten-die Leiterein...O.K., Harry, volle Pulle...und vergiss nicht wieder das Martinshorn! - *
 19950503 -- - PAFF! - PAFF! - "Männerfreundschaft"...ich habs auch nie begriffen...
 19950504 -- So, und zum Schluss noch eine kleine "Trivial Pursuit"-Frage: - Wessen unvergleichliche Meisterwerke sind im sogenannten "Köchelverzeichnis" gesammelt? chrr... Na, Huschke? - Bocuse...
+19950505 -- ...hmmm...tja... Ist es was schlimmes? Was machen Sie beruflich? - Ich bin bei der Post...-Schalterdienst. Sie sollten sich mehr bewegen. Schwester!
+19950506 -- Weiss wie 'ne Made, aber gleich in die Sonne! - Pf-bisschen Farbe muss sein. - INDIANER!
+19950508 -- Pruähh! Ich weiss-ich weiss-ich bin ein schlechter Mensch-so schlecht... - Nö-eigentlich nicht...nö...geht so. Hm... - Nur ein schlechter Verlierer!
+19950509 -- Ich brauch' mehr Taschengeld! Geh' arbeiten... - Da draussen sind Millionen von Familienversorgern-und ich soll einem von ihnen den Lebensunterhalt streitig machen? - Wie jeden Monat...
+19950510 -- Würden Sie das mal kurz halten und sich einen Moment umdrehen? ** - Was soll das werden? Ein Überfall? ? - An den Augen liegt's nicht.
+19950512 -- Nach Kreta? - Öh...ich glaub' da lang... Danke, Fremder! - Odysseus!! Wegen Dir kommen wir immer zu spät!
+19950513 -- Wenn Du mit der Hand übern Kopg ans Ohr kommst... ...biste schlau genug für die Schule! - Höhö! - Hallo Blödmann!
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
 19950614 -- Ich langweil mich sooo... - Verpiss Dich!! Okay. - - Und jetzt?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
@@ -391,7 +398,7 @@
 20220813 -- Oh! Sieh nur, eine neue Villa! Sehr gut! Gut? Da ist doch alles verrammelt! Die sind verreist! - Augen auf! Das ist ein hochmodernes Smart-Home! Ding Dong ** - Guten Morgen! Das Ende ist nah!
 20220815 -- Beheizte Becken! Pah! Früher! Da gab es eine Tafel! - Da stand drauf, wie kalt das Wasser war! - Und dann ist man da rein! Wir waren härter! Blödsinn. - Wenn da nicht alle reingepinkelt hätten, hätte man gar nicht baden können!
 20220816 -- Ich brauch ein intelligentes Passwort! Hmmm...ja! "Einstein"! - Warum nicht "Horst"?! Zu intelligent. - Ah, okay! Das nächste Mal nehm ich "schlagfertig"!
-20220617 --Den Baum berühren...den Baum spüren...eins werden mit... - Was tun Sie da?! Wonach sieht's denn aus? FORST - Da können Sie unterschreiben! Keine Neubauten im Naherholungsgebiet!!
+20220617 -- Den Baum berühren...den Baum spüren...eins werden mit... - Was tun Sie da?! Wonach sieht's denn aus? FORST - Da können Sie unterschreiben! Keine Neubauten im Naherholungsgebiet!!
 20220618 -- Das hast Du wundervoll gemacht, Sigurd! Bravo! Ganz, ganz toll, Sigi! - Aaah! Hört endlich auf, mich für jeden Scheiss zu loben! Ich bin doch nicht blöde! Ich weiss genau, in welcher Liga ich spiele! Das da ist Mist! - Das ist so toll von
 20220618 -- ihm, dass er auch mal andere Kinder gewinnen lässt! Ganz, ganz toll, Sigi!
 20220819 -- Wenn ich mich anständig benehme, komme ich dann wegen guter Führung früher wieder hier raus? - Sie werden sich nicht anständig benehmen. Warum? - Er kann sich nicht anständig benehmen! HELL PUNK
@@ -412,3 +419,5 @@
 20220902 -- Was wird das eigentlich? Ihre Memoiren? Sehe ich aus, als hätte ich Zeit für weltlichen Firlefanz? - Das sind Höllendinge! Nichts für Sünder! Hinweg, Elender! Schulz! - Warte, Klopapier hab ich vergessen! Und bring eine Tüte von diesen
 20220902 -- leckeren Weingummiengeln mit!
 20220903 -- Warum hast Du denn so einen nackigen Kopf? - Was ist mit Deinem Zahn? Den hat die Zahnfee mitgenommen! - Bei mir war die Haarfee.
+20220906 -- Nimm den Kaugummi raus! Sonst kann ich Dir die Haare nicht unfallfrei schneiden! Der ist aber noch ganz frisch! - Dann such Dir einen sicheren Platz zum Ablegen! - WUUUH!
+20220907 -- Einen Galao mit Ersatzflüssigkeit, bitte! Für mich auch! - Hey! Hey! Gut siehst Du aus! Neue Hose? - Nö. Neues Handy!

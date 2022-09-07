@@ -10440,3 +10440,6 @@ dr220903 -- Maybe we should go inside now. Heck no! There's plenty of sunlight l
 dr220904 -- !!! !!!! Ralph! Stop quareling with Mr. Steinbauer! - The world is crazy enough without having conflicts with our neighbors! - Now, go say something nice to him! Huh?? - Pay him a compliment! You'll feel better! - - Steinbauer, I admire how
 dr220904 -- you can form an opinion on subjects you know little about! Thanks, Ralph. I appreciate your... WHAT?! You were right. That felt great!
 dr220905 -- When do we get our Labor Day gifts? Labor Day gifts?? - Penny, I know your mom goes overboard on holidays, but no one gets... - HAPPY LABOR DAY!! I guess it was just a matter of time!
+dr220906 -- Echo postetd that her pet badger ran away! She's so sad! - She thought I didn't like her badger because it didn't get along with Wally. - I'll let her know I'm sad by clicking the crying emoji! - You clicked the laughing emoji! WHAT?
+dr220907 -- You clicked the LAUGHTING emoji instead of the CRYING! I DID?? - Echo will think I'm HAPPY her badger ran away! She's sad! - Relax, Norman! It's easy to correct, but you have to do it fast before... - She just called me a heartless ghoul!
+dr110907 -- ...it's too late.
