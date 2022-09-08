@@ -10442,4 +10442,5 @@ dr220904 -- you can form an opinion on subjects you know little about! Thanks, R
 dr220905 -- When do we get our Labor Day gifts? Labor Day gifts?? - Penny, I know your mom goes overboard on holidays, but no one gets... - HAPPY LABOR DAY!! I guess it was just a matter of time!
 dr220906 -- Echo postetd that her pet badger ran away! She's so sad! - She thought I didn't like her badger because it didn't get along with Wally. - I'll let her know I'm sad by clicking the crying emoji! - You clicked the laughing emoji! WHAT?
 dr220907 -- You clicked the LAUGHTING emoji instead of the CRYING! I DID?? - Echo will think I'm HAPPY her badger ran away! She's sad! - Relax, Norman! It's easy to correct, but you have to do it fast before... - She just called me a heartless ghoul!
-dr110907 -- ...it's too late.
+dr220907 -- ...it's too late.
+dr220908 -- Norman! Hi, Echo. - I'm very sorry that your pet badger ran away. - He was such a good...such a good...uh... - Such a good what? Such a good example of why everyone hates badgers!
