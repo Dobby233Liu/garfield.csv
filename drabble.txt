@@ -10444,3 +10444,5 @@ dr220906 -- Echo postetd that her pet badger ran away! She's so sad! - She thoug
 dr220907 -- You clicked the LAUGHTING emoji instead of the CRYING! I DID?? - Echo will think I'm HAPPY her badger ran away! She's sad! - Relax, Norman! It's easy to correct, but you have to do it fast before... - She just called me a heartless ghoul!
 dr220907 -- ...it's too late.
 dr220908 -- Norman! Hi, Echo. - I'm very sorry that your pet badger ran away. - He was such a good...such a good...uh... - Such a good what? Such a good example of why everyone hates badgers!
+dr220909 -- Echo, Wally and I are sorry that your pet badger ran away. We are? - And I didn't mean to click the laughing emoji on your post. *I* would have! - I hope he comes back soon! I say good riddance! - I'm sure Wally shares my sentiments!
+dr220909 -- Fortunately, dogs can't talk!
