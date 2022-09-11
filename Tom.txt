@@ -32,6 +32,7 @@
 19950510 -- Würden Sie das mal kurz halten und sich einen Moment umdrehen? ** - Was soll das werden? Ein Überfall? ? - An den Augen liegt's nicht.
 19950512 -- Nach Kreta? - Öh...ich glaub' da lang... Danke, Fremder! - Odysseus!! Wegen Dir kommen wir immer zu spät!
 19950513 -- Wenn Du mit der Hand übern Kopg ans Ohr kommst... ...biste schlau genug für die Schule! - Höhö! - Hallo Blödmann!
+19950515 -- ...gipfeld die Evolution in den "Primaten", und... - ...deren höchste Entwicklungsstufe-die Bändiger des Feuers, die Schöpfer und Herren der Technik sind wir... - Die Automaten.
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
 19950614 -- Ich langweil mich sooo... - Verpiss Dich!! Okay. - - Und jetzt?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
@@ -270,6 +271,8 @@
 20171111 -- Eine grosse Latte to go, bitte. Kaffee oder Kalauer? Was? Oh...Kaffee! Caffee Latte to go! - Gefroren?! - Pappbecher geht gar nicht!
 20171123 -- Hallo, komme Sie doch rein! Oh-wären Sie so nett, die Sachen aus dem Briefkasten mitzubringen? Gerne! - Eine Benachrichtigung. "Sendung beim Nachbarn abgegeben." Ich klingel mal! - Ein Klavier! Ein Klavier! **
 20180103 -- Und? Wie schmeckts? - Ist das ein Seniorenteller? Ist es zu wenig? - Schmeckt "Kannste vergessen"!
+20181201 -- Tag, ich brauch einen Kühlschrank. Sie haben Glück! Die neuen Modelle sind gerade reingekommen! - Hier: Unser Topmodell! Mit Internet und Blutuut! Kauf, wenn mal was alle ist, eigenständig ein! Aber schauen Sie sich ruhig um! Wenn Sie Fragen
+20181201 -- haben... - Muss ich da den Gästeschlüssel reinlegen oder klingelt der?
 20180120 -- Ich sehe einen schönen Mann in Ihr Leben treten... Ach ja? - Darf ich? Danke. Und ich sehe, dass Sie auch kürzlich Geburtstag hatten... Was? Woher...? Wie haben Sie das gemacht? - Ich versuche auch seit Tagen, jemandem meine Karte für das
 20180120 -- Hansi-Hintereisen-Konzert anzudrehen.
 20180303 -- Ja, wo ist denn jetzt der Jubilar? Der kommt schon. Sie kennen doch den Bernstein! Der hat sicher unterwegs inrgendwas entdeckt, was er noch schnell zeichnen muss! - Ey, habt Ihr schon gehört? Der Spielberg dreht hier irgendwo die
@@ -423,3 +426,5 @@
 20220907 -- Einen Galao mit Ersatzflüssigkeit, bitte! Für mich auch! - Hey! Hey! Gut siehst Du aus! Neue Hose? - Nö. Neues Handy!
 20220908 -- *** ** * *** ! - Hallöchen! * ** ** - Na, das ist ja mal ein richtig bescheuerter Name! * **
 20220909 -- Bemarkenswertes POST Pfff... Äh...schläft der? Nein. Er arbeitet. Als Aushängeschild. - Fachkräftemangel! Die suchen händeringend neue Leute. Chrrr... - Attraktiver kann man einen Beruf nicht darstellen!
+20220910 -- Hey! Du bist eine Fee! Ich hab Feierabend. Darf ich mir was wünschen? Ich hab Feierabend. - Nur schnell was kleines! Du wartest doch eh auf den Bus! Ich hab Feierabend. Ich wünsch mir ein schmerzhaftes Tattoo! - Ich hab ihn fotografiert! Den
+20220910 -- Typ mit dem Nasentattoo! Da steht... - "Fuck Überstunden!" Manche Leute sind echt schmerzbefreit!
