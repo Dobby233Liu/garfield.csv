@@ -14158,3 +14158,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220910 -- Global reframe. - You're no longer a bad manager who makes a lot of mistakes... - Now you are a strong leader whose only weakness is "caring too much." Is that one for free?
 220911 -- What do I need to do to earn a top performance review? - You would need to exceed expectations. - Okay,, great. What do you expect? - That's a moving target based on how much you disappoint me at any given moment. - If you're doing great, I'll
 220911 -- raise my expectations for the future. - So...you will keep adjusting your expectations until it is logically impossible for me to exceed them? - Ha! I suppose that's one way to look at it. - Why is that funny? Because I'm not you right now.
+220912 -- Our company has a low ESG score, and I hold each of you responsible. - Take Dilbert, for example. He's not diverse, he pollutes, and he rarely asks for your pronouns. - We can't fix the world overnight, but targeting Dilbert for abuse is a step
+220912 -- in the right direction.
