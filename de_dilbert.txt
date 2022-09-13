@@ -11024,3 +11024,5 @@
 220911 -- Dass ich gerade nicht in Ihrer Haut stecke.
 220912 -- Unsere Firma hat einen niedrigen ESG-Wert und dafür mache ich jeden einzelnen von Ihnen verantwortlich. - Nehmen wir Dilbert zum Beispiel. Er ist nicht divers, er verpestet die Umwelt und schert sich nicht um die Pronomen anderer. - Wir können
 220912 -- die Welt nicht über Nacht retten, aber Dilbert als Missetäter anzugreifen ist ein Schritt in die richtige Richtung.
+220913 -- Ich brauche zehn Millionen, um einen unabhängigen ESG-Rating-Service zu gründen. - Warum sollte ich in ein solches Start-Up-Unternehmen investieren wollen? - Weil Ihre Firma einen niedrigen ESG-Wert hat und ich keinen Moralkodex habe. Das ist
+220913 -- die Antwort, auf die ich gehofft hatte.
