@@ -35,6 +35,7 @@
 19950515 -- ...gipfeld die Evolution in den "Primaten", und... - ...deren höchste Entwicklungsstufe-die Bändiger des Feuers, die Schöpfer und Herren der Technik sind wir... - Die Automaten.
 19950516 -- Das Ende ist nah! ? - BEREUET! DAS ENDE IST NAH!! - Gewesen, Schätzchen, gewesen...
 19950517 -- - Können wir Sie ein Stück mitnehmen? -
+19950518 -- ...die Airbags befinden sich unter den Sitzen. Wir wünschen einen angenehmen Flug... BRZ Airbags? - He! Fraäulein! Das sind Schwimmwesten! - Wir fliegen übers Festland.
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
 19950614 -- Ich langweil mich sooo... - Verpiss Dich!! Okay. - - Und jetzt?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
@@ -258,6 +259,7 @@
 20160324 -- Äh...ja...ich sehe Glück in der Liebe. Und ja, ich sehe auch eine junge Dame mit rotem Haar... - Ich sehe schon bald den Beginn einer langen romantischen Beziehung, die... Jaja! Blablabla! - Frag endlich, ob sie sehen kann, wo sie die Ostereier
 20160324 -- verstecken werden!
 20160425 -- Ist schon wieder alles voll mit Kaugummis! Hey, Du! - Willst Du so ein geiles T-Shirt? Dann musst Du nur das ganze weisse Zeug vom Boden kratzen. Aber alles! - Haben Sie diesem Idioten gesagt, er soll den Zebrastreifen wegkratzen?
+20160803 -- Da! Das ist Ralf! Hinterher! Diesmal erwischen wir ihn! Schnell! - Und? Hast Du ihn? Er hat heimlich geraucht! Äh-nein. Keine Zigarette? Er übt erotischen Stangentanz an dem Halteverbot-Schild um die Ecke! - Keine Zigarette zu sehen! Mist!
 20160808 -- Ha! Verloren! Hahaha! ** Arschbombe vom Zehner! Arschbombe vom Zehner! ** - ?! - So, Sportsfreund! Vor nächstem Sommer will ich Dich hier nicht mehr sehen!
 20160903 -- Deine Mutter fährt echt chnell! Wie trainierst Du sie? Gar nicht. Ich hab einen Film über Doping gesehen! - Mit dem ganzen Zeug aus dem Bad, das ich ihr in den Kaffee rühre, ist sie schon ganz flott geworden. - An den lästigen Zwischenstopps
 20160903 -- arbeite ich noch. WC
