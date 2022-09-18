@@ -10455,3 +10455,4 @@ dr220914 -- It's getting dark! I'm kind of scared! Maybe we should turn back! sn
 dr220915 -- It's dark and scary! I think we should turn back! Maybe you're right! sniff sniff sniff - Let's go, Wally! You'll never take me alive!!
 dr220916 -- Wait, Echo! Wally found something in the bushes! GRRR! GRRRR! - Maybe it's my pet badger! Careful, Wally! - THAT'S NOT A BADGER!!
 dr220917 -- It's...it's...a really weird-looking baby! MITTENS *!!!* Back off, Buster! - Why is your pet badger dressed like a BABY?? Have you ever tried to buy BADGER CLOTHES?? - I can see why you ran away!
+dr220918 -- Z - Z - zzZzz - ZZYZX - Z - Sore back? Yeah, I must've slept funny!

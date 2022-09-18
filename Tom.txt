@@ -36,6 +36,7 @@
 19950516 -- Das Ende ist nah! ? - BEREUET! DAS ENDE IST NAH!! - Gewesen, Schätzchen, gewesen...
 19950517 -- - Können wir Sie ein Stück mitnehmen? -
 19950518 -- ...die Airbags befinden sich unter den Sitzen. Wir wünschen einen angenehmen Flug... BRZ Airbags? - He! Fraäulein! Das sind Schwimmwesten! - Wir fliegen übers Festland.
+19950523 -- Zja-hat eben nicht jeder 'n Onkel in Alaska,... ...der einem 'ne echte Original Trappermütze schenkt... - Pff...ausgerechnet Alaska...Pelzmütze ist Pelzmütze! Wo is' Deine her? - Von der BZ!
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
 19950614 -- Ich langweil mich sooo... - Verpiss Dich!! Okay. - - Und jetzt?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
@@ -168,6 +169,9 @@
 20080513 -- Kraftvoll wirft sich der Springer in die Weite des Himmels... ...einen Augenblick schwerelos verharrend... - ...stösst er kormorangleich hinab, in gleissender Fontäne die Fluten durchschlagend. Und wir rufen ihm zu: - He! Wieder keinen Fisch
 20080513 -- erwischt?
 20080520 -- ** Palimpalim ** - Tür zu! - Ist gerade ungünstig. Mein Mann grillt. Auf dem Balkon.
+20081111 -- Polizei! Das Spiel ist aus! Fallen lassen! Ich sagte: Fallen lassen! Päng! Bäng! Päng! Päng! Päng! - Päng! Päng! Päng päng... - *
+20081125 -- ALDI Maestro-ich habe gesündigt! Ich hab mir die Haare selbst gefärbt...es sah grässlich aus... Dann hab ich versucht, es wieder raus zu bleichen... - Maestro-helfen Sie mir! Ich hab gleich einen wichtigen Termin-können Sie schnell etwas tun,
+20081125 -- damit ich besser aussehe? Mon dieu! Sicher... - KaDeWe
 20081231 -- Ein Dutzend von den grossen Raketen da oben, bitte. Die darf ich Dir nicht verkaufen, zu gefährlich. Knallerbsen kannst Du haben. - Zu gefährlich? Das ist albern! Die fliegen doch weg! Knallerbsen bekommt man ins Auge geworfen! Verdammt!
 20881231 -- Raketen erst ab 18! - Wir müssen den Start ein paar Jahre verschieben.
 20090527 -- Sie müssen mir jetzt meine Rechte vorlesen! Ihre was? Meine Rechte! Ich kenn mich aus! - Ach so...äh...pfff...ah, hier: Sie haben das Recht zu schweigen. Na also. Geht doch. - Nein. Geht nicht. Ah!
