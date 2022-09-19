@@ -37,8 +37,10 @@
 19950517 -- - Können wir Sie ein Stück mitnehmen? -
 19950518 -- ...die Airbags befinden sich unter den Sitzen. Wir wünschen einen angenehmen Flug... BRZ Airbags? - He! Fraäulein! Das sind Schwimmwesten! - Wir fliegen übers Festland.
 19950523 -- Zja-hat eben nicht jeder 'n Onkel in Alaska,... ...der einem 'ne echte Original Trappermütze schenkt... - Pff...ausgerechnet Alaska...Pelzmütze ist Pelzmütze! Wo is' Deine her? - Von der BZ!
+19950524 -- Da reisst man sich Tag für Tag den Arsch auf damit man die ganze Mischpoke einmal im Jahr an die See karren kann und was will der Herr? Fischstäbchen!! Genau. - Zehn Meter vom Meer weg!! Genau. - Wo is Papa? Abkühlen. Im Pool...
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
 19950614 -- Ich langweil mich sooo... - Verpiss Dich!! Okay. - - Und jetzt?
+19950713 -- O,K.-Wie Du willst, Rübennase! 12 Uhr! Hinterm Haus! Waffen? Wasser! - * - He! Wo sind die ganzen Eiswürfel hin?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
 19950721 -- Ich fürchte, ich brauch' eine Brille, Herr Doktor... Sieht so aus... - Ist sowas denn teuer? - Mal sehen... 100,- 275,- 380,- 450,- 599,- 680,- 888,- 1285,-
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
@@ -55,7 +57,10 @@
 19961219 -- 'n Abend-is Ihr Mann da? Nee-der is auf 'ner Weihnachtsfeier... Ah-dann bin ich richtig! Ich hab ihn im Taxi-blau und pleite. Wenn Sie bezahlen, bring ich ihn hoch... - - 'n Abend-is Ihr Mann da? Nee-der is auf 'ner Weihnachtsfeier... Ah-dann
 19961219 -- bin ich richtig! Ich hab ihn im Taxi-blau und pleite.  Wenn Sie bezahlen, bring ich ihn hoch...
 19970129 -- Also-das ist ja wohl... Spielen und Hausieren verboten! - Welcher Idiot hat schon wieder Weissglas ins Grünglas geworfen? - Es war Pfefferminzlikör!
-19979618 -- Woher stammt also die Bezeichnung "Barbar"? -Einzer? Von den Bärten der wilden Männer des Nordens! - Sehr gut! -Was verstehen wir unter einem "Akt der Barbarei"? -Huschke? - Die Socken in den Sandalen der wilden Männer des Nordens...
+19970503 -- Hoi-hoi! Der ist aber dick, Mann. Familienfotos... - Dann geb' ich Ihnen einen schöne, grosse, bunte Sondermarke... Es geschehen Zeiten und Wunder! - Uups-gaaanz knapp drüber-da muss dann wohl noch eine drauf!
+19970531 -- ...denn wie steht schon in 1. Petrus 5,7 geschrieben: "Alle Eure Sorgen werfet auf ihn: denn er sorgt für Euch" - Also, wenn die Seele mal zwackt: Gönnen Sie sich ruhig mal was und kippen Sie sich ordentlich einen hinter den Knorpel! Das
+19970531 -- glaubste aber! Gute Nacht! - Das "Wort zum Sonntag" wurde Ihnen heute präsentiert von "Graber Bestattungen"...
+19970618 -- Woher stammt also die Bezeichnung "Barbar"? -Einzer? Von den Bärten der wilden Männer des Nordens! - Sehr gut! -Was verstehen wir unter einem "Akt der Barbarei"? -Huschke? - Die Socken in den Sandalen der wilden Männer des Nordens...
 19970926 -- DLRG - Verdammt...Maulsperre! - killekillekille
 19971023 -- Also: -Kasperle mit Patsch. -Auftritt Krokodil. -Kasperle: "Hahaa! etc. etc." -KAsperle vertrimmt Krokodil. -Abgang Krokodil. Alles klar? Hm. - Hahaa...he! Was zum...? - Memme!
 19980218 -- rrrrrr... - rrrrr... **Tüdelüt** Ja? Hallo? - Und jetzt die Haare im anderen Ohr!
@@ -63,15 +68,20 @@
 19980731 -- "Andrea"-"Andrea"!! -warum haben denn nun Hochs immer Männernamen... - ...und Tiefdruckgebiete Frauennamen? - -sie kommen öfter...
 19980805 -- -Anker lichten! -Maschinen volle Kraft voraus! -Steuer hart backbord! - -Alle Mann auf Kampfstation! -Luken dicht! -Alle Torpedos feuerbereit! -Angriffstiefe 90 Fuss! -
 19980904 -- Red' Du mal mit ihm...ich geb's auf! - Schau-andere Kinder freuen sich total, daß sie endlich in die Schule dürfen! - Nicht allen gewährt das Schicksal ein glückliches zuhause...
+19981024 -- "Eigentor" -öchö-öchö...dickeAugen-Nase rot...Schleimhaut stramm geschwollen... Auch beim Atmen grosse Not! Tempos? -nur die vollen... - Schönes Mädchen! So apart! -wollte ihr ans Mieder... - Virenherd! Bazillengrab! -die küsse ich nie
+19981024 -- wieder!
 19981118 -- - - Schon wieder Schnecken...was treibst Du eigentlich den ganzen Tag?
 19981120 -- "Besinnliches"-ahem...leise weisse Nebelwallen, feuchte Watte liegt auf allen grauen Feldern voller Ruh!... Krähen in den Gräben krächzen, nackte Bäume schlafend ächzen, Nebenhöhlen schwellen zu... - Feuer prasselt in Kaminen, heisses Wasser
 19981120 -- mit Teeinen, in der Hand ein gutes Buch... - Drausse leise Nebel wallen. Autos ineinander knallen, Winter kommt jetzt zu Besuch... chrrr...
 19981205 -- Ahem... "von drauss' vom Walde komm' ich her und äh...muss Euch..." - MAAAMAAA!! - Der Förster...
 19981212 -- "Manko"-ahem...diese Autos sind fantastisch durchzugskräftig und elastisch. Fahrwerk super (etwas tiefer). Farbton in metallic (schiefer). Servo, Niederquerschnittreifen. Ganz dezente Ralleystreifen. - Airbag, Klima, ABS. Bis zum Abwinken PS.
 19981212 -- - Fehlt noch für Schwarzbartherren Kleinhirnträgerwegfahrsperren!
+19990108 -- * - * - ***
 19990306 -- Er hat die volle Winter-Lethargie-bewegt sich kaum noch-Vitamine nutzen nix-ich dachte, vielleicht können Sie mit Akupunktur was machen... Hmm... - AU! - Eine Woche lang-ein Mal täglich-nach dem Essen...
 19990325 -- ...8...9...10... - ...29...30! ...ich komme! - Na los-zeig Dich! ...ich geb' auf! He!
+19990709 -- Oooh-'ne Schildkröte!! -is' die süüüüüs... Bisschen schüchtern, was? - Darf ich sie mal streicheln? Wie denn? - Zum Doc
 20000314 -- Hilfe!! Zu Hilfe!! So helfen Sie mir doch! . Ich werde verfolgt!! Tut mir leid... Ich bin nur für das nasse Element zuständig... - Dann tun Sie was! ...sie will mich küssen!
+20000403 -- Markwürdiges POSTBANK chrrr... - BEDIENUNG!! Eineeinmarkmarke! - Für mich noch'n Pils...
 20000729 -- Sag mal-ist das nicht Dein Hubert? Dieser Drecksack!! Na warte-Dich stampf ich ein, Bürschchen! - Contenance, meine Liebe! Dich an so einem Schuft noch beschmutzen? Ich würde das ganz cool mit dem Handy regeln... Du hast ja so Recht! Ich
 20000729 -- hatte mich vergessen...danke! - POCK!!
 20001026 -- Glauben Sie ja nicht, dass Sie mich mit so albernem Gepiesacke beeindrucken können! Ich war 40 Jahre lang der Boss des Syndikats-Dr. No ist gegen mich ein Teletubbie! - Tj-ich bin nunmal ein harter Knochen-da kann man man nichts machen! -
@@ -79,6 +89,7 @@
 20001125 -- DIE RACHE DER TELETUBEN ENDE Die Stimmung im Team wurde auch zusehends schlechter. Nochmal!! - Und da ich als letzter kam, wurde ich als erster gegangen. * Hinke! Hinke! * - Wie gesagt: Ich habe es vergeigt und ich habe mich damit abgefunden,
 20001125 -- Das einzige, was mich noch quält ist: Wie haben diese kleinen Teufel bloss den Sekundenkleber in mein Kostüm bekommen?!
 20001208 -- Haushaltswaren? Durch die Parfümabteilung und dann die Rolltreppe hoch... Danke. - Testen Sie "Zlatko Noir"! "Hop-Singh" Der neue Herrenduft von "Hoss"! Ein Pröbchen, "Animaliman"? - Warste wieder im Puff?
+20010125 -- Marken fürs Leben! POSTBANK chrrr... chrrr... - BONK! AU! - Wenn ich jetzt sofort meine Marke kriege...sag ich, dass es ein Arbeitsunfall war...
 20010219 -- Platz da! Jetz' komm ich! - Ja! He?! - ?
 20010404 -- Soo-jetzt stellst Du Dich hier hin... - Und wenn Du dran bist, kaufst Du von dem Onkel eine Einmarkmarke. -hier hast Du eine Mark! - Geben Sie ihm lieber zwei! -sie erhöhen das Porto längeren Zeitabständen...
 20010716 -- Untern Zug gekommen? Berufsunfall... Stuntman? - Grundschullehrer. Sport? Werken. Werken? Fragen Sie lieber nicht... - Ah-Sie sind sicher das Laubsägenmassaker!
@@ -86,6 +97,8 @@
 20011110 -- Die konnten nur das! - 
 20011121 -- ** Tätää **hier kommt der grosse böse Räuber! Und-ohoo! Er hat den kleinen bösen Räuber auch mitgebracht! Hihi! Schön. Würdest Du bitte das Licht ausmachen? - He! Plötzlich prüde geworden? Sollte mir da was entgangen sein? Ich fürchte, ja...
 20011121 -- - Zum Beispial, dass ich die Vorhänge zur Reinigung gebracht habe...
+20011204 -- Hallo Baum! Eh-hehe...ich bin eigentlich nicht so eine, die sich gleich jedem an den Stamm wirft... Eigentlich bin ich eher schüchtern, weisst Du? - Und...und ich weiss auch, dass Zeit für Euch einen andere Bedeutung hat, als für uns
+20011204 -- hektische Entwurzelte... Aber... Ob Du Dir trotzdem ganz schnell einen Ast wachsen lassen könntest? - Bitte!
 20011227 -- Tschüs Tante Gunhild! Tschüs Onkel Hermann! Tschus Oma! Tschüs Opa! Tschüs Onkel Kurt! Tschüs Onkel Friedhelm! Tschüs Tante Klara! Tschüs Inky und Dinky! Tschüs Lea! Tschüs Onkel Averell! Tschüs Tante Liselotte! - Puh-alle weg! Endlich! Drei
 20011227 -- Tage reicht aber auch... Einer Deiner Cousins ist noch da! Der? Ich dachte, das ist einer von Dir... - Ich? Ich bin der Postbote...ich bin in den Anreisesog geraten-darf ich jetzt gehen?
 20020429 -- Und? Was macht Dein Heuschnupfen? - HUACHU! - pffrz...
@@ -107,9 +120,14 @@
 20030514 -- Du sitzt schon wieder vor der dämlichen glotze. Oh, Ihr Maschinenstürmer! Werdet Ihr nie die Faszination Internet begreifen! - Ich hole uns die relae Welt ins Wohnzimmer! Da: Das ist eine Live-Kamera! Das kannst Du rund um die Uhr sehen, was
 20030514 -- gerade auf der anderen Seite der Welt passiert! Wahnsinn! - Aha..oh-was war das? Da ist eben in China ein Sack Reis umgefallen.
 20030524 -- Schauen Sie sich das gut an, Jasmin! Kein besonders schöner Anblick, gewiss... Aber stellen Sie sich mal vor, wieviel dadrin schon zerkleinert worden ist! - Und das alles! - Darf ich nach Hause? Mir ist schlecht... Mir auch!
+20030726 -- Ausmachen! Wie meinen? Das Grillieren in öffentlichen Parkanlagen ist nur an den ausgewiesenen Stellen gestattet! - Aha-und wo finde ich diese Stellen? Nirgends. Was solls-dann essen wir eben Brote... -
 20030819 -- Johoo! Und hier ist wieder Euer cooler Verkehrskasper mit seinem fetten Verkehrsquiz für Kids! - Hey! Was bedeutet dieses voll krasse Schild? - "Vorsicht grosser Bruder!"
+20031011 -- Okay-es verkauft sich noch nicht so gut wie das Geschwalle von diesem singenden Nussknacker-aber das wird noch! Ihre Autobiographie ist der absolute Hammer, Sie alter Schwerenöter! Hehehe... - Die alte Dame hier zum Beispiel. Die mit dem
+20031011 -- roten Kopf. Kann gar nicht aufhören zu lesen! - Das ist meine Mutter...
 20031120 -- Muss das sein, so früh? Sonst gehen uns die Frühschichtler durch die Lappen. Ausserdem sind müde MEnschen viel ruhiger. - ngdingdongdingdongdingdong HRRRR! - chrrr...
+20040104 -- ? - - *
 20040122 -- SECURITY CHECK - - ---aus sicherheitstechnischen Gründen um einige Minuten verzögern...Ladies and Gentlemen, Flaight Number...
+20040419 -- Soll ich schon mal reinspringen? Gemach! Gemach! Schwimmen will gelernt sein! Geht gleich los... - Huark! Tja-Sie wechseln wohl besser erstmal das Wasser... Tschüss! - Gute Arbeit! War mir ein Vergnügen, mit Ihnen Geschäfte zu machen...
 20040503 -- - So! Der ist leer! Puh! öchö... - 
 20040610 -- Lalü-lalü... He! Was zum... - Auseinander! Sofort! - Herrgott-wenns juckt...
 20041001 -- Pilze sammeln-tolle Idee. Und wenn wir keine finden, gibt's wieder Nudeln. Wir lassen finden! Ich habe einen Plan. - Amateuer benutzen Plastiktüten. Profis nehmen Stoffbeutel. Wir folgen einfach dem nächsten, der mit einem Stoffbeutel in der
@@ -176,6 +194,7 @@
 20881231 -- Raketen erst ab 18! - Wir müssen den Start ein paar Jahre verschieben.
 20090527 -- Sie müssen mir jetzt meine Rechte vorlesen! Ihre was? Meine Rechte! Ich kenn mich aus! - Ach so...äh...pfff...ah, hier: Sie haben das Recht zu schweigen. Na also. Geht doch. - Nein. Geht nicht. Ah!
 20090709 -- Hallo! Ich bin der Holger! ...und wer bist Du? - Ich bin die Geissel der Menschheit... - Bei welchem Sender?
+20090910 -- Wie oft noch? Das kann ich so nicht annehmen. Sie müssen das Adressfeld schon ordentlich festkleben! Das hält. Das bezweifle ich. - He! Au! - Sehen Sie? Hält bombenfest. Diese Haftcreme ist ein Teufelszeug!
 20090918 -- Äh...bin ich die Einzige? Wo sind all die anderen? Im Heidepark Soltau. Betriebsausflug. - Das ist ja wie im Paradies! Oh nein! Schulz! - Er steuert die Achterbahn. Kamikaze
 20090928 -- Halt! Tun Sie das nicht! Das ist Wahnsinn! Das sind 10 Meter! Das Wasser ist wie Beton! Das ist wie von einem Hochhaus springen! - Schau mal, sind das nicht Direktor Knösel und seine Partner von der Hippo-Megainvest Bank? ** Huhu! **
 20090928 -- Köselchen! - JUMP! You Fuckers!
@@ -186,9 +205,12 @@
 20100409 -- So, junger Mann, dann sag doch mal: "A". Aah! Ein Irrenarzt! - Komm sofort wieder rein! Zu dem Irren? Das ist ein ganz normaler Onkel Doktor! - Normal? Mit einer Satellitenschüssel am Kopf?
 20100412 -- He! Aufpassen, Sie Rüpel! Wir sind hier nicht beim Wasserball! - Unverschämtheit! Wieso hast Du diesen Fatzke nicht getreten? Hab ich. Hast Du nicht! Hab ich! - Ach. Und wieso sehe ich dann keine Blutspur im Wasser? Ich war bei der
 20100412 -- Fusspflege.
+20100629 -- Aber nur 1 Bier! Ich mus smorgen früh raus... - Was gibts zu glotzen? Noch nie 'ne schöne Frau gesehen? Is' das hier 'n Knackitreffen, oder was? - Du stehst vorm Bildschirm... Tor!
 20100710 -- Ich hab einen Wunsch frei? Ich? Ich darf mir was wünschen? Hab ich wieder genuschelt? Ja. Einen Wunsch frei. Du. Und zwar ein bisschen plötzlich. - Oh! Puh...was wünsche ich mir denn da? Oh! Puh...äh...ich wünsche mir...puh... -
 20110305 -- Wir sind beide eingeladen, also gehen wir auch zusammen hin! I'm soooo sorry. Ich darf nicht. Ich hab ein Attest. Tut mir leid. - Karnevalsmusik versetzt mich in lebensgefährliche Erregungszustände! Hier, bitte. Aber wenn ich irgendwann mal
 20110305 -- nichts mehr höre, gehe ich natürlich gerne mit! Was wäre denn das Motto gewesen? ** Hellau! Kommt rein! Hallo Horst! Gartenparty <---
+20010312 -- Ich brauch ein neues Outfit! Ich kann diesen praktischen Kram nicht mehr sehen! Ich will was frisches, jugendliches! MODA ZZ Ich will wieder wahrgenommen werden! - Ich seh schon. Gut...ziehen Sie mal das, das, das, das, und das hier an.
+20010312 -- Schuhe bringe ich gleich, und mit den Haaren müssen wir auch was machen! Bist Du überfallen worden?
 20110324 -- Hast Du das Kostüm zu heiss gewaschen? Nein, der Herr Osterhase ist fett geworden. - Egal, dann versteck ich die Eier eben schnell so. Und wenn sie Dich sehen? Lass ihnen doch noch ein bisschen Illusion!
 20110411 -- Entspann Dich! Du wirst nicht ertrinken. Ich bin Doch bei Dir. - Kann ich eine Augenbinde haben? Das ist doch keine Hinrichtung! - Nennen wir es Blindverkostung.
 20110521 -- HUCH! ? - Mein Stock ist abgebrochen! Einfach so! Sabotage! Da sind tiefe Kerben! - Was lief denn gestern im Seniorenkino? Ben Hur!
@@ -197,8 +219,11 @@
 20110820 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum. Wow! - Darf ich ein Foto machen? Das mail ich meinen Freunden in Schweden! ` Bringen Sie es persönlich hin! Am besten gleich. Tschüs! - ÜKEA RANKHILFE UMÄRMLA EUR 4,99
 20110913 -- Man hat ihn in der Sanitärabteilung gefunden. Völlig dehydriert. Er muss schon den ganzen Tag hier herumgelaufen sein. Die Füsse sind voller Blutblasen. - Du wolltest doch nur ein kleines Dingsbums kaufen! Haben sie nicht. Hast Du mal
 20110913 -- gefragt? Männer fragen nicht. Männer suchen erstmal. - Diese langen Öffnungszeiten sind männermordend!
+20110917 -- Ich hab einen Wunsch frei? Ja. Nur eien Jaa. Jetzt gleich? Jaaa! - Gut.  Dann wünsche ich mir...hehe...ganz viele Wünsche! - Oh! Hast Du mal 'ne Münze? Ich will mir was wünschen!
 20111126 -- Sagen Sie, wo sind denn die ganzen Promischurken? Adolf, Josef, Mao, Idi, Pok, Nero und Konsorten? Kann man sich die mal ansehen? - Die stehen im Wachsfigurenkabinett. Ja, ich weiss. Aber ich meine die echten! Die stehen im
 20111126 -- Wachsfigurenkabinett. - Natürlich ausschliesslich bei pubertierenden Schulklassen!
+20111217 -- Ich sehe in Mittelgebirge im Osten. Und ich sehe ein grosses Laster... R - Das ist völlig unmöglich! Sie wusste, dass ich auf dieser Gesundheitsranch war! Die kennt mich doch gar nicht! Was für eine Ranch? Meine Entziehungskur! Vier Wochen
+20111217 -- Nichtrauchen! - Das has ihr der Teufel gesagt! Original Räuchermännchen Erzgebirge R R
 20120202 -- Frostschutzmittel. Bis Minus 50 Grad. Wow! Nicht trinken! Das ist ungesund! - Für wie bescheuert hälst Du mich eigentlich? - Furchterliche Kälte, was? Aber manche sind echt hart. Im Hof steht so ein Knirps, splitternackt! Und schmiert sich
 20120202 -- mit irgendwas ein.
 20120414 -- Äh-erinnnern Sie sich an meine letzten Worte? Ich nämlich nicht. Was ist heute für ein Tag? - Samstag. Vermutlich: "Oh, geil!" Oh. Sicher? Ja. - Samstags trägt er immer dieses blöde T-Shirt.
@@ -228,6 +253,7 @@
 20140118 -- Gisela, wollen wir gemeinsam die Nacht durchpupsen? Ich...ja! - Zwei grrrosse Milchkaffee!
 20140222 -- Guten Tag! Ein Kilo Sitzfleisch, bitte! Was? Sitzfleisch! Meine Eltern sagen, ich hätte keins. Brauch ich aber. Dringend! - Und? Hast Du Sitzfleisch bekommen? Nö. - Aber der Metzger sagt, Hirnschmalz geht auch.
 20140319 -- Natürlich hab ich Kohle! Ich hab mein Leben lang geschuftet wie ein Tier! Da hat man halt irgendwann ein paar Millionen! - Das ist doch keine Sünde! Geld stinkt nicht! Sie waren eine ganz gute Partie. Eine gute Partie? Hahaha! Ich wa rnicht
+20140318 -- Beeil Dich, wir müssen los! Ich brauch noch ein Stück Draht! Da im Schränkchen, linke Schublade. Beeil Dich! - Und ei Halstuch. - Jetzt sieht es auf den Satellitenbildern wenigstens so aus, als ob wir schnell wären!
 20140319 -- reich, ihch war... - ...stinkreich.
 20140503 -- Ihr Espresso. Mmh...danke. - Ähm...Sie heben mir versehentlich einen mit Milchschaumhäubchen gebracht. Macht nichts, schon okay. Interessanter Geschmack! War das Sojamilch? Äh...ja...Sojafreie Sojamilch. Pardon. - Die Tauben brüten wieder
 20140503 -- über Tisch 3.
@@ -237,6 +263,7 @@
 20140530 -- Autozeitung.
 20140717 -- Lange nicht gesehen... Ich hab' eine Freundin auf einer Kreuzfahrt begleitet... Toll! Karibik? Hurtigruten? Santiago de Compostela. - Sie meine, Sie waren auf einer Pilgerfahrt. Mit dem Bus! Non Stop! Klo auf dem Gang! Und es wurde gesungen!
 20140717 -- - Das kam einer Kreuzigung schon sehr nahe.
+20140730 -- Der Fahrstuhl ist defekt. Viel Spass! - Können Sie uns mitnehmen? GUCKSTDU CLEAN Eigentlich nicht. Aber...? - Hanni Nanni
 20140825 -- Und Du lernst nachher schwimmen, Freundchen! Haha! Hören Sie auf! Sie sind doch gar nicht für mich zuständig! Sie sind doch der Schwimmeister. Ich bin aber Nichtschwimmer! - Für mich ist der Nichtschwimmermeister zuständig! - De rist
 20140825 -- ertrunken.
 20140913 -- Hallihallo! Ich bin die gute Fee und hätte noch einen Wunsch zu vergeben! Interesse? Dann aber hurtig! - Ich hätte gerne Superkräfte! - Das ist der Herr Knöbl, der starrt bei uns die Löcher in den Käse.
@@ -267,6 +294,8 @@
 20160808 -- Ha! Verloren! Hahaha! ** Arschbombe vom Zehner! Arschbombe vom Zehner! ** - ?! - So, Sportsfreund! Vor nächstem Sommer will ich Dich hier nicht mehr sehen!
 20160903 -- Deine Mutter fährt echt chnell! Wie trainierst Du sie? Gar nicht. Ich hab einen Film über Doping gesehen! - Mit dem ganzen Zeug aus dem Bad, das ich ihr in den Kaffee rühre, ist sie schon ganz flott geworden. - An den lästigen Zwischenstopps
 20160903 -- arbeite ich noch. WC
+20160909 -- Spielst Du Weihnachtsmann? Ich rasiere mich ab sofort! - Du hast doch noch gar keinen Bart! Egal. KERL Eine scharfe Rasur erhöht Selbstbewusstsein und Attraktivität bei Frauen! - Hey, Du hast Dir die Nase machen lassen, cool! In welcher
+20160909 -- Klinik warst Du? Willst Du modeln oder zum Film?
 20161015 -- Ah, Du warst einkaufen, sehr schön! ...was ist das? Badetabs! Gibts gerade im Angebot. Papaya...Butter...Milch...Kakao...Mango...Kiwi... - Such uns was leckeres aus! Ich ziehe blind! - Riecht gut! Blubbert aber gar nicht! Brühwürfel machen
 20161015 -- keine Bläschen!
 20161124 -- Du warst beim Sport? Habt Ihr einen Babysitter? Ich mach jetzt Babysport! - Rennen mit Baby, Sit-Ups mit Baby und Babystemmen für die Muckis! Obwohl, ans Hantel ist er fast schon zu schwer! Haha! Wo ist denn der kleine Moppel? - Ich müsste
@@ -275,6 +304,9 @@
 20170512 -- Meine Zukunft, was können Sie sehen? Ich sehe...Klopapier, Müllbeutel, Neutralreiniger... - Neutralreiniger. - Tschuldigung! Meine Putze klemmt immer die Einkaufsliste unter die Glaskugel!
 20170513 -- Einen Espresso, bitte! To go? Ja? Das war'n Scherz, oder? - Wir haben total süsse kleine Becher! Hier! Mit Kätzchen! Espresso trinkt man sofort! Wenn man ihn rumträgt, schmeckt er scheisse! - Der Espresso hier ist eh furchtbar! Ich bin froh,
 20170513 -- wenn die Leute weit weg sind! Rotes Kätzchen.
+20170612 -- Wieso zahlen Nichtschwimmer genausoviel  Eintritt wie Schwimmer? - Unser Becken ist nur halb so voll! - Ihr trinkt mehr.
+20170718 -- Tschuldigung, Flechenmittel...? Ganz da hinten in der Ecke. Ich zeigs Ihnen. - Um was für Flecken handelt es sich denn? Der Klassiker! - Bauchflecken.
+20170726 -- Die Burg reissen wir ab und bauen dort Eigentumswohnungen! Mit Garagen! - Nicht in seine Richtung reden! Er kann von den Lippen lesen! Haha! im 17. Stick? Mit dem Rücken zu uns? Wie soll das gehen? - Mit einem polierten Edelstahlschäufelchen.
 20170729 -- Hahaha! Mit der alten Möhre brauchst Du ja ewig bis zur Kita! Bis später! Sags ihm! - Das ist ein total neues 28-Gang Tourenrad und sauschnell, bäh! Oh, tschuldigung! Ich Idiot! - Ich meinte alte Mähre! *
 20170804 -- Hey, zeig' doch mal! Du hast Deine Jacke gebatikt! Toll! Nee, das ist gestempelt, oder? Schickes Muster! - Was nimmst Du für Farben? Alles Naturfarben. Das Rot ist Himbeere und das Braun Walnuss. - Walnuss-Feige!
 20170825 -- "Klingel defekt". Dann gehen wir eben wieder. - ** Ding Dong ** - Grundkurs Bauchreden! Hupen kann ich auch schon! Wehe! Hanni Nammi
@@ -285,10 +317,12 @@
 20171111 -- Eine grosse Latte to go, bitte. Kaffee oder Kalauer? Was? Oh...Kaffee! Caffee Latte to go! - Gefroren?! - Pappbecher geht gar nicht!
 20171123 -- Hallo, komme Sie doch rein! Oh-wären Sie so nett, die Sachen aus dem Briefkasten mitzubringen? Gerne! - Eine Benachrichtigung. "Sendung beim Nachbarn abgegeben." Ich klingel mal! - Ein Klavier! Ein Klavier! **
 20180103 -- Und? Wie schmeckts? - Ist das ein Seniorenteller? Ist es zu wenig? - Schmeckt "Kannste vergessen"!
+20180920 -- Heute ist Weltkindertag! Wow, ja! Stimmt! - Was wollen wir machen? Wir?! Also, ich geh mich amüsieren! Und wir? Ihr nicht. - Ihr müsst Kinder machen.
 20181201 -- Tag, ich brauch einen Kühlschrank. Sie haben Glück! Die neuen Modelle sind gerade reingekommen! - Hier: Unser Topmodell! Mit Internet und Blutuut! Kauf, wenn mal was alle ist, eigenständig ein! Aber schauen Sie sich ruhig um! Wenn Sie Fragen
 20181201 -- haben... - Muss ich da den Gästeschlüssel reinlegen oder klingelt der?
 20180120 -- Ich sehe einen schönen Mann in Ihr Leben treten... Ach ja? - Darf ich? Danke. Und ich sehe, dass Sie auch kürzlich Geburtstag hatten... Was? Woher...? Wie haben Sie das gemacht? - Ich versuche auch seit Tagen, jemandem meine Karte für das
 20180120 -- Hansi-Hintereisen-Konzert anzudrehen.
+20180219 -- ** Hallöchen! - ** Hallöchen! - Noch ein hallöchen, und ich lass mich scheiden! Warum gehst Du nicht joggen, wie alle anderen alten Männer?
 20180303 -- Ja, wo ist denn jetzt der Jubilar? Der kommt schon. Sie kennen doch den Bernstein! Der hat sicher unterwegs inrgendwas entdeckt, was er noch schnell zeichnen muss! - Ey, habt Ihr schon gehört? Der Spielberg dreht hier irgendwo die
 20180303 -- Völkerschlacht bei Leipzig! - Dann kanns dauern.
 20180526 -- Hallo, ich bin die was-mach-ich-hier-eigentlich-noch-Fee, und Du darfst Dir was wünschen! Aber hurtig! - Respekt! Ich will Respekt! -
@@ -331,6 +365,8 @@
 20210430 -- Aaah! Was ist da?! Kabel! - Papa kauft einen 3-D-Drucker! Und ich druck dann, was ich träume! In 3-D!! Ist das nicht irre? Wahnsinn. - chrrr...
 20210721 -- Was hat Sie? Sie hat seit drei Tagen keinen Baum umarmt. Das tut ihr mal ganz gut! - Ah! Da seid Ihr ja goldrichtig! Das einzige Holz hier auf der Insel ist die Fähre nach Patras. - Penelope
 20211022 -- Eineeinmarkmarke! - Gott, ist das öde! Immer das Gleiche! Ein Hirn brilliant und voller Fachwissen! Und keiner fordert es! - Zweizweimarkmarken!
+20211216 -- Wer hört denn heute noch richtig zu? Deshalb muss unsere Botschaft kurz und glasklar sein! Ding Dong ** - Das Ende ist nah! - Ich darf wieder rauchen!! R
+20220115 -- CHRRRR... CHRRRR... - Au! Was? Hör auf zu schnarchen! So kann man nicht lesen! Warum? - Weil die Lesebrille vor der Nase vibriert!!
 20220129 -- Die Kinder kommen vom Spielplatz und haben Beulen am Kopf! Und? Soll ich jetzt Kissen verstreuen? Das sind Kinder, das ist normal! - So, und jetzt zeigst Du der Mama, wo Du Dir immer Aua machst! -
 20220401 -- BUH!!! - KCHCHCH!! ?? - Einen Versuch wars wert.
 20220414 -- Was soll das sein? Krampfadern? Das ist ein Osterei für meinen Papa mit seinem Tattoo drauf, du Arsch! - Und? Hast Du denn schon was auf Dein Ei gemalt, Chlodwig? Ja, einen Elefanten! Wo denn? Na, da! - Ich hab mit dem Auge angefangen. Der
@@ -451,3 +487,5 @@
 20220915 -- Ey, Sandpupser! Kannst Du mal ein Stück rücken? - Ich will auch was vom Sandkasten haben! -
 20220916 -- Wo bin ich? Aaah! Ist das die Hölle? Warum muss ich in die Hölle?! - Musst Du nicht. Das ist nur eine Schnupperaktion Deiner zuständigen Glaubensgemeinschaft. - Wir verdienen uns nebenbei ein bisschen was dazu!
 20220917 -- CHRRR... schlck... - * Bing! CHRRP...? Du hast eine Nachricht bekommen! - Von Moni! Was schreibt Sie? "Der weisse Hai!"
+20220919 -- Aber ich will doch bloss vom Einer springen! Sicher ist sicher! Es kann immer noch sein, dass Du mal hochintelligent wirst! - Ich mach mich total lächerlich! Nur wenn Du daneben springst, Schatz. ? *
+20220920 --Heute gibt es was tolles! Heute hab ich das erste Mal achtsam gekocht! Achtsam? - Achtsam! Und? Wie schmeckts? - Einsam.

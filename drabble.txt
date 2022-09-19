@@ -10456,3 +10456,4 @@ dr220915 -- It's dark and scary! I think we should turn back! Maybe you're right
 dr220916 -- Wait, Echo! Wally found something in the bushes! GRRR! GRRRR! - Maybe it's my pet badger! Careful, Wally! - THAT'S NOT A BADGER!!
 dr220917 -- It's...it's...a really weird-looking baby! MITTENS *!!!* Back off, Buster! - Why is your pet badger dressed like a BABY?? Have you ever tried to buy BADGER CLOTHES?? - I can see why you ran away!
 dr220918 -- Z - Z - zzZzz - ZZYZX - Z - Sore back? Yeah, I must've slept funny!
+dr220919 -- Well, thanks again to you and Wally for finding Mittens! - How can I show my appreciation? - A kiss would be nice! I agree! - SMOOCH!
