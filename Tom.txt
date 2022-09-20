@@ -38,6 +38,7 @@
 19950518 -- ...die Airbags befinden sich unter den Sitzen. Wir wünschen einen angenehmen Flug... BRZ Airbags? - He! Fraäulein! Das sind Schwimmwesten! - Wir fliegen übers Festland.
 19950523 -- Zja-hat eben nicht jeder 'n Onkel in Alaska,... ...der einem 'ne echte Original Trappermütze schenkt... - Pff...ausgerechnet Alaska...Pelzmütze ist Pelzmütze! Wo is' Deine her? - Von der BZ!
 19950524 -- Da reisst man sich Tag für Tag den Arsch auf damit man die ganze Mischpoke einmal im Jahr an die See karren kann und was will der Herr? Fischstäbchen!! Genau. - Zehn Meter vom Meer weg!! Genau. - Wo is Papa? Abkühlen. Im Pool...
+19950526 -- Hohoho! Was für ein Popo! Mutter!! - In Deinem Alter! Ganz recht! In meinem Alter! - In meinem Alter erinnert man sich nur noch an die schönen Sachen von früher...
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
 19950614 -- Ich langweil mich sooo... - Verpiss Dich!! Okay. - - Und jetzt?
 19950713 -- O,K.-Wie Du willst, Rübennase! 12 Uhr! Hinterm Haus! Waffen? Wasser! - * - He! Wo sind die ganzen Eiswürfel hin?
@@ -200,12 +201,14 @@
 20090928 -- Köselchen! - JUMP! You Fuckers!
 20090929 -- Du meine Güte, Regine! Bist Du das wirklich?! Du siehst 10 Jahre jünger aus! So...straff! - Du Miststück-jetzt muss ich mir auch diese ganzen grässlichen kleine Fältchen wegmachen lassen! Ich brauch unbedingt die Nummer von Deinem
 20090929 -- Gesichtsklempner! Ich ruf Dich an! Tschüsschen! - Lassen Sie die Lockenwickler doch bitte noch ein bisschen drin.
+20091114 -- Einen Milchkaffee und...welchen Kuchen würden Sie mir empfehlen? Keinen. - Kindchen, da sind doch mindestens 10 Kuchen in der Vitrine! Und davon können Sie keinen empfehlen? Schantall? - Welchen von dem Kuchenzeug macht am wenigsten noch
+20091114 -- fetter?
 20100105 -- Und? Auch die üblichen guten Vorsätze für das neue Jahr? Die üblichen...? Na, mehr Bewegung und so. - Mehr Bewegung...Sie haben Recht, ich sollte mich wirklich mehr bewegen. Danke! Och-dafür nicht. Schulz! - 
 20100213 -- Ihr seid so peinlich! Wieso können Eltern nie zuhören?! - Wir haben gesagt, wir gehen als Na'vi, diese blauen Ausserirdischen aus dem Film Avatar! Wir alle! - Blau! Sag ich doch!
 20100409 -- So, junger Mann, dann sag doch mal: "A". Aah! Ein Irrenarzt! - Komm sofort wieder rein! Zu dem Irren? Das ist ein ganz normaler Onkel Doktor! - Normal? Mit einer Satellitenschüssel am Kopf?
 20100412 -- He! Aufpassen, Sie Rüpel! Wir sind hier nicht beim Wasserball! - Unverschämtheit! Wieso hast Du diesen Fatzke nicht getreten? Hab ich. Hast Du nicht! Hab ich! - Ach. Und wieso sehe ich dann keine Blutspur im Wasser? Ich war bei der
 20100412 -- Fusspflege.
-20100629 -- Aber nur 1 Bier! Ich mus smorgen früh raus... - Was gibts zu glotzen? Noch nie 'ne schöne Frau gesehen? Is' das hier 'n Knackitreffen, oder was? - Du stehst vorm Bildschirm... Tor!
+20100629 -- Aber nur 1 Bier! Ich muss morgen früh raus... - Was gibts zu glotzen? Noch nie 'ne schöne Frau gesehen? Is' das hier 'n Knackitreffen, oder was? - Du stehst vorm Bildschirm... Tor!
 20100710 -- Ich hab einen Wunsch frei? Ich? Ich darf mir was wünschen? Hab ich wieder genuschelt? Ja. Einen Wunsch frei. Du. Und zwar ein bisschen plötzlich. - Oh! Puh...was wünsche ich mir denn da? Oh! Puh...äh...ich wünsche mir...puh... -
 20110305 -- Wir sind beide eingeladen, also gehen wir auch zusammen hin! I'm soooo sorry. Ich darf nicht. Ich hab ein Attest. Tut mir leid. - Karnevalsmusik versetzt mich in lebensgefährliche Erregungszustände! Hier, bitte. Aber wenn ich irgendwann mal
 20110305 -- nichts mehr höre, gehe ich natürlich gerne mit! Was wäre denn das Motto gewesen? ** Hellau! Kommt rein! Hallo Horst! Gartenparty <---
@@ -325,6 +328,8 @@
 20180219 -- ** Hallöchen! - ** Hallöchen! - Noch ein hallöchen, und ich lass mich scheiden! Warum gehst Du nicht joggen, wie alle anderen alten Männer?
 20180303 -- Ja, wo ist denn jetzt der Jubilar? Der kommt schon. Sie kennen doch den Bernstein! Der hat sicher unterwegs inrgendwas entdeckt, was er noch schnell zeichnen muss! - Ey, habt Ihr schon gehört? Der Spielberg dreht hier irgendwo die
 20180303 -- Völkerschlacht bei Leipzig! - Dann kanns dauern.
+20180509 -- Ich werde erpresst! Die haben mich gefilmt! Mit meinem eigenen Computer! In der Mail steht, wenn ich nicht bezahle, stellen sie den Film ins Internet! - Na und? Du machst doch keine peinlichen Sachen vor dem Computer. Oder? Horst? Horst! -
+20180509 -- Ich hab neulich heimlich versucht, Yoga zu machen! Bezahl!
 20180526 -- Hallo, ich bin die was-mach-ich-hier-eigentlich-noch-Fee, und Du darfst Dir was wünschen! Aber hurtig! - Respekt! Ich will Respekt! -
 20180605 -- Ist das nicht fürchterlich, den ganzen Tag in offene Futterluken gucken zu müssen? - Genau das hab ich meinen Professor damals auch gefragt! Und er hat mir etwas sehr weises geantwortet, das mich in meiner Entscheidung, Zahnarzt zu werden,
 20180605 -- nachhaltig bestärkt hat! Was hat er gesagt? Lieber oben als unten!
@@ -489,3 +494,5 @@
 20220917 -- CHRRR... schlck... - * Bing! CHRRP...? Du hast eine Nachricht bekommen! - Von Moni! Was schreibt Sie? "Der weisse Hai!"
 20220919 -- Aber ich will doch bloss vom Einer springen! Sicher ist sicher! Es kann immer noch sein, dass Du mal hochintelligent wirst! - Ich mach mich total lächerlich! Nur wenn Du daneben springst, Schatz. ? *
 20220920 --Heute gibt es was tolles! Heute hab ich das erste Mal achtsam gekocht! Achtsam? - Achtsam! Und? Wie schmeckts? - Einsam.
+20220921 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum! He, Sie! - Ihr dicker Freund soll Ihnen mal flüstern, wo hier die besten Pilze stehen! Zwei Astlängen nördlich der driten Wurzel links. - Das it ein Knollenblätterpilz! Er ist
+20220921 -- nicht dick!

@@ -10457,3 +10457,4 @@ dr220916 -- Wait, Echo! Wally found something in the bushes! GRRR! GRRRR! - Mayb
 dr220917 -- It's...it's...a really weird-looking baby! MITTENS *!!!* Back off, Buster! - Why is your pet badger dressed like a BABY?? Have you ever tried to buy BADGER CLOTHES?? - I can see why you ran away!
 dr220918 -- Z - Z - zzZzz - ZZYZX - Z - Sore back? Yeah, I must've slept funny!
 dr220919 -- Well, thanks again to you and Wally for finding Mittens! - How can I show my appreciation? - A kiss would be nice! I agree! - SMOOCH!
+dr220920 -- I can't believe they're already selling Halloween candy! Back for more candy, Mr. Drabble? - You've already BOUGHT some?? He must remember me from LAST year! Let us know if you need help out to the car again!
