@@ -16992,3 +16992,4 @@ ga220917 -- COOKIES - - Sneaking a cookie, Garfield? Maybe.
 ga220918 -- - Camera - CLICK - send - * ping - GAAAHH! - GARFIELD! STOP THAT!! IIII IIII IIII
 ga220919 -- What's this? - yank - Ah, the wonders of nature.
 ga220920 -- The tractor beam isn't strong enough! - We can't abduct this one. - I am NOT fat!
+ga220921 -- "Dear Ask A Dog, what's the scientific name for a dog's nose?" - Bark! Bark! Bark! Bark! - We believe the correct term is "bacon-finder".
