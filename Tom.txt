@@ -45,6 +45,7 @@
 19950531 -- Neue und leicht geleckt eMarken POSTBANK * - Ach, Verzeihung, könnten Sie mir einen kleinen Gefallen tun? Klat, Muttchen... - Muss nur mal für alte Mädchen...
 19950601 -- Ich will Body-Building machen! Mich stählen! Meinen Körper zu einem Kunstwerk formen! Asthetisieren! OKay. - Eisenstemmen? Gewichte drücken? Trimm-Rad fahren oder Liegestützen? Womit soll ich anfangen? - Rumpfbeugen...
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
+19950603 -- INDIANER! Was denn-hier? - Was will der rote Mann? - Seine Pfeile!!
 19950614 -- Ich langweil mich sooo... - Verpiss Dich!! Okay. - - Und jetzt?
 19950713 -- O,K.-Wie Du willst, Rübennase! 12 Uhr! Hinterm Haus! Waffen? Wasser! - * - He! Wo sind die ganzen Eiswürfel hin?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
@@ -103,6 +104,7 @@
 20011110 -- Die konnten nur das! - 
 20011121 -- ** Tätää **hier kommt der grosse böse Räuber! Und-ohoo! Er hat den kleinen bösen Räuber auch mitgebracht! Hihi! Schön. Würdest Du bitte das Licht ausmachen? - He! Plötzlich prüde geworden? Sollte mir da was entgangen sein? Ich fürchte, ja...
 20011121 -- - Zum Beispial, dass ich die Vorhänge zur Reinigung gebracht habe...
+20011201 -- **** - Hehehe... Hihihi! - Na? JA!!
 20011204 -- Hallo Baum! Eh-hehe...ich bin eigentlich nicht so eine, die sich gleich jedem an den Stamm wirft... Eigentlich bin ich eher schüchtern, weisst Du? - Und...und ich weiss auch, dass Zeit für Euch einen andere Bedeutung hat, als für uns
 20011204 -- hektische Entwurzelte... Aber... Ob Du Dir trotzdem ganz schnell einen Ast wachsen lassen könntest? - Bitte!
 20011227 -- Tschüs Tante Gunhild! Tschüs Onkel Hermann! Tschus Oma! Tschüs Opa! Tschüs Onkel Kurt! Tschüs Onkel Friedhelm! Tschüs Tante Klara! Tschüs Inky und Dinky! Tschüs Lea! Tschüs Onkel Averell! Tschüs Tante Liselotte! - Puh-alle weg! Endlich! Drei
@@ -510,3 +512,4 @@
 20220921 -- nicht dick!
 20220922 -- Wladi, aus! Aus! Nicht kacken! Aus! Hier nicht! Aus! - Herrchen hat kein Tütchen dabei. Da hinten können wir! - Feuer frei!
 20220923 -- Geht das auch mal schneller da vorne?! Hier zieht's wie Hechtsuppe! - Können Sie Ihre schlechte Leune nicht mal zu Hause lassen? - Ich hab 'ne kleine Wohnung. Ich muss in geeignete Orte auslagern.
+20220924 -- Wir spilene Raketenstart in den Weltraum! Toll! - Die Rakete beschleunigt so wahnsinnig schnell, dass die Planetenlinks und rechts vorbeirasen! Würdest Du jetzt bitte das Weltall verlassen? - Okay, wirf alle Käsebällchen auf einmal!
