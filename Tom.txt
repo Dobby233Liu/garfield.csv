@@ -46,6 +46,7 @@
 19950601 -- Ich will Body-Building machen! Mich stählen! Meinen Körper zu einem Kunstwerk formen! Asthetisieren! OKay. - Eisenstemmen? Gewichte drücken? Trimm-Rad fahren oder Liegestützen? Womit soll ich anfangen? - Rumpfbeugen...
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
 19950603 -- INDIANER! Was denn-hier? - Was will der rote Mann? - Seine Pfeile!!
+19950606 -- Na, junge Frau, soller Ihnen vorher noch schnell die Rente auszahlen? - Oh-danke! Bitte nach Ihnen, junger Mann... - ...dann haben Sie noch ein paar Stunden Vorsprung...
 19950614 -- Ich langweil mich sooo... - Verpiss Dich!! Okay. - - Und jetzt?
 19950713 -- O,K.-Wie Du willst, Rübennase! 12 Uhr! Hinterm Haus! Waffen? Wasser! - * - He! Wo sind die ganzen Eiswürfel hin?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
@@ -241,6 +242,8 @@
 20120202 -- Frostschutzmittel. Bis Minus 50 Grad. Wow! Nicht trinken! Das ist ungesund! - Für wie bescheuert hälst Du mich eigentlich? - Furchterliche Kälte, was? Aber manche sind echt hart. Im Hof steht so ein Knirps, splitternackt! Und schmiert sich
 20120202 -- mit irgendwas ein.
 20120414 -- Äh-erinnnern Sie sich an meine letzten Worte? Ich nämlich nicht. Was ist heute für ein Tag? - Samstag. Vermutlich: "Oh, geil!" Oh. Sicher? Ja. - Samstags trägt er immer dieses blöde T-Shirt.
+20120423 -- Das wichtigste für die Motivation vor Schwimmkursen ist ein gutes "Warming-Up"! - Gib mir ein S! Gib mir ein E! Gib mir ein E! Gib mir ein P! Gib mir ein F! Gib mir ein E! Gib mir ein R! Gib mir ein D! Gib mir ein C! Gib mir ein H! Gib mir
+20120423 -- ein E! Gib mir ein N! - Ferndepesche.
 20120508 -- Hilde...? Karl...? Gott, ist das lange her! 60 Jahre? - Weisst Du, dass ich damals furchtbar in Dich verliebt war? Was? Wieso hast Du mich dann nie ins Wasser geschubst? Ich war doch so in Dich verliebt, Du Hasenfuss! - Glotz nicht so blöd!
 20120508 -- Pack lieber mit an!
 20120519 -- DR.SPECHT IST EIN DOFER LEHRER UND WIR WISSEN WO ER WOHNT! ANONYMUS - Ey-Klöppi! Neben Deinem Graffiti an der Turnhalle hängt ein Zettel! - Anonymus hat eine signifikante Sauklaue, heisst Andreas Klöpke, und ich habe die Telefonnummer seiner

@@ -16996,3 +16996,5 @@ ga220921 -- "Dear Ask A Dog, what's the scientific name for a dog's nose?" - Bar
 ga220922 -- Don't judge me until you walk in my shoes. - Which I don't wear. - So, don't judge me.
 ga220923 -- It's warm today. - I think I'll walk araound with my shirt off. - Where did Liz go? She leapt out the window, dashed through the back yard, scaled the fence and raced down the alley.
 ga220924 -- I'm trying my best. - - MY best is pretty easy.
+ga220925 -- Oh, wow! - Look, Liz! A jellyfish! STING GAAH! - Look, Liz! A crab! SNAP! OWW! - Look, Liz! A baby shark! CHOMP! YAHHH! - Okay, that's enough of that. - Time to relax and enjoy a nice bag of chips. Uh...Jon? - What next? Is that a gorilla in
+ga220925 -- swim trunks?
