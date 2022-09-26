@@ -11049,3 +11049,5 @@
 220925 -- Vor unserem Firmensitz formiert sich eine Protestaktion, weil wir unseren nene Roboter zu hübsch gemacht haben. - Ehemänner haben ein ungutes Gefühl, wenn sie Roboter mit ihren Frauen allein lassen. - Und jetzt? - Die vom Marketing meinen, wir
 220925 -- sollen die Roboter wie totale Versager aussehen lassen. - Wie macht man das? - Sie schlagen vor, die Roboter sollten genauso aussehen wie Sie, Dilbert. - Das sagt die Marketing-Abteilung? Vielleicht auf meine Anregung hin. - EIN MONAT SPÄTER
 220925 -- Wie viele Verkäufe? Noch immer Null.
+220926 -- Ich habe gerade entdeckt, dass unsere Daten nicht korrekt sind. - Welche Daten? Sämtliche. Die Namen unserer Datenbanken sind durcheinandergeraten. - Welche Daten habe ich für die Bewilligung des Kapitalplans benutzt? Die Urlaubstage der
+220926 -- Mitarbeiter.

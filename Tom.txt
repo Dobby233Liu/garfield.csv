@@ -46,7 +46,10 @@
 19950601 -- Ich will Body-Building machen! Mich stählen! Meinen Körper zu einem Kunstwerk formen! Asthetisieren! OKay. - Eisenstemmen? Gewichte drücken? Trimm-Rad fahren oder Liegestützen? Womit soll ich anfangen? - Rumpfbeugen...
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
 19950603 -- INDIANER! Was denn-hier? - Was will der rote Mann? - Seine Pfeile!!
-19950606 -- Na, junge Frau, soller Ihnen vorher noch schnell die Rente auszahlen? - Oh-danke! Bitte nach Ihnen, junger Mann... - ...dann haben Sie noch ein paar Stunden Vorsprung...
+19950606 -- Na, junge Frau, soll er Ihnen vorher noch schnell die Rente auszahlen? - Oh-danke! Bitte nach Ihnen, junger Mann... - ...dann haben Sie noch ein paar Stunden Vorsprung...
+19950607 -- clic bzzzz - - ? clic bzzzz
+19950608 -- Der Löwe! König der Tiere! Aber keine Angst-er ist auch der Gesundheitsminister... - ...holt sich nur die Kranken und Lahmen Tiere aus der Herde... AU! - ***
+19950609 -- *** ? KSST! KSST! Pscht! ksst! - **** ? ***** ksst! - * *
 19950614 -- Ich langweil mich sooo... - Verpiss Dich!! Okay. - - Und jetzt?
 19950713 -- O,K.-Wie Du willst, Rübennase! 12 Uhr! Hinterm Haus! Waffen? Wasser! - * - He! Wo sind die ganzen Eiswürfel hin?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
@@ -516,3 +519,7 @@
 20220922 -- Wladi, aus! Aus! Nicht kacken! Aus! Hier nicht! Aus! - Herrchen hat kein Tütchen dabei. Da hinten können wir! - Feuer frei!
 20220923 -- Geht das auch mal schneller da vorne?! Hier zieht's wie Hechtsuppe! - Können Sie Ihre schlechte Leune nicht mal zu Hause lassen? - Ich hab 'ne kleine Wohnung. Ich muss in geeignete Orte auslagern.
 20220924 -- Wir spilene Raketenstart in den Weltraum! Toll! - Die Rakete beschleunigt so wahnsinnig schnell, dass die Planetenlinks und rechts vorbeirasen! Würdest Du jetzt bitte das Weltall verlassen? - Okay, wirf alle Käsebällchen auf einmal!
+20220926 -- He! Wir haben noch geschlossen! Die Tür stand offen! Frühstücken Sie ruhig fertig, ich schwimm schon mal los. - Danke. Wenn Sie das bitte vorher lesen und unterschreiben würden? Die Atemschutzerklärung! - "Eine Notbeatmung kann grosse Mengen
+20220926 -- Brösel  enthalten"...? Und koffeinhaltige Flüssigkeiten.
+20220927 -- Musst Du nicht Dei Chaos aufräumen? Schon fertig! So schnell? - Mit Köpfchen! Ich hab meinen gesamten Besitz in alphabetisch definierte Bereiche durchstrukturiert! Ruck-zuck! Das will ich sehen! - Du hast Scrabble-Steie auf Deinen Kram
+20220927 -- geworfen! Die Zuordnungsliste mach ich später.
