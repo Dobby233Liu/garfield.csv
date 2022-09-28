@@ -11051,3 +11051,7 @@
 220925 -- Wie viele Verkäufe? Noch immer Null.
 220926 -- Ich habe gerade entdeckt, dass unsere Daten nicht korrekt sind. - Welche Daten? Sämtliche. Die Namen unserer Datenbanken sind durcheinandergeraten. - Welche Daten habe ich für die Bewilligung des Kapitalplans benutzt? Die Urlaubstage der
 220926 -- Mitarbeiter.
+220927 -- All unsere Daten wurden schon vor einem Jahr durcheinandergebracht und keiner hat's bemerkt. - Unsere Verkaufsanreize basieren auf den Geburtstagen unserer Mitarbeiter. - Hat sich die Verkaufsabteilung beklagt? Nein, sie wurde von Ihnen darauf
+220927 -- trainiert, eine schlechte Behandlung zu akzeptieren.
+220928 -- Ich komme 30 Minuten später. - Sie warten bis zur verabredeten Uhrzeit, um mir zu sagen, dass Sie nicht zur verabredeten Uhrzeit hier sein werden? - Hassen Sie mich oder bin ich Ihnen einfach egal? Ich versuche, beides im Gleichgewicht zu
+220928 -- halten.
