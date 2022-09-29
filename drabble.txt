@@ -10466,3 +10466,4 @@ dr220925 -- PIZZA Here's your pizza! Thanks! I'm starved! - SNARF! - SNARf SNARF
 dr220926 -- Honeybunch, eight glasses of water each day weighs four pounds. - But eight DONUTS only weigh half a pound! I still say you should follow your doctor's diet recommendations.
 dr220927 -- Ralph, I know you have a sore back... - Do you need me to help you put on your socks again? No, thanks! - How did you get them on by yourself? I just spray-painted my ankles!
 dr220928 -- - - - Yes, I love you, too!
+dr220929 -- WA HA HA! - Why did you laugh so loud at that? Never laugh laoud when a comedian tells a wife joke.

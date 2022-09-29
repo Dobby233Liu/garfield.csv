@@ -11055,3 +11055,4 @@
 220927 -- trainiert, eine schlechte Behandlung zu akzeptieren.
 220928 -- Ich komme 30 Minuten später. - Sie warten bis zur verabredeten Uhrzeit, um mir zu sagen, dass Sie nicht zur verabredeten Uhrzeit hier sein werden? - Hassen Sie mich oder bin ich Ihnen einfach egal? Ich versuche, beides im Gleichgewicht zu
 220928 -- halten.
+220929 -- Mir fällt gerade auf, dass "Team" und "Meat" aus denselben Buchstaben bestehen. - Das gibt mir zu denken... - Damit eröffnen Sie das Gespräch zur Bewertung meiner Leistung? Ich nenne das "wohliges Raumklima schaffen".
