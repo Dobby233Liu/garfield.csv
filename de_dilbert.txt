@@ -11058,3 +11058,5 @@
 220929 -- Mir fällt gerade auf, dass "Team" und "Meat" aus denselben Buchstaben bestehen. - Das gibt mir zu denken... - Damit eröffnen Sie das Gespräch zur Bewertung meiner Leistung? Ich nenne das "wohliges Raumklima schaffen".
 220930 -- Ich protestiere gegen die eklatante Altersdiskriminierung, die mir entgegengebracht wird. - Okay, ich sorge dafür, dass wir damit aufhören. - So einfach war das? Ich gehe davon aus, dass Sie sowieso in ein paar Monaten an Altersschwäche
 220930 -- sterben.
+221001 -- Passen Sie auf, ich werde jetzt Asok in einen Stein verwandeln. Äh...okay. - Asok, Sie müssen morgen früh um 8 vor dem Vorstand einen Vortrag zu unserer Strategie halten. - Wieso tun Sie so was? Mein Chef verbietet mir, eine Ziege anzuschaffen,
+221001 -- die ständig in Ohnmacht fällt.
