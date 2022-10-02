@@ -17004,3 +17004,4 @@ ga220928 -- "Dear Ask a Dog, what kind of dietetic treats should I give my dog?"
 ga220929 -- You're one of a kind, Garfield. - Why, thank you. - And by that I mean... Stop while you're ahead, pal.
 ga220930 -- This is nice. - Uh-huh. - What's it called again? Staring off into space.
 ga221001 -- Hi, Irma. HowĂ„s the coffee today? - Got a couple of choices...super thick or extra chunky. - I'll have tea. Ooooh! Extra chunky here!
+ga221002 -- SUNDAY - DIET WEEK MONDAY - TUESDAY - WEDNESDAY - CHEAT DAY - FRIDAY - SATURDAY

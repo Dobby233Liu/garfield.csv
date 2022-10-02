@@ -11060,3 +11060,6 @@
 220930 -- sterben.
 221001 -- Passen Sie auf, ich werde jetzt Asok in einen Stein verwandeln. Äh...okay. - Asok, Sie müssen morgen früh um 8 vor dem Vorstand einen Vortrag zu unserer Strategie halten. - Wieso tun Sie so was? Mein Chef verbietet mir, eine Ziege anzuschaffen,
 221001 -- die ständig in Ohnmacht fällt.
+221002 -- Mein Anwalt hat im Nachgang analysiert, warum mein Projekt gescheitert ist. - Die Wurzel des Problems reicht viele Jahre zurück. - Diese Grafik stellt die Kausalkette und deren Effekte von der Vergangenheit bis zur Gegenwart dar. - Sie stimmen
+221002 -- mir sicher zu, dass ihm eine erhebliche Entschädigung zusteht. - Sie verlangen, dass ich Ihrem Mandanten einen Bonus zahle, weil seine Eltern ihn schlecht erzogen haben? - Nein, das wäre absurd. - Ich verlange eine ENTSCHÄDIGIUNG! - Sind Sie
+221002 -- überhaupt Jurist? Wenn Sie das noch einmal fragen, verklage ich Sie.
