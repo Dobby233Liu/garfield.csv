@@ -11064,3 +11064,6 @@
 221002 -- mir sicher zu, dass ihm eine erhebliche Entschädigung zusteht. - Sie verlangen, dass ich Ihrem Mandanten einen Bonus zahle, weil seine Eltern ihn schlecht erzogen haben? - Nein, das wäre absurd. - Ich verlange eine ENTSCHÄDIGIUNG! - Sind Sie
 221002 -- überhaupt Jurist? Wenn Sie das noch einmal fragen, verklage ich Sie.
 221003 -- Haben Sie schon von diesem neuen "Quiet Quitting" gehört? - Es soll hier niemand glauben, dass er damit davonkäme. - Dieses Gespräch hätte ich früher führen sollen. zzzz-zzz
+221004 -- Ihnen wird "Quiet Quitting" vorgeworfen. - Völliger Quatsch. Ich habe schon immer weniger geleistet, als möglich wäre. - Das bedeutet ja nur, dass Sie früh damit angefangen haben. Oh, jetzt ist es also schlecht, ein Visionär zu sein?
+221005 -- Mir ist langweilig. Mein Projekt ist erstmal ausgesetzt. Dagegen kann ich etwas tun. - Hätten Sie noch zusätzliche Arbeit für mich? Ich würde gern beweisen, welchen Wert ich für die Firma darstelle. - Hier ist Ihr neues Projekt. Sprechen Sie
+221005 -- mit niemandem darüber. Danke sehr.

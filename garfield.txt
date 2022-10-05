@@ -17006,3 +17006,5 @@ ga220930 -- This is nice. - Uh-huh. - What's it called again? Staring off into s
 ga221001 -- Hi, Irma. HowĂ„s the coffee today? - Got a couple of choices...super thick or extra chunky. - I'll have tea. Ooooh! Extra chunky here!
 ga221002 -- SUNDAY - DIET WEEK MONDAY - TUESDAY - WEDNESDAY - CHEAT DAY - FRIDAY - SATURDAY
 ga221003 -- I'm on a restricted diet. - Yessiree... - Absolutely no fruits, vegetables or tofu!
+ga221004 -- Emergency! - Emergency! - Time to break out the diet survival kit.
+ga221005 -- Odie! Do something! - - No! No! Not that!

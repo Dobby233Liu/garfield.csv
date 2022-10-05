@@ -10471,3 +10471,5 @@ dr220930 -- You sure get a lot of ads for donuts, dad! scroll scroll - There's a
 dr221001 -- PUMPKINS - I LOVE OCTOBER! Me, thoo! candy
 dr221002 -- Ralph, it's only the second day of October! - Try to pace yourself with the Halloween candy! I think I just ate a wrapper!
 dr221003 -- YLLAW ? - Thanks. I couldn't get out of bed this morning!
+dr221004 -- I can't hear myself THINK in here! You're probably not missing so much! - Wendy 's hard to figure out. One minute, she's rude, and the next minute, she's ruder!
+dr221005 -- I need to get in shape! - Starting today, I will no longer go through the donut shop drive-thru on the way to work! - Good for you, Ralph! - I'll park the car and walk all the wy inside!
