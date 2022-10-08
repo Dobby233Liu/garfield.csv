@@ -11067,3 +11067,8 @@
 221004 -- Ihnen wird "Quiet Quitting" vorgeworfen. - Völliger Quatsch. Ich habe schon immer weniger geleistet, als möglich wäre. - Das bedeutet ja nur, dass Sie früh damit angefangen haben. Oh, jetzt ist es also schlecht, ein Visionär zu sein?
 221005 -- Mir ist langweilig. Mein Projekt ist erstmal ausgesetzt. Dagegen kann ich etwas tun. - Hätten Sie noch zusätzliche Arbeit für mich? Ich würde gern beweisen, welchen Wert ich für die Firma darstelle. - Hier ist Ihr neues Projekt. Sprechen Sie
 221005 -- mit niemandem darüber. Danke sehr.
+221006 -- Ich habe gehört, Sie haben all Ihre Projekte an Kollegen delegiert und behauptet, ich hätte das so angewiesen. - Ja, damit habe ich schon vor drei Jahren angefangen. - Sie können den ganzen Tag so ein Gesicht ziehen, aber ich bin hie rnicht
+221006 -- derjenige, der all die gutgläubigen Leute angestellt hat.
+221007 -- Das Meeting ist vorbei, aber ich weiss nicht, wie ich es höflich beende soll. - Ich wiederhole, worauf wir uns geeinigt haben, bis er es kapiert. - Also...dann warten wir auf die neuen Daten. Wieso redet dieser Typ immer weiter?
+221008 -- Ich habe einen Teenager eingestellt. Sie soll uns bei den kompliziertesten technischen Entscheidungen helfen. - Ist sie ein Genie? Nein, aber das macht sie durch ihre Attitüde wieder wett. - Darf ich unser Netzwerk upgraden? Wie können Sie es
+221008 -- WAGEN?!

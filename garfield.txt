@@ -17008,3 +17008,6 @@ ga221002 -- SUNDAY - DIET WEEK MONDAY - TUESDAY - WEDNESDAY - CHEAT DAY - FRIDAY
 ga221003 -- I'm on a restricted diet. - Yessiree... - Absolutely no fruits, vegetables or tofu!
 ga221004 -- Emergency! - Emergency! - Time to break out the diet survival kit.
 ga221005 -- Odie! Do something! - - No! No! Not that!
+ga221006 -- A diet is like a really good book... - - The end is the best part!
+ga221007 -- I'm mad at you. - For no particular reason. Good! - Then I don't have to apologize.
+ga221008 -- Let's see...broccoli, spinach, brussels sprouts, tofu, raisins... - SMACK! - Donuts, cookies, bacon, cheese doodles, ice cream... He's such a good boy! Yes, he is! pat pat pat

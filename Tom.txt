@@ -70,6 +70,9 @@
 19950629 -- ** - He!! Rauslassen!! HILFE! - 112
 19950630 -- Wassertemperatur 23°C - - Wassertemperatur ca. 24°C
 19950703 -- Lass mich Dein Blutsbruder sein, oh Winnetou! Is' gebongt, oh Old Shatterhand! - Wunderbar--- CUT!! -
+19950704 -- Äh...Herr Kapitän? - Jaaa-der Kapitän kotzt! Na und? Mir doch egal! Wems nicht passt, der soll abhauen!! - Das Sonnendeck räumen! MS Dolce Vita
+19950705 -- - -
+19950706 -- Ich langweil' mich so... - - Viel Spass!
 19950713 -- O.K.-Wie Du willst, Rübennase! 12 Uhr! Hinterm Haus! Waffen? Wasser! - * - He! Wo sind die ganzen Eiswürfel hin?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
 19950721 -- Ich fürchte, ich brauch' eine Brille, Herr Doktor... Sieht so aus... - Ist sowas denn teuer? - Mal sehen... 100,- 275,- 380,- 450,- 599,- 680,- 888,- 1285,-
@@ -87,6 +90,7 @@
 19961219 -- 'n Abend-is Ihr Mann da? Nee-der is auf 'ner Weihnachtsfeier... Ah-dann bin ich richtig! Ich hab ihn im Taxi-blau und pleite. Wenn Sie bezahlen, bring ich ihn hoch... - - 'n Abend-is Ihr Mann da? Nee-der is auf 'ner Weihnachtsfeier... Ah-dann
 19961219 -- bin ich richtig! Ich hab ihn im Taxi-blau und pleite.  Wenn Sie bezahlen, bring ich ihn hoch...
 19970129 -- Also-das ist ja wohl... Spielen und Hausieren verboten! - Welcher Idiot hat schon wieder Weissglas ins Grünglas geworfen? - Es war Pfefferminzlikör!
+19970409 -- Tag! -Eine Postkartenmarke! - Das heisst Briefmarke! - Das heisst schon wieder teurer...
 19970503 -- Hoi-hoi! Der ist aber dick, Mann. Familienfotos... - Dann geb' ich Ihnen einen schöne, grosse, bunte Sondermarke... Es geschehen Zeiten und Wunder! - Uups-gaaanz knapp drüber-da muss dann wohl noch eine drauf!
 19970531 -- ...denn wie steht schon in 1. Petrus 5,7 geschrieben: "Alle Eure Sorgen werfet auf ihn: denn er sorgt für Euch" - Also, wenn die Seele mal zwackt: Gönnen Sie sich ruhig mal was und kippen Sie sich ordentlich einen hinter den Knorpel! Das
 19970531 -- glaubste aber! Gute Nacht! - Das "Wort zum Sonntag" wurde Ihnen heute präsentiert von "Graber Bestattungen"...
@@ -95,6 +99,7 @@
 19971023 -- Also: -Kasperle mit Patsch. -Auftritt Krokodil. -Kasperle: "Hahaa! etc. etc." -KAsperle vertrimmt Krokodil. -Abgang Krokodil. Alles klar? Hm. - Hahaa...he! Was zum...? - Memme!
 19980218 -- rrrrrr... - rrrrr... **Tüdelüt** Ja? Hallo? - Und jetzt die Haare im anderen Ohr!
 19980520 -- - Geh' da nicht so nah ran! ...das ist tief! - Quatsch! Nur stille Wasser sind tief!
+19980620 -- Hahahaa! - HahaHaa! - Hahahaa! **
 19980731 -- "Andrea"-"Andrea"!! -warum haben denn nun Hochs immer Männernamen... - ...und Tiefdruckgebiete Frauennamen? - -sie kommen öfter...
 19980805 -- -Anker lichten! -Maschinen volle Kraft voraus! -Steuer hart backbord! - -Alle Mann auf Kampfstation! -Luken dicht! -Alle Torpedos feuerbereit! -Angriffstiefe 90 Fuss! -
 19980904 -- Red' Du mal mit ihm...ich geb's auf! - Schau-andere Kinder freuen sich total, daß sie endlich in die Schule dürfen! - Nicht allen gewährt das Schicksal ein glückliches zuhause...
@@ -298,6 +303,7 @@
 20130406 -- Hallo, ich bin die gute Fee, und wenn Du Dir was gewünscht hast, ha ich endlich Feierabend. *** - He! Was wünschen! Watt...? *** - *** *
 20130817 -- Hi! Ohje, ist das schon wieder spät. Okay...Sie haben, naja, sagen wir, einen Wunsch frei. Geil! - Ich will endlich mal einen Riesen Koffer voller Geld finden! - 
 20130914 -- Hallihallo, ich hätte noch auf die Schnelle eien Wunsch zu vergeben. Wenns nix grosses ist. - Ich will endlich mal auf einen grünen Zweig kommen! -
+20130923 -- Flaschenpost?! ? - "Pullermannverlängerung? Rufen Sie an!" Spam! - Ich brauche das Geld! Und ich hab doch keine Computer!
 20131005 -- Der Cappuccino ist für den Herrn mit dem Bart. Ich hatte einen Espresso bestellt! Sie sollten sich Ihre Gäste besser anschauen! Ich habe ein hervorragendes Personengdächtnis! - So, bitte, Ihr Espresso. - Haben Sie nicht!
 20131012 -- Hoch droben im Dach des brasilianischen Regenwaldes erspähten seine scharfen Augen einen fetten Brüllaffen. Leichte Beute. - Geschmeidig richtete der Jäger seine lautose Waffe auf das ahnungslose Opfer. - Erst Luft holen, dann das Blasrohr
 20131012 -- ansetzen! Rief fröhlich das süsse Äffchen. Aber wem sag ich das. War doch sicher mit Curare.
@@ -349,6 +355,7 @@
 20151126 -- Die Kinder wollen unbedingt ein Kaninchen. Aber ich weiss jetzt schon, an wem das dann alles wieder hängenbleibt! - Die werden ganz schön alt, oder? Herrjeh... Was mache ich nur, um aus der Nummer möglichst unauffällig wieder rauszukommen? -
 20151126 -- Das Türchen auf und Coq au vin.
 20160114 -- Kreisch!! Da drüben steht David Bowie! - Seufz! Als Ziggy Stardust sieht er einfach am geilsten aus! Das ist Adolf Hitler. - Und als Josephine Baker sah er noch viel geiler aus!
+20160126 -- Und Sie können mit dem Messer auch umgehen? Wie ein Samurai! JA dann... - Aus dem Weg! Ich muss nochmal zum Kühlschrank! ? - Sie müssen Ihre Gefrierbeutel besser beschriften! Ich hätte ihm fast eine Garnele an den Kopf genäht!
 20160308 -- Ich weiss, mein Zöpfchen ist total old school! Aber ich hänge nun mal dran. Das Zöpfchen bleibt! - Aber vielleicht hat der Profi ja eine Idee, wie man es am besten geschickt integrieren kann! - DYNAMIT
 20160324 -- Äh...ja...ich sehe Glück in der Liebe. Und ja, ich sehe auch eine junge Dame mit rotem Haar... - Ich sehe schon bald den Beginn einer langen romantischen Beziehung, die... Jaja! Blablabla! - Frag endlich, ob sie sehen kann, wo sie die Ostereier
 20160324 -- verstecken werden!
@@ -424,6 +431,7 @@
 20200325 -- schneller, wenn sie was Plausibles hören.
 20200605 -- Sie sind neu hier, nicht wahr? Vermutlich direkt von der Kassiererinnenschule. Und jetzt denken Sie sicher: Ich kann schneller scannen,... ...als die alte Schachtel hier einpacken kann. - Aber ich warne Sie, Kindchen! Diese alte Schachtel
 20200605 -- hier ist nicht irgendeine alte Schachtel! bibibibi biep! - 37,99-Wenn Sie es nochmal in Zeitlupe sehen wollen, können Sie das beim Filialleiter.
+20200918 -- Wir hauen ab! Ich hab eine Tür entdeckt! Dahinter ist freies Land! Eine offene Tür? Hier? - Der Notausgang, was weiss ich! Egal, nix wie weg! Hahaha! Die lassen eine Tür offen! Haha! Wie blöd kann man sein? -
 20201025 -- Hasso: Gib Pfötchen! Na lLs: Gib Pfötchen!! Gib Pfötchen! Hopp!! Du sollst Pfötchen geben! * ? ? ? - Hoffnungslos-diese Töle ist dumm wie Brot! - Hasso: Vorne rechts...
 20210119 -- ACHTUNG!! BAHN FREI!! - Brüll doch nicht so! Da ist doch keiner! Noch nicht! - Bei Deinem Tempo können die alle jetzt noch gemütlich loslaufen, um überfahren zu werden!
 20210128 -- Nun denn, wohl auf! Hinaus in die Welt und den Körper gestählt! - Meinst Du echt, ich kann so gehen? Ist das nicht zu eng im Schritt? Alles gut. - Die Welt ist hart im Nehmen.
@@ -574,3 +582,5 @@
 20221004 -- Halt! Hör auf! Was Du da machst, ist Widerbelebung und keine Wiederbelebung! - ? Ich schreibs Dir auf. - Na, was hast Du heute im Kurs schönes gemacht? Leichenschändung.
 20221005 -- Mein Arzt sagt, ich muss Walken gehen... Das mit den Stöcken?! So schlimm? - Dann mach da sim Wald! Da kannst Du Dich notfalls hinter den Bäumen verstecken! - Ah, der Herr Klöpke! Immer sportlich, immer sportlich! *
 20221006 -- Du rauchst Zigaretten! Ich weiss es genau! Ich hab alles durchsucht! Hast Du sie verschluckt? - Nein-und tschüs! Onkel Ralf hat gleich einen wichtigen Termin. - ** Kuckuck!
+20221007 -- Markiges POST ? - Ähm...kennen wir uns? Ah! Ein Neuer! Das ist wie bei den Motrorradfahrern. - Wir Duttträger grüssen uns in freier Wildbahn!
+20221008 -- He! Dein Kinnriemen ist viel zu locker! - Wenn Du den nicht richtig zumachst, Kannst Du gleich mit einem Eimer auf dem Kopf rumfahren! - Würde auch besser aussehen! *
