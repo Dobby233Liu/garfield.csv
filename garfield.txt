@@ -17011,3 +17011,5 @@ ga221005 -- Odie! Do something! - - No! No! Not that!
 ga221006 -- A diet is like a really good book... - - The end is the best part!
 ga221007 -- I'm mad at you. - For no particular reason. Good! - Then I don't have to apologize.
 ga221008 -- Let's see...broccoli, spinach, brussels sprouts, tofu, raisins... - SMACK! - Donuts, cookies, bacon, cheese doodles, ice cream... He's such a good boy! Yes, he is! pat pat pat
+ga221009 -- * beedle beedle beedle - Hi, Liz, it's Jon. Hi, Jon. - Liz, how'd you like to-...in a minute, Garfield. - Anyway, Liz, how'd you like to go to-...yes, Garfield, I'm well aware of the time. This will only take a minute. - So, Liz, how'd you
+ga221009 -- like to go out to the-...GARFIELD!!! - I SAID IN A MINUTE!! NOW LEAVE ME ALONE, AND LET ME TALK TO LI- - OW! OW! STOP!! THOSE ARE MY LEG HAIRS! OWWWW!! Feed your cat, Jon.

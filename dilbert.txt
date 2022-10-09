@@ -14195,3 +14195,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221006 -- employees.
 221007 -- The meeting is over, but I don't know how to politely end it. - I'll repeat what we agreed until he gets the hint. - So...we'll wait for the new data. Why can't this guy stop talking?
 221108 -- I hired a teenage girl to help us with our most complicated technical decisions. - Is she a genius? No, but she makes up for it with her attitude. - Can I upgrade our network? How DARE you!!!
+221109 -- My goal for the coming year is to work on myself. - Good decision. - We can all see what a disaster you are, but we didn't know you were aware of it. - You're taking on a big job. - How long do you think you will need to work on yourself to
+221109 -- become normal? - Are you looking for a quick fix, or is this a multi-generational thing? - - You're already talking less, so that's a step in the right direction.

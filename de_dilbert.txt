@@ -11072,3 +11072,6 @@
 221007 -- Das Meeting ist vorbei, aber ich weiss nicht, wie ich es höflich beende soll. - Ich wiederhole, worauf wir uns geeinigt haben, bis er es kapiert. - Also...dann warten wir auf die neuen Daten. Wieso redet dieser Typ immer weiter?
 221008 -- Ich habe einen Teenager eingestellt. Sie soll uns bei den kompliziertesten technischen Entscheidungen helfen. - Ist sie ein Genie? Nein, aber das macht sie durch ihre Attitüde wieder wett. - Darf ich unser Netzwerk upgraden? Wie können Sie es
 221008 -- WAGEN?!
+221009 -- Es ist mein Ziel für das kommende Jahr, an mir selbst zu arbeiten. - Gute Entscheidung. - Wir sehen alle, was sie für eine Katastrophe sind, aber wir wussten nicht, dass Sie das auch selbst wissen. - Ihnen steht eine grosse Aufgabe bevor. - Was
+221009 -- glauben Sie, wie lange werden Sie brauchen, um normal zu werden? - Suchen Sie nach einer schnellen Lösung, oder ist es eher eine Generationen-umspannende Sache? - - Sie reden bereits weniger, das ist schon der erste Schritt in die richtige
+221009 -- Richtung.

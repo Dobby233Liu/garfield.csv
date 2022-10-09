@@ -73,6 +73,7 @@
 19950704 -- Äh...Herr Kapitän? - Jaaa-der Kapitän kotzt! Na und? Mir doch egal! Wems nicht passt, der soll abhauen!! - Das Sonnendeck räumen! MS Dolce Vita
 19950705 -- - -
 19950706 -- Ich langweil' mich so... - - Viel Spass!
+19950707 -- Markenmarken POSTBANK Öh...hallo? - Ich glaube, der Kollege ist in Urlaub...da passiert heute nix mehr... Da könnense lange warten! - Dann ist er auch nicht in Urlaub.
 19950713 -- O.K.-Wie Du willst, Rübennase! 12 Uhr! Hinterm Haus! Waffen? Wasser! - * - He! Wo sind die ganzen Eiswürfel hin?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
 19950721 -- Ich fürchte, ich brauch' eine Brille, Herr Doktor... Sieht so aus... - Ist sowas denn teuer? - Mal sehen... 100,- 275,- 380,- 450,- 599,- 680,- 888,- 1285,-
@@ -176,6 +177,7 @@
 20040419 -- Soll ich schon mal reinspringen? Gemach! Gemach! Schwimmen will gelernt sein! Geht gleich los... - Huark! Tja-Sie wechseln wohl besser erstmal das Wasser... Tschüss! - Gute Arbeit! War mir ein Vergnügen, mit Ihnen Geschäfte zu machen...
 20040503 -- - So! Der ist leer! Puh! öchö... - 
 20040528 -- Was wird das? Ein Minarett! Direkt vor meiner Nase! Das ist eine Frechheit! - Kein' deutschen Sand in Maurenhand! Ich werrrde dieses Machwerk dem Errrdboden... - *
+20040603 -- Du wirst immer fetter! Sollen wirs ihm sagen? - Da ist ein kleines Schwesterchen für Dich drin! Oh! Verstehe... - Dann ist da der Kinderwagen drin!
 20040610 -- Lalü-lalü... He! Was zum... - Auseinander! Sofort! - Herrgott-wenns juckt...
 20041001 -- Pilze sammeln-tolle Idee. Und wenn wir keine finden, gibt's wieder Nudeln. Wir lassen finden! Ich habe einen Plan. - Amateuer benutzen Plastiktüten. Profis nehmen Stoffbeutel. Wir folgen einfach dem nächsten, der mit einem Stoffbeutel in der
 20041001 -- Hand ins Unterholz verschwindet! Das ist dann ein Profi! - Oder ein Ossi, der pinkeln muss.
@@ -229,6 +231,8 @@
 20070917 -- vor. Natürlich gab es überall im Ostblock auch 10-Meter-Bretter. - Aber sie hatten immer nur Material für 5 Mter.
 20070924 -- Früher waren Missernten eine Katastrophe! Deshalb stellte man einen Bauern mit gutem Gedächtnis... ...auf so ein 10-Meter-Brett. - Zur Wetterbeobachtung. Aus der Zeit stammen die Bauernregeln. Und wenn er sich mal geirrt hat? - Dann gab es
 20070924 -- immer noch die Götter. Aus der Zeit stammt auch das Bauernopfer.
+20071206 -- Wenn ich schon wieder nicht da bin, wenn der Weihnachtsmann kommt, werden sie womöglich misstrauisch. Ich hab Ralf das Kostüm gebracht. Er machts. - Na, hoffentlich macht er keine Brandflecken rein! Das Ding war teuer! Für wie blöde hälst Du
+20071206 -- mich? Ralf raucht doch nicht mehr. - Ho! Ho! Ho!
 20071208 -- Wie? Du bist der Weihnachtsmann? Jau. Höchstpersönlich. - Wahahaha! Ja, klar. Und ich bin der Osterhase! - Tatsächlich. Entschuldige. Ich konnte Deine Ohren nicht sehen, Kollege.
 20071222 -- Okay...wir starten mit dem Oh, Du Fröhliche/Stille Nacht Medley und gehen direkt in IhrKinderleinKommet. Aber bitte mit Schmackes. Hallo?! Was machst Du da? - Unsichtbare Töne! Unhörbar. Es heisst unhörbar! Hallo Papa! - Draussen ist alles
 20071222 -- voller Hunde!
@@ -245,8 +249,10 @@
 20081111 -- Polizei! Das Spiel ist aus! Fallen lassen! Ich sagte: Fallen lassen! Päng! Bäng! Päng! Päng! Päng! - Päng! Päng! Päng päng... - *
 20081125 -- ALDI Maestro-ich habe gesündigt! Ich hab mir die Haare selbst gefärbt...es sah grässlich aus... Dann hab ich versucht, es wieder raus zu bleichen... - Maestro-helfen Sie mir! Ich hab gleich einen wichtigen Termin-können Sie schnell etwas tun,
 20081125 -- damit ich besser aussehe? Mon dieu! Sicher... - KaDeWe
+20081129 -- Hat geschmeckt, ja? Einen kleinen Grappa aufs Haus, ja? Wraum? Horst! Gerne, grazie, due, prego. - Wenn das Essen okay war, braucht man keinen Schnaps! Die Muscheln... Alte Unke-der will doch nur einen mittrinken! - Salute!
 20081231 -- Ein Dutzend von den grossen Raketen da oben, bitte. Die darf ich Dir nicht verkaufen, zu gefährlich. Knallerbsen kannst Du haben. - Zu gefährlich? Das ist albern! Die fliegen doch weg! Knallerbsen bekommt man ins Auge geworfen! Verdammt!
-20881231 -- Raketen erst ab 18! - Wir müssen den Start ein paar Jahre verschieben.
+20081231 -- Raketen erst ab 18! - Wir müssen den Start ein paar Jahre verschieben.
+20090320 -- Frechheit! Rennrüpel! tocktocktock Selber plemplem! - Ich hab Ihnen nicht den Vogel gezeigt! Ich wollte bloss andere Musik! Hey-Du versuchst mich zu verarschen. Respekt! - Neinneinnein! Mein IPod hängt hier an der Mütze! Hells Bengels
 20090527 -- Sie müssen mir jetzt meine Rechte vorlesen! Ihre was? Meine Rechte! Ich kenn mich aus! - Ach so...äh...pfff...ah, hier: Sie haben das Recht zu schweigen. Na also. Geht doch. - Nein. Geht nicht. Ah!
 20090709 -- Hallo! Ich bin der Holger! ...und wer bist Du? - Ich bin die Geissel der Menschheit... - Bei welchem Sender?
 20090908 -- Machen Sie ihm was süsses freches zum Schulanfang! Und Du bist brav! Bis dann! - Was süsses freches...Du willst doch nur ein niedliches Klassenfoto zum Angeben! Aber hier geht es um mehr! - Machen Sie mir eine schicke Business-Frisur!
@@ -258,8 +264,11 @@
 20090929 -- Gesichtsklempner! Ich ruf Dich an! Tschüsschen! - Lassen Sie die Lockenwickler doch bitte noch ein bisschen drin.
 20091114 -- Einen Milchkaffee und...welchen Kuchen würden Sie mir empfehlen? Keinen. - Kindchen, da sind doch mindestens 10 Kuchen in der Vitrine! Und davon können Sie keinen empfehlen? Schantall? - Welchen von dem Kuchenzeug macht am wenigsten noch
 20091114 -- fetter?
+20091229 -- Wahres Schwimmen ist eine Kunst! Banal durchs Wasser zappeln ohne zu ersaufen kann jeder lernen. - Aber scheinbar schwerelos durch die FLuten zu gleiten, dazu braucht es Begabung! - Oder einfach genug Schaumstoff vor der Hütte.
 20100105 -- Und? Auch die üblichen guten Vorsätze für das neue Jahr? Die üblichen...? Na, mehr Bewegung und so. - Mehr Bewegung...Sie haben Recht, ich sollte mich wirklich mehr bewegen. Danke! Och-dafür nicht. Schulz! - 
 20100213 -- Ihr seid so peinlich! Wieso können Eltern nie zuhören?! - Wir haben gesagt, wir gehen als Na'vi, diese blauen Ausserirdischen aus dem Film Avatar! Wir alle! - Blau! Sag ich doch!
+20100303 -- Sehr schön. Danke. - Oh je! Ich fürchte, gnädige Frau ist unzufrieden. Has sie sich beschwert? Nein, Aber sie hat keine Miene verzogen! - Alles gut! Frau Baronin fährt direkt zu einem Wohltätigkeitspokerturnier. Sie hat sich vorher frisch
+20100303 -- botoxen lassen.
 20100409 -- So, junger Mann, dann sag doch mal: "A". Aah! Ein Irrenarzt! - Komm sofort wieder rein! Zu dem Irren? Das ist ein ganz normaler Onkel Doktor! - Normal? Mit einer Satellitenschüssel am Kopf?
 20100412 -- He! Aufpassen, Sie Rüpel! Wir sind hier nicht beim Wasserball! - Unverschämtheit! Wieso hast Du diesen Fatzke nicht getreten? Hab ich. Hast Du nicht! Hab ich! - Ach. Und wieso sehe ich dann keine Blutspur im Wasser? Ich war bei der
 20100412 -- Fusspflege.
@@ -267,8 +276,8 @@
 20100710 -- Ich hab einen Wunsch frei? Ich? Ich darf mir was wünschen? Hab ich wieder genuschelt? Ja. Einen Wunsch frei. Du. Und zwar ein bisschen plötzlich. - Oh! Puh...was wünsche ich mir denn da? Oh! Puh...äh...ich wünsche mir...puh... -
 20110305 -- Wir sind beide eingeladen, also gehen wir auch zusammen hin! I'm soooo sorry. Ich darf nicht. Ich hab ein Attest. Tut mir leid. - Karnevalsmusik versetzt mich in lebensgefährliche Erregungszustände! Hier, bitte. Aber wenn ich irgendwann mal
 20110305 -- nichts mehr höre, gehe ich natürlich gerne mit! Was wäre denn das Motto gewesen? ** Hellau! Kommt rein! Hallo Horst! Gartenparty <---
-20010312 -- Ich brauch ein neues Outfit! Ich kann diesen praktischen Kram nicht mehr sehen! Ich will was frisches, jugendliches! MODA ZZ Ich will wieder wahrgenommen werden! - Ich seh schon. Gut...ziehen Sie mal das, das, das, das, und das hier an.
-20010312 -- Schuhe bringe ich gleich, und mit den Haaren müssen wir auch was machen! Bist Du überfallen worden?
+20110312 -- Ich brauch ein neues Outfit! Ich kann diesen praktischen Kram nicht mehr sehen! Ich will was frisches, jugendliches! MODA ZZ Ich will wieder wahrgenommen werden! - Ich seh schon. Gut...ziehen Sie mal das, das, das, das, und das hier an.
+20110312 -- Schuhe bringe ich gleich, und mit den Haaren müssen wir auch was machen! Bist Du überfallen worden?
 20110324 -- Hast Du das Kostüm zu heiss gewaschen? Nein, der Herr Osterhase ist fett geworden. - Egal, dann versteck ich die Eier eben schnell so. Und wenn sie Dich sehen? Lass ihnen doch noch ein bisschen Illusion!
 20110411 -- Entspann Dich! Du wirst nicht ertrinken. Ich bin Doch bei Dir. - Kann ich eine Augenbinde haben? Das ist doch keine Hinrichtung! - Nennen wir es Blindverkostung.
 20110521 -- HUCH! ? - Mein Stock ist abgebrochen! Einfach so! Sabotage! Da sind tiefe Kerben! - Was lief denn gestern im Seniorenkino? Ben Hur!
@@ -355,7 +364,8 @@
 20151126 -- Die Kinder wollen unbedingt ein Kaninchen. Aber ich weiss jetzt schon, an wem das dann alles wieder hängenbleibt! - Die werden ganz schön alt, oder? Herrjeh... Was mache ich nur, um aus der Nummer möglichst unauffällig wieder rauszukommen? -
 20151126 -- Das Türchen auf und Coq au vin.
 20160114 -- Kreisch!! Da drüben steht David Bowie! - Seufz! Als Ziggy Stardust sieht er einfach am geilsten aus! Das ist Adolf Hitler. - Und als Josephine Baker sah er noch viel geiler aus!
-20160126 -- Und Sie können mit dem Messer auch umgehen? Wie ein Samurai! JA dann... - Aus dem Weg! Ich muss nochmal zum Kühlschrank! ? - Sie müssen Ihre Gefrierbeutel besser beschriften! Ich hätte ihm fast eine Garnele an den Kopf genäht!
+20160126 -- Und Sie können mit dem Messer auch umgehen? Wie ein Samurai! JA dann... - Aus dem Weg! Ich muss nochmal zum Kühlschrank! ? Notarzt - Sie müssen Ihre Gefrierbeutel besser beschriften! Ich hätte ihm fast eine Garnele an den Kopf genäht!
+20160219 -- Das sind keine Smilies, das sind Emojis. Und was machst Du damit? Gefühle übermitteln? - Eineeinemarkmarke, bitte! Moment... - *
 20160308 -- Ich weiss, mein Zöpfchen ist total old school! Aber ich hänge nun mal dran. Das Zöpfchen bleibt! - Aber vielleicht hat der Profi ja eine Idee, wie man es am besten geschickt integrieren kann! - DYNAMIT
 20160324 -- Äh...ja...ich sehe Glück in der Liebe. Und ja, ich sehe auch eine junge Dame mit rotem Haar... - Ich sehe schon bald den Beginn einer langen romantischen Beziehung, die... Jaja! Blablabla! - Frag endlich, ob sie sehen kann, wo sie die Ostereier
 20160324 -- verstecken werden!
@@ -413,6 +423,8 @@
 20181101 -- auch gefürchtet!
 20181114 -- Ich kann hier mit der Raupe nicht wenden! Dann fahr doch auf den Spielplatz! - Hoppla! ** Tschuldigung! - Schon wieder die Raupe? Was hat sie diesmal? Zahnausfall. Getriebe? Unterkiefer.
 20181212 -- Herr Klöpke, bitte! Ich war aber vor dem da! - Vielleicht hab ich ja was schlimmeres! Vielleicht hab ich ja was interessanteres! - Dann geh ich. Ich hab was normales. Sie können ja solange gugeln!
+20190215 -- Ein Todschicker Mantel! Ich hab ihn gleich mal in sämtlichen Grössen bestellt! Der Chinese hats ja nicht so mit Grössen! - Und raten Sie mal, welcher gepasst hat! XL! XL!! Hahaha! Die spinnen ja! Ich lauf doch nicht in XL rum! Den schick ich
+20190215 -- auch wieder zurück! Da wird sich der Chinese sicher freuen! Der wird auch immer dicker.
 20190223 -- Hallo! Ich hätte gerne Kaffee und Kuchen! Aber unbedingt mit ohne... Moment! - Einfach hier mit der App die Inhaltsstoffe auswählen-Kaffee hier, Kuchen da-und dann auf "Senden" tippen! Und ich bringe Ihnen dann genau, was Sie möchten. -
 20190330 -- Hey, Du! Hallo! Alles klar! Du kannst abbiegen! Es kommt keiner! Alles frei! Kann nix passieren! Gute Fahrt! ? - Ich arbeite jetzt als Toter-Winkel-Assistent! Aha. Boah-hat der Segelohren!! Untersteh Dich!
 20190509 -- Hahaha! Ich habe einen geilen Witz gelesen! Kennen Sie den? Kommt ein Mann zum Friseur... - Haha! Wollen Sie mich etwa damit rasieren? - Fragen Sie mich nach dem Witz noch mal.
@@ -427,6 +439,7 @@
 20191227 -- Und? Weihnachten gut überstanden? War supi. - Hier, alles Retouren. Ich dachte, Sie finden die Schenkerei blöde? - Schon, aber ich find die Auspackerei einfach total geil!
 20200107 -- ** Ding Dong Das ist hier ein Problemviertel! Alkis? - Das Ende ist nah! Da lachen ja die Hühner! - Astrophysiker!
 20200110 -- Heute koche ich was total tolles! - Mit lauter gesunden Zutaten, die das Immunsystem und die Abwehrkräfte stärken! - Was gibts? Krankenhausessen.
+20200121 -- He! Ihr Wauwau hat auf den Spielplatz gekackt! ** Tschuldigung, hab ich nicht gese-hen! ** - ? ? - *
 20200325 -- Was machst Du da? Baume ausreissen. Warum? - Weil ich es kann. Ich bin als Kind in einen Topf mit Zaubertrank gefallen. Ach so, okay. Tschüss! - Ja, Baum, ich weiss. Ich hab schon versucht zu erklären, was ich mache! Aber die Leute gehen
 20200325 -- schneller, wenn sie was Plausibles hören.
 20200605 -- Sie sind neu hier, nicht wahr? Vermutlich direkt von der Kassiererinnenschule. Und jetzt denken Sie sicher: Ich kann schneller scannen,... ...als die alte Schachtel hier einpacken kann. - Aber ich warne Sie, Kindchen! Diese alte Schachtel
@@ -438,6 +451,7 @@
 20210320 -- Halt! Ich bin die Stop-and-Go-Fee, und Du darfst Dir was wünschen! - Ich würde gerne natürlicher wirken! -
 20210319 -- Was soll das werden? Ins Wasser schubsen? Hahaha! Ich zeigs Dir! Hnnch! - Also-nach rechts schauen, ob keiner kommt, nach links schauen, ob keiner kommt und dann... - Ey-nicht von der Seite reinspringen!
 20210412 -- Eine Feuerstelle auf der Liegewiese! Leergut im Becken! Die haben hier Party gemacht! - Wenn ich die erwische! Die erwischen wir! - Einer ist nach dem Pinkeln vom Zehner oben eingepennt.
+20210416 -- Eineeinemarkmarke!! Hu! Sund wir heute mit dem falschen Fuss aufgestanden? - Ich habe keinen falschen Fuss! Das ist alles noch original! - Ich hab nur mal wieder den falschen Planeten betreten!
 20210430 -- Aaah! Was ist da?! Kabel! - Papa kauft einen 3-D-Drucker! Und ich druck dann, was ich träume! In 3-D!! Ist das nicht irre? Wahnsinn. - chrrr...
 20210721 -- Was hat Sie? Sie hat seit drei Tagen keinen Baum umarmt. Das tut ihr mal ganz gut! - Ah! Da seid Ihr ja goldrichtig! Das einzige Holz hier auf der Insel ist die Fähre nach Patras. - Penelope
 20211022 -- Eineeinmarkmarke! - Gott, ist das öde! Immer das Gleiche! Ein Hirn brilliant und voller Fachwissen! Und keiner fordert es! - Zweizweimarkmarken!
