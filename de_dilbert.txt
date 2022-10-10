@@ -11075,3 +11075,4 @@
 221009 -- Es ist mein Ziel für das kommende Jahr, an mir selbst zu arbeiten. - Gute Entscheidung. - Wir sehen alle, was sie für eine Katastrophe sind, aber wir wussten nicht, dass Sie das auch selbst wissen. - Ihnen steht eine grosse Aufgabe bevor. - Was
 221009 -- glauben Sie, wie lange werden Sie brauchen, um normal zu werden? - Suchen Sie nach einer schnellen Lösung, oder ist es eher eine Generationen-umspannende Sache? - - Sie reden bereits weniger, das ist schon der erste Schritt in die richtige
 221009 -- Richtung.
+221010 -- Mein Gehalt kann bei dieser Inflation nicht mithalten. - Vielleicht könne Sie ja eine Geisteshaltung kultivieren, die Sie als Wohlstand empfinden. - Haben Sie noch andere Probleme, die ich für Sie lösen kann?
