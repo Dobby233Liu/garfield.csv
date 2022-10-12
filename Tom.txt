@@ -77,10 +77,12 @@
 19950713 -- O.K.-Wie Du willst, Rübennase! 12 Uhr! Hinterm Haus! Waffen? Wasser! - * - He! Wo sind die ganzen Eiswürfel hin?
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
 19950715 -- - -
+19950717 -- Hallo Biggi! Verpiss Dich! - Ich kenn ein irres Spiel! Ich schreib' Dir mit dem Finger was auf den Rücken und Du musst rat... - Ein "B" mit Herz aussenrum und 'n Pfeil durch... Verpiss Dich!
 19950721 -- Ich fürchte, ich brauch' eine Brille, Herr Doktor... Sieht so aus... - Ist sowas denn teuer? - Mal sehen... 100,- 275,- 380,- 450,- 599,- 680,- 888,- 1285,-
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
+19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
 19960713 -- Fertig!!-Tiere? Was?! Dreck... Nix... Nix! Würmer! 20! - Krankheiten? Ich war von Anfan an dagegen "Stadt, Land Fluss" mit... Nix... Würmer! 20! - Stadt? Nix. Hmpf... Worms! 20!
 19960830 -- Alles Gute-Stop-Sauf nicht so viel-Stop-Gruss Frieda. Und der Empfänger? Pachulke... - Paula-Anton-Cäsar-Heinrich-Ulrich-Ludwig-Kaufmann-Emil. Is ja gut! Is ja gut! Ein Vorname reicht!
@@ -410,6 +412,7 @@
 20180103 -- Und? Wie schmeckts? - Ist das ein Seniorenteller? Ist es zu wenig? - Schmeckt "Kannste vergessen"!
 20180130 -- Oh-oh! Hat da etwa jemand einen Stinker gemacht? - Da schauen wir doch gleich mal nach! - * AU!
 20180410 -- Rasieren, bitte! Gerne. Stellen Sie Ihr Handy bitte auf Flugmodus! - Aber wir fliegen doch gar nicht! Und das wollen wir auch nicht. - Sie nicht, ich nicht und Ihre Nase nicht, Wenn Sie im falschen Moment Ihre Nachrichten checken!
+20180531 -- Drei Kugeln, bitte... Schoko-Bärluch... Käse-Karamell... und Vanille-Wespe. Becher oder Waffel...? - Wir machen die Waffeln selber! Dann Waffel! Waffel!! - Wir üben noch...
 20180920 -- Heute ist Weltkindertag! Wow, ja! Stimmt! - Was wollen wir machen? Wir?! Also, ich geh mich amüsieren! Und wir? Ihr nicht. - Ihr müsst Kinder machen.
 20181201 -- Tag, ich brauch einen Kühlschrank. Sie haben Glück! Die neuen Modelle sind gerade reingekommen! - Hier: Unser Topmodell! Mit Internet und Blutuut! Kauf, wenn mal was alle ist, eigenständig ein! Aber schauen Sie sich ruhig um! Wenn Sie Fragen
 20181201 -- haben... - Muss ich da den Gästeschlüssel reinlegen oder klingelt der?
@@ -612,3 +615,4 @@
 20221010 -- ** Magst Du mir den Rücken eincremen? * _ Gib Ihr das Ja-Wort! - Januar!
 20221011 -- Ich will eine lockenprächtige Löwenmähne! Hm...okay! - Ist das Ihr Ernst? Nein! Nicht! Danke! - Nimm die Knethaken!
 20221012 -- Du hast mal viel geraucht, hab ich gehört? Wie ein Schlot! Ich war die "R.A.F"! - "Raucher Armeefraktion"! Ich hab nachts in zigarettenstangengrossen Lettern Parolen an die Gesundheitsämter gesprüht! ? - "Nichtraucher sind Lungenveganer!"
+20221013 -- Apfelbäume umarmen? Ich weiss ja nicht...Den Baum der Erkenntnis! Das wird ein spiritueller Hammer-ich mach das! - Den Baum berühren...-au! Den Baum-au!-spüren...eins werden mit.au!-au! - Zäppel-Äpfel Einfach göttlich :-)

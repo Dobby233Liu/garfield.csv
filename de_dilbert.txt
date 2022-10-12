@@ -11078,3 +11078,5 @@
 221010 -- Mein Gehalt kann bei dieser Inflation nicht mithalten. - Vielleicht könne Sie ja eine Geisteshaltung kultivieren, die Sie als Wohlstand empfinden. - Haben Sie noch andere Probleme, die ich für Sie lösen kann?
 221011 -- Ich bin hier von Anfang an ein loyaler Teamplayer gewesen, aber umgekehrt hat mir nie jemand geholfen. - HAHAHA! Hier läuft eine versteckte Kamera für die Sendung "Der grösste Trottel"! - Dann hatte ich die letzten zehn Jahre gar keinen
 221011 -- richtigen Job? - Ich kann nicht fassen, dass Sie das je als real erachtet haben.
+221012 -- Ich habe erfahren, dass mein Job hier gar nicht real ist, sondern dass ich nur für eine Sendung namens "Der grösste Trottel" gefilmt werde. - Wussten Sie das und haben es mir nur nicht gesagt? - Ich glaube, Sie ahnen gar nicht, wie lustig das
+221012 -- war.
