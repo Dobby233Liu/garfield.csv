@@ -78,6 +78,7 @@
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
 19950715 -- - -
 19950717 -- Hallo Biggi! Verpiss Dich! - Ich kenn ein irres Spiel! Ich schreib' Dir mit dem Finger was auf den Rücken und Du musst rat... - Ein "B" mit Herz aussenrum und 'n Pfeil durch... Verpiss Dich!
+19950718 -- Frau achulke! Frau Pachulke! Ihr Mann will aufs Dach und runterspringen!! - Pff-Horst? Der trägt nicht mal Einlegesohlen-der hat doch Höhenangst... - Solang er sich nicht einbuddelt...
 19950721 -- Ich fürchte, ich brauch' eine Brille, Herr Doktor... Sieht so aus... - Ist sowas denn teuer? - Mal sehen... 100,- 275,- 380,- 450,- 599,- 680,- 888,- 1285,-
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
@@ -187,6 +188,7 @@
 20040528 -- Was wird das? Ein Minarett! Direkt vor meiner Nase! Das ist eine Frechheit! - Kein' deutschen Sand in Maurenhand! Ich werrrde dieses Machwerk dem Errrdboden... - *
 20040603 -- Du wirst immer fetter! Sollen wirs ihm sagen? - Da ist ein kleines Schwesterchen für Dich drin! Oh! Verstehe... - Dann ist da der Kinderwagen drin!
 20040610 -- Lalü-lalü... He! Was zum... - Auseinander! Sofort! - Herrgott-wenns juckt...
+20040630 -- "Machen Sie den Kugelschreiber-Test"! ??? Wenn er nicht mehr schreibt, ist er leer, oder was? Hehe... - Das ist ei Busen-Check! Bleibt der Kuli hängen, hapert's mit dem Bindegewebe. Herrjeh! Einer der grossen Vorteile, ein Mann zu sein! -
 20040816 -- Wundervoll! Dieses Zusammenspiel von geometrischer Klarheit und glitzernder Unruhe...das ist pure Poesie! Ich werde ein Gedicht darüber schreiben! - Vor-Chor-Moor-Tor-Rohr-Bohr ? - Reimt sich auf Chlor!
 20041001 -- Pilze sammeln-tolle Idee. Und wenn wir keine finden, gibt's wieder Nudeln. Wir lassen finden! Ich habe einen Plan. - Amateuer benutzen Plastiktüten. Profis nehmen Stoffbeutel. Wir folgen einfach dem nächsten, der mit einem Stoffbeutel in der
 20041001 -- Hand ins Unterholz verschwindet! Das ist dann ein Profi! - Oder ein Ossi, der pinkeln muss.
@@ -616,3 +618,4 @@
 20221011 -- Ich will eine lockenprächtige Löwenmähne! Hm...okay! - Ist das Ihr Ernst? Nein! Nicht! Danke! - Nimm die Knethaken!
 20221012 -- Du hast mal viel geraucht, hab ich gehört? Wie ein Schlot! Ich war die "R.A.F"! - "Raucher Armeefraktion"! Ich hab nachts in zigarettenstangengrossen Lettern Parolen an die Gesundheitsämter gesprüht! ? - "Nichtraucher sind Lungenveganer!"
 20221013 -- Apfelbäume umarmen? Ich weiss ja nicht...Den Baum der Erkenntnis! Das wird ein spiritueller Hammer-ich mach das! - Den Baum berühren...-au! Den Baum-au!-spüren...eins werden mit.au!-au! - Zäppel-Äpfel Einfach göttlich :-)
+20221014 -- Wir haben einige Vorschläge erarbeitet. Für ein reibungsloseres Miteinander! - M-hm...interessant. Sehr interessant. Die Raumtemperatur ist nicht verhandelbar. -

@@ -10480,3 +10480,4 @@ dr221009 -- Will you help me get out the Halloween decorations, Ralph? Whatever 
 dr221010 -- PUMPKINS Seriously?? All right, if you insist! - Satisfied? Thanks. You'd be surprised how many people try to steal pumpkins!
 dr221011 -- - tap tap! - Say, honeybunch, can we buy some pretzels? - Hey, your hair is different. - Your ADDRESS may soon be different.
 dr221012 -- Thanks for loaning me a pencil this morning, Wendy! - - - I'm welcome!
+dr221013 -- COME ON, REX! GOOD BOY! - Shouldn't you put your dog on a leash, Steinbauer? What about your neighbors?? - If I don't see it, it didn't happen! - HEY ! NOT ON MY LAWN!! * LA LA LA *

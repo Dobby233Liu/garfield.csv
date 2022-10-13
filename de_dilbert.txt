@@ -11080,3 +11080,4 @@
 221011 -- richtigen Job? - Ich kann nicht fassen, dass Sie das je als real erachtet haben.
 221012 -- Ich habe erfahren, dass mein Job hier gar nicht real ist, sondern dass ich nur für eine Sendung namens "Der grösste Trottel" gefilmt werde. - Wussten Sie das und haben es mir nur nicht gesagt? - Ich glaube, Sie ahnen gar nicht, wie lustig das
 221012 -- war.
+221013 -- Können Sie mir unser technisches Problem so erklären, dass auch ICH es verstehe? - Netzwerk kaputt. Muss reparieren. Aha! Verstehe! - Äh...wie war der zweite Teil noch mal?
