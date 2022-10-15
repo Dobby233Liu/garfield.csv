@@ -82,6 +82,7 @@
 19950719 -- - -
 19950720 -- Eigentlich sollte Tante Trude es ja zum Geburtstag kriegen... ...is aber schon in 5 Wochen... - Die Post hat jetzt den neuen 24-Stundentakt! Oh... - Sie schlafen jetzt auch nachts hier?
 19950721 -- Ich fürchte, ich brauch' eine Brille, Herr Doktor... Sieht so aus... - Ist sowas denn teuer? - Mal sehen... 100,- 275,- 380,- 450,- 599,- 680,- 888,- 1285,-
+19950722 -- DENKMAL So, dann wollen wir mal den Plural bilden...na, Huschke? - Denk mal, Huschke! Assoziieren: "Denkmal"-"Schandmal"!! Na? Klingelt's? - Denkmäuler.
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
@@ -355,10 +356,11 @@
 20140717 -- Lange nicht gesehen... Ich hab' eine Freundin auf einer Kreuzfahrt begleitet... Toll! Karibik? Hurtigruten? Santiago de Compostela. - Sie meine, Sie waren auf einer Pilgerfahrt. Mit dem Bus! Non Stop! Klo auf dem Gang! Und es wurde gesungen!
 20140717 -- - Das kam einer Kreuzigung schon sehr nahe.
 20140730 -- Der Fahrstuhl ist defekt. Viel Spass! - Können Sie uns mitnehmen? GUCKSTDU CLEAN Eigentlich nicht. Aber...? - Hanni Nanni
-20140825 -- Und Du lernst nachher schwimmen, Freundchen! Haha! Hören Sie auf! Sie sind doch gar nicht für mich zuständig! Sie sind doch der Schwimmeister. Ich bin aber Nichtschwimmer! - Für mich ist der Nichtschwimmermeister zuständig! - De rist
+20140825 -- Und Du lernst nachher schwimmen, Freundchen! Haha! Hören Sie auf! Sie sind doch gar nicht für mich zuständig! Sie sind doch der Schwimmeister. Ich bin aber Nichtschwimmer! - Für mich ist der Nichtschwimmermeister zuständig! - Der ist
 20140825 -- ertrunken.
 20140913 -- Hallihallo! Ich bin die gute Fee und hätte noch einen Wunsch zu vergeben! Interesse? Dann aber hurtig! - Ich hätte gerne Superkräfte! - Das ist der Herr Knöbl, der starrt bei uns die Löcher in den Käse.
 20141018 -- Hallihallo, ich bin die gute Fee, und Sie dürfen sich schnell was wü... BUMM! - Eine Fee! Haha, echt? Na, Ihren Job möchte ich auch gerne mal machen! - Hallihallo... Inge! Die Flinte! Schnell!
+20141022 -- Ich wette, der geht gleich rauchen! Unsinn. Das ist streng verboten! - Das ist ein ICE! Ein hermetisch verschlossener Raum mit der Geschwindigkeit einer Kanonenhugel! Wo willst Du denn hier ungeschoren rauchen? - Über dem Vakuum-Klo?
 20141122 -- Das Pferd ist soo schön! Und hochintelligent! Schau mal, was das alles kann! - Hey! Was ist 3 mal 5? - Intelligent! Der Gaul im Zirkus wusste das!
 20141212 -- Wie geht eigentlich Kricket? Hier. Versuch mal, die Burg da zu treffen. - - Ungefähr so. Plus ein paar idiotische Regeln.
 20141230 -- Schade, ich hätte ja gerne noch einen Jahresrückblick gesehen, Schulz! - Huch! Das ging jetzt aber schnell! Mehr war nicht dieses Jahr? - Die Vollidioten schneiden wir immer raus.
@@ -465,6 +467,8 @@
 20200605 -- Sie sind neu hier, nicht wahr? Vermutlich direkt von der Kassiererinnenschule. Und jetzt denken Sie sicher: Ich kann schneller scannen,... ...als die alte Schachtel hier einpacken kann. - Aber ich warne Sie, Kindchen! Diese alte Schachtel
 20200605 -- hier ist nicht irgendeine alte Schachtel! bibibibi biep! - 37,99-Wenn Sie es nochmal in Zeitlupe sehen wollen, können Sie das beim Filialleiter.
 20200918 -- Wir hauen ab! Ich hab eine Tür entdeckt! Dahinter ist freies Land! Eine offene Tür? Hier? - Der Notausgang, was weiss ich! Egal, nix wie weg! Hahaha! Die lassen eine Tür offen! Haha! Wie blöd kann man sein? -
+20201015 -- Das war lecker! Warte, ich helf Dir! Wie trennt Ihr den Müll? - Gekennzeichnete Kunststoffe in die gelbe Tonne, sortenreines Papier in die blaue, sauberes Glas in die grüne, organisches in die braune, Restmüll in die schwarze. - Und alles,
+20201015 -- was arg stinkt, beim Nachbarn hinten übern Zaun.
 20201025 -- Hasso: Gib Pfötchen! Na lLs: Gib Pfötchen!! Gib Pfötchen! Hopp!! Du sollst Pfötchen geben! * ? ? ? - Hoffnungslos-diese Töle ist dumm wie Brot! - Hasso: Vorne rechts...
 20210119 -- ACHTUNG!! BAHN FREI!! - Brüll doch nicht so! Da ist doch keiner! Noch nicht! - Bei Deinem Tempo können die alle jetzt noch gemütlich loslaufen, um überfahren zu werden!
 20210128 -- Nun denn, wohl auf! Hinaus in die Welt und den Körper gestählt! - Meinst Du echt, ich kann so gehen? Ist das nicht zu eng im Schritt? Alles gut. - Die Welt ist hart im Nehmen.
@@ -623,3 +627,5 @@
 20221012 -- Du hast mal viel geraucht, hab ich gehört? Wie ein Schlot! Ich war die "R.A.F"! - "Raucher Armeefraktion"! Ich hab nachts in zigarettenstangengrossen Lettern Parolen an die Gesundheitsämter gesprüht! ? - "Nichtraucher sind Lungenveganer!"
 20221013 -- Apfelbäume umarmen? Ich weiss ja nicht...Den Baum der Erkenntnis! Das wird ein spiritueller Hammer-ich mach das! - Den Baum berühren...-au! Den Baum-au!-spüren...eins werden mit.au!-au! - Zäppel-Äpfel Einfach göttlich :-)
 20221014 -- Wir haben einige Vorschläge erarbeitet. Für ein reibungsloseres Miteinander! - M-hm...interessant. Sehr interessant. Die Raumtemperatur ist nicht verhandelbar. -
+20221015 -- Tante Betty hat Dir was vermacht? Dir?! Ihr wart doch zerstritten? Alterssentimentalität! Die alte Hexe, haha! - Ein Sparschein! Und es raschlet! Das hört sich nach Bargeld an! - "Lieber Heinz, das dachte ich mir. Wenn Du diesen Zettel
+20221015 -- liest,..." "...dann hast Du gerade altes Meissener Porzellan zerschlagen, Du Idiot."
