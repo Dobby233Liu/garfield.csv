@@ -17019,3 +17019,4 @@ ga221012 -- BARK! BARK! BARK! BARK! BARK! BARK! BARK! BARK! BARK! BARK! - - The 
 ga221013 -- Boy, what a day! I woke up, and... - - Boy, what a day!
 ga221014 -- I'd like to go dancing. - But I can't find my dancing shoes. - Hmmm... Do you tango?
 ga221015 -- Garfield, all you do is eat and sleep. - True... - That's a feature, not a bug.
+ga221016 -- - Who's a good doggy? - Odie's a good doggie! Yes he is! - ODIE'S THE BEST DOGGIE EVER! YES HE IS! YES HE IS! - - - Garfield! You left the dog running again!
