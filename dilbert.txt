@@ -14211,3 +14211,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221016 -- about it.
 221017 -- There's an opening in management for a director of A.I. research. - You're the only emplyee with A.I. experience, but I'm also considering Asok, Tina, and Dave. - None of them are even close to be qualified. Do you have any idea how bigoted you
 221017 -- sound? continued...
+221018 -- Tina, there's an opening for Director of A.I., and you are one of hte people I'm considering. - I have no qualifications for that job. That's okay. The A.I. will tell you what to do. - Are you only offering me the job to meet you ESG and DEI
+221018 -- goals? I'm not allowed to say.
