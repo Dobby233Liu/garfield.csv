@@ -78,7 +78,7 @@
 19950714 -- Oooh! Kuck mal! Eine alte Lampe! - Schnell mal reiben, vielleicht darf ich mir ja was wünschen... Pff! Ich will Kühe. - Aach! Halt endlich die Klappe! Von Dir lass' ich mir doch nicht den Seeurlaub vermiesen!
 19950715 -- - -
 19950717 -- Hallo Biggi! Verpiss Dich! - Ich kenn ein irres Spiel! Ich schreib' Dir mit dem Finger was auf den Rücken und Du musst rat... - Ein "B" mit Herz aussenrum und 'n Pfeil durch... Verpiss Dich!
-19950718 -- Frau achulke! Frau Pachulke! Ihr Mann will aufs Dach und runterspringen!! - Pff-Horst? Der trägt nicht mal Einlegesohlen-der hat doch Höhenangst... - Solang er sich nicht einbuddelt...
+19950718 -- Frau Pachulke! Frau Pachulke! Ihr Mann will aufs Dach und runterspringen!! - Pff-Horst? Der trägt nicht mal Einlegesohlen-der hat doch Höhenangst... - Solang er sich nicht einbuddelt...
 19950719 -- - -
 19950720 -- Eigentlich sollte Tante Trude es ja zum Geburtstag kriegen... ...is aber schon in 5 Wochen... - Die Post hat jetzt den neuen 24-Stundentakt! Oh... - Sie schlafen jetzt auch nachts hier?
 19950721 -- Ich fürchte, ich brauch' eine Brille, Herr Doktor... Sieht so aus... - Ist sowas denn teuer? - Mal sehen... 100,- 275,- 380,- 450,- 599,- 680,- 888,- 1285,-
@@ -87,6 +87,7 @@
 19950726 -- Na toll...wir fahren weg.und zu Hause ist Urlaubswetter! Was mach' ich denn jetzt mit den ganze Postkarten? - 35 Mal: "Liegen am Strand und schwitzen..." Darüber ärgert sich doch kein Schwein! Gib her... - 'ne Karte von Pachulkes..."Liegen am
 19950726 -- Strand und frösteln..." Verdammt!
 19950727 -- HILglbl HILglblglblblblFE! HILglbl Chef! - Menschen Retten ist wie Hechte angeln... HIglbl - Wenn sie müde sind, kannst Du sie rausholen. glbl
+19950728 -- Gute Güte! Wollen Sie das etwa alles alleine trinken? - Öh...nein...eigenltich nicht. - Sagen wir...so um sieben?
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
@@ -268,6 +269,8 @@
 20080513 -- Kraftvoll wirft sich der Springer in die Weite des Himmels... ...einen Augenblick schwerelos verharrend... - ...stösst er kormorangleich hinab, in gleissender Fontäne die Fluten durchschlagend. Und wir rufen ihm zu: - He! Wieder keinen Fisch
 20080513 -- erwischt?
 20080520 -- ** Palimpalim ** - Tür zu! - Ist gerade ungünstig. Mein Mann grillt. Auf dem Balkon.
+20080722 -- Ich bin eine alte Frau! Meine Beine sind krumm genug! Wie lange soll ich denn noch hier rumstehen? Für eine Marke! Das ist respektlos! Ich könnte Ihre Mutter sein! - Nein, das könnten Sie nicht. Mama war eine ausgesprochen höfliche, ruhige
+20880722 -- und geduldige Person! Duschmarken POST Auch wenn sie mit Ihnen Kinderpost spielen musste...?
 20081111 -- Polizei! Das Spiel ist aus! Fallen lassen! Ich sagte: Fallen lassen! Päng! Bäng! Päng! Päng! Päng! - Päng! Päng! Päng päng... - *
 20081125 -- ALDI Maestro-ich habe gesündigt! Ich hab mir die Haare selbst gefärbt...es sah grässlich aus... Dann hab ich versucht, es wieder raus zu bleichen... - Maestro-helfen Sie mir! Ich hab gleich einen wichtigen Termin-können Sie schnell etwas tun,
 20081125 -- damit ich besser aussehe? Mon dieu! Sicher... - KaDeWe
@@ -336,6 +339,7 @@
 20130817 -- Hi! Ohje, ist das schon wieder spät. Okay...Sie haben, naja, sagen wir, einen Wunsch frei. Geil! - Ich will endlich mal einen Riesen Koffer voller Geld finden! - 
 20130914 -- Hallihallo, ich hätte noch auf die Schnelle eien Wunsch zu vergeben. Wenns nix grosses ist. - Ich will endlich mal auf einen grünen Zweig kommen! -
 20130923 -- Flaschenpost?! ? - "Pullermannverlängerung? Rufen Sie an!" Spam! - Ich brauche das Geld! Und ich hab doch keine Computer!
+20131004 -- Oh-dieser Nebel! Baum...? Hallo Baum? Huhu? Ah-da bist Du ja! - Den Baum berühren...den Baum spüren...eins werden mit dem Baum. CUT! - Nein! Nein! Die Hexe erst in  Szene zwo! Herrgott, ich kann so nicht arbeiten!
 20131005 -- Der Cappuccino ist für den Herrn mit dem Bart. Ich hatte einen Espresso bestellt! Sie sollten sich Ihre Gäste besser anschauen! Ich habe ein hervorragendes Personengdächtnis! - So, bitte, Ihr Espresso. - Haben Sie nicht!
 20131012 -- Hoch droben im Dach des brasilianischen Regenwaldes erspähten seine scharfen Augen einen fetten Brüllaffen. Leichte Beute. - Geschmeidig richtete der Jäger seine lautose Waffe auf das ahnungslose Opfer. - Erst Luft holen, dann das Blasrohr
 20131012 -- ansetzen! Rief fröhlich das süsse Äffchen. Aber wem sag ich das. War doch sicher mit Curare.
@@ -381,6 +385,7 @@
 20150427 -- * ? - Mist. Wir haben eine schlechte Kundenbewertung bekommen! "Geländer wäre cool". Depp! Wann? Vor einer Minute. -
 20150520 -- Bongschur! Lammuhr! Im Supermarkt ist französische Woche! Na, wie seh ich aus? - Fast wie ein waschechter Franzose. Die tragen allerdings das Brot in der Hand. - Dann wird es in der Mitte nicht weich.
 20150608 -- Ja, er sieht scheisse aus. Aber tanzen kann er, Hammer! Einfach überirdisch! Der?! Eine Körperbeherrschung! Eine Wendigkeit! Wahnsinn! - Der wird irgendwo trainieren. Aber wo? Mit wem? -
+20150822 -- Hallihallo! Ich bin die flinke Fee und hätte noch einen schnellen Wunsch zu vergeben. Geil! - Ich wär gern wahnsinnig intelligent! - Igor! Bring mir das grosse! Das quetschen wir rein. Da ssetzt sich noch.
 20150915 -- Der Laden hat was. Ich steh auf Retro. Was allerdings Ihr äußeres Erscheinungsbild anbelangt... - Glauben Sie mir, ich wäre gern mephistotelischer. Aber nach vier Jahren Grundausbildung in einem Kasperletheater? - Ich hab mir das erstbeste
 20150915 -- Outfit gegriffen, das unten zu war!
 20150930 -- Gibts hier eigentlich auch weibliche Teufel...? Warum? - Naja...wär mir lieber... Nein. Nur teuflische Weiber. - Wer hat schon wieder meine Gluthaufen hübsch zurechtgerückt?

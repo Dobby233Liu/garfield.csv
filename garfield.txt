@@ -17021,3 +17021,5 @@ ga221014 -- I'd like to go dancing. - But I can't find my dancing shoes. - Hmmm.
 ga221015 -- Garfield, all you do is eat and sleep. - True... - That's a feature, not a bug.
 ga221016 -- - Who's a good doggy? - Odie's a good doggie! Yes he is! - ODIE'S THE BEST DOGGIE EVER! YES HE IS! YES HE IS! - - - Garfield! You left the dog running again!
 ga221017 -- Excuse me... - - My teddy bear and I need some alone time.
+ga221018 -- BURP! BURP! BURP! - Let's see...cheddar, gouda, and swiss. - Ooh, you're good. It's a gift.
+ga221019 -- To bark or not to bark: That is the question. - BARK! BARK! BARK! BARK! - I've been reading Shakespeare. Methink'st thou art a general offence.
