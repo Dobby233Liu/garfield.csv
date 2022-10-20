@@ -11094,3 +11094,5 @@
 221018 -- künstliche Intelligenz. - Bieten Sie mir den Job nur an, um die Frauenquote zu erfüllen? Das darf ich nicht sagen.
 221019 -- Dave, die Position des Direktors der Erforschung von künstlicher Intelligenz ist frei und ich erwäge, Sie dazu zu befördern. - Wir wissen beide, dass Dilbert hier der Einzige ist, der Erfahrung auf diesem Gebiet hat. Es beleidigt mich, dass Sie
 221019 -- denken, ich könnte ohne Ihre Hilfe keinen Erfolg haben. - Ich sollte Sie der Personalabteilung melden. Damit hatte ich jetzt nicht gerechnet.
+221020 -- Asok, die Position des Direktors der Erforschung von künstlicher Intelligenz ist frei und ich ziehe Sie für diesen Posten in Betracht. - Ignorieren Sie meine tatsächlichen Erfolge und bieten mir einen Posten an, für den ich gar nicht
+221020 -- qualifiziert bin, um Ihre Diversitätsvorgaben zu erfüllen? - Es wäre ein gewaltiger Gehaltssprung. Hm, ich hatte schon ein Auge auf ein zweites Paar Hosen geworfen...

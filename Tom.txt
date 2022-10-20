@@ -88,6 +88,7 @@
 19950726 -- Strand und frösteln..." Verdammt!
 19950727 -- HILglbl HILglblglblblblFE! HILglbl Chef! - Menschen Retten ist wie Hechte angeln... HIglbl - Wenn sie müde sind, kannst Du sie rausholen. glbl
 19950728 -- Gute Güte! Wollen Sie das etwa alles alleine trinken? - Öh...nein...eigenltich nicht. - Sagen wir...so um sieben?
+29950729 -- Münster Hauptbahnhof! Alles Aussteigen!! Diese Luft--- Wow! - Und jetzt: Eins...zwei...drei Schritte... - Ha! Keine Hundekacke! Ihch habs doch gleich gesagt! Lange in Berlin gelebt?
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
@@ -242,6 +243,7 @@
 20060615 -- für Inhaber von Kundenkarten in Asprich nehmen? Pauschal! Schulz! -
 20060617 -- Diese Verbrecher! Meine Bilder! Zerstört! Heute Nacht! Zerschnitten! Besudelt! Mit Säure übergossen! Die ganze Arbeit! Die Vernissage! Das ist das Ende. - Junger Freund, dies ist die Stunde des Galleristen! Sie müssen jetzt viel innere Stärke
 20060617 -- beweisen... - Das merkt doch keine Sau!
+20061230 -- "Mein guter Vorsatz für das neue Jahr:" Sehr löblich! Aber bedenke: Realistisch bleiben! Nicht zuviel vornehmen. - - Mein guter Vorsatz für das neue Jahr: Weniger erwischen lassen.
 20070112 -- ** Ding Dong Deine Handtaschen werden auch immer grösser! Muss das sein? - Guten Morgen! Wir möchten uns mit Ihnen ausführlich über ein wichtiges Thema unterhalten. Und ich werde Ihnen gesnüsslich die Tür vor der Nase zuknallen. -
 20070112 -- Hervorragende Idee, die Tasche in die Tür zu stellen! Wo hast Du den Amboss her?
 20070308 -- Von uns Kindern bekommt Papa zum Fünfzigsten ein Navigationsgerät für seinen neuen Flitzer. - Damit er auch mal alleine Rumbrettern kann. Und von Mutti bekommt er die Stimme dazu. Süss! Nach der nächsten Ampel bei der ersten Möglichkeit
@@ -308,6 +310,7 @@
 20110411 -- Entspann Dich! Du wirst nicht ertrinken. Ich bin Doch bei Dir. - Kann ich eine Augenbinde haben? Das ist doch keine Hinrichtung! - Nennen wir es Blindverkostung.
 20110521 -- HUCH! ? - Mein Stock ist abgebrochen! Einfach so! Sabotage! Da sind tiefe Kerben! - Was lief denn gestern im Seniorenkino? Ben Hur!
 20110716 -- Als es zu Ende ging, sah ich ein helles Licht am Ende des Tunnels! Ein helles Licht? Eher links oder rechts? - Was...äh...also, vom Bett aus gesehen, eher so rechts im Tunnel Schulz! - Dein rechter Scheinwerfer ist im Einer.
+20010719 -- Jeder nur einen Müsliriegel! Und zeigt ihn der Tante, hört Ihr? Ich warte bei den Rädern! - Kasse Zwo Oh! ? - Ihr seid sicher eineiige Zwillinge!
 20110723 -- Machen wirs kurz, ich hab gleich Feierabend. Ich: Gute Fee. Du: Einen Wunsch frei. Zeit: läuft. - Ich wünsche mir, dass alles, was ich berühre, zu Gold wird! Du kriegst da'n Pickel auf der Nase. -
 20110820 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum. Wow! - Darf ich ein Foto machen? Das mail ich meinen Freunden in Schweden! ` Bringen Sie es persönlich hin! Am besten gleich. Tschüs! - ÜKEA RANKHILFE UMÄRMLA EUR 4,99
 20110913 -- Man hat ihn in der Sanitärabteilung gefunden. Völlig dehydriert. Er muss schon den ganzen Tag hier herumgelaufen sein. Die Füsse sind voller Blutblasen. - Du wolltest doch nur ein kleines Dingsbums kaufen! Haben sie nicht. Hast Du mal
@@ -477,6 +480,7 @@
 20200121 -- He! Ihr Wauwau hat auf den Spielplatz gekackt! ** Tschuldigung, hab ich nicht gese-hen! ** - ? ? - *
 20200325 -- Was machst Du da? Baume ausreissen. Warum? - Weil ich es kann. Ich bin als Kind in einen Topf mit Zaubertrank gefallen. Ach so, okay. Tschüss! - Ja, Baum, ich weiss. Ich hab schon versucht zu erklären, was ich mache! Aber die Leute gehen
 20200325 -- schneller, wenn sie was Plausibles hören.
+20200407 -- Du hast keine Angst vor grossen Hunden, oder? Nö. Hunde sind sehr sensibel. - Hrrr... Sensibel?! Sehr! - Ich stell mir immer vor, wie doof die beim Kacken aussehen. Das spüren die ganz genau. *
 20200605 -- Sie sind neu hier, nicht wahr? Vermutlich direkt von der Kassiererinnenschule. Und jetzt denken Sie sicher: Ich kann schneller scannen,... ...als die alte Schachtel hier einpacken kann. - Aber ich warne Sie, Kindchen! Diese alte Schachtel
 20200605 -- hier ist nicht irgendeine alte Schachtel! bibibibi biep! - 37,99-Wenn Sie es nochmal in Zeitlupe sehen wollen, können Sie das beim Filialleiter.
 20200918 -- Wir hauen ab! Ich hab eine Tür entdeckt! Dahinter ist freies Land! Eine offene Tür? Hier? - Der Notausgang, was weiss ich! Egal, nix wie weg! Hahaha! Die lassen eine Tür offen! Haha! Wie blöd kann man sein? -
@@ -645,3 +649,6 @@
 20221017 -- Hier ist der "Iron Man" erfunden worden? In diesem Freibad! Da, wo Du stehst. - Start vom Zehner, Schwimmen, Radeln, Rennen. Und warum jetzt Hawaii? - Auf Hawaii muss man vorm Schwimmen nicht duschen.
 20221018 -- Was ist das?! Das kommt mir spanisch vor! - Richtig! Das sind meine Spezial-Empanadas. Die Füllung ist von mir! Bewertung? - Aussen hui, innen pfui.
 20221019 -- Eineeinemarkmarke! sehr gerne! Ein Praktikum auf Mallorca! Du kannst Spanisch? - Nur ein paar Brocken. Buenos dias...vino tinto...por favor...fiesta...siesta... Neiiiin!!! - chrrr--- !Muchas gracias, idiota!
+20221020 -- Was ist besser, nach Santiago de Compostela zu pilgern, oder Schweigeeinsiedeln in de Karpaten? Gegen Burn-Out? - Geh Einsiedeln, da hast Du Deine Ruhe. Beim Pilgern wird zu viel gequatscht! - Guten Morgen! Was halten Sie vom Wahnsinn der
+20221020 -- Welt? hanni nanni
+20221021 -- Eine spanische Galeone voller Goldstaub aus den Kolonien! Klar zum Entern! - - Wie seht Ihr denn aus?! Ab ins Bad! Müsst Ihr Euch in jeder Pfütze wälzen? Wir wurden versenkt!
