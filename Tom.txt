@@ -88,7 +88,9 @@
 19950726 -- Strand und frösteln..." Verdammt!
 19950727 -- HILglbl HILglblglblblblFE! HILglbl Chef! - Menschen Retten ist wie Hechte angeln... HIglbl - Wenn sie müde sind, kannst Du sie rausholen. glbl
 19950728 -- Gute Güte! Wollen Sie das etwa alles alleine trinken? - Öh...nein...eigenltich nicht. - Sagen wir...so um sieben?
-29950729 -- Münster Hauptbahnhof! Alles Aussteigen!! Diese Luft--- Wow! - Und jetzt: Eins...zwei...drei Schritte... - Ha! Keine Hundekacke! Ihch habs doch gleich gesagt! Lange in Berlin gelebt?
+19950729 -- Münster Hauptbahnhof! Alles Aussteigen!! Diese Luft--- Wow! - Und jetzt: Eins...zwei...drei Schritte... - Ha! Keine Hundekacke! Ihch habs doch gleich gesagt! Lange in Berlin gelebt?
+19950801 -- *** Nu! Nee... - Na? Nö. - Nie!
+19950802 -- Na, junge Frau, darf ich Ihnen die schwere Tasche abnehmen? - Das nenn' ich nu aber ausgesprochen freundlich! - Da fällts mir ja richtig schwer, nach der Polizei zu kreischen...
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
@@ -268,6 +270,8 @@
 20080308 -- Wer kommt mit, eine rauchen? Ralf, Ralf...Du rauchst wieder? - Nein. Aber ich kann doch nicht meine ehemaligen Rauchpartner im Regen stehen lassen. He! Wartet! Es regnet doch gar nicht... - *
 20080423 -- Immer mit Gummi! Nie ohne Gummi! Merkt Euch das endlich mal! - Ohne Gummi ist lebensgefährlich! - Manche Leute reagieren über, wenn sie kratzende Stockspitzen hören! Walküre
 20080424 -- - Gebrochen ist nichts. Einen ordentlichen blauen Fleck wirst Du allerdings ein Weilchen haben. Aber das ist ja nicht so schlimm. Glauben Sie! - Hä hä hä! Arschgeweih! Arschgeweih!
+20080510 -- Oh! Hast Du aua? Ich schau mal, ob ich irgendwo ein Pflaster finde. - Kuck mal, so ein grosses Pflaster! Und gleich ist alles wieder gut. - Diese Memme. Erst brüllen wie Bein ab, und dann gleich wieder wie ein Bekloppter stundenlang ums Haus
+20080510 -- rennen. Das wird er auch noch ein Weilchen tun. Das war mein stärkstes Nikotinpflaster.
 20080513 -- Kraftvoll wirft sich der Springer in die Weite des Himmels... ...einen Augenblick schwerelos verharrend... - ...stösst er kormorangleich hinab, in gleissender Fontäne die Fluten durchschlagend. Und wir rufen ihm zu: - He! Wieder keinen Fisch
 20080513 -- erwischt?
 20080520 -- ** Palimpalim ** - Tür zu! - Ist gerade ungünstig. Mein Mann grillt. Auf dem Balkon.
@@ -290,6 +294,7 @@
 20090928 -- Köselchen! - JUMP! You Fuckers!
 20090929 -- Du meine Güte, Regine! Bist Du das wirklich?! Du siehst 10 Jahre jünger aus! So...straff! - Du Miststück-jetzt muss ich mir auch diese ganzen grässlichen kleine Fältchen wegmachen lassen! Ich brauch unbedingt die Nummer von Deinem
 20090929 -- Gesichtsklempner! Ich ruf Dich an! Tschüsschen! - Lassen Sie die Lockenwickler doch bitte noch ein bisschen drin.
+20091030 -- Boah-krass! Das ist preisverdächtig! - HALLOWEEN Kostümwettbewerb Wow! - Nur gegen meine nBruder werden wir beim Gruselkopfwettbewerb keine Chance haben... Er hat seit letzte Woche seine Aknecreme abgesetzt.
 20091114 -- Einen Milchkaffee und...welchen Kuchen würden Sie mir empfehlen? Keinen. - Kindchen, da sind doch mindestens 10 Kuchen in der Vitrine! Und davon können Sie keinen empfehlen? Schantall? - Welchen von dem Kuchenzeug macht am wenigsten noch
 20091114 -- fetter?
 20091229 -- Wahres Schwimmen ist eine Kunst! Banal durchs Wasser zappeln ohne zu ersaufen kann jeder lernen. - Aber scheinbar schwerelos durch die FLuten zu gleiten, dazu braucht es Begabung! - Oder einfach genug Schaumstoff vor der Hütte.
@@ -359,6 +364,7 @@
 20140319 -- Natürlich hab ich Kohle! Ich hab mein Leben lang geschuftet wie ein Tier! Da hat man halt irgendwann ein paar Millionen! - Das ist doch keine Sünde! Geld stinkt nicht! Sie waren eine ganz gute Partie. Eine gute Partie? Hahaha! Ich wa rnicht
 20140318 -- Beeil Dich, wir müssen los! Ich brauch noch ein Stück Draht! Da im Schränkchen, linke Schublade. Beeil Dich! - Und ei Halstuch. - Jetzt sieht es auf den Satellitenbildern wenigstens so aus, als ob wir schnell wären!
 20140319 -- reich, ihch war... - ...stinkreich.
+20140414 -- So hat sicher auch einst Columbus am Wasser gestanden und überlegt. Gibt es da draussen einen anderen Beckenrand? - Und wenn ja, was wird mich dort erwarten? Ärger. - Querschwimmen verboten!
 20140503 -- Ihr Espresso. Mmh...danke. - Ähm...Sie heben mir versehentlich einen mit Milchschaumhäubchen gebracht. Macht nichts, schon okay. Interessanter Geschmack! War das Sojamilch? Äh...ja...Sojafreie Sojamilch. Pardon. - Die Tauben brüten wieder
 20140503 -- über Tisch 3.
 20140510 -- Hallihallo-ich bin die...ach, egal. He! Du mit der Mütze! Du darfst Dir was wünschen. Aber fix! Ich? Oh! Hm...keinen Hunger mehr? Oder Weltfrieden? Hm... - Nein! Ich will selbstredend der beste Fussballer der Welt sein! - Daneben! Ronaldo
@@ -375,6 +381,8 @@
 20141007 -- kommt Tante Doppelkinnen"!
 20141018 -- Hallihallo, ich bin die gute Fee, und Sie dürfen sich schnell was wü... BUMM! - Eine Fee! Haha, echt? Na, Ihren Job möchte ich auch gerne mal machen! - Hallihallo... Inge! Die Flinte! Schnell!
 20141022 -- Ich wette, der geht gleich rauchen! Unsinn. Das ist streng verboten! - Das ist ein ICE! Ein hermetisch verschlossener Raum mit der Geschwindigkeit einer Kanonenhugel! Wo willst Du denn hier ungeschoren rauchen? - Über dem Vakuum-Klo?
+20141107 -- Hey, Du-TRÖÖT!-Das war rot! Willst Du uns umbringen, Du-TRÖÖT!-ich-TRÖÖT!-Dich gleich in Deinen-TRÖÖT! TRÖÖT!-Du-TRÖÖT!-Ja!-TRÖÖT!-Dich doch selbst, Du-TRÖÖT!- - Würdest Du das bitte lassen! Ich belehre gerade dieses-TRÖÖT! TRÖÖT-Hey, warum
+20141107 -- machst Du das?! - Eltern haften für Ihre Kinder.
 20141122 -- Das Pferd ist soo schön! Und hochintelligent! Schau mal, was das alles kann! - Hey! Was ist 3 mal 5? - Intelligent! Der Gaul im Zirkus wusste das!
 20141212 -- Wie geht eigentlich Kricket? Hier. Versuch mal, die Burg da zu treffen. - - Ungefähr so. Plus ein paar idiotische Regeln.
 20141230 -- Schade, ich hätte ja gerne noch einen Jahresrückblick gesehen, Schulz! - Huch! Das ging jetzt aber schnell! Mehr war nicht dieses Jahr? - Die Vollidioten schneiden wir immer raus.
@@ -652,3 +660,4 @@
 20221020 -- Was ist besser, nach Santiago de Compostela zu pilgern, oder Schweigeeinsiedeln in de Karpaten? Gegen Burn-Out? - Geh Einsiedeln, da hast Du Deine Ruhe. Beim Pilgern wird zu viel gequatscht! - Guten Morgen! Was halten Sie vom Wahnsinn der
 20221020 -- Welt? hanni nanni
 20221021 -- Eine spanische Galeone voller Goldstaub aus den Kolonien! Klar zum Entern! - - Wie seht Ihr denn aus?! Ab ins Bad! Müsst Ihr Euch in jeder Pfütze wälzen? Wir wurden versenkt!
+20221022 -- Das neue Parkett macht Wellen! Das tritt sich fest! -Wir haben morgen Gäste! Wie sieht das denn aus? Ding Dong ** Ah! Da sind sie! Wer?! - Heidi und Bernd! Sie tanzen Flamenco!
