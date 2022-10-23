@@ -11099,3 +11099,6 @@
 221021 -- Ich habe beschlossen, Tina zu Direktorin für künstliche Intelligenz zu befördern. - Ich kündige. - Was willst Du jetzt machen? Ich wollte schon immer Comiczeichner sein.
 221022 -- Ich dachte, Sie haben gekündigt. - Ich mache eine "stille Kündigung". Das heisst, ich komme weiter zur Arbeit und beziehe mein Gehalt, aber nur, damit ich Futter für den Comicstrip bekomme, mit dem ich jetzt anfange. - Sie haben doch gar keine
 221022 -- künstlerischen Fähighkeiten. Stimmt, aber meine Qualifikation für meinen Job hat sich ja auch nicht rentiert. auf einer wahren Geschichte beruhend
+221023 -- Ich gebe zu, meine Leistungen in diesem Jahr haben Ihre Erwartungen nicht erfüllt. - Aber Sie müssen berücksichtigen, wie viel schlimmer es hätte kommen können. - Wenn Sie mich mit denjenigen vergleichen, die sich bemüht, aber versagt haben,
+221023 -- dann stehe ich viel besser da. - Ich sage ja nicht, dass ich besser als andere war, die sich bemüht haben und erfolgreich damit waren. - Aber davon gibt es nicht viele. - Ich sage nur, dass ich besser als die fleissigen Versager war. - Es gar
+221023 -- nicht zu versuchen lohnt sich finanziell am zweitmeisten. Ich habe fast nichts ausgegeben. - Ich gehöre zu den oberen 10% der Angestellten. Das ergibt sogar leider Sinn.
