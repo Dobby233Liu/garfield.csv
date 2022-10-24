@@ -93,6 +93,7 @@
 19950802 -- Na, junge Frau, darf ich Ihnen die schwere Tasche abnehmen? - Das nenn' ich nu aber ausgesprochen freundlich! - Da fällts mir ja richtig schwer, nach der Polizei zu kreischen...
 19950803 -- - PAFF! - * -
 19950804 -- Schau sich einer die kleinen Schurken an-Mädchen Erschrecken... - Na, dann unternimm' mal was... -
+19950805 -- Wie spät is' eigentlich? chrrr-chp...was? - Ob's schon sehr spät is' oder früh oder was... weissichdochnich... - War schon Rama-Werbung?
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
@@ -287,6 +288,8 @@
 20081231 -- Raketen erst ab 18! - Wir müssen den Start ein paar Jahre verschieben.
 20090121 -- Hier hab ich mir die Grippe geholt! Unsinn! Wir Frontmänner sind alle geimpft! - Dies ist ein Virenscanner. Mit ihm können wir Grippeviren sichtbar machen. Bitte. Aber, wie gesagt... -
 20090320 -- Frechheit! Rennrüpel! tocktocktock Selber plemplem! - Ich hab Ihnen nicht den Vogel gezeigt! Ich wollte bloss andere Musik! Hey-Du versuchst mich zu verarschen. Respekt! - Neinneinnein! Mein IPod hängt hier an der Mütze! Hells Bengels
+20090321 -- Hast Du eine Wurst? Gut. Der Plan: Sturm klingeln. Tür wird aufgerissen. Wurst reinwerfen. Dann ist der Hund eine Weile beschäftigt... - - Warte! Wieso rennen wir eigentlich? Wegen einer Wurst, die ein Vegetarier-Kind seinem Hund weggefressen
+20090321 -- hat? Nein. Wegen der Schlaftabletten, die ich zur Sicherheit in die Wurst gestopft habe.
 20090527 -- Sie müssen mir jetzt meine Rechte vorlesen! Ihre was? Meine Rechte! Ich kenn mich aus! - Ach so...äh...pfff...ah, hier: Sie haben das Recht zu schweigen. Na also. Geht doch. - Nein. Geht nicht. Ah!
 20090709 -- Hallo! Ich bin der Holger! ...und wer bist Du? - Ich bin die Geissel der Menschheit... - Bei welchem Sender?
 20090908 -- Machen Sie ihm was süsses freches zum Schulanfang! Und Du bist brav! Bis dann! - Was süsses freches...Du willst doch nur ein niedliches Klassenfoto zum Angeben! Aber hier geht es um mehr! - Machen Sie mir eine schicke Business-Frisur!
@@ -639,7 +642,7 @@
 20220923 -- Geht das auch mal schneller da vorne?! Hier zieht's wie Hechtsuppe! - Können Sie Ihre schlechte Leune nicht mal zu Hause lassen? - Ich hab 'ne kleine Wohnung. Ich muss in geeignete Orte auslagern.
 20220924 -- Wir spilene Raketenstart in den Weltraum! Toll! - Die Rakete beschleunigt so wahnsinnig schnell, dass die Planetenlinks und rechts vorbeirasen! Würdest Du jetzt bitte das Weltall verlassen? - Okay, wirf alle Käsebällchen auf einmal!
 20220926 -- He! Wir haben noch geschlossen! Die Tür stand offen! Frühstücken Sie ruhig fertig, ich schwimm schon mal los. - Danke. Wenn Sie das bitte vorher lesen und unterschreiben würden? Die Atemschutzerklärung! - "Eine Notbeatmung kann grosse Mengen
-20220926 -- Brösel  enthalten"...? Und koffeinhaltige Flüssigkeiten.
+20220926 -- Brösel enthalten"...? Und koffeinhaltige Flüssigkeiten.
 20220927 -- Musst Du nicht Dei Chaos aufräumen? Schon fertig! So schnell? - Mit Köpfchen! Ich hab meinen gesamten Besitz in alphabetisch definierte Bereiche durchstrukturiert! Ruck-zuck! Das will ich sehen! - Du hast Scrabble-Steie auf Deinen Kram
 20220927 -- geworfen! Die Zuordnungsliste mach ich später.
 20220928 -- Natürlich schaffst Du den Marathon, Schnurzel! Die paar Kilometerchen! - Die ganze Familie steht am Strassenrand und feuert Dich an! Was ist das? - Das? Ach das. Den hat mir Opa gegeben. Falls Du lahmst.
@@ -665,3 +668,4 @@
 20221020 -- Welt? hanni nanni
 20221021 -- Eine spanische Galeone voller Goldstaub aus den Kolonien! Klar zum Entern! - - Wie seht Ihr denn aus?! Ab ins Bad! Müsst Ihr Euch in jeder Pfütze wälzen? Wir wurden versenkt!
 20221022 -- Das neue Parkett macht Wellen! Das tritt sich fest! -Wir haben morgen Gäste! Wie sieht das denn aus? Ding Dong ** Ah! Da sind sie! Wer?! - Heidi und Bernd! Sie tanzen Flamenco!
+20221024 -- Wer wa das?! Wem gehört der Ball? Hahaha! - Spielen Sie nicht die spanische Inquisition! Am besten ignorieren! Glauben Sie mir, ich bin Pädagoge! ploff!
