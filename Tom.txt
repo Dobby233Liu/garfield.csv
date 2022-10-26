@@ -94,6 +94,8 @@
 19950803 -- - PAFF! - * -
 19950804 -- Schau sich einer die kleinen Schurken an-Mädchen Erschrecken... - Na, dann unternimm' mal was... -
 19950805 -- Wie spät is' eigentlich? chrrr-chp...was? - Ob's schon sehr spät is' oder früh oder was... weissichdochnich... - War schon Rama-Werbung?
+19950807 -- Gestern "Baywatch" gesehen? Logo... - Wie der Hazzelhoff sich in die Brandung schmeisst...da würde ich auch gerne mal absaufen... - Nein-ich glaube nicht, dass die Gemeinde Geld für ei Wellenbad hat...
+19950808 -- Einen Kugelschreiber, bitte... ...grüezi... Grüezi.na, welchen haben Sie denn heute bezwungen? - Das "Satanszipfeli"... 4385 Mter...Respekt! 1 Franken 20-und der Herr Kollege ist schon im Hotel? - Nö-der wartet... ...oben beim Gipfelbuch...
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
@@ -141,8 +143,10 @@
 19990312 -- Lenz! Riechst nach Klo und Pestilenz! - Eben noch von Freud' erfüllt -schon perdu! -der Bauer güllt...
 19990325 -- ...8...9...10... - ...29...30! ...ich komme! - Na los-zeig Dich! ...ich geb' auf! He!
 19990709 -- Oooh-'ne Schildkröte!! -is' die süüüüüs... Bisschen schüchtern, was? - Darf ich sie mal streicheln? Wie denn? - Zum Doc
+19991231 -- Was machste denn so Kuhaugen? Kennste noch nicht? Man muss sich beim Anstossen in die Augen schauen-sonst hat man 7 Jahre schlechten Sex! - Haha! Is ja grossartig! - Endlich mal wieder Sex... * ping
 20000314 -- Hilfe!! Zu Hilfe!! So helfen Sie mir doch! . Ich werde verfolgt!! Tut mir leid... Ich bin nur für das nasse Element zuständig... - Dann tun Sie was! ...sie will mich küssen!
 20000403 -- Markwürdiges POSTBANK chrrr... - BEDIENUNG!! Eineeinmarkmarke! - Für mich noch'n Pils...
+20000529 -- Oh, Gott... ...is' mir schlecht... - Wo sind die Kotztüten? Wir sind hier nicht bei der Lufthansa! - Nehmen Sie Deutschland...
 20000729 -- Sag mal-ist das nicht Dein Hubert? Dieser Drecksack!! Na warte-Dich stampf ich ein, Bürschchen! - Contenance, meine Liebe! Dich an so einem Schuft noch beschmutzen? Ich würde das ganz cool mit dem Handy regeln... Du hast ja so Recht! Ich
 20000729 -- hatte mich vergessen...danke! - POCK!!
 20001026 -- Glauben Sie ja nicht, dass Sie mich mit so albernem Gepiesacke beeindrucken können! Ich war 40 Jahre lang der Boss des Syndikats-Dr. No ist gegen mich ein Teletubbie! - Tj-ich bin nunmal ein harter Knochen-da kann man man nichts machen! -
@@ -176,6 +180,7 @@
 20020518 -- Naja, ein Waschbrett haben die Leute benutzt, als es noch keine Waschmaschinen gab... - Das war so ein Brett mit Quer-Riffeln... - Und wenn ein Bauch so aussieht, dann ist das ein "Waschbrettbauch". Ah! Verstehe! So wie der von Papa... -
 20020518 -- Nein, das ist ein "Faltenbalg"...
 20020603 -- DLRG DLRG - DLRG DLRG - Du hast wieder Tierfilme geguckt... "Flamingos am Kabimbi-See"!
+20020817 -- - CIRCUS MAX - HUACHU!
 20020928 -- He! Wo seid Ihr, Ihr Blödmänner? Ich kriege Euch alle! - Kalt. Eiskalt...ja...wärmer...wärmer...warm...warm...warm! - 24 Grad Celsius...
 20021109 -- Eine Einemarkmarke! Gute Frau, falls es Ihnen entgangen sein sollte... Jaja-ich weiss! Und Raider ist jetzt Twix! - Wasist das? Ein Glas Selter. Und das? Ein Tempo. Und das? Spüli. Und das? Ein Stück Tesa. - Sehen Sie.und das da ist eine
 20021109 -- Einemarkmarke. Egal, was Sie draufschreiben! Sie machen mir Kopfschmerzen... Nehmen Sie eine Aspirin!
@@ -271,6 +276,7 @@
 20080108 -- Warnhinweisen.
 20080204 -- Ist der süüüss! Der?! Ein Langweiler. Der verkleidet sich nie. Du meinst, der ist echt? - Waschecht! Und furchtbar schüchtern- Sei behutsam, falls Du was vorhast... Ich lass mir was einfallen! -
 20080308 -- Wer kommt mit, eine rauchen? Ralf, Ralf...Du rauchst wieder? - Nein. Aber ich kann doch nicht meine ehemaligen Rauchpartner im Regen stehen lassen. He! Wartet! Es regnet doch gar nicht... - *
+20080327 -- Der erfahrene Waldläufer braucht keinen Kompass. Er schaut sich einen Baum an... - ...und da, wo so komisches Zeug dran haängt, da ist immer Westen. - Stimmt.
 20080423 -- Immer mit Gummi! Nie ohne Gummi! Merkt Euch das endlich mal! - Ohne Gummi ist lebensgefährlich! - Manche Leute reagieren über, wenn sie kratzende Stockspitzen hören! Walküre
 20080424 -- - Gebrochen ist nichts. Einen ordentlichen blauen Fleck wirst Du allerdings ein Weilchen haben. Aber das ist ja nicht so schlimm. Glauben Sie! - Hä hä hä! Arschgeweih! Arschgeweih!
 20080510 -- Oh! Hast Du aua? Ich schau mal, ob ich irgendwo ein Pflaster finde. - Kuck mal, so ein grosses Pflaster! Und gleich ist alles wieder gut. - Diese Memme. Erst brüllen wie Bein ab, und dann gleich wieder wie ein Bekloppter stundenlang ums Haus
@@ -290,6 +296,8 @@
 20090320 -- Frechheit! Rennrüpel! tocktocktock Selber plemplem! - Ich hab Ihnen nicht den Vogel gezeigt! Ich wollte bloss andere Musik! Hey-Du versuchst mich zu verarschen. Respekt! - Neinneinnein! Mein IPod hängt hier an der Mütze! Hells Bengels
 20090321 -- Hast Du eine Wurst? Gut. Der Plan: Sturm klingeln. Tür wird aufgerissen. Wurst reinwerfen. Dann ist der Hund eine Weile beschäftigt... - - Warte! Wieso rennen wir eigentlich? Wegen einer Wurst, die ein Vegetarier-Kind seinem Hund weggefressen
 20090321 -- hat? Nein. Wegen der Schlaftabletten, die ich zur Sicherheit in die Wurst gestopft habe.
+20090523 -- Wieder aus! Alles ist nass! Scheisswetter! Scheissgrill! Ich ess meine Wurst kalt. Weib-versündige Dich nicht! MAn nimmt keine Wurst wieder vom Grill. - Es gibt kein schlechtes Grillwetter. Es gibt nur falsche Anzünder. Du sollst Dein
+20090523 -- Grillwürstchen haben! -
 20090527 -- Sie müssen mir jetzt meine Rechte vorlesen! Ihre was? Meine Rechte! Ich kenn mich aus! - Ach so...äh...pfff...ah, hier: Sie haben das Recht zu schweigen. Na also. Geht doch. - Nein. Geht nicht. Ah!
 20090709 -- Hallo! Ich bin der Holger! ...und wer bist Du? - Ich bin die Geissel der Menschheit... - Bei welchem Sender?
 20090908 -- Machen Sie ihm was süsses freches zum Schulanfang! Und Du bist brav! Bis dann! - Was süsses freches...Du willst doch nur ein niedliches Klassenfoto zum Angeben! Aber hier geht es um mehr! - Machen Sie mir eine schicke Business-Frisur!
@@ -493,6 +501,7 @@
 20200107 -- ** Ding Dong Das ist hier ein Problemviertel! Alkis? - Das Ende ist nah! Da lachen ja die Hühner! - Astrophysiker!
 20200110 -- Heute koche ich was total tolles! - Mit lauter gesunden Zutaten, die das Immunsystem und die Abwehrkräfte stärken! - Was gibts? Krankenhausessen.
 20200121 -- He! Ihr Wauwau hat auf den Spielplatz gekackt! ** Tschuldigung, hab ich nicht gese-hen! ** - ? ? - *
+20200303 -- Der soll sich endlich hinsetzen! Ich kann nix sehen! - He, Ralf! War Dein Vater Glaser? Ja, genau! Woher weisst Du das? - Für Rauchglas?
 20200325 -- Was machst Du da? Baume ausreissen. Warum? - Weil ich es kann. Ich bin als Kind in einen Topf mit Zaubertrank gefallen. Ach so, okay. Tschüss! - Ja, Baum, ich weiss. Ich hab schon versucht zu erklären, was ich mache! Aber die Leute gehen
 20200325 -- schneller, wenn sie was Plausibles hören.
 20200407 -- Du hast keine Angst vor grossen Hunden, oder? Nö. Hunde sind sehr sensibel. - Hrrr... Sensibel?! Sehr! - Ich stell mir immer vor, wie doof die beim Kacken aussehen. Das spüren die ganz genau. *
@@ -669,3 +678,5 @@
 20221021 -- Eine spanische Galeone voller Goldstaub aus den Kolonien! Klar zum Entern! - - Wie seht Ihr denn aus?! Ab ins Bad! Müsst Ihr Euch in jeder Pfütze wälzen? Wir wurden versenkt!
 20221022 -- Das neue Parkett macht Wellen! Das tritt sich fest! -Wir haben morgen Gäste! Wie sieht das denn aus? Ding Dong ** Ah! Da sind sie! Wer?! - Heidi und Bernd! Sie tanzen Flamenco!
 20221024 -- Wer wa das?! Wem gehört der Ball? Hahaha! - Spielen Sie nicht die spanische Inquisition! Am besten ignorieren! Glauben Sie mir, ich bin Pädagoge! ploff!
+20221025 -- Okay-Thema Mittagessen: Saisonal oder regional? Was wäre saisonal? - Krautund Rüben. und regional? - Die Pizzeria um die Ecke!
+20221026 -- Warum gehst Du nicht ein wenig dreckeln? Da ist kein Platz! Wie?! - Dieses Baumonstrum muss weg! Das ist doch kein Ein-Persönchen-Sandkasten! Setz das auf! - Es ist ein Ein-Schäufelchen-Sandkasten!
