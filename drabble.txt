@@ -10499,3 +10499,5 @@ dr221025 -- ? - My new blender arrived! I know you're excited when a package is 
 dr221026 -- I want Channel II! - Not Channel I! Channel II! - Not Channel III! Channel II! - NOT CHANNEL IIII! Maybe we should take a walk!
 dr221027 -- You're sold out of Halloween candy?? What weill I tell the trick-or-treaters?? - Tell them how you you bought most of it and ate it all yourself! Maybe I just won't answer the door.
 dr221028 -- I don't get it. Some pumpkins have so much personality. - And others, not so much!
+dr221029 -- Aren't you excited, Penny? Day after tomorrow, you're going to see witches, monsters and ghouls run amok! - I thought Black Friday was after Thanksgiving!
+dr221030 -- * On the first day o Christmas, my true love gave to me... * - We have a winner for the most terrifying costume of the night! - PLEASE don't sing the whole thing!!

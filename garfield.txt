@@ -17032,3 +17032,5 @@ ga221025 -- Gooood evening... - I van to bite your neck. - Just let me put in my
 ga221026 -- Next patient, please... - WHOA! When was the last time you changed your bandages? - Oh, around 3,000 years ago. Mummies are so gross.
 ga221027 -- MWAAHAHAHA! EEK! - BOO! YAH! - AYIEEE!
 ga221028 -- The monster is rising from the sea! - EEEEEK!! Oopsie... - He's gone back into the sea. Lost his swimsuit.
+ga221029 -- Eek! A vampire! - Do not worry. I will not bite you. - I have to go to the dentist for a root canal. Now THAT'S scary!
+ga221030 -- - PUMPKIN SPICE LATTES - PUMPKIN SPICE COOKIES - PUMPKIN SPICE BROWNIES - PUMPKIN SPICE HOT TEA - - SQUIRREL SQUEEZINS
