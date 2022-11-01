@@ -17034,3 +17034,4 @@ ga221027 -- MWAAHAHAHA! EEK! - BOO! YAH! - AYIEEE!
 ga221028 -- The monster is rising from the sea! - EEEEEK!! Oopsie... - He's gone back into the sea. Lost his swimsuit.
 ga221029 -- Eek! A vampire! - Do not worry. I will not bite you. - I have to go to the dentist for a root canal. Now THAT'S scary!
 ga221030 -- - PUMPKIN SPICE LATTES - PUMPKIN SPICE COOKIES - PUMPKIN SPICE BROWNIES - PUMPKIN SPICE HOT TEA - - SQUIRREL SQUEEZINS
+ga221031 -- Tonight, on Horror Theater... - A tale of a dark and scary time... - Before there was pizza delivery! YAAAAAHHH!!
