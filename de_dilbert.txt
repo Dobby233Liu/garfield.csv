@@ -11115,4 +11115,5 @@
 221030 -- - Also...? Also muss er bestraft werden. - Und was genau würden Sie damit erreichen? - - - Gerade wird mir klar, dass ich ein Depp bin.
 221031 -- Ich suche jetzt schon seit einem Jahr einen neuen stellvertretenden Leiter der Abteilung für Forschung und Entwicklung. Deshalb möchte ich jetzt mit Ihnen sprechen. - Ich fühle mich geschmeichelt. Danke. - Von mir aus...jedenfalls habe ich
 221031 -- überlegt, ob Sie vielleicht eine künstliche Intelligenz entwickeln könnten, die den Job übernimmt.
-
+221101 -- Ich soll eine künstliche Intelligenz entwickeln, die die Position übernimmt, in die ich hoffte, befördert zu werden? - So wie Sie das sagen, klingt es ja, als würde ich Sie darum bitten, sich Ihr eigenes Grab zu schaufeln. - Und...?
+221101 -- Uuund...danke schön?

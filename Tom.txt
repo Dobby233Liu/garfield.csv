@@ -101,6 +101,7 @@
 19950811 -- Markenjeans Postbank Ein Wunder! Ein Postamt... - Gibt ja kaum noch welche, -so viel, wie ständig zugemacht werden! Hier etwa auch? Nein-nein. - Jaja...es wird immer an der falschen Stelle gespart...
 19950812 -- ? - Hä? ...das is' doch nie und nimmer die A7...Spanien auch nich'...wie komm' ich hier her? - Ein LKW hat Sie mitgenommen...
 19950814 -- Es ist schon verdammt schwer, sich einzugestehen, dass man 'ne Macke hat... - Ich...ich war so wütend auf mich... - Hab' 3 Tage nicht mit mir geredet...
+19950816 -- Mal probieren? Geh weg! - Ich lehne es strikt ab, Tiere zu töten, um sie aufzuessen... Oh-verstehen! - Betäubst Du sie wenigstens vorher?
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
@@ -265,6 +266,7 @@
 20061230 -- "Mein guter Vorsatz für das neue Jahr:" Sehr löblich! Aber bedenke: Realistisch bleiben! Nicht zuviel vornehmen. - - Mein guter Vorsatz für das neue Jahr: Weniger erwischen lassen.
 20070112 -- ** Ding Dong Deine Handtaschen werden auch immer grösser! Muss das sein? - Guten Morgen! Wir möchten uns mit Ihnen ausführlich über ein wichtiges Thema unterhalten. Und ich werde Ihnen gesnüsslich die Tür vor der Nase zuknallen. -
 20070112 -- Hervorragende Idee, die Tasche in die Tür zu stellen! Wo hast Du den Amboss her?
+20070210 -- Hmm! Köstlich, die Salami! Da nehm' ich ein Pfund! Na, junger Mann? Auch was probieren? - Ich will das da! Sicher! Wäää! Geben Sie es ihm ruhig. Der isst alles! - Tatsächlich. Sogar Plastikpetersilie.
 20070308 -- Von uns Kindern bekommt Papa zum Fünfzigsten ein Navigationsgerät für seinen neuen Flitzer. - Damit er auch mal alleine Rumbrettern kann. Und von Mutti bekommt er die Stimme dazu. Süss! Nach der nächsten Ampel bei der ersten Möglichkeit
 20070308 -- rechts abbiegen... - ...äh...links.
 20070407 -- Fröhliche Ostern! Hast Du Feuer? Aah! Ralf! Äh...nein. Kein Feuer. Nimm den Gasherd...aber ich dachte, Du rauchst nicht... - Ein Wort und ich streich Dir die Eier! - Mama! Mama! Der Hamster raucht!
@@ -283,6 +285,7 @@
 20071208 -- Wie? Du bist der Weihnachtsmann? Jau. Höchstpersönlich. - Wahahaha! Ja, klar. Und ich bin der Osterhase! - Tatsächlich. Entschuldige. Ich konnte Deine Ohren nicht sehen, Kollege.
 20071222 -- Okay...wir starten mit dem Oh, Du Fröhliche/Stille Nacht Medley und gehen direkt in IhrKinderleinKommet. Aber bitte mit Schmackes. Hallo?! Was machst Du da? - Unsichtbare Töne! Unhörbar. Es heisst unhörbar! Hallo Papa! - Draussen ist alles
 20071222 -- voller Hunde!
+20071225 -- Weg! Verschwunden! Einfach in Luft aufgelöst! Das gibt's doch gar nicht! - Klack! -
 20080104 -- Flaschenpfand Was ist? Tun Sie doch endlich Ihre Flaschen rein! - Ich muss doch sehr bitten! - * Hier warten Diskretionsabstand
 20080108 -- Die Wiege des 10-Meter-Bretts ist Amerika. Ursprünglich wurde es als 1-Meter-Brett Entwickelt. - Aus Sicherheitsgründen musste man den Sockel um 9 Meter verlängern. Aus Sicherheitsgründen?! - Man brauchte Platz für die Aufkleber mit all den
 20080108 -- Warnhinweisen.
