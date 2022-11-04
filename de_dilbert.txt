@@ -11117,3 +11117,7 @@
 221031 -- überlegt, ob Sie vielleicht eine künstliche Intelligenz entwickeln könnten, die den Job übernimmt.
 221101 -- Ich soll eine künstliche Intelligenz entwickeln, die die Position übernimmt, in die ich hoffte, befördert zu werden? - So wie Sie das sagen, klingt es ja, als würde ich Sie darum bitten, sich Ihr eigenes Grab zu schaufeln. - Und...?
 221101 -- Uuund...danke schön?
+221102 -- Der Boss hat mich angewiesen, eine künstliche Intelligenz zu entwickeln, die mich ersetzt. - Jetzt habe ich vor, die K.I. nach Dir zu gestalten, damit niemand sie haben will. - Trinken wir einen Kaffee und tun so, als würden wir arbeiten. Töten
+221102 -- Sie sie.
+221103 -- Ich kann nicht fassen, dass Sie elbonien ein schmuddeliges Drecksloch genannt haben. Ich habe nichts dergleichen gesagt. - So funktioniert das nicht. Sobald ich Sie fälschlicherweise als inteolerant bezeichne, müssen Sie damit leben. Da wird
+221103 -- nichts richtiggestellt. - Sie haben doch bestimmt irgendwas gemacht, was meine Verachtung verdient. Ausser dass ich glücklich bin?

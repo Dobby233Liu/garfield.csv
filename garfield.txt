@@ -17036,3 +17036,5 @@ ga221029 -- Eek! A vampire! - Do not worry. I will not bite you. - I have to go 
 ga221030 -- - PUMPKIN SPICE LATTES - PUMPKIN SPICE COOKIES - PUMPKIN SPICE BROWNIES - PUMPKIN SPICE HOT TEA - - SQUIRREL SQUEEZINS
 ga221031 -- Tonight, on Horror Theater... - A tale of a dark and scary time... - Before there was pizza delivery! YAAAAAHHH!!
 ga221101 -- I am destined fo greatness! - Who am I kidding? - I am destined for okayness! Better than patheticness, at any rate.
+ga221102 -- "Dear Ask a Dog, how can I get my dog to fetch a stick? - BARK! BARK! BARK! BARK! BARK! BARK! I agree. - Wrap it in bacon, then dip it in gravy.
+ga221103 -- I'm half hungry, half sleepy and half bored. - - And, apparently, bad at math.
