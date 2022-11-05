@@ -14237,3 +14237,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221102 -- Our CEO ordered me to create an A.I. that will replace me. - My plan is to model the A.I. after you, so no one wants it. - Let's drink coffee and pretend to work. Kill it.
 221103 -- I can't believe you said Elbonia is a filthy heckhole! I never said anything like that. - That's not how this works. Once I mislabel you a bigot, you have to live with it. There will be no correcting. - I'm sure you've done /something/ to
 221103 -- deserve my scorn. Other than being happy?
+221104 -- Carol, I'm promoting you to engineer. I have no engineering background. - I can't find anyone quailfied, and I don't want to losw the head count in the next budget, so just fake it. - I'll ask Dilbert to train you.  It does look easy.

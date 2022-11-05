@@ -10505,3 +10505,4 @@ dr221031 -- Aren't you a little big to trick-or-treat? - I suppose. I could be o
 dr221101 -- At first I liked your toothy grin... - But you became rotten and useless. - And now it's time to throw you out! - That's kind of how I feel every election day!
 dr221102 -- WALLY - skattle skattle skattle skattle - Why do you always come over and beg when I'm eating chips? - History repeats istelf, especially when you're a dachshund!
 dr221103 -- WALLY Eat, sleep, bark... - Eat, sleep, bark... - - I forgot about BEG!
+dr221104 -- Aww! Why are you so friendly? - Because dachshunds spread joy and love to everyone in the world! - GRRRRRR - Within reason, of course!
