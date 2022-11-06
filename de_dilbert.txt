@@ -11123,3 +11123,4 @@
 221103 -- nichts richtiggestellt. - Sie haben doch bestimmt irgendwas gemacht, was meine Verachtung verdient. Ausser dass ich glücklich bin?
 221104 -- Carol, ich befördere Sie zur Software-Entwicklerin. Davon habe ich doch gar keine Ahnung. - Ich kann keine qualifizierte Person finden und will für die nächste Budgetrunde den Personalbestand aufstocken. Tun Sie also einfach so. - Ich werde
 221104 -- Dilbert darum bitten, Sie anzulernen. Das wird sicher ganz einfach.
+221105 -- Ich habe meine Assistentin Carol befördert. Sie ist jetzt Software-Entwicklerin. - Sie hat keine Ahnung davon, deshalb müssen Sie sie ausbilden. - Okay, wo wollen wir anfangen? In Lektion eins geht es darum, hinter seinem Rücken zu lästern.
