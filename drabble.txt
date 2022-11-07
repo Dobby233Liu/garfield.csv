@@ -10507,3 +10507,5 @@ dr221102 -- WALLY - skattle skattle skattle skattle - Why do you always come ove
 dr221103 -- WALLY Eat, sleep, bark... - Eat, sleep, bark... - - I forgot about BEG!
 dr221104 -- Aww! Why are you so friendly? - Because dachshunds spread joy and love to everyone in the world! - GRRRRRR - Within reason, of course!
 dr221105 -- Boy, a weird thing just happened to us... - Let ME explain it!! OK. - So, it was like...like... - How would you explain it?
+dr221106 -- WALLY OK, Wally! It's time for the dog food taste test! - There are three different brands of dog food! Tell us which is your favorite! - Ready...GO! - SNARf SNARF SNARF - Well? Which one was your favorite? Darn! I forgot to pay attention!
+dr221106 -- Let's do it again!

@@ -14239,3 +14239,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221103 -- deserve my scorn. Other than being happy?
 221104 -- Carol, I'm promoting you to engineer. I have no engineering background. - I can't find anyone quailfied, and I don't want to losw the head count in the next budget, so just fake it. - I'll ask Dilbert to train you.  It does look easy.
 221105 -- I promoted Carol, my admin assistant, to engineer. - She doesn't know how to be an engineer, so I need you t train here. - Okay, where do we begin? Lesson one is mocking him behind his back.
+221106 -- Were you listening to me? It looks like you drifted off. - Don't be ridiculous. I heard every word you said. - Oh, really? Repeat back to me what you heard. - Come on, prove you were listening. - You accused snior management of not being
+221106 -- supportive of your ideas. - You told an amusing story about your past that raised our spirits. - And you made some brilliant observations. - Oh. I guess you were listening.
