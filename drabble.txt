@@ -10509,3 +10509,5 @@ dr221104 -- Aww! Why are you so friendly? - Because dachshunds spread joy and lo
 dr221105 -- Boy, a weird thing just happened to us... - Let ME explain it!! OK. - So, it was like...like... - How would you explain it?
 dr221106 -- WALLY OK, Wally! It's time for the dog food taste test! - There are three different brands of dog food! Tell us which is your favorite! - Ready...GO! - SNARf SNARF SNARF - Well? Which one was your favorite? Darn! I forgot to pay attention!
 dr221106 -- Let's do it again!
+dr221107 -- Ralph, there's a lizard in the house! A LIZARD? - It crawled under the sofa! Will you please capture it and put it outside? ME? HOW?? I hate lizards! - I'm sure you'll think of a way! - Hey, Wally! There's a lizard under the sofa! Sorry, I
+dr221107 -- just do badgers!

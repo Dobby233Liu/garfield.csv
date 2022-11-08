@@ -11127,3 +11127,4 @@
 221106 -- Haben Sie mir überhaupt zugehört? Sie wirken abwesend. - Unsinn. Ich habe jedes Wort gehört, das Sie gesagt haben. - Ach tatsächlich? Dann wiederholen Sie, was Sie gehört haben. - Los, beweisen Sie mir, dass Sie zugehört haben. - Sie haben der
 221106 -- Chefetage vorgeworfen, Ihre Ideen nicht zu unterstützen. - Dann erzählten Sie eine lustige Geschichte aus Ihrer Vergangenheit und waren wieder besser drauf. - Und Sie habe einige geniale Beobachtungen gemacht. - Oh, vermutlich haben Sie mir
 221106 -- doch zugehört.
+221107 -- Ich leide an einem schlimmen Fall von Schnurrhaarermattung und muss mir für eine Weile freinehmen. - So was kann es doch gar nicht geben. Schalgen Sie's nach. - Oh. Diese beiden sind nur müde, aber dieses eine ist völlig erschöpft.
