@@ -14242,3 +14242,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221106 -- Were you listening to me? It looks like you drifted off. - Don't be ridiculous. I heard every word you said. - Oh, really? Repeat back to me what you heard. - Come on, prove you were listening. - You accused snior management of not being
 221106 -- supportive of your ideas. - You told an amusing story about your past that raised our spirits. - And you made some brilliant observations. - Oh. I guess you were listening.
 221107 -- I have a bad case of whisker fatigue. I need to take soe time off. - That couldn't possibly  be a real thing. Look it up. - Huh. These two are tired, but this one is totally exhausted.
+221108 -- I've got a bad case of long covid. I need to take some time off. - How do I know you really have long covid? I have a note from my doctor. - Nice try, but I only trust medical information from Twitter gadflies.
