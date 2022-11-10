@@ -10512,3 +10512,4 @@ dr221106 -- Let's do it again!
 dr221107 -- Ralph, there's a lizard in the house! A LIZARD? - It crawled under the sofa! Will you please capture it and put it outside? ME? HOW?? I hate lizards! - I'm sure you'll think of a way! - Hey, Wally! There's a lizard under the sofa! Sorry, I
 dr221107 -- just do badgers!
 dr221108 -- Hey, Oogie! There's a LIZARD in the house! - GO GET IT! - yawn! - Bring it to me!
+dr221109 -- I can't sleep. I'm freaked out about that lizard loose in our house! - Ralph, it's just a tiny lizard! There's no reason to be freaked out! - ____------===== - HE JUST RAN aCROSS THE PIANO!!
