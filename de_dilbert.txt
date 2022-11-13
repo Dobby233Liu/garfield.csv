@@ -11133,5 +11133,6 @@
 221109 -- Ich habe Angstzustände, weil meine Work-Life-Balance aus der Balance geraten ist. - Sie haben zweimal "Balance" gesagt. Das ist doch jetzt nicht wichtig. - Wenn ich so was häre, kann ich mich auf nichts anderes mehr konzentrieren.
 221110 -- Meine Beratungsfirma kann der Geissel der "stillen Kündigung" in Ihrer Firma ein Ende bereiten. Wie das? - Ich bringe verschiedene Slogans, Flugblätter und Übungen zum Einsatz. - Das klingt überzeugend. Ausserdem bin ich dabei total gruselig
 221110 -- energiegeladen.
-221110 -- Meine Beratungsfirma verwendet einen patentierten Prozess, um "stille Kündigungen" ih Ihrer Firma zu verhindern. - Tatsächlich? Wie lautet die Patentnummer? Das möchte ich gern mal nachschlagen. - Stimmt ja, diese Lüge sollte man nie einem
-221110 -- Programmierer auftischen...
+221111 -- Meine Beratungsfirma verwendet einen patentierten Prozess, um "stille Kündigungen" ih Ihrer Firma zu verhindern. - Tatsächlich? Wie lautet die Patentnummer? Das möchte ich gern mal nachschlagen. - Stimmt ja, diese Lüge sollte man nie einem
+221111 -- Programmierer auftischen...
+221112 -- Meine Beratungsfirma hat die massenhaften "stillen Kündigungen" in Ihrer Firma in den Griff bekommen. - Ich musste nur an der Work-Life-Balance der Mitarbeiter etwas herumschrauben. - Und wie sehr? Gar keine Arbeit mehr.

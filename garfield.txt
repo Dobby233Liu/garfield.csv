@@ -17046,3 +17046,4 @@ ga221108 -- Well... - I had a very productive afternoon! - Rigth, Leopold and Eu
 ga221109 -- BARK! BARK! What's that, Lassie? - BARK! BARK! - What? BARK! BARK!
 ga221110 -- I found a new way to get rid of that mouse. - Polka music! - * **
 ga221111 -- - I like it when you stare at me, Garfield. - Well, that ruins it.
+ga221112 -- How do you become the best at something? - Simple... - Practice, practice, practice...

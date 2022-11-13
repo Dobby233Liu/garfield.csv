@@ -10515,3 +10515,4 @@ dr221108 -- Hey, Oogie! There's a LIZARD in the house! - GO GET IT! - yawn! - Br
 dr221109 -- I can't sleep. I'm freaked out about that lizard loose in our house! - Ralph, it's just a tiny lizard! There's no reason to be freaked out! - ____------===== - HE JUST RAN aCROSS THE PIANO!!
 dr221110 -- May I take your order, please? 24 HOUR DRIVE-THRU SHAKES & ICE CREAM - What most people order who can't sleep because a lizard is loose in the house at two A.M.? A Blizzard! There's a "lizzard" inside!
 dr221111 -- GOTCHA!! - I caught the lizard, Norm! - Now I'll release him into our yard! - Better yet, I'll release him into Mr. Steinbauer's yard!
+dr221112 -- Look, honeybunch! I caught the lizard! - I told you there was no reason to be scared of him! - - AAAAUUGHHH! Oops! Hold still while I pull him out of your shirt!
