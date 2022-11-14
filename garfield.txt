@@ -17047,3 +17047,4 @@ ga221109 -- BARK! BARK! What's that, Lassie? - BARK! BARK! - What? BARK! BARK!
 ga221110 -- I found a new way to get rid of that mouse. - Polka music! - * **
 ga221111 -- - I like it when you stare at me, Garfield. - Well, that ruins it.
 ga221112 -- How do you become the best at something? - Simple... - Practice, practice, practice...
+ga221113 -- - Let's see how Odie is doing. - Hmm. Breath is bad, nose is wet... - Glassy-eyed, distracted... - Divorced from reality... - Totally clueless... - And completely normal.
