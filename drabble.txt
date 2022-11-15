@@ -10517,3 +10517,4 @@ dr221110 -- May I take your order, please? 24 HOUR DRIVE-THRU SHAKES & ICE CREAM
 dr221111 -- GOTCHA!! - I caught the lizard, Norm! - Now I'll release him into our yard! - Better yet, I'll release him into Mr. Steinbauer's yard!
 dr221112 -- Look, honeybunch! I caught the lizard! - I told you there was no reason to be scared of him! - - AAAAUUGHHH! Oops! Hold still while I pull him out of your shirt!
 dr221113 -- I may be loud... - I may beg at the table... Yawn! - I may be stinky... - I may have bad breath... - I may eat out of the garbage pail.. - - What was I thinking about? You may not have a long attention span...
+dr221114 -- Hello. Do you have a mobile order? No. - Will you be using the app today? No. - I just want one small root beer. - What's that, money? Boy, do I feel old!

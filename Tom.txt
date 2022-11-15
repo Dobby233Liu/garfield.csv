@@ -129,6 +129,7 @@
 19950911 -- Knaben-Umkleideräume... Ohne Sauerstoffgerät!
 19950912 -- Ich kann nicht schlafen...Du musst mir wieder vorlesen... Oh nee! ...diese Langeweile... - Aha! Es ist Dir also lieber, wenn ich Tabletten in mich reinstopfe! Is' ja gut... - ...Meier...Meier...Meier...Meier...Meier..Meyer...
 19950913 -- - Oh, danke, Herr Fledermäuse! Mein Retter! -Stille Deine Durst an meinem heissen Blut... ? ? ? Beiss mich! Und schenke mir ewiges Untotsein auf Deiner Seite!! - Naja...was futtern wär nicht schlecht... Hammse nich 'n paar Nachtfalter?
+19950914 -- - ** ARBEITSAMT! SCHWARZARBEITSKONTROLLE!! ** ** - 'n Abend, Herr Nachbar! Ah! Immer fleissig, immer fleissig...
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -145,6 +146,7 @@
 19961207 -- Oh! - Darf ich...? - Naa-sind wir auch immer schön brav gewesen?
 19961219 -- 'n Abend-is Ihr Mann da? Nee-der is auf 'ner Weihnachtsfeier... Ah-dann bin ich richtig! Ich hab ihn im Taxi-blau und pleite. Wenn Sie bezahlen, bring ich ihn hoch... - - 'n Abend-is Ihr Mann da? Nee-der is auf 'ner Weihnachtsfeier... Ah-dann
 19961219 -- bin ich richtig! Ich hab ihn im Taxi-blau und pleite.  Wenn Sie bezahlen, bring ich ihn hoch...
+19970117 -- Wenn Du das nochmal machst, atomisiere ich Deine Jahreskarte! Ja genau-Du!! Sagen Sie... - Wenn Sie die Leute beatmen und die haben NAsenbluten oder so-haben Sie da gar keine Angst sich zu infizieren? Ich mein'-AIDS oder so...? - Nein.
 19970129 -- Also-das ist ja wohl... Spielen und Hausieren verboten! - Welcher Idiot hat schon wieder Weissglas ins Grünglas geworfen? - Es war Pfefferminzlikör!
 19970409 -- Tag! -Eine Postkartenmarke! - Das heisst Briefmarke! - Das heisst schon wieder teurer...
 19970503 -- Hoi-hoi! Der ist aber dick, Mann. Familienfotos... - Dann geb' ich Ihnen einen schöne, grosse, bunte Sondermarke... Es geschehen Zeiten und Wunder! - Uups-gaaanz knapp drüber-da muss dann wohl noch eine drauf!
@@ -762,3 +764,4 @@
 20221110 -- Nordic Walking ist Anmut mit Stöcken! In fliessender Bewegung die Welt erkunden! ** - - Alles andere ist Amokpilgern!!
 20221111 -- Darf ich Ihnen ein wenig bei der Arbeit zusehen? Kein Problem. - Ich frag mich immer, warum tut sich jemand so etwas an? das ist mein Traumjob! - Ich hatte schon als kleiner Teufel lustige Albträume!
 20221112 -- Dein Papa fährt ja wie ei Henker! Fahren Sie Dich zum Schafott? - Vergiss nicht "Es lebe die Prinzessin!" zu rufen, bevor sie Dir die Rübe abhacken! - Vive la revolution! Hahahhahaha! * Sofortiges und absolutes Fernsehverbot!
+20221114 -- Hey, Schwimmen ist super! Keine Angst, Du schaffst das! Ich bringe es Dir bei! - Hier ist es wie in New York! Wenn Du es hier schaffst, schaffst Du es überall! - New York geht auch bald unter.
