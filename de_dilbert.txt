@@ -11139,3 +11139,7 @@
 221113 -- Ich mag es, wenn Männer Ihre Emotionen zeigen. - Dann weiss ich, wem ich aus dem Weg gehen muss. Haha. - Moment...was? - Oh, sorry, ich hatte Sie gar nicht kommen sehen. - Tut mir leid, dass Sie es auf diese Weise erfahren. - Jetzt frage ich
 221113 -- mich, ob alles andere, was ich über Frauen denke, auch falsch ist. - Frauen ziehen doch schon noch Männer vor, die einen guten Chrarakter und nicht nur gut aussehen, oder? - Das wird jetzt schmerzhaft...
 221114 -- Die Versuchsdaten legen nahe, dass unser neues Produkt gefährlich ist und nicht das leistet, was wir behaupten. - Haben wir die Daten schon jemandem gezeigt? - Nein. Puh! Dann hat sich das Problem ja von selbst erledigt.
+221115 -- Ich stehe hier mit einem Whistleblower, der behauptet, seine Firma fertige unsichere Produkte. - Offensichtlich is dieser Mann durchgeknallt und Sie sollten sich gar nicht erst anhören, was er zu sagen hat. - Und nun zu einer NAchricht unseres
+221115 -- Sponsors, der auch der Arbeitgeber dieses Mannes ist. Was?
+221116 -- Ich habe ein unabhängige Firma damit beauftragt, Ihre verleumderischen Behauptungen zu prüfen. Sie sind haltlos. - Hätten Sie mir das Ergebnis auch mitgeteilt, wenn mir zugestimmt worden wäre? - Wieso sollte ich jemanden beauftragen, der mir
+221116 -- die falsche Antwort liefert?

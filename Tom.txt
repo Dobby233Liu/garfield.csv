@@ -130,6 +130,8 @@
 19950912 -- Ich kann nicht schlafen...Du musst mir wieder vorlesen... Oh nee! ...diese Langeweile... - Aha! Es ist Dir also lieber, wenn ich Tabletten in mich reinstopfe! Is' ja gut... - ...Meier...Meier...Meier...Meier...Meier..Meyer...
 19950913 -- - Oh, danke, Herr Fledermäuse! Mein Retter! -Stille Deine Durst an meinem heissen Blut... ? ? ? Beiss mich! Und schenke mir ewiges Untotsein auf Deiner Seite!! - Naja...was futtern wär nicht schlecht... Hammse nich 'n paar Nachtfalter?
 19950914 -- - ** ARBEITSAMT! SCHWARZARBEITSKONTROLLE!! ** ** - 'n Abend, Herr Nachbar! Ah! Immer fleissig, immer fleissig...
+19950915 -- Wilsuschlug? Oh, mein Gott... - Schnell! Kopf runter! Scheibe hoch! ? - Karre kaputt, oder Pappe weg?
+19950916 -- Sabbernde Säufer, wilde Irre und grölende Gören... - Ich will endlich mein Auto wiederhaben!! - Zentralverriegelung!
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -305,6 +307,7 @@
 20061230 -- "Mein guter Vorsatz für das neue Jahr:" Sehr löblich! Aber bedenke: Realistisch bleiben! Nicht zuviel vornehmen. - - Mein guter Vorsatz für das neue Jahr: Weniger erwischen lassen.
 20070112 -- ** Ding Dong Deine Handtaschen werden auch immer grösser! Muss das sein? - Guten Morgen! Wir möchten uns mit Ihnen ausführlich über ein wichtiges Thema unterhalten. Und ich werde Ihnen gesnüsslich die Tür vor der Nase zuknallen. -
 20070112 -- Hervorragende Idee, die Tasche in die Tür zu stellen! Wo hast Du den Amboss her?
+20070123 -- Eineeinemarkmarke! Zehn. Nein, Eine! Neun. Eine! Acht. Ich hab nicht so viel Geld dabei... - Sieben sechs fünf vier drei. Ist das eine Werbe-Aktion? Grässlich-dieser Verkaufsdruck! Okay-drei! Ich nehm drei! Zwei eins! - Feierabend!
 20070210 -- Hmm! Köstlich, die Salami! Da nehm' ich ein Pfund! Na, junger Mann? Auch was probieren? - Ich will das da! Sicher! Wäää! Geben Sie es ihm ruhig. Der isst alles! - Tatsächlich. Sogar Plastikpetersilie.
 20070308 -- Von uns Kindern bekommt Papa zum Fünfzigsten ein Navigationsgerät für seinen neuen Flitzer. - Damit er auch mal alleine Rumbrettern kann. Und von Mutti bekommt er die Stimme dazu. Süss! Nach der nächsten Ampel bei der ersten Möglichkeit
 20070308 -- rechts abbiegen... - ...äh...links.
@@ -483,6 +486,7 @@
 20160126 -- Und Sie können mit dem Messer auch umgehen? Wie ein Samurai! JA dann... - Aus dem Weg! Ich muss nochmal zum Kühlschrank! ? Notarzt - Sie müssen Ihre Gefrierbeutel besser beschriften! Ich hätte ihm fast eine Garnele an den Kopf genäht!
 20160219 -- Das sind keine Smilies, das sind Emojis. Und was machst Du damit? Gefühle übermitteln? - Eineeinemarkmarke, bitte! Moment... - *
 20160308 -- Ich weiss, mein Zöpfchen ist total old school! Aber ich hänge nun mal dran. Das Zöpfchen bleibt! - Aber vielleicht hat der Profi ja eine Idee, wie man es am besten geschickt integrieren kann! - DYNAMIT
+20160322 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... Oh ja... - Ach Baum, Du gibst mir immer so viel Kraft! Danke! - Fertig mit Tanken? Darfs noch ein Heissgetränk sein oder was Süsses oder Deftiges auf den Weg?
 20160324 -- Äh...ja...ich sehe Glück in der Liebe. Und ja, ich sehe auch eine junge Dame mit rotem Haar... - Ich sehe schon bald den Beginn einer langen romantischen Beziehung, die... Jaja! Blablabla! - Frag endlich, ob sie sehen kann, wo sie die Ostereier
 20160324 -- verstecken werden!
 20160402 -- Oh! Das ist aber trist hier! - Und nichts dabei ausser ein dünnes Hemdchen! Früher hat man den Toten noch Grabbeigaben mit ins Grab gelegt! - Früher gabs noch keinen Sperrmüll.
@@ -765,3 +769,5 @@
 20221111 -- Darf ich Ihnen ein wenig bei der Arbeit zusehen? Kein Problem. - Ich frag mich immer, warum tut sich jemand so etwas an? das ist mein Traumjob! - Ich hatte schon als kleiner Teufel lustige Albträume!
 20221112 -- Dein Papa fährt ja wie ei Henker! Fahren Sie Dich zum Schafott? - Vergiss nicht "Es lebe die Prinzessin!" zu rufen, bevor sie Dir die Rübe abhacken! - Vive la revolution! Hahahhahaha! * Sofortiges und absolutes Fernsehverbot!
 20221114 -- Hey, Schwimmen ist super! Keine Angst, Du schaffst das! Ich bringe es Dir bei! - Hier ist es wie in New York! Wenn Du es hier schaffst, schaffst Du es überall! - New York geht auch bald unter.
+20221115 -- Die könnten echt noch 'ne Kasse aufmachen! - Sie könnten auch zu mir kommen! Na los! Komm! - Frag sie erst, wo sie wohnt!
+20221116 -- Habt Ihr Cold-Brew-Coffee? Äh-kalt gebrühten Kaffee? Nur "To go". - Oh! Okay...dann einen grossen, bitte! Kommt sofort! - Vorsicht, frisch gebrüht! Jetzt ein paar Mal um den Block laufen, dann ist er genau richtig!
