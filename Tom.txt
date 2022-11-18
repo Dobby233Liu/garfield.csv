@@ -132,6 +132,8 @@
 19950914 -- - ** ARBEITSAMT! SCHWARZARBEITSKONTROLLE!! ** ** - 'n Abend, Herr Nachbar! Ah! Immer fleissig, immer fleissig...
 19950915 -- Wilsuschlug? Oh, mein Gott... - Schnell! Kopf runter! Scheibe hoch! ? - Karre kaputt, oder Pappe weg?
 19950916 -- Sabbernde Säufer, wilde Irre und grölende Gören... - Ich will endlich mein Auto wiederhaben!! - Zentralverriegelung!
+19950918 -- Ein Schwimmbecken, der Herr? -Garcon! Hier entlang bitte, der Herr... ? - Ist Ihnen dieses Becken recht? Liebliche 24°C, dezent gechlort und mit Blick auf die Rutschbahn... Und wenn der Herr gerettet werden wollen: Ein kleines Gurgeln genügt.
+19950918 -- - Ich hasse Nachsaison!
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -577,6 +579,7 @@
 20200605 -- Sie sind neu hier, nicht wahr? Vermutlich direkt von der Kassiererinnenschule. Und jetzt denken Sie sicher: Ich kann schneller scannen,... ...als die alte Schachtel hier einpacken kann. - Aber ich warne Sie, Kindchen! Diese alte Schachtel
 20200605 -- hier ist nicht irgendeine alte Schachtel! bibibibi biep! - 37,99-Wenn Sie es nochmal in Zeitlupe sehen wollen, können Sie das beim Filialleiter.
 20200619 -- Oh, hallo! Nein, Sie stören nicht, kommen Sie doch rein! Ich bin nur am Kochen. - Möchten Sie was mitessen? Ist genug da! * - Hubert! Wir hatten doch gesagt, ich reib Dir den Rücken erst nach dem Essen ein!
+20200903 -- Heute reden wir über Sicherheit: Ein Hund! Er rennt auf Euch zu! Schnell wegwalken? Zu spät! - Ihr seid allein mit Euren Stöcken! Ihr habt fünf Sekunden! Was tut Ihr? Und los! -
 20200918 -- Wir hauen ab! Ich hab eine Tür entdeckt! Dahinter ist freies Land! Eine offene Tür? Hier? - Der Notausgang, was weiss ich! Egal, nix wie weg! Hahaha! Die lassen eine Tür offen! Haha! Wie blöd kann man sein? -
 20201015 -- Das war lecker! Warte, ich helf Dir! Wie trennt Ihr den Müll? - Gekennzeichnete Kunststoffe in die gelbe Tonne, sortenreines Papier in die blaue, sauberes Glas in die grüne, organisches in die braune, Restmüll in die schwarze. - Und alles,
 20201015 -- was arg stinkt, beim Nachbarn hinten übern Zaun.
@@ -771,3 +774,5 @@
 20221114 -- Hey, Schwimmen ist super! Keine Angst, Du schaffst das! Ich bringe es Dir bei! - Hier ist es wie in New York! Wenn Du es hier schaffst, schaffst Du es überall! - New York geht auch bald unter.
 20221115 -- Die könnten echt noch 'ne Kasse aufmachen! - Sie könnten auch zu mir kommen! Na los! Komm! - Frag sie erst, wo sie wohnt!
 20221116 -- Habt Ihr Cold-Brew-Coffee? Äh-kalt gebrühten Kaffee? Nur "To go". - Oh! Okay...dann einen grossen, bitte! Kommt sofort! - Vorsicht, frisch gebrüht! Jetzt ein paar Mal um den Block laufen, dann ist er genau richtig!
+20221117 -- Den Baum berühren...den Baum spüren...eins werdne mit... Würden Sie das bitte lassen! Dieses Rumgeraschle irritiert mich! - Ich hab mein Handy verloren! Sie werden es hier nicht finden! Okay, damke! Dann such ich weiter unten. - Nein, Lügen
+20221117 -- geht anders. Ich hab nur nicht gesagt, dass ich draufstehe!
