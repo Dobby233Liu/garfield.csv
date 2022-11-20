@@ -68,8 +68,8 @@ jobs:
     if: github.ref == 'refs/heads/main'
     needs: [generate-csv]
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/download-artifact@v2
+      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v3
         with:
           path: static
       - working-directory: static
@@ -80,8 +80,8 @@ jobs:
       - uses: docker://pandoc/core:2.9
         with:
           args: "README.md -f markdown -t html --shift-heading-level-by=-1 -s -o static/index.html"
-      # I use bot creds so this
-      - uses: Dobby233Liu/github-pages-deploy-action@dev-no-crap
+      - uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages
           folder: static
+          git-config-name: github-actions[bot]
+          git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
