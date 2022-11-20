@@ -40,7 +40,7 @@ jobs:
         working-directory: ${{ runner.temp }}
 
       - run: iconv -f ${{ matrix.encoding }} -t UTF-8 ${{ runner.temp }}/${{ matrix.file }}.txt > ${{ matrix.file }}.txt
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           path: ${{ matrix.file }}.txt
           name: original
@@ -56,7 +56,7 @@ jobs:
           name: ${{ matrix.file }}
       - run: |
           sha256sum ${{ matrix.file }}.txt ${{ matrix.file }}.csv > ${{ matrix.file }}.sha256
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           path: ${{ matrix.file }}.sha256
           name: hashes
