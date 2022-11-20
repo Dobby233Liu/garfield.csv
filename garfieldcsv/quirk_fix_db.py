@@ -167,6 +167,14 @@ comicids_fix = {
         " ",
         -1,
     ),
+    "221108 -- I hired a teenage girl to help us with our most complicated technical decisions. - Is she a genius? No, but she makes up for it with her attitude. - Can I upgrade our network? How DARE you!!!": (
+        "221008",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
     # TODO - you can use search in the website
     # Dilbert (in Deutsch)
     "080819 -- Aah! Sie haben Ihren Kaugummi auf diesem wiederverwertbaren Abfall geklebt!!! - WIE FÜHLT SICH DAS IN IHREM HAAR AN? HÄ? GAR NICHT MEHR SO KOMISCH, SIE BAUM-MÖRDER? - Das schlimmste ist, daß ich ihn um seine Leidenschaft für den Job beneide.": (
@@ -1268,6 +1276,14 @@ comicids_fix = {
         -1,
     ),
     "dr121214 -- Your car is ready, Mr. Drabble. Auto Mechanic - It was way overdure! I know I know... - Daylight saving time ended a month ago! I would've turned back the car clock myself, but I don't have an engineering degree!": (
+        "dr211214",
+        "dr",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "dr121214 -- Your car is ready, Mr. Drabble. Auto Mechanic - It was way overdue! I know I know... - Daylight saving time ended a month ago! I would've turned back the car clock myself, but I don't have an engineering degree!": (
         "dr211214",
         "dr",
         " ",
