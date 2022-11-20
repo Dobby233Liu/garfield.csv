@@ -175,6 +175,22 @@ comicids_fix = {
         " ",
         -1,
     ),
+    "221109 -- My goal for the coming year is to work on myself. - Good decision. - We can all see what a disaster you are, but we didn't know you were aware of it. - You're taking on a big job. - How long do you think you will need to work on yourself to": (
+        "221009",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "221109 -- become normal? - Are you looking for a quick fix, or is this a multi-generational thing? - - You're already talking less, so that's a step in the right direction.": (
+        "221009",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
     # TODO - you can use search in the website
     # Dilbert (in Deutsch)
     "080819 -- Aah! Sie haben Ihren Kaugummi auf diesem wiederverwertbaren Abfall geklebt!!! - WIE FÜHLT SICH DAS IN IHREM HAAR AN? HÄ? GAR NICHT MEHR SO KOMISCH, SIE BAUM-MÖRDER? - Das schlimmste ist, daß ich ihn um seine Leidenschaft für den Job beneide.": (
@@ -1609,8 +1625,40 @@ comicids_fix = {
     # TODO - search on lasagna.cz or GoComics
     # Tom
     # FIXME: I have no idea what this is
+    "19959616 -- Da! Schon wieder! Zwei Kerle! Un-er-hört! - Und da! Ha! Zwei Weiber!! Skan-da-lös! Aach...nu' hör schon auf! - Wir werden uns doch auch immer ähnlicher...": (
+        "19950616",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
     "19979618 -- Woher stammt also die Bezeichnung \"Barbar\"? -Einzer? Von den Bärten der wilden Männer des Nordens! - Sehr gut! -Was verstehen wir unter einem \"Akt der Barbarei\"? -Huschke? - Die Socken in den Sandalen der wilden Männer des Nordens...": (
         "19970618",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "20220617 -- Den Baum berühren...den Baum spüren...eins werden mit... - Was tun Sie da?! Wonach sieht's denn aus? FORST - Da können Sie unterschreiben! Keine Neubauten im Naherholungsgebiet!!": (
+        "20220817",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "20220618 -- Das hast Du wundervoll gemacht, Sigurd! Bravo! Ganz, ganz toll, Sigi! - Aaah! Hört endlich auf, mich für jeden Scheiss zu loben! Ich bin doch nicht blöde! Ich weiss genau, in welcher Liga ich spiele! Das da ist Mist! - Das ist so toll von": (
+        "20220818",
+        "",
+        " ",
+        "--",
+        " ",
+        -1,
+    ),
+    "20220618 -- ihm, dass er auch mal andere Kinder gewinnen lässt! Ganz, ganz toll, Sigi!": (
+        "20220818",
         "",
         " ",
         "--",
