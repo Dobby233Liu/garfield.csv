@@ -135,6 +135,9 @@
 19950918 -- Ein Schwimmbecken, der Herr? -Garcon! Hier entlang bitte, der Herr... ? - Ist Ihnen dieses Becken recht? Liebliche 24°C, dezent gechlort und mit Blick auf die Rutschbahn... Und wenn der Herr gerettet werden wollen: Ein kleines Gurgeln genügt.
 19950918 -- - Ich hasse Nachsaison!
 19950919 -- Ist es nicht schön? Eine neue Generation von ABC-Schützen lernt voll Freude und Eifer... - ...Lesen und Schreiben.das zweite Standbein menschlicher Kommunikation. Oh! Eine Nachricht! - "Hilvä. Ich werte hia gepfangen gehaldn!" *
+19950920 -- Heute ein aktuelles Mathe-Problem: Die "tageszeitung" wird von 410000 Personen gelesen. Verkauft werden jedoch nur 60000 Exemplare-Aufgabe: Das Lese-Käufer-Verhältnis soll sich so ändern, dass eine verkaufte Auflage von 100000 erreicht wird.
+19950920 -- - Irgendwelche Lösungsvorschläge? Huschke? chrrr... - WG-Zersetzungsprogramme.
+19950921 -- Mirssoschlecht...ich...ich glaub' ich muss kotzen... Na, Du machst mir Spass! Dann tu was dagegen!! - Bin gleich wieder da! - Schnell! Eine Socke! Farbe? Grösse? Egal! Hauptsache frisch...
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -142,6 +145,7 @@
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
 19960713 -- Fertig!!-Tiere? Was?! Dreck... Nix... Nix! Würmer! 20! - Krankheiten? Ich war von Anfan an dagegen "Stadt, Land Fluss" mit... Nix... Würmer! 20! - Stadt? Nix. Hmpf... Worms! 20!
+19960822 -- Markein allen Preisklassen Postbank Tüdelüt! ? - Herr Oberpostrat!... ...Ihre Mutter...verstehe...selbstverständlich... Eine Einemarkmarke...eilig...selbstverständlich... Wiederhörn. - Guten Tag! Ich bin meine Mutter!
 19960830 -- Alles Gute-Stop-Sauf nicht so viel-Stop-Gruss Frieda. Und der Empfänger? Pachulke... - Paula-Anton-Cäsar-Heinrich-Ulrich-Ludwig-Kaufmann-Emil. Is ja gut! Is ja gut! Ein Vorname reicht!
 19961014 -- 1a Märkle POSTBANK CHRRR...PFFF...CHRRR - DRING! DRING! - Ein eine Mark Marke...
 19961028 -- GESPERRT! *** - He! Sie können doch nicht einfach die Leiter sperren! ** Do-och! Wie lange denn? Bis morgen früh! - Mist... 5m
@@ -220,6 +224,7 @@
 20011204 -- hektische Entwurzelte... Aber... Ob Du Dir trotzdem ganz schnell einen Ast wachsen lassen könntest? - Bitte!
 20011227 -- Tschüs Tante Gunhild! Tschüs Onkel Hermann! Tschüs Oma! Tschüs Opa! Tschüs Onkel Kurt! Tschüs Onkel Friedhelm! Tschüs Tante Klara! Tschüs Inky und Dinky! Tschüs Lea! Tschüs Onkel Averell! Tschüs Tante Liselotte! - Puh-alle weg! Endlich! Drei
 20011227 -- Tage reicht aber auch... Einer Deiner Cousins ist noch da! Der? Ich dachte, das ist einer von Dir... - Ich? Ich bin der Postbote...ich bin in den Anreisesog geraten-darf ich jetzt gehen?
+20020125 -- ...den hier anwesenden Wigbert Wullerich zu ehelichen, so antworten Sie mit "Ja"... - Ja! - Wegen seinem Knackarsch!
 20020207 -- So-und Ihre Ski... Ein grosser Schritt für die Menschheit......ein kleiner Schritt für mich! - - Skiunfall?! Draufgänger, was? Herr Ober! Noch einen! Geht wieder auf den Herrn...
 20020226 -- Baum! Baum! Hallo Baum! . Alte Borke! LAnge nicht gesehen! Lass Dich umarmen! - Ups-tschuldigung!-weh getan...?
 20020429 -- Und? Was macht Dein Heuschnupfen? - HUACHU! - pffrz...
@@ -401,6 +406,7 @@
 20110913 -- Man hat ihn in der Sanitärabteilung gefunden. Völlig dehydriert. Er muss schon den ganzen Tag hier herumgelaufen sein. Die Füsse sind voller Blutblasen. - Du wolltest doch nur ein kleines Dingsbums kaufen! Haben sie nicht. Hast Du mal
 20110913 -- gefragt? Männer fragen nicht. Männer suchen erstmal. - Diese langen Öffnungszeiten sind männermordend!
 20110917 -- Ich hab einen Wunsch frei? Ja. Nur eien Jaa. Jetzt gleich? Jaaa! - Gut.  Dann wünsche ich mir...hehe...ganz viele Wünsche! - Oh! Hast Du mal 'ne Münze? Ich will mir was wünschen!
+20111022 -- Cafe - Setzen Sie sich lieber nicht so nah an den Typ mit dem üPad. Dir Croissants sind heute sehr buttrig! ? - Oups! Tschuldigung! Bin abgerutscht...
 20111112 -- Ähm...ich habe einen Termin zur Vorsorgenuntersuchung. ...Prostata. Ah-einmal die kleine Hafentundfahrt, ja? Oh-das erste Mal? - Einfach schön entspannt bleiben! Sie haben Glück, der Chef hat heute gute Laune. Er macht schon den ganzen Tag
 20111112 -- Scherze! *** - Lassen Sie mich durch, ich bin Arzt!
 20111126 -- Sagen Sie, wo sind denn die ganzen Promischurken? Adolf, Josef, Mao, Idi, Pok, Nero und Konsorten? Kann man sich die mal ansehen? - Die stehen im Wachsfigurenkabinett. Ja, ich weiss. Aber ich meine die echten! Die stehen im
@@ -561,6 +567,7 @@
 20190215 -- Ein Todschicker Mantel! Ich hab ihn gleich mal in sämtlichen Grössen bestellt! Der Chinese hats ja nicht so mit Grössen! - Und raten Sie mal, welcher gepasst hat! XL! XL!! Hahaha! Die spinnen ja! Ich lauf doch nicht in XL rum! Den schick ich
 20190215 -- auch wieder zurück! Da wird sich der Chinese sicher freuen! Der wird auch immer dicker.
 20190223 -- Hallo! Ich hätte gerne Kaffee und Kuchen! Aber unbedingt mit ohne... Moment! - Einfach hier mit der App die Inhaltsstoffe auswählen-Kaffee hier, Kuchen da-und dann auf "Senden" tippen! Und ich bringe Ihnen dann genau, was Sie möchten. -
+20190227 -- Hellau! Huh-Ihr seid aber gruselige Hexen! - Ein bisschen schüchtern die beiden Mäuschen, was? Aber super Hexenkostüme! - Halli Galli
 20190330 -- Hey, Du! Hallo! Alles klar! Du kannst abbiegen! Es kommt keiner! Alles frei! Kann nix passieren! Gute Fahrt! ? - Ich arbeite jetzt als Toter-Winkel-Assistent! Aha. Boah-hat der Segelohren!! Untersteh Dich!
 20190509 -- Hahaha! Ich habe einen geilen Witz gelesen! Kennen Sie den? Kommt ein Mann zum Friseur... - Haha! Wollen Sie mich etwa damit rasieren? - Fragen Sie mich nach dem Witz noch mal.
 20190519 -- Da bist Du ja endlich! Guten Morgen! Verschlafen? - Ich war noch schnell im Nagelstudio! Schick, oder? ** ding dong
