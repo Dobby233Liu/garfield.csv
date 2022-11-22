@@ -138,6 +138,7 @@
 19950920 -- Heute ein aktuelles Mathe-Problem: Die "tageszeitung" wird von 410000 Personen gelesen. Verkauft werden jedoch nur 60000 Exemplare-Aufgabe: Das Lese-Käufer-Verhältnis soll sich so ändern, dass eine verkaufte Auflage von 100000 erreicht wird.
 19950920 -- - Irgendwelche Lösungsvorschläge? Huschke? chrrr... - WG-Zersetzungsprogramme.
 19950921 -- Mirssoschlecht...ich...ich glaub' ich muss kotzen... Na, Du machst mir Spass! Dann tu was dagegen!! - Bin gleich wieder da! - Schnell! Eine Socke! Farbe? Grösse? Egal! Hauptsache frisch...
+19950922 -- Sammeln Sie auch Briefmarken? Gott behüte! -ich hab' auch ein Privatleben... - Ich hol' mir einen Ersttagsstempel! Das ist knifflig... Er muss natürlich kräftig und doch präzise sein... - Schreib' "zerbrechlich" drauf!
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -453,6 +454,7 @@
 20140414 -- So hat sicher auch einst Columbus am Wasser gestanden und überlegt. Gibt es da draussen einen anderen Beckenrand? - Und wenn ja, was wird mich dort erwarten? Ärger. - Querschwimmen verboten!
 20140503 -- Ihr Espresso. Mmh...danke. - Ähm...Sie heben mir versehentlich einen mit Milchschaumhäubchen gebracht. Macht nichts, schon okay. Interessanter Geschmack! War das Sojamilch? Äh...ja...Sojafreie Sojamilch. Pardon. - Die Tauben brüten wieder
 20140503 -- über Tisch 3.
+20140508 -- Du sollst doch nicht immer alles in Dich reinstopfen, was Oma hinhält! Das ist ungesund! Aber so lecker! - Boah! Warst Du das?! Warte mit dem Rumstinken gefälligst, bis wir fahren! Das ist kein Gestank. - Das ist Verwöhnaroma!
 20140510 -- Hallihallo-ich bin die...ach, egal. He! Du mit der Mütze! Du darfst Dir was wünschen. Aber fix! Ich? Oh! Hm...keinen Hunger mehr? Oder Weltfrieden? Hm... - Nein! Ich will selbstredend der beste Fussballer der Welt sein! - Daneben! Ronaldo
 20140510 -- weint. Flasche! Ich hätte den reingemacht. Chips
 20140530 -- Doc Wiedersehen. Tschüss. Gute Besserung! - Der Herr Klöpke scheint seine Spritze nicht gut zu vertragen! Mit einem angestochenen Hintern laufen Sie auch komisch. - Er hat sich aber den Bauch gehalten! Das ist normal. Er klaut immer die
@@ -790,3 +792,4 @@
 20221118 -- Blumenerde auf meinen Balkon getragen werden würde!
 20221119 -- * ploing Hallo. Als erstes möchte ich Euch ein neues deprimierendes Lied vorstellen. - Es ist mir eingefallen, als ich eien Song schreiben wollte, und mir nichts eingefallen ist. * ploing Das war sehr deprimieren. Dieser Song ist für Euch. -
 20221119 -- Die sind gerade alle gegangen. Machen Sie dann bitte das Licht aus?
+29221121 -- Ey! Geht's noch?! Ich soll viel Bananen essen! Das ist gut für mein Hirn! Und wer hebt die ganzen Bananenschalen wieder auf? - Okay-ich glaub, jetzt hab ich alle! -
