@@ -139,6 +139,9 @@
 19950920 -- - Irgendwelche Lösungsvorschläge? Huschke? chrrr... - WG-Zersetzungsprogramme.
 19950921 -- Mirssoschlecht...ich...ich glaub' ich muss kotzen... Na, Du machst mir Spass! Dann tu was dagegen!! - Bin gleich wieder da! - Schnell! Eine Socke! Farbe? Grösse? Egal! Hauptsache frisch...
 19950922 -- Sammeln Sie auch Briefmarken? Gott behüte! -ich hab' auch ein Privatleben... - Ich hol' mir einen Ersttagsstempel! Das ist knifflig... Er muss natürlich kräftig und doch präzise sein... - Schreib' "zerbrechlich" drauf!
+19950923 -- Ich bin klein-mein Herz ist rein... - ...soll niemand drin wohnen, als Du allein... - Papa hat Herzschrittmacher.
+19950925 -- Guten Morgen! Ich möchte mit Ihnen über Gott sprechen! Was? Ich glaub' nicht an Gott! - Tschüs. - Halb sieben! Der hat ja wohl... DING DONG ** ** DING DONG - Guten Morgen! Ich möchte mit Ihnen über Staubsauger sprechen! Ich sagte doch:
+19950925 -- Ich-glaube-nicht-an-Staubsauger!! Na, da werden wir uns aber gleich mächtig wundern!
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -159,6 +162,7 @@
 19970117 -- Wenn Du das nochmal machst, atomisiere ich Deine Jahreskarte! Ja genau-Du!! Sagen Sie... - Wenn Sie die Leute beatmen und die haben NAsenbluten oder so-haben Sie da gar keine Angst sich zu infizieren? Ich mein'-AIDS oder so...? - Nein.
 19970129 -- Also-das ist ja wohl... Spielen und Hausieren verboten! - Welcher Idiot hat schon wieder Weissglas ins Grünglas geworfen? - Es war Pfefferminzlikör!
 19970409 -- Tag! -Eine Postkartenmarke! - Das heisst Briefmarke! - Das heisst schon wieder teurer...
+19970412 -- Hamm' Sie was verloren? Nein! - Kann ich Ihnen helfen? Ja! Stören Sie mich nicht! - Wenn ich den Start vergurke schaff ich die Grünphase nicht!
 19970503 -- Hoi-hoi! Der ist aber dick, Mann. Familienfotos... - Dann geb' ich Ihnen einen schöne, grosse, bunte Sondermarke... Es geschehen Zeiten und Wunder! - Uups-gaaanz knapp drüber-da muss dann wohl noch eine drauf!
 19970514 -- Augenblick, junger Mann! Kann ich mal sehen, was Sie da unterm Mantel haben? - Schon gut!-schon gut! - Da war so'n seltsamer Typ mit Mantel-hat der die Salami bezahlt?
 19970531 -- ...denn wie steht schon in 1. Petrus 5,7 geschrieben: "Alle Eure Sorgen werfet auf ihn: denn er sorgt für Euch" - Also, wenn die Seele mal zwackt: Gönnen Sie sich ruhig mal was und kippen Sie sich ordentlich einen hinter den Knorpel! Das
@@ -304,6 +308,7 @@
 20051028 -- Ich bin um die Welt gefahren. Mit dem Fahrrad! Ich war überall! Und jetzt muss ich gleich ins Fernsehen. Live! - Na, dann machen Sie mich mal wieder salonfähig! -
 20051206 -- Mein Sohn, ich muss mit Dir reden. Ich wars nicht! Du bist jetzt alt genug um enige Wahrheiten verkraften zu können... - Du musst jetzt sehr stark sein: Der Wehnachtsmann...das bin ich! Du sagst, Du bist der Weihnachtsmann? Ich bin der
 20051206 -- Weihnachtsmann! - Das ist schon okay...ich werd Dich auch im Heim besuchen!
+20060112 -- - -
 20060213 -- Dass die hier keine Alarmanlage haben... Wozu? - Wer klaut schon Chlorwasser? Aber es ist doch geschlossen. Die merken das doch gar nicht! Hey, das sind Bademeister! - Hallo Leute! Nachts lassen wir den Hai raus. Euer Bademeister
 20060328 -- Ein Traum. Das ist ein Traum. Das ist ein Traum. Das ist ein Traum. Das ist ein Traum. - Ja, nicht wahr? Ein Traum von einer Hölle! Es gibt Dinge, da darf man nicht sparen. - Sie sollten meine Küche sehen!
 20060502 -- Ich will ein Pferd haben! Alle haben eins! Aber ja. Kein Problem. Als allererstes verkaufen wir Deinen Bruder. - Dann ist in seinem Bet Platz für das Heu. Pullern kann das Pferd in Dein Sandeimerchen und die Pferdeäpfel nimmst Du mit in die
@@ -532,6 +537,8 @@
 20170825 -- "Klingel defekt". Dann gehen wir eben wieder. - ** Ding Dong ** - Grundkurs Bauchreden! Hupen kann ich auch schon! Wehe! Hanni Nammi
 20170826 -- Ihr habt echt noch Sex?! Na sicher! Leidenschaftlichst! - Im Ernst? So richtig mit schmutzige Dinge sagen und so? Aber sowas von! - Du hast schon wieder Hüpfburg gesagt!
 20170905 -- * - ? - Wuuh..
+20171010 -- Sag mal...Fleisch vor dem Braten waschen? Keine Ahnung. Moment... - Hm...die einen sagen nein, die anderen sagen wenn, dann richtig. Musst Du entscheiden. - Nochmal Hackfleisch? Kommen Gäste? Darfs noch was sein? Kennen Sie einen günstige
+20171010 -- Klempner?
 20171014 -- Horst! Horst! Ho-Horst! Hier! Horst! Horst!! - Äh-Schatz? Ich bin hier! Oh... Oh,entschuldigung! Ich hab Sie verwechselt! - Sie hat manchmal eine seltsame Art, mir Komplimente zu machen.
 20171104 -- Kürbissuppe! Aus dem Halloweenkürbis! - Den grossen, mit dem geschnitzten Gesicht? Das kann ich nicht essen! So künstlerisch wertvoll war der nicht. Hm-lecker! Den hat Andi Klöpke auf dem Kopf gehabt! - Muss ich den Arzt holen? Hol Pizza!
 20171111 -- Eine grosse Latte to go, bitte. Kaffee oder Kalauer? Was? Oh...Kaffee! Caffee Latte to go! - Gefroren?! - Pappbecher geht gar nicht!
@@ -611,6 +618,8 @@
 20211216 -- Wer hört denn heute noch richtig zu? Deshalb muss unsere Botschaft kurz und glasklar sein! Ding Dong ** - Das Ende ist nah! - Ich darf wieder rauchen!! R
 20220115 -- CHRRRR... CHRRRR... - Au! Was? Hör auf zu schnarchen! So kann man nicht lesen! Warum? - Weil die Lesebrille vor der Nase vibriert!!
 20220129 -- Die Kinder kommen vom Spielplatz und haben Beulen am Kopf! Und? Soll ich jetzt Kissen verstreuen? Das sind Kinder, das ist normal! - So, und jetzt zeigst Du der Mama, wo Du Dir immer Aua machst! -
+20220325 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... Hallo? Könnten Sie bitte die Bäume da hinten am Horizont umarmen? - Wir müssen hier Wildschweine schiessen! Ich will Sie nicht davon abhalten! - Gut! Wenn Sie weg sind, kommen
+20220325 -- die vielleicht wieder vom Baum runter.
 20220401 -- BUH!!! - KCHCHCH!! ?? - Einen Versuch wars wert.
 20220414 -- Was soll das sein? Krampfadern? Das ist ein Osterei für meinen Papa mit seinem Tattoo drauf, du Arsch! - Und? Hast Du denn schon was auf Dein Ei gemalt, Chlodwig? Ja, einen Elefanten! Wo denn? Na, da! - Ich hab mit dem Auge angefangen. Der
 20220414 -- Rest hat nicht draufgepasst.
@@ -792,4 +801,6 @@
 20221118 -- Blumenerde auf meinen Balkon getragen werden würde!
 20221119 -- * ploing Hallo. Als erstes möchte ich Euch ein neues deprimierendes Lied vorstellen. - Es ist mir eingefallen, als ich eien Song schreiben wollte, und mir nichts eingefallen ist. * ploing Das war sehr deprimieren. Dieser Song ist für Euch. -
 20221119 -- Die sind gerade alle gegangen. Machen Sie dann bitte das Licht aus?
-29221121 -- Ey! Geht's noch?! Ich soll viel Bananen essen! Das ist gut für mein Hirn! Und wer hebt die ganzen Bananenschalen wieder auf? - Okay-ich glaub, jetzt hab ich alle! -
+20221121 -- Ey! Geht's noch?! Ich soll viel Bananen essen! Das ist gut für mein Hirn! Und wer hebt die ganzen Bananenschalen wieder auf? - Okay-ich glaub, jetzt hab ich alle! -
+20221122 -- Ich wollte nur mal ausprobieren, wie so ein cooler Haarknoten bei mir aussieht. Es heisst "Dutt". - Und ich hatte noch Sekundenkleber übrig. Oje, lass sehen! -
+20221123 -- Wenn ich fernsehe, schlaf ich immer ein. - Das liegt sicher am Programm. - Heisst so der neue Fernsehsessel von Ükea?

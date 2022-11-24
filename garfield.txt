@@ -17056,3 +17056,5 @@ ga221118 -- Do you like tough guys, Liz? - Would I be here if I did? - That was 
 ga221119 -- Hi, Irma... - What's the hacksaw special? - Steak's a littler tough today. Mashed potatoes, s'il yous plait.
 ga221120 -- - Coffee, Garfield? No, thanks. I made my own. - - - - GLOP - You're a piece of work. LET'S GO MOUNTAIN CLIMBING!
 ga221121 -- Am I sleepy or hungry? - Maybe a little of both. - I'm sleengry.
+ga221122 -- Garfield... - All cats eat mice. Why don't you? - Dip them in Alfredo sauce with shredded mozzarella, and we'll talk.
+ga221123 -- BARK! BARK! BARK! BARK! BARK! BARK! - STOMP! -
