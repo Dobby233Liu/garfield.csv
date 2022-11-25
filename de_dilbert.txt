@@ -11156,3 +11156,5 @@
 221122 -- Ich habe 90% meiner Aufgaben in eine Open-Source-KI ausgelagert. ping! - Sie hat gerade meinen Zwischenbericht in dem mir eigenen Jargon verfasst. Das merkt kein Mensch. - "Der Bitflansch unterferiert den Fehlerlocus und erzeugt einen
 221122 -- Higgs-Spiegeleffekt." Klingt korrekt.
 221133 -- Ich glaube, ich beginne den Tag mit dem Beantworten der E-Mails. Sie haben 756 neue Nachrichten. - Nö... - Ich werde wohl wieder Allen erzählen müssen, ihre Mails seien nicht angekommen.
+221124 -- Sie wollen unser WLAN nachrüsten? Das ist die dümmste Idee, die ich je gehört habe. - Unser WLAN nachrüsten wäre so, als würde man einer Banane beibringen, Akkordeon zu spielen. - Inwiefern ist das vergleichbar? Mit Rückfragen hatte ich nicht
+221124 -- gerechnet.

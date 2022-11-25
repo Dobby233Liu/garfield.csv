@@ -142,6 +142,7 @@
 19950923 -- Ich bin klein-mein Herz ist rein... - ...soll niemand drin wohnen, als Du allein... - Papa hat Herzschrittmacher.
 19950925 -- Guten Morgen! Ich möchte mit Ihnen über Gott sprechen! Was? Ich glaub' nicht an Gott! - Tschüs. - Halb sieben! Der hat ja wohl... DING DONG ** ** DING DONG - Guten Morgen! Ich möchte mit Ihnen über Staubsauger sprechen! Ich sagte doch:
 19950925 -- Ich-glaube-nicht-an-Staubsauger!! Na, da werden wir uns aber gleich mächtig wundern!
+19950926 -- Mein Frau behauptet, ich wäre penibel... Die alte Schlampe. - - Sie müssen dringend Ihre Decke mal wieder streichen!
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -376,6 +377,7 @@
 20090523 -- Grillwürstchen haben! -
 20090527 -- Sie müssen mir jetzt meine Rechte vorlesen! Ihre was? Meine Rechte! Ich kenn mich aus! - Ach so...äh...pfff...ah, hier: Sie haben das Recht zu schweigen. Na also. Geht doch. - Nein. Geht nicht. Ah!
 20090709 -- Hallo! Ich bin der Holger! ...und wer bist Du? - Ich bin die Geissel der Menschheit... - Bei welchem Sender?
+20090711 -- Ich hab Dir die Batterien fürs Hörgerät auf den Tisch gelegt!! - Hörst Du? Jaja! Schon gesehen! - Die andere nehm' ich nach dem Essen...
 20090908 -- Machen Sie ihm was süsses freches zum Schulanfang! Und Du bist brav! Bis dann! - Was süsses freches...Du willst doch nur ein niedliches Klassenfoto zum Angeben! Aber hier geht es um mehr! - Machen Sie mir eine schicke Business-Frisur!
 20090910 -- Wie oft noch? Das kann ich so nicht annehmen. Sie müssen das Adressfeld schon ordentlich festkleben! Das hält. Das bezweifle ich. - He! Au! - Sehen Sie? Hält bombenfest. Diese Haftcreme ist ein Teufelszeug!
 20090918 -- Äh...bin ich die Einzige? Wo sind all die anderen? Im Heidepark Soltau. Betriebsausflug. - Das ist ja wie im Paradies! Oh nein! Schulz! - Er steuert die Achterbahn. Kamikaze
@@ -386,7 +388,7 @@
 20091030 -- Boah-krass! Das ist preisverdächtig! - HALLOWEEN Kostümwettbewerb Wow! - Nur gegen meine nBruder werden wir beim Gruselkopfwettbewerb keine Chance haben... Er hat seit letzte Woche seine Aknecreme abgesetzt.
 20091114 -- Einen Milchkaffee und...welchen Kuchen würden Sie mir empfehlen? Keinen. - Kindchen, da sind doch mindestens 10 Kuchen in der Vitrine! Und davon können Sie keinen empfehlen? Schantall? - Welchen von dem Kuchenzeug macht am wenigsten noch
 20091114 -- fetter?
-20091216 -- Wo sind denn die ganzen Weihnachtskekse? Dum einst "Weihnachtsplätzchen". - Kekse-Plätzchen...das ist doch das gleiche. Oh nein. - Plätzchen von Platzen.
+20091216 -- Wo sind denn die ganzen Weihnachtskekse? Du meinst "Weihnachtsplätzchen". - Kekse-Plätzchen...das ist doch das gleiche. Oh nein. - Plätzchen von Platzen.
 20091229 -- Wahres Schwimmen ist eine Kunst! Banal durchs Wasser zappeln ohne zu ersaufen kann jeder lernen. - Aber scheinbar schwerelos durch die FLuten zu gleiten, dazu braucht es Begabung! - Oder einfach genug Schaumstoff vor der Hütte.
 20100105 -- Und? Auch die üblichen guten Vorsätze für das neue Jahr? Die üblichen...? Na, mehr Bewegung und so. - Mehr Bewegung...Sie haben Recht, ich sollte mich wirklich mehr bewegen. Danke! Och-dafür nicht. Schulz! - 
 20100213 -- Ihr seid so peinlich! Wieso können Eltern nie zuhören?! - Wir haben gesagt, wir gehen als Na'vi, diese blauen Ausserirdischen aus dem Film Avatar! Wir alle! - Blau! Sag ich doch!
@@ -804,3 +806,5 @@
 20221121 -- Ey! Geht's noch?! Ich soll viel Bananen essen! Das ist gut für mein Hirn! Und wer hebt die ganzen Bananenschalen wieder auf? - Okay-ich glaub, jetzt hab ich alle! -
 20221122 -- Ich wollte nur mal ausprobieren, wie so ein cooler Haarknoten bei mir aussieht. Es heisst "Dutt". - Und ich hatte noch Sekundenkleber übrig. Oje, lass sehen! -
 20221123 -- Wenn ich fernsehe, schlaf ich immer ein. - Das liegt sicher am Programm. - Heisst so der neue Fernsehsessel von Ükea?
+20221124 -- Oh! Schon so spät! Da plaudert man und plaudert man...ich muss dann mal wieder! Danke für den Kaffee! Danke für den Leckeren Kuchen! - Das Rezept schick ich Dir! Tschüss, Horst! - Jetzt schluck ihn endlich runter!
+20221125 -- Die Hölle! Tatsächlich! Wie lange machen Sie das jetzt schon? Äonen. - Und sie arbeiten immer noch mit glühenden Kohlen und Dreizack? Hahaha, nein! - Wir haben jetzt auch Globuli!

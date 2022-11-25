@@ -17058,3 +17058,4 @@ ga221120 -- - Coffee, Garfield? No, thanks. I made my own. - - - - GLOP - You're
 ga221121 -- Am I sleepy or hungry? - Maybe a little of both. - I'm sleengry.
 ga221122 -- Garfield... - All cats eat mice. Why don't you? - Dip them in Alfredo sauce with shredded mozzarella, and we'll talk.
 ga221123 -- BARK! BARK! BARK! BARK! BARK! BARK! - STOMP! -
+ga221124 -- I fix your food, empty your litter box and wash your blanket...but what about MY needs, huh?! - What about MY needs?! See that? - That's how much I care.
