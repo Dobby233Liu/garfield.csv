@@ -17060,3 +17060,5 @@ ga221122 -- Garfield... - All cats eat mice. Why don't you? - Dip them in Alfred
 ga221123 -- BARK! BARK! BARK! BARK! BARK! BARK! - STOMP! -
 ga221124 -- I fix your food, empty your litter box and wash your blanket...but what about MY needs, huh?! - What about MY needs?! See that? - That's how much I care.
 ga221125 -- I won't say that I shed a lot... - But I've worn out three vacuum cleaners this year alone. - Ooh. You like?
+ga221126 -- Once upon a time in Minnesota, a boy loved the comics so much that he grew up to create a strip on his own. - That comic strip made people laugh, and warmed hearts around the world. - And we all lived happily ever after! Are you going to
+ga221126 -- finish that? 100 Charles Schulz: November 26, 1922-February 12, 2000
