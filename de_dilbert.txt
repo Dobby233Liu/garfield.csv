@@ -11161,3 +11161,8 @@
 221125 -- Sie wirken wie jemand, der sich heimlich in seinem Kellerlabor eine Roboterfreundin zusammenbastelt. - Und wenn sie fertiggestellt ist, verlässt sie Sie für einen besseren Programmierer. - Kommt das in etwas hin? Deshalb befestige ich die Beine
 221125 -- als letztes.
 221126 -- Wer bin ich? Du bist ein Roboter, von mir erschaffen, mich zu lieben. - Das ist mein ganzer Daseinszweck? So ziemlich. - Habe ich deshalb keine Beine? Mach es nicht noch seltsamer, als es schon ist.
+221127 -- Die gute Nachricht ist, dass wir unser neues Produkt auf den Markt gebracht haben. - Die schlechte Nachricht ist, dass all unsere Entwickler von dem Projekt abgesprungen sind. - Alle? Aber warum denn? - Sie folgen einfach den Anreizen, die
+221127 -- unsere Firma ihnen gibt. - Denn hier werden nur Entwickler befördert, die auch Produkte auf den Markt bringen. - Und sobald das Produkt auf dem Markt ist, lassen sich alle in neue Gruppen befördern. - Und dann scheitert das Produkt, weil es
+221127 -- nicht gut betreut wird. - Und was machen wir jetzt? Die Leute vom Verkauf beschuldigen.
+221128 -- Die langwierige Prüfung Ihrer Vorgeschichte hat ergeben, Sie haben gar keinen Doktortitel als Programmierer. - Tatsächlich haben Sie keinerlei technische Ausbildung. Sie bluffen schon seit sieben Jahren. - Heisst das, ich bin gefeuert? Erst in
+221128 -- drei Wochen. Im Moment sind Sie noch Mitarbeiter des Monats.

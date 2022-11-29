@@ -14266,3 +14266,8 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221123 -- I think I'll start the day by answering emails. you have 756 messages. - Nope. - Looks like another week of telling people their emails didn't come through.
 221124 -- You want to upgrade our Wi-Fi? That's the dumbest idea anyone ever had. - Upgrading our Wi-Fi would be like teaching a banana to play the accordion. - In what way are those things similar? I wans't expecting follow-up questions.
 221125 -- You seem like the kind of guy who is secretly building a robot companion in his basement lab. - And when it is complete, it will leave you for a better engineer. - Am I close? That's why I install the legs last.
+221126 -- Who am I? You are a robot designed to love me. - That's my whole purpose? Pretty much. - Is that why I don't have legs? Stop making this weird.
+221127 -- The good news is that we launched our new product. - The bad nesa is that allof of the engineers left the project. - All of tham? Why would they leave? - They're following our corporate incentives. - The only engineers this company promotes are
+221127 -- the ones who launch projects. - So as soon as the product is launched, all of the engineers leave for promotions in other groups. - Then the product fails for lack of good engineering. - Then what do we do? We blame the sales team.
+221128 -- We finally got around to checking your background, and it turns out you don't have a Ph.D. in engineering. - In fact, you don't have any technical training whatsoever. You have been bluffing for seven years. - So...am I fired? Not for threee
+221128 -- weeks. You're still Employee of the Month.

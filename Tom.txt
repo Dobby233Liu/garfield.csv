@@ -145,6 +145,10 @@
 19950926 -- Mein Frau behauptet, ich wäre penibel... Die alte Schlampe. - - Sie müssen dringend Ihre Decke mal wieder streichen!
 19950927 -- ** Gulligulligulli! - Na los, Kurzer! "Alle" auf einmal! He he... -
 19950928 -- Good Girls go to Heaven - Bad Girls go Everywhere - Tough Girls go Postamt ***
+19950929 -- Ah! Ich liebe die Endreinigung der Schwimmbecken! Dieses bäuerliche Gefühl des Erntens... - Münzen, Ringe, Uhren, Goldketten... - Und eine tip-top abgeschlossene Erfolgsstatistik... Fünf...
+19950930 -- chrr... BEDIENUNG!! - Was? Ja! Hier! He! Mein Ausweis!! - Mitten aufs Gesicht! Gelernt ist gelernt...
+19951002 -- Weia! Morgen kauf ich mir gleich 'n Paar neue Socken... Vergiss es. Was denn, haste Stopfen gelernt? - Morgen is' Feiertag--- Feiertag? Tag der Deutschen Einheit... Das wird gefeiert? - Nach Onkel Willis Begräbnis hamm' wir doch auch
+19951002 -- gefeiert! Stimmt...danach gings auch vielen schlecht...
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -283,6 +287,8 @@
 20040305 -- Hmmmm... Na los, frag schon! - Weisst Du, was eine Kettenreaktion ist? Natürlich. In Bezug auf die Chemie? Oder i Bezug auf die Kernphysik...? - In Bezug auf Deine Haftpflichtversicherung...
 20040326 -- Ka-tschumm! Ka-tschumm! Na los! Komm schon! Komm! Ka-tschumm! Keine Reaktion! - Mehr Saft! Schnell! Ich erhöhe auf "Leinen"! - Verdammt! Wir verlieren ihn!
 20040717 -- Die Leute sind echt Arschlöcher! Keiner hat mich lieb... Wem sagen Sie das... - Auch Lehrere? Meteorologe. -
+20040724 -- Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! - Haben Sie jetzt entgültig einen Sprung in der
+20040724 -- Platte? - He! War das meine Idee, die Dinger nur noch im Zehnerpack zu verkaufen?!
 20040903 -- ** Ding-Dong ** Ah-Hallo! Kommt rein! - Da ist noch Wasser und Cola. Die anderen sind schon alle drüben. ? ? Ist nicht mehr viel. - Nudelsalat und Bier gibts in der neuen Wohnung!
 20040907 -- Hilfe! Kann vielleicht mal jemand diese grässliche Kreischsäge abstellen?! * - Ein paar Briefmarken! Schnell! Schnell! Hier! Hier! - 
 20041006 -- HALT! Kann ich mal sehen, was Du in Deinen Taschen hast? Was? Wer? Ich? Nix! - Fünf Kilo Gummibärchen! Einfahc mitgehen lassen! Woanders würden Sie Dur die Hand dafür abhacken! Ach was! Bei Penny erwischen die mich nie!
@@ -412,7 +418,7 @@
 20110411 -- Entspann Dich! Du wirst nicht ertrinken. Ich bin Doch bei Dir. - Kann ich eine Augenbinde haben? Das ist doch keine Hinrichtung! - Nennen wir es Blindverkostung.
 20110521 -- HUCH! ? - Mein Stock ist abgebrochen! Einfach so! Sabotage! Da sind tiefe Kerben! - Was lief denn gestern im Seniorenkino? Ben Hur!
 20110716 -- Als es zu Ende ging, sah ich ein helles Licht am Ende des Tunnels! Ein helles Licht? Eher links oder rechts? - Was...äh...also, vom Bett aus gesehen, eher so rechts im Tunnel Schulz! - Dein rechter Scheinwerfer ist im Einer.
-20010719 -- Jeder nur einen Müsliriegel! Und zeigt ihn der Tante, hört Ihr? Ich warte bei den Rädern! - Kasse Zwo Oh! ? - Ihr seid sicher eineiige Zwillinge!
+20110719 -- Jeder nur einen Müsliriegel! Und zeigt ihn der Tante, hört Ihr? Ich warte bei den Rädern! - Kasse Zwo Oh! ? - Ihr seid sicher eineiige Zwillinge!
 20110723 -- Machen wirs kurz, ich hab gleich Feierabend. Ich: Gute Fee. Du: Einen Wunsch frei. Zeit: läuft. - Ich wünsche mir, dass alles, was ich berühre, zu Gold wird! Du kriegst da'n Pickel auf der Nase. -
 20110820 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum. Wow! - Darf ich ein Foto machen? Das mail ich meinen Freunden in Schweden! ` Bringen Sie es persönlich hin! Am besten gleich. Tschüs! - ÜKEA RANKHILFE UMÄRMLA EUR 4,99
 20110913 -- Man hat ihn in der Sanitärabteilung gefunden. Völlig dehydriert. Er muss schon den ganzen Tag hier herumgelaufen sein. Die Füsse sind voller Blutblasen. - Du wolltest doch nur ein kleines Dingsbums kaufen! Haben sie nicht. Hast Du mal
@@ -425,6 +431,7 @@
 20111126 -- Wachsfigurenkabinett. - Natürlich ausschliesslich bei pubertierenden Schulklassen!
 20111217 -- Ich sehe in Mittelgebirge im Osten. Und ich sehe ein grosses Laster... R - Das ist völlig unmöglich! Sie wusste, dass ich auf dieser Gesundheitsranch war! Die kennt mich doch gar nicht! Was für eine Ranch? Meine Entziehungskur! Vier Wochen
 20111217 -- Nichtrauchen! - Das has ihr der Teufel gesagt! Original Räuchermännchen Erzgebirge R R
+20111224 -- Fröhliche Weihnachten! Danke, Sie mich auch! - Boah, stinkt das hier immer so höllisch? Nur an Weihnachten. Was ist das? Schulz. - Er geht vor Ladenschluss gerne noch schnell durch die Parfümabteilungen und lässt sich besprühen.
 20120202 -- Frostschutzmittel. Bis Minus 50 Grad. Wow! Nicht trinken! Das ist ungesund! - Für wie bescheuert hälst Du mich eigentlich? - Furchterliche Kälte, was? Aber manche sind echt hart. Im Hof steht so ein Knirps, splitternackt! Und schmiert sich
 20120202 -- mit irgendwas ein.
 20120414 -- Äh-erinnnern Sie sich an meine letzten Worte? Ich nämlich nicht. Was ist heute für ein Tag? - Samstag. Vermutlich: "Oh, geil!" Oh. Sicher? Ja. - Samstags trägt er immer dieses blöde T-Shirt.
@@ -554,6 +561,7 @@
 20180130 -- Oh-oh! Hat da etwa jemand einen Stinker gemacht? - Da schauen wir doch gleich mal nach! - * AU!
 20180410 -- Rasieren, bitte! Gerne. Stellen Sie Ihr Handy bitte auf Flugmodus! - Aber wir fliegen doch gar nicht! Und das wollen wir auch nicht. - Sie nicht, ich nicht und Ihre Nase nicht, Wenn Sie im falschen Moment Ihre Nachrichten checken!
 20180531 -- Drei Kugeln, bitte... Schoko-Bärluch... Käse-Karamell... und Vanille-Wespe. Becher oder Waffel...? - Wir machen die Waffeln selber! Dann Waffel! Waffel!! - Wir üben noch...
+20180606 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... He! Sie! - Ich glaub, ich hab da hinten einen Wolf gesehen! - - Den Baum ersteigen...Kuscheln mit den Zweigen...eins werden mit dem Baum...
 20180920 -- Heute ist Weltkindertag! Wow, ja! Stimmt! - Was wollen wir machen? Wir?! Also, ich geh mich amüsieren! Und wir? Ihr nicht. - Ihr müsst Kinder machen.
 20181201 -- Tag, ich brauch einen Kühlschrank. Sie haben Glück! Die neuen Modelle sind gerade reingekommen! - Hier: Unser Topmodell! Mit Internet und Blutuut! Kauf, wenn mal was alle ist, eigenständig ein! Aber schauen Sie sich ruhig um! Wenn Sie Fragen
 20181201 -- haben... - Muss ich da den Gästeschlüssel reinlegen oder klingelt der?
@@ -814,3 +822,4 @@
 20221124 -- Oh! Schon so spät! Da plaudert man und plaudert man...ich muss dann mal wieder! Danke für den Kaffee! Danke für den Leckeren Kuchen! - Das Rezept schick ich Dir! Tschüss, Horst! - Jetzt schluck ihn endlich runter!
 20221125 -- Die Hölle! Tatsächlich! Wie lange machen Sie das jetzt schon? Äonen. - Und sie arbeiten immer noch mit glühenden Kohlen und Dreizack? Hahaha, nein! - Wir haben jetzt auch Globuli!
 20221126 -- Hallo, ich bin die Auf-dem-Nachhauseweg-Fee, und Du darfst Dir noch schnell was wünschen. Hallöchen, junge Dame! Das ist aber bezaubernd! - Ich wäre gerne wieder knackiger! - Sind das Deine Hüften, oder bist Du auf Mikadostäben gelatscht?
+20221128 -- Warum machst Du keinen Schwimmkurs bei den Schreihälsen? Weil es das Internet gibt? - Hier-ich hab ein super Tutorial gefunden! Bei "Naturschwimmen"! - Hier steht "Bimsstein"? Bimsstein ist zu teuer. Der ist regional und tut's sicher auch!
