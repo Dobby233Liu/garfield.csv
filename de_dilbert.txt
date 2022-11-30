@@ -11166,3 +11166,5 @@
 221127 -- nicht gut betreut wird. - Und was machen wir jetzt? Die Leute vom Verkauf beschuldigen.
 221128 -- Die langwierige Prüfung Ihrer Vorgeschichte hat ergeben, Sie haben gar keinen Doktortitel als Programmierer. - Tatsächlich haben Sie keinerlei technische Ausbildung. Sie bluffen schon seit sieben Jahren. - Heisst das, ich bin gefeuert? Erst in
 221128 -- drei Wochen. Im Moment sind Sie noch Mitarbeiter des Monats.
+221129 -- Ich habe mich endlich durch den Rückstau der Prüffälle zur Vorgeschichte der Mitarbeiter gekämpft. - Es stellte sich heraus, dass ein Drittel unsere rangestellten Kriminelle sind, die die Identitäten ihrer Opfer verwenden. - Dennoch sind unsere
+221129 -- Gewinne auf einem Allzeithoch. Puh! Und ich dachte schon, wir hätten ein Problem.

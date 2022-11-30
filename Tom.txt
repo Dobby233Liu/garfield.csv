@@ -149,6 +149,7 @@
 19950930 -- chrr... BEDIENUNG!! - Was? Ja! Hier! He! Mein Ausweis!! - Mitten aufs Gesicht! Gelernt ist gelernt...
 19951002 -- Weia! Morgen kauf ich mir gleich 'n Paar neue Socken... Vergiss es. Was denn, haste Stopfen gelernt? - Morgen is' Feiertag--- Feiertag? Tag der Deutschen Einheit... Das wird gefeiert? - Nach Onkel Willis Begräbnis hamm' wir doch auch
 19951002 -- gefeiert! Stimmt...danach gings auch vielen schlecht...
+19951004 -- Sooo...alle Becken leer? Ja, Chef! Gut... Öh...Chef? - Oh... - Stell 'n Eimer drunter...
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -535,6 +536,8 @@
 20160920 -- Was ist das? Gebratene Scheinepimmel. Geil! - Was ist das wirklich? Sojaveggie-Wiener. Geil! - Deine Kinder essen sogar Grützwurst? Geil! Wie schaffst Du das? Küchenpopulismus!
 20161015 -- Ah, Du warst einkaufen, sehr schön! ...was ist das? Badetabs! Gibts gerade im Angebot. Papaya...Butter...Milch...Kakao...Mango...Kiwi... - Such uns was leckeres aus! Ich ziehe blind! - Riecht gut! Blubbert aber gar nicht! Brühwürfel machen
 20161015 -- keine Bläschen!
+20161025 -- Morgen! Ich glaub, ich hab vergessen, den Herd auszumachen! Ich muss nochmal hoch. Ich komm gleich nach. Bis später! - Klöpke wieder! Ich kann das ganz cool mit dem Smartphone checken. In einer Sekunde-von überall! - Er kann sich ganz cool
+20161025 -- noch mal ein halbes Stündchen aufs Ohr legen.
 20161124 -- Du warst beim Sport? Habt Ihr einen Babysitter? Ich mach jetzt Babysport! - Rennen mit Baby, Sit-Ups mit Baby und Babystemmen für die Muckis! Obwohl, ans Hantel ist er fast schon zu schwer! Haha! Wo ist denn der kleine Moppel? - Ich müsste
 20161124 -- nochmal in den Geräteraum.
 20170420 -- Au! Au! Der beisst! Der beisst! Mein Bein! Mein Bein! Hast Du das Pfefferspray dabei? Nein! - Au! Dein Parfüm! Nimm Dein Parfüm! Au! Au! Rückzug! - Iiiih! Ich stink nach alte Tante!
@@ -823,3 +826,4 @@
 20221125 -- Die Hölle! Tatsächlich! Wie lange machen Sie das jetzt schon? Äonen. - Und sie arbeiten immer noch mit glühenden Kohlen und Dreizack? Hahaha, nein! - Wir haben jetzt auch Globuli!
 20221126 -- Hallo, ich bin die Auf-dem-Nachhauseweg-Fee, und Du darfst Dir noch schnell was wünschen. Hallöchen, junge Dame! Das ist aber bezaubernd! - Ich wäre gerne wieder knackiger! - Sind das Deine Hüften, oder bist Du auf Mikadostäben gelatscht?
 20221128 -- Warum machst Du keinen Schwimmkurs bei den Schreihälsen? Weil es das Internet gibt? - Hier-ich hab ein super Tutorial gefunden! Bei "Naturschwimmen"! - Hier steht "Bimsstein"? Bimsstein ist zu teuer. Der ist regional und tut's sicher auch!
+20221129 -- Er verprügelt jeden, der in den Sandkasten will" Ja weil er Angst hat. Der Trick ist intelligente Tarnung. - - Das war ein Erfolg! Er hat gelacht, bevor er Dich verprügelt hat!
