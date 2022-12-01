@@ -11168,3 +11168,5 @@
 221128 -- drei Wochen. Im Moment sind Sie noch Mitarbeiter des Monats.
 221129 -- Ich habe mich endlich durch den Rückstau der Prüffälle zur Vorgeschichte der Mitarbeiter gekämpft. - Es stellte sich heraus, dass ein Drittel unsere rangestellten Kriminelle sind, die die Identitäten ihrer Opfer verwenden. - Dennoch sind unsere
 221129 -- Gewinne auf einem Allzeithoch. Puh! Und ich dachte schon, wir hätten ein Problem.
+221130 -- Wally, können Sie uns auf den neusten Stand bringen? - Ja. Ich habe die wichtigsten Erkenntnisse zur Anwendung gebracht, um die Team-Synergien zu maximieren. Jetzt entwickele ich eine Strategie, die szu skalieren, ohne dass wir uns dabei
+221130 -- übernehmen. - Ist daran irgendwas real? Es ist eine Grauzone.
