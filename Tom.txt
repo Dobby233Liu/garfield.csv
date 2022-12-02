@@ -151,6 +151,7 @@
 19951002 -- gefeiert! Stimmt...danach gings auch vielen schlecht...
 19951004 -- Sooo...alle Becken leer? Ja, Chef! Gut... Öh...Chef? - Oh... - Stell 'n Eimer drunter...
 19951005 -- DAGSI!! - Wohin? Heim... - Heimstrasse ? ? ? ? ? ? ? ? ? ? ? ?
+19951006 -- Mehr Wasser! - Oh... - Sanitäter!
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
@@ -261,6 +262,7 @@
 20030211 -- Also, halbrechts ist eine Abfahrt für Anfänger, recht leicht. Weiter rechts für Fortgeschrittene... Und links, da muß man schon sehr gut sein! Wie gut sind Sie? - Naja-sagen wir mal, die Richtung steht fest-was ist mit geradezu runter? Das
 20030211 -- ist für Anfänger... - ...im Gleitschirmfliegen...
 20030219 -- - Oh! Mama! Mama! Kuck! Da! - Der Verkehrskasper! *
+20030301 -- Diesmal entkommt er mir nicht! Heute werde ich ihn küssen! - Ich habe nämöich aus sicherer Quelle erfahren, dass er als Frosch verkleidet kommt... Ah! Deshalb das Prinzessinenkostüm! Na dann: Schnapp ihn Dir! -
 20030315 -- Gute Güte! Ich sage Dir...sobald das Wetter schön wird, lassen sie wieder die Bekloppten von der Leine! - Im Laden war eben einer von diesen Leuten, die immer so zwanghaft laut reden müssen...wie nennt man sowas gleich? - Lehrer.
 20030329 -- Ich meine ja nur, dass Du ihn langsam mal ein bisschen abnabeln könntest... Ich habe dieses Kind nicht unter entsetzlichen Schmerzen und dem Einsatz meines Lebens geboren, ... - ---um es dann sofort in diesen Dschungel da draussen zu
 20030329 -- stossen! Hubert! Trink Deinen Saft, wir gehen!
@@ -272,6 +274,7 @@
 20030917 -- Viel zu tun, was? Na, Hauptsache, der Laden brummt! - Was ist das hier? Ein mittelständisches Unternehmen oder was? Mein Laden brummt nicht. - Mein Laden kreischt!
 20031011 -- Okay-es verkauft sich noch nicht so gut wie das Geschwalle von diesem singenden Nussknacker-aber das wird noch! Ihre Autobiographie ist der absolute Hammer, Sie alter Schwerenöter! Hehehe... - Die alte Dame hier zum Beispiel. Die mit dem
 20031011 -- roten Kopf. Kann gar nicht aufhören zu lesen! - Das ist meine Mutter...
+20031025 -- Achtung! Jungs... - ** hihihihihihihihihihihihihihihihihihihihihihihihih ** ? ? - Frauenversteher sind ein Märchen!
 20031101 -- Ich bin ja eher so der flotte Frühlingstyp, sagt meine Typberaterin und ich krieg ja auch gleichDepris, wenn ich jetzt aus dem Fenster schaue... Und dann auch noch diese beknackte Zeitverdreherei! - Wenn ich dran denke, dass es jetzt da
 20031101 -- draussen um diese Uhrzeit schon wieder total... Nicht! ...dunkel ist... - Marke To Die For Postbank chrrr... Bravo!
 20031120 -- Muss das sein, so früh? Sonst gehen uns die Frühschichtler durch die Lappen. Ausserdem sind müde MEnschen viel ruhiger. - ngdingdongdingdongdingdong HRRRR! - chrrr...
@@ -445,6 +448,7 @@
 20120519 -- DR.SPECHT IST EIN DOFER LEHRER UND WIR WISSEN WO ER WOHNT! ANONYMUS - Ey-Klöppi! Neben Deinem Graffiti an der Turnhalle hängt ein Zettel! - Anonymus hat eine signifikante Sauklaue, heisst Andreas Klöpke, und ich habe die Telefonnummer seiner
 20120519 -- Eltern. Dr. Specht
 20120609 -- Was tust Du?! - Ballast abwerfen! Ich befreie mich von diesem albernen Sport! Endlich! - Ich habe keine Lust mehr, meine Zeit mit zwei Stäben in den Händen zu verbringen! - 761 167
+20120707 -- Echt jetzt? Ich hab einen Wunsch frei? Egal was? Ja! Abe presto! - Ich hätte gern einen längeren! Hihi! Sie wissen schon! -
 20120918 -- Ich will nicht zu den hyperaktiven verhaltensgestörten Minimachos und den überkandidelten Heulsusen-Prinzessinen Mit Blödmann-Eltern! Aber da sind doch auch ganz viele nette andere Kinder. - Die sind alle doof wie nasser Torfsoden oder
 20120918 -- platzen bald, weil ihre Eltern sie mit Mist vollstopfen! Moment! - Ist Deine Mama Lehererin? Nein! Sie ist Burnout!
 20121103 -- Hat er gekackt? Und hast Du es eingesammelt? Ordentlich! Aber ich konnte es nicht einsammeln, weil... Papperlapapp! Dein Hund, Dei Geschäft! - Du gehst jetzt so fort zurück und machst die Kacke hier in die Tüte! Keine Widerrede! Ab! - ?
@@ -577,6 +581,7 @@
 20180303 -- Ja, wo ist denn jetzt der Jubilar? Der kommt schon. Sie kennen doch den Bernstein! Der hat sicher unterwegs inrgendwas entdeckt, was er noch schnell zeichnen muss! - Ey, habt Ihr schon gehört? Der Spielberg dreht hier irgendwo die
 20180303 -- Völkerschlacht bei Leipzig! - Dann kanns dauern.
 20180404 -- Was ist los? Du bist heute so auffallend still... Ich glaub, ich hab 'n Burnout. Bretter da mal übers Kopfsteinpflaster! - Ah! ja! Gut! Geht wieder! - Ey! Abstand halten, Du Pimmelnase!
+20180428 -- Hi, ich bin die danke-keinen-Kaffee-ich-muss-gleich-weiter-Fee, und Du darfst Die jetzt oder nie was wünschen! - Dann wünsche ich mir ein superlanges sorgenloses Leben! -
 20180509 -- Ich werde erpresst! Die haben mich gefilmt! Mit meinem eigenen Computer! In der Mail steht, wenn ich nicht bezahle, stellen sie den Film ins Internet! - Na und? Du machst doch keine peinlichen Sachen vor dem Computer. Oder? Horst? Horst! -
 20180509 -- Ich hab neulich heimlich versucht, Yoga zu machen! Bezahl!
 20180526 -- Hallo, ich bin die was-mach-ich-hier-eigentlich-noch-Fee, und Du darfst Dir was wünschen! Aber hurtig! - Respekt! Ich will Respekt! -
@@ -830,3 +835,5 @@
 20221128 -- Warum machst Du keinen Schwimmkurs bei den Schreihälsen? Weil es das Internet gibt? - Hier-ich hab ein super Tutorial gefunden! Bei "Naturschwimmen"! - Hier steht "Bimsstein"? Bimsstein ist zu teuer. Der ist regional und tut's sicher auch!
 20221129 -- Er verprügelt jeden, der in den Sandkasten will" Ja weil er Angst hat. Der Trick ist intelligente Tarnung. - - Das war ein Erfolg! Er hat gelacht, bevor er Dich verprügelt hat!
 20221130 -- Aaah! Ruf die Polizei! Klöpkes! Ermordet! Alle beide! Sie liegen am Boden! Im Wohnzimmer! Aaah! Na, endlich! - Das wurde aber auch langsam Zeit! - Die haben ewig auf ihre Fussbodenheizung gewartet!
+20221201 -- ** Hallo! ** Hallo! Wuff! - Jetzt haben die auch'n Hund! Ist das jetzt Mode? Du weisst doch: "Das letzte Kind hat Fell!" - ---und das ist Robert, unser Jüngster! Ja, das sieht man!
+20221202 -- Sagen Sie dem Herrn am Bremsschalter, dass hier hinten rasend schnell die Geduld ausgeht! - Sagen Sie der Oma aus der Schreitherapiegruppe: "In der Ruhe liegt die Kraft"! - Was hat sie geflüstert? "Der kann vor Kraft kaum laufen!"
