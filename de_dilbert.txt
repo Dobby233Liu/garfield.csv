@@ -11171,3 +11171,5 @@
 221130 -- Wally, können Sie uns auf den neusten Stand bringen? - Ja. Ich habe die wichtigsten Erkenntnisse zur Anwendung gebracht, um die Team-Synergien zu maximieren. Jetzt entwickele ich eine Strategie, die szu skalieren, ohne dass wir uns dabei
 221130 -- übernehmen. - Ist daran irgendwas real? Es ist eine Grauzone.
 221201 -- Ich habe Dogbert als Berater engaghiert, damit er mir bei dern Entscheidung hilft, wen ich feuern soll. - Welche Kriterien kommen dabei zum Einsatz? - Mein Fokus wird auf die MEnschen gerichtet sein, die diese Frage stellen.
+221202 -- Am Freitag erhalten Sie alle eine E-Mail, die Sie darüber informiert, ob Sie hier noch arbeiten oder nicht. - Bis dahin läuft alles wie gewohnt. - Ist Sabotage durch die Mitarbeiter verbreitet genug, dass man sie als "wie gewohnt" bezeichnen
+221202 -- kann? Ja, aber übertreiben Sie's nicht.

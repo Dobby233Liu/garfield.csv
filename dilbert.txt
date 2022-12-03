@@ -14275,3 +14275,4 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221129 -- to say it was a problem.
 221130 -- Wally, can you give us an update? - Yes, I implemented key learnings to maximize team synergies, and now I am strategizing a plan to scale it without boiling the ocean. - Was any of that real? It's a gray area.
 221201 -- I hired the Dogbert Consulting Company to help me decide who to lay off. - What criteria will you use? - My focus will be on people who ask that question.
+221202 -- On friday, you will all get an email informing you whether or not you are still employed. - Until then, business as usual. - Is employee sabotage common enough to be business as usual? Yes. Don't overdo it.

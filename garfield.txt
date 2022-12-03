@@ -17067,3 +17067,4 @@ ga221128 -- - Yes! - Zero steps today!
 ga221129 -- I am the master of my own destiny! - - Okay, "Master," destiny is calling. GARFIELD
 ga221130 -- "Dear Ask A Dog, what do you give someone with a new puppy?" - I'll take this one, Odie. - A sympathy card.
 ga221201 -- - This box is almost perfect. It just needs a dessert bar and a cappuccino maker.
+ga221202 -- Garfield's blog: What I did last summer - delete delete delete - What I ate last summer.
