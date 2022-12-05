@@ -152,7 +152,9 @@
 19951004 -- Sooo...alle Becken leer? Ja, Chef! Gut... Öh...Chef? - Oh... - Stell 'n Eimer drunter...
 19951005 -- DAGSI!! - Wohin? Heim... - Heimstrasse ? ? ? ? ? ? ? ? ? ? ? ?
 19951006 -- Mehr Wasser! - Oh... - Sanitäter!
-19951007 -- Na, mein Sohn, was swillst Du denn mal werden... ...wenn Du gross bist? - Na, Basketballprofi! Oh...klar...toll. Was sonst... - Jockey.
+19951007 -- Na, mein Sohn, was willst Du denn mal werden... ...wenn Du gross bist? - Na, Basketballprofi! Oh...klar...toll. Was sonst... - Jockey.
+19951009 -- Fundamentale Erkenntnisse kündigen sich nicht an. Sie sind einfach da. Wie in Granit gemaisselt. - Ich bin ein Mann! Vorbei die Zeit der Kindergeburtstagserotik! - Und sie hat meine Augen geöffnet: Eine richtige Frau!
+19951010 -- Wieviel Zeit vergeudet Mann mit pubertierenden Kleinhirnträgerinnen, die es nicht nachvollziehenb können, - wenn männliche Analytik "o.b." für die korrekte Abkürzung von "Oberbürgermeister" hält... - SIE trägt sicher Damenbinden! ?
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
@@ -267,6 +269,7 @@
 20030315 -- Gute Güte! Ich sage Dir...sobald das Wetter schön wird, lassen sie wieder die Bekloppten von der Leine! - Im Laden war eben einer von diesen Leuten, die immer so zwanghaft laut reden müssen...wie nennt man sowas gleich? - Lehrer.
 20030329 -- Ich meine ja nur, dass Du ihn langsam mal ein bisschen abnabeln könntest... Ich habe dieses Kind nicht unter entsetzlichen Schmerzen und dem Einsatz meines Lebens geboren, ... - ---um es dann sofort in diesen Dschungel da draussen zu
 20030329 -- stossen! Hubert! Trink Deinen Saft, wir gehen!
+20030412 -- Interessante Tätowierung... - Nettes Piercing! - ALLES ORIGINAL!
 20030514 -- Du sitzt schon wieder vor der dämlichen glotze. Oh, Ihr Maschinenstürmer! Werdet Ihr nie die Faszination Internet begreifen! - Ich hole uns die relae Welt ins Wohnzimmer! Da: Das ist eine Live-Kamera! Das kannst Du rund um die Uhr sehen, was
 20030514 -- gerade auf der anderen Seite der Welt passiert! Wahnsinn! - Aha..oh-was war das? Da ist eben in China ein Sack Reis umgefallen.
 20030524 -- Schauen Sie sich das gut an, Jasmin! Kein besonders schöner Anblick, gewiss... Aber stellen Sie sich mal vor, wieviel dadrin schon zerkleinert worden ist! - Und das alles! - Darf ich nach Hause? Mir ist schlecht... Mir auch!
@@ -424,7 +427,7 @@
 20110324 -- Hast Du das Kostüm zu heiss gewaschen? Nein, der Herr Osterhase ist fett geworden. - Egal, dann versteck ich die Eier eben schnell so. Und wenn sie Dich sehen? Lass ihnen doch noch ein bisschen Illusion!
 20110411 -- Entspann Dich! Du wirst nicht ertrinken. Ich bin Doch bei Dir. - Kann ich eine Augenbinde haben? Das ist doch keine Hinrichtung! - Nennen wir es Blindverkostung.
 20110521 -- HUCH! ? - Mein Stock ist abgebrochen! Einfach so! Sabotage! Da sind tiefe Kerben! - Was lief denn gestern im Seniorenkino? Ben Hur!
-20010702 -- Zum ersten... Zuuum zweiten... - ...zuuuuuuuuum dritten! - Dieser wunderschöne kleine Orgasmus geht an den Herrn hier oben!
+20110702 -- Zum ersten... Zuuum zweiten... - ...zuuuuuuuuum dritten! - Dieser wunderschöne kleine Orgasmus geht an den Herrn hier oben!
 20110716 -- Als es zu Ende ging, sah ich ein helles Licht am Ende des Tunnels! Ein helles Licht? Eher links oder rechts? - Was...äh...also, vom Bett aus gesehen, eher so rechts im Tunnel Schulz! - Dein rechter Scheinwerfer ist im Einer.
 20110719 -- Jeder nur einen Müsliriegel! Und zeigt ihn der Tante, hört Ihr? Ich warte bei den Rädern! - Kasse Zwo Oh! ? - Ihr seid sicher eineiige Zwillinge!
 20110723 -- Machen wirs kurz, ich hab gleich Feierabend. Ich: Gute Fee. Du: Einen Wunsch frei. Zeit: läuft. - Ich wünsche mir, dass alles, was ich berühre, zu Gold wird! Du kriegst da'n Pickel auf der Nase. -
@@ -490,6 +493,8 @@
 20140717 -- Lange nicht gesehen... Ich hab' eine Freundin auf einer Kreuzfahrt begleitet... Toll! Karibik? Hurtigruten? Santiago de Compostela. - Sie meine, Sie waren auf einer Pilgerfahrt. Mit dem Bus! Non Stop! Klo auf dem Gang! Und es wurde gesungen!
 20140717 -- - Das kam einer Kreuzigung schon sehr nahe.
 20140730 -- Der Fahrstuhl ist defekt. Viel Spass! - Können Sie uns mitnehmen? GUCKSTDU CLEAN Eigentlich nicht. Aber...? - Hanni Nanni
+20140816 -- Das tut mir echt leid mit Ihren Pflanzen. Ich hab' die echt total viel gegossen! Ständig. Aber irgendwie kann ich mit denen nicht. - Am ärgsten tut mir der Gummibaum leid. Der sah so toll aus! Und jetzt ? Braun und labbrig... Dabei hab' ich
+20410816 -- mich um den am meisten gekümmert. - Der ist aus Plastik.
 20140825 -- Und Du lernst nachher schwimmen, Freundchen! Haha! Hören Sie auf! Sie sind doch gar nicht für mich zuständig! Sie sind doch der Schwimmeister. Ich bin aber Nichtschwimmer! - Für mich ist der Nichtschwimmermeister zuständig! - Der ist
 20140825 -- ertrunken.
 20140913 -- Hallihallo! Ich bin die gute Fee und hätte noch einen Wunsch zu vergeben! Interesse? Dann aber hurtig! - Ich hätte gerne Superkräfte! - Das ist der Herr Knöbl, der starrt bei uns die Löcher in den Käse.
@@ -527,6 +532,8 @@
 20160126 -- Und Sie können mit dem Messer auch umgehen? Wie ein Samurai! JA dann... - Aus dem Weg! Ich muss nochmal zum Kühlschrank! ? Notarzt - Sie müssen Ihre Gefrierbeutel besser beschriften! Ich hätte ihm fast eine Garnele an den Kopf genäht!
 20160219 -- Das sind keine Smilies, das sind Emojis. Und was machst Du damit? Gefühle übermitteln? - Eineeinemarkmarke, bitte! Moment... - *
 20160308 -- Ich weiss, mein Zöpfchen ist total old school! Aber ich hänge nun mal dran. Das Zöpfchen bleibt! - Aber vielleicht hat der Profi ja eine Idee, wie man es am besten geschickt integrieren kann! - DYNAMIT
+20160312 -- Nur ein grosses Glas lauwarmes Wasser, bitte. Ich entschlacke! Hier?! Es ist Ihr Kuchen, der sich in mir abgelagert hat! - Danke. Bäh! Schmeckt scheusslich, ist aber auf Naturbasis und wirkt verlässlich nach genau zwanzig Minuten! Sollten Sie
+20160312 -- mal probieren! - Lieber nicht. Könnte ich gleich kassieren? Wir schliessen in einer Viertelstunde.
 20160322 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... Oh ja... - Ach Baum, Du gibst mir immer so viel Kraft! Danke! - Fertig mit Tanken? Darfs noch ein Heissgetränk sein oder was Süsses oder Deftiges auf den Weg?
 20160324 -- Äh...ja...ich sehe Glück in der Liebe. Und ja, ich sehe auch eine junge Dame mit rotem Haar... - Ich sehe schon bald den Beginn einer langen romantischen Beziehung, die... Jaja! Blablabla! - Frag endlich, ob sie sehen kann, wo sie die Ostereier
 20160324 -- verstecken werden!
@@ -548,6 +555,7 @@
 20161025 -- noch mal ein halbes Stündchen aufs Ohr legen.
 20161124 -- Du warst beim Sport? Habt Ihr einen Babysitter? Ich mach jetzt Babysport! - Rennen mit Baby, Sit-Ups mit Baby und Babystemmen für die Muckis! Obwohl, ans Hantel ist er fast schon zu schwer! Haha! Wo ist denn der kleine Moppel? - Ich müsste
 20161124 -- nochmal in den Geräteraum.
+20170310 -- HA!! Hm...? Krieg ich ein Pferd? Ja, Schatz. - Juhu! Spinnst Du?! Du hast Ihr gerade einen Gaul versprochen! Ich? Niemals! Du hast "Ja, Schatz." gesagt! - Das gilt nicht. Dann hab ich nicht zugehört.
 20170420 -- Au! Au! Der beisst! Der beisst! Mein Bein! Mein Bein! Hast Du das Pfefferspray dabei? Nein! - Au! Dein Parfüm! Nimm Dein Parfüm! Au! Au! Rückzug! - Iiiih! Ich stink nach alte Tante!
 20170512 -- Meine Zukunft, was können Sie sehen? Ich sehe...Klopapier, Müllbeutel, Neutralreiniger... - Neutralreiniger. - Tschuldigung! Meine Putze klemmt immer die Einkaufsliste unter die Glaskugel!
 20170513 -- Einen Espresso, bitte! To go? Ja? Das war'n Scherz, oder? - Wir haben total süsse kleine Becher! Hier! Mit Kätzchen! Espresso trinkt man sofort! Wenn man ihn rumträgt, schmeckt er scheisse! - Der Espresso hier ist eh furchtbar! Ich bin froh,
@@ -839,3 +847,4 @@
 20221130 -- Aaah! Ruf die Polizei! Klöpkes! Ermordet! Alle beide! Sie liegen am Boden! Im Wohnzimmer! Aaah! Na, endlich! - Das wurde aber auch langsam Zeit! - Die haben ewig auf ihre Fussbodenheizung gewartet!
 20221201 -- ** Hallo! ** Hallo! Wuff! - Jetzt haben die auch'n Hund! Ist das jetzt Mode? Du weisst doch: "Das letzte Kind hat Fell!" - ---und das ist Robert, unser Jüngster! Ja, das sieht man!
 20221202 -- Sagen Sie dem Herrn am Bremsschalter, dass hier hinten rasend schnell die Geduld ausgeht! - Sagen Sie der Oma aus der Schreitherapiegruppe: "In der Ruhe liegt die Kraft"! - Was hat sie geflüstert? "Der kann vor Kraft kaum laufen!"
+20221203 -- Hi-ich bin die im-Vorbeiflug-Fee, und Du darfst Dir-hui-was wünschen! Jetzt? Jetzter!! - Hmmm...keine Ahnung... ...Hm? ...nee... vielleicht 'n Job? ...ja, 'n Job wäre okay... Irgendwas mit Kindern...aber nicht jeden Tag! -
