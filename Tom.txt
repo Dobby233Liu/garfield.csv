@@ -155,6 +155,7 @@
 19951007 -- Na, mein Sohn, was willst Du denn mal werden... ...wenn Du gross bist? - Na, Basketballprofi! Oh...klar...toll. Was sonst... - Jockey.
 19951009 -- Fundamentale Erkenntnisse kündigen sich nicht an. Sie sind einfach da. Wie in Granit gemaisselt. - Ich bin ein Mann! Vorbei die Zeit der Kindergeburtstagserotik! - Und sie hat meine Augen geöffnet: Eine richtige Frau!
 19951010 -- Wieviel Zeit vergeudet Mann mit pubertierenden Kleinhirnträgerinnen, die es nicht nachvollziehenb können, - wenn männliche Analytik "o.b." für die korrekte Abkürzung von "Oberbürgermeister" hält... - SIE trägt sicher Damenbinden! ?
+19951011 -- *Sie* heisst Fräulein (!) Brock und unterrichtet Sport an unserer Schule. ! - Unser erster Körperkontakt ist überwältigend! - -sie ist so stark!
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
@@ -338,6 +339,8 @@
 20060615 -- für Inhaber von Kundenkarten in Asprich nehmen? Pauschal! Schulz! -
 20060617 -- Diese Verbrecher! Meine Bilder! Zerstört! Heute Nacht! Zerschnitten! Besudelt! Mit Säure übergossen! Die ganze Arbeit! Die Vernissage! Das ist das Ende. - Junger Freund, dies ist die Stunde des Galleristen! Sie müssen jetzt viel innere Stärke
 20060617 -- beweisen... - Das merkt doch keine Sau!
+20060705 -- Kann ich das Auto haben? Ich mach den Tank auch wieder voll. - Und ich werde natürlich keinen Tropfen trinken und keinen Unsinn auf dem Rücksitz machen. Versprochen. - Schon gut, das ist nur behutsames Heranführen. Nicht, dass Du als alter
+20060705 -- Sack einen Herzkasper kriegst, wenn es dann soweit ist.
 20061230 -- "Mein guter Vorsatz für das neue Jahr:" Sehr löblich! Aber bedenke: Realistisch bleiben! Nicht zuviel vornehmen. - - Mein guter Vorsatz für das neue Jahr: Weniger erwischen lassen.
 20070112 -- ** Ding Dong Deine Handtaschen werden auch immer grösser! Muss das sein? - Guten Morgen! Wir möchten uns mit Ihnen ausführlich über ein wichtiges Thema unterhalten. Und ich werde Ihnen gesnüsslich die Tür vor der Nase zuknallen. -
 20070112 -- Hervorragende Idee, die Tasche in die Tür zu stellen! Wo hast Du den Amboss her?
@@ -557,6 +560,8 @@
 20161124 -- nochmal in den Geräteraum.
 20170310 -- HA!! Hm...? Krieg ich ein Pferd? Ja, Schatz. - Juhu! Spinnst Du?! Du hast Ihr gerade einen Gaul versprochen! Ich? Niemals! Du hast "Ja, Schatz." gesagt! - Das gilt nicht. Dann hab ich nicht zugehört.
 20170420 -- Au! Au! Der beisst! Der beisst! Mein Bein! Mein Bein! Hast Du das Pfefferspray dabei? Nein! - Au! Dein Parfüm! Nimm Dein Parfüm! Au! Au! Rückzug! - Iiiih! Ich stink nach alte Tante!
+20170427 -- Wir beginnen sofort mit den Rodungsarbeiten! Siche rist sicher! Zu spät! Wir haben Post. - Oh neine! Welches ekelhafte Kroppzeug ist es diesmal? Der lila Juchenkäfer? Die rostige Hufeisennase oder der unrasierte Nacktmulch? Meine Tabletten!
+20170427 -- Es wurde ein seltenes Exemplar des murmelnden Klammeraffen gesichtet! - Hier hat man ihn irgendwo gesehen! Den baum berühren...den Baum spüren...
 20170512 -- Meine Zukunft, was können Sie sehen? Ich sehe...Klopapier, Müllbeutel, Neutralreiniger... - Neutralreiniger. - Tschuldigung! Meine Putze klemmt immer die Einkaufsliste unter die Glaskugel!
 20170513 -- Einen Espresso, bitte! To go? Ja? Das war'n Scherz, oder? - Wir haben total süsse kleine Becher! Hier! Mit Kätzchen! Espresso trinkt man sofort! Wenn man ihn rumträgt, schmeckt er scheisse! - Der Espresso hier ist eh furchtbar! Ich bin froh,
 20170513 -- wenn die Leute weit weg sind! Rotes Kätzchen.
@@ -848,3 +853,5 @@
 20221201 -- ** Hallo! ** Hallo! Wuff! - Jetzt haben die auch'n Hund! Ist das jetzt Mode? Du weisst doch: "Das letzte Kind hat Fell!" - ---und das ist Robert, unser Jüngster! Ja, das sieht man!
 20221202 -- Sagen Sie dem Herrn am Bremsschalter, dass hier hinten rasend schnell die Geduld ausgeht! - Sagen Sie der Oma aus der Schreitherapiegruppe: "In der Ruhe liegt die Kraft"! - Was hat sie geflüstert? "Der kann vor Kraft kaum laufen!"
 20221203 -- Hi-ich bin die im-Vorbeiflug-Fee, und Du darfst Dir-hui-was wünschen! Jetzt? Jetzter!! - Hmmm...keine Ahnung... ...Hm? ...nee... vielleicht 'n Job? ...ja, 'n Job wäre okay... Irgendwas mit Kindern...aber nicht jeden Tag! -
+20221205 -- Wo warst Du? Ich hab meine Stiefel rausgestellt! Heute NAcht kommt der Nikolaus! - Hast Du den Hund reingelassen? Der ist noch draussen? Der verjagd doch den Nikolaus! - -
+20221206 -- ** ding dong Na, wenn das nicht mal endlich der Nikolaus ist! - Du hast einen Weihnachtsmann bestellt? Mit echtem Bart und zu 100% klimaneutral! - Sorry, ich binmit dem Liegerad da. Mir ist der Bart in die Kette gekommen.

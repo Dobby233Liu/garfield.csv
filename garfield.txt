@@ -17070,3 +17070,4 @@ ga221201 -- - This box is almost perfect. It just needs a dessert bar and a capp
 ga221202 -- Garfield's blog: What I did last summer - delete delete delete - What I ate last summer.
 ga221203 -- - - Are you ever going to swallow that broccoli? Nope.
 ga221204 -- - Hi, Odie! - - That's you. You're Odie. - So... - How are you, Odie? - Sigh
+ga221205 -- Be proud of your accomplishments. - You haven't moved from that spot for hours. -

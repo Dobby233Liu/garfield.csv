@@ -14280,3 +14280,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221204 -- Hello, you have reached Customer Disservice. - Um, yes, your app won't let me sign up because it says I already have an account. - Ant it won't let me recover my password because it says I /don't/ have an account. - That's because you
 221204 -- accidentally selected the "Schroedinger's Cat" account when you signed up. - Your account exists and does not exist at the same time. - I'll have to collapse the quantum wave field to fix that. - Is that dangerous? It could plung our universe
 221204 -- into an icy death. - DON'T DO IT! Okay. Have a nice day. click
+221205 -- We're getting bad press because the batteries in our new line of mobile phones keep exploding. - Load them into a big truck and park it in front of our competitor's building. Technically, that would be domestic terrorism. - There are WAY too
+221205 -- many laws.

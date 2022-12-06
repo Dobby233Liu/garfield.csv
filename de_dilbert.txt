@@ -11178,3 +11178,5 @@
 221204 -- Hallo, hier ist der Kundenbärendienst. - Ähm, ja, ich kann mich bei Ihrer App nicht anmelden, weil sie behauptet, ich hätte bereits ein Konto. - Aber sie läßt mich mein Passwort nicht wiederherstellen, weil ich angeblich kein Konto habe. - Das
 221204 -- liegt daran, dass Sie bei der Anmeldung aus Versehen den Kontotyp "Schrödingers Katze" gewählt haben. - Ihr Konto existiert und gleichzeitig existiert es nicht. - Um das zu beheben, muss ich das Quantenwellenfeld kollabieren lassen. - Ist das
 221204 -- gefährlich? Es könnte unser Universum in einen eisigen Tod stürzen. - TUN SIE'S NICHT! Okay, Schönen Tag noch. klick
+221205 -- Wir kriegen schlechte Presse, weil die Akkus in unserem neuen Handymodell immer wieder explodieren. - Laden Sie alle Geräte in einen großen Lastwagen und parken Sie den vor dem Gebäude der Konkurrenz. Das wäre praktisch Inlandsterrorismus. - Es
+221205 -- gibt zu viele neue juristische Begriffe.
