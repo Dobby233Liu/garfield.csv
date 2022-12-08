@@ -11181,3 +11181,5 @@
 221205 -- Wir kriegen schlechte Presse, weil die Akkus in unserem neuen Handymodell immer wieder explodieren. - Laden Sie alle Geräte in einen großen Lastwagen und parken Sie den vor dem Gebäude der Konkurrenz. Das wäre praktisch Inlandsterrorismus. - Es
 221205 -- gibt zu viele neue juristische Begriffe.
 221206 -- Glückwunsch, Ted, durch Ihre Leaistung haben Sie sich ein neues Handy verdient. - Ist das nicht das Modell, bei dem immer der Akku explodiert? - Na ja, ganz so toll war Ihre Leistung auch nicht.
+221207 -- Wir haben Dogbert als PR-Berater engagiert, damit er uns bei dem Problem mit den explodierenden Akkus unterstützt. - Es gibt zwei Möglichkeiten. Entweder wir rufen alle Handys zurück, oder wir überzeugen die Kunden davon, dass es cool ist, nur
+221207 -- ein Ohr zu haben. - Rückrufaktionen sind teuer. Okay, als die van-Gogh-Strategie...
