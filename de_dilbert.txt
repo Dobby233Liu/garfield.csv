@@ -11183,3 +11183,5 @@
 221206 -- Glückwunsch, Ted, durch Ihre Leaistung haben Sie sich ein neues Handy verdient. - Ist das nicht das Modell, bei dem immer der Akku explodiert? - Na ja, ganz so toll war Ihre Leistung auch nicht.
 221207 -- Wir haben Dogbert als PR-Berater engagiert, damit er uns bei dem Problem mit den explodierenden Akkus unterstützt. - Es gibt zwei Möglichkeiten. Entweder wir rufen alle Handys zurück, oder wir überzeugen die Kunden davon, dass es cool ist, nur
 221207 -- ein Ohr zu haben. - Rückrufaktionen sind teuer. Okay, als die van-Gogh-Strategie...
+221208 -- Die Presse mein, ich soll wegen des Fiaskos mit den explodierenden Handys zurücktreten. - Vielleicht können Sie sie umstimmen, indem Sie den Journalisten unser neues Modell schicken, das nicht explodiert. - Ich habe ihnen schon das alte
+221208 -- geschickt und behauptet, es wäre das neue. Ihre Methode war mir zu unsicher.
