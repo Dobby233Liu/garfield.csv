@@ -17074,3 +17074,4 @@ ga221205 -- Be proud of your accomplishments. - You haven't moved from that spot
 ga221206 -- Remember, Santa's always watching you. - Well, I guess we'd better be good, Odie! - That is, until we find the hidden Santa Cam.
 ga221207 -- I'm listing all the nice things I've done this year. - - I'm listing all the not-so-terrible things I've done this year.
 ga221208 -- Hey, Santa! Look at me being good! - - Are you going to move today? Can't risk it.
+ga221209 -- I'm throwing a Christmas party. Want to come? - Can I sleep through it? - Of course. I'll be there!

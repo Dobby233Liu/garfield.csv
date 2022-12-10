@@ -160,6 +160,8 @@
 19951013 -- Melodram in 6 Episoden! "Die neuesten Leiden des jungen W." (5) - Ist es die brünftige Blüte ihrer vollreifen Formen... - Oder die ästhetische Perfektion ihres Muskelspiels, die mir den Verstand raubt? - ...vermutlich beides...
 19951014 -- Melodram in 6 Episoden! "Die neuesten Leiden des jungen W." (6) - Fundamentale Erkenntnisse kündige sich nicht an. Sie sind einfach da. Wie in Granit gemeisselt... - Habe mir heute Gedanken über Kraftmaschinen und Hormonpräparate gemacht.
 19951014 -- Plötzlich war mir glasklar: - -ich bin ein Asket... ...aber das ist eine andere Geschichte.
+19951016 -- Nicht vergessen! Morgen früh, 7 Uhr.Dienstantritt Hallenbad! Klar, Chef! Viel Spass! - Hier hab' ich im Sommer gearbeitet! Man riecht noch die Sonne und hört die Leute! Ja, dieses charakteristische Gluckern beim Absaufen... - Ab morgen bin
+19951016 -- ich in einer geschlossenen Anstalt! Besser isses...
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951103 -- Pardon... - Schönes Fahrrad! Ja-nicht wahr? Sie sollten damit fahren!! - Ach komm-Du kannst in Deinen Schuhen doch auch nicht laufen...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
@@ -411,6 +413,7 @@
 20090527 -- Sie müssen mir jetzt meine Rechte vorlesen! Ihre was? Meine Rechte! Ich kenn mich aus! - Ach so...äh...pfff...ah, hier: Sie haben das Recht zu schweigen. Na also. Geht doch. - Nein. Geht nicht. Ah!
 20090709 -- Hallo! Ich bin der Holger! ...und wer bist Du? - Ich bin die Geissel der Menschheit... - Bei welchem Sender?
 20090711 -- Ich hab Dir die Batterien fürs Hörgerät auf den Tisch gelegt!! - Hörst Du? Jaja! Schon gesehen! - Die andere nehm' ich nach dem Essen...
+20090730 -- Soll ich nicht besser mitkommen? Quatsch. Was heisst "zwei"? "Dos". Das reicht. Hol Du das Grünzeug. Ich hol die Fische. Dos! - Dos! Dos?! Dos!! Okay. - 800 Euro?! Für zwei Fische? Nein. Für zwei Kühltheken.
 20090908 -- Machen Sie ihm was süsses freches zum Schulanfang! Und Du bist brav! Bis dann! - Was süsses freches...Du willst doch nur ein niedliches Klassenfoto zum Angeben! Aber hier geht es um mehr! - Machen Sie mir eine schicke Business-Frisur!
 20090910 -- Wie oft noch? Das kann ich so nicht annehmen. Sie müssen das Adressfeld schon ordentlich festkleben! Das hält. Das bezweifle ich. - He! Au! - Sehen Sie? Hält bombenfest. Diese Haftcreme ist ein Teufelszeug!
 20090918 -- Äh...bin ich die Einzige? Wo sind all die anderen? Im Heidepark Soltau. Betriebsausflug. - Das ist ja wie im Paradies! Oh nein! Schulz! - Er steuert die Achterbahn. Kamikaze
@@ -876,4 +879,4 @@
 20221207 -- Mettbrötchen zu!
 20221208 -- Papa hat sich einen Hund gekauft! Echt? Was für einen? Irgendsoeinen was-weiss-ich-was-gedoodle. - Geht er in die Hundeschule? Na, klar! Heute lernt er Vokablen! - -Ich mach das gleich weg! -Der will nur spielen! -Also, das hat er noch nie
 20221208 -- gemacht! -Sind Sie sicher, dass Sie ihn nicht provoziert haben? -Das ist nicht mein Hund!
-
+20221209 -- Doch, doch, hier sind Sie richtig! Nur interessehalber... - Wie kommt man auf die verdammenswerte Idee, mit lausig schlechtem Glühwein seinen Lebensunterhalt zu verdienen? - Lassen Sie sich ruhig Zeit, wir haben allen Glühwein der Welt!
