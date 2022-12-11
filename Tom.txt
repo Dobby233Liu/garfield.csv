@@ -163,6 +163,7 @@
 19951016 -- Nicht vergessen! Morgen früh, 7 Uhr.Dienstantritt Hallenbad! Klar, Chef! Viel Spass! - Hier hab' ich im Sommer gearbeitet! Man riecht noch die Sonne und hört die Leute! Ja, dieses charakteristische Gluckern beim Absaufen... - Ab morgen bin
 19951016 -- ich in einer geschlossenen Anstalt! Besser isses...
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
+19951018 -- Markenbutter Postbank Tagh! Ja bitte? Sie wünschne? - Was? Na hörensemal! Wissense überhaupt, wie spät das ist? Öh...fünf durch... - Eben! Hab' nix dabei! Dachte, das wird heut' eh' nix mehr...
 19951103 -- Pardon... - Schönes Fahrrad! Ja-nicht wahr? Sie sollten damit fahren!! - Ach komm-Du kannst in Deinen Schuhen doch auch nicht laufen...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
@@ -370,6 +371,8 @@
 20070801 -- - GRÜEZI PETER! - Heidi, Du dummes Chäsfondü! Du hast die Ziegen erschreckt! Jetzt liegen sie wieder alle unten im Tal!
 20070804 -- Ich mag gar nicht klingeln. Hier wohn dieser grässliche Mensch, der immer gleich so feucht brüllt... Steter Tropfen hohlet den Stein. Man wächst mit seinen Aufgaben. - ** Heiss und fettig! ** Darf ich mal durch, Senoritas? Pizza Pronto! - *
 20070804 -- PIZZA Hanni Nanni
+20070829 -- Ich verstehe das nicht!Seit seiner Einschulung letzte Wochen ein Musterschüler: ruhig, höflich, aufmerksam, guterzogen. Er hat mir immer die Tasche ins Lehrerzimmer getragen! - Und heute morgen rastet er aus und beisst mich! Amok? In der
+20070829 -- ersten? Ich fürchte, das ist meine Schuld. - Ich hab ihm verraten, dass es trotz guter Führung keine Aussicht auf vorzeitige Entlassung gibt...
 20070917 -- Im Ernstfall wären hier im Westen als erstes alle Schwimmbäder atomisiert worden. Kabumm!! Die Sowjets hielten die 10-Meter-Bretter für getarnte Raketenrampen. - Auf den Fotos ihrer Spionagesatelliten kamen sie ihnen einfach viel zu gross
 20070917 -- vor. Natürlich gab es überall im Ostblock auch 10-Meter-Bretter. - Aber sie hatten immer nur Material für 5 Mter.
 20070924 -- Früher waren Missernten eine Katastrophe! Deshalb stellte man einen Bauern mit gutem Gedächtnis... ...auf so ein 10-Meter-Brett. - Zur Wetterbeobachtung. Aus der Zeit stammen die Bauernregeln. Und wenn er sich mal geirrt hat? - Dann gab es
@@ -880,3 +883,4 @@
 20221208 -- Papa hat sich einen Hund gekauft! Echt? Was für einen? Irgendsoeinen was-weiss-ich-was-gedoodle. - Geht er in die Hundeschule? Na, klar! Heute lernt er Vokablen! - -Ich mach das gleich weg! -Der will nur spielen! -Also, das hat er noch nie
 20221208 -- gemacht! -Sind Sie sicher, dass Sie ihn nicht provoziert haben? -Das ist nicht mein Hund!
 20221209 -- Doch, doch, hier sind Sie richtig! Nur interessehalber... - Wie kommt man auf die verdammenswerte Idee, mit lausig schlechtem Glühwein seinen Lebensunterhalt zu verdienen? - Lassen Sie sich ruhig Zeit, wir haben allen Glühwein der Welt!
+20221210 -- CHRRR...CHRRR...CHRRR... HE! DU SCHNARCHST! chrrr... ...was? - Weiterschnarchen! HA! - Wir versuchen gerade, uns anzuschleichen!
