@@ -165,6 +165,8 @@
 19951017 -- ? - Oh, mein Gott... - Satanisten-drittes Fegefeuer rechts...
 19951018 -- Markenbutter Postbank Tagh! Ja bitte? Sie wünschne? - Was? Na hörensemal! Wissense überhaupt, wie spät das ist? Öh...fünf durch... - Eben! Hab' nix dabei! Dachte, das wird heut' eh' nix mehr...
 19951019 -- Is' Ihnen nicht gut? - Das Pilzragout... ...selber gesucht... Mein Bauch! - Hier! Trinken Sie das... ...hmm! Gut! was ist das? - Gegen Pilze...
+19951020 -- Was is' nu mit dem Zaster? -und stellt die verdammte Heizung ab! Mir is' schon ganz schummirg! - Was...aubacke... Oha... - Hören Sie...ich...ich hab'...hatte...'n neues Auto, 12 Kinder, 'n taz-Abo! -was hätt' ich denn tun sollen? Jute statt
+19951020 -- Plastik. ALDI
 19951103 -- Pardon... - Schönes Fahrrad! Ja-nicht wahr? Sie sollten damit fahren!! - Ach komm-Du kannst in Deinen Schuhen doch auch nicht laufen...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
@@ -198,6 +200,7 @@
 19970926 -- DLRG - Verdammt...Maulsperre! - killekillekille
 19971023 -- Also: -Kasperle mit Patsch. -Auftritt Krokodil. -Kasperle: "Hahaa! etc. etc." -KAsperle vertrimmt Krokodil. -Abgang Krokodil. Alles klar? Hm. - Hahaa...he! Was zum...? - Memme!
 19971227 -- "Omas Socken sind die besten!" -ich führ noch 'ne ganz heisse Nadel für mein Rheuma! Was haben Sie Ihren Enkeln geschenkt? - Geld. Geld auf dem Gabentisch? Wie stilloas... - Sie akzeptieren Kreditkarten...
+19980127 -- Was darf's sein, junge Frau? Zwei Schrippen von gestern, bitte! - Nu machense mal nicht so Kuhaugen.ich könnte mir auch locker frische leisten! Lohnt sich aber nicht... - Bis ich nach Hause gewackelt bin, sind die Dinger eh' steinhart...
 19980218 -- rrrrrr... - rrrrr... **Tüdelüt** Ja? Hallo? - Und jetzt die Haare im anderen Ohr!
 19980402 -- ? Perfekt! Cool! Gigantisch! - Würden Sie mit uns "Titanic" spielen? -in einer Hauptrolle? Ich fühle mich geehrt... - Ein Eisberg! Rettet meinen Schmuck! Wir sinken!
 19980520 -- - Geh' da nicht so nah ran! ...das ist tief! - Quatsch! Nur stille Wasser sind tief!
@@ -205,7 +208,7 @@
 19980731 -- "Andrea"-"Andrea"!! -warum haben denn nun Hochs immer Männernamen... - ...und Tiefdruckgebiete Frauennamen? - -sie kommen öfter...
 19980805 -- -Anker lichten! -Maschinen volle Kraft voraus! -Steuer hart backbord! - -Alle Mann auf Kampfstation! -Luken dicht! -Alle Torpedos feuerbereit! -Angriffstiefe 90 Fuss! -
 19980904 -- Red' Du mal mit ihm...ich geb's auf! - Schau-andere Kinder freuen sich total, daß sie endlich in die Schule dürfen! - Nicht allen gewährt das Schicksal ein glückliches zuhause...
-19981024 -- "Eigentor" -öchö-öchö...dickeAugen-Nase rot...Schleimhaut stramm geschwollen... Auch beim Atmen grosse Not! Tempos? -nur die vollen... - Schönes Mädchen! So apart! -wollte ihr ans Mieder... - Virenherd! Bazillengrab! -die küsse ich nie
+19981024 -- "Eigentor" -öchö-öchö...dicke Augen-Nase rot...Schleimhaut stramm geschwollen... Auch beim Atmen grosse Not! Tempos? -nur die vollen... - Schönes Mädchen! So apart! -wollte ihr ans Mieder... - Virenherd! Bazillengrab! -die küsse ich nie
 19981024 -- wieder!
 19981118 -- - - Schon wieder Schnecken...was treibst Du eigentlich den ganzen Tag?
 19981120 -- "Besinnliches"-ahem...leise weisse Nebelwallen, feuchte Watte liegt auf allen grauen Feldern voller Ruh!... Krähen in den Gräben krächzen, nackte Bäume schlafend ächzen, Nebenhöhlen schwellen zu... - Feuer prasselt in Kaminen, heisses Wasser
@@ -888,3 +891,4 @@
 20221208 -- gemacht! -Sind Sie sicher, dass Sie ihn nicht provoziert haben? -Das ist nicht mein Hund!
 20221209 -- Doch, doch, hier sind Sie richtig! Nur interessehalber... - Wie kommt man auf die verdammenswerte Idee, mit lausig schlechtem Glühwein seinen Lebensunterhalt zu verdienen? - Lassen Sie sich ruhig Zeit, wir haben allen Glühwein der Welt!
 20221210 -- CHRRR...CHRRR...CHRRR... HE! DU SCHNARCHST! chrrr... ...was? - Weiterschnarchen! HA! - Wir versuchen gerade, uns anzuschleichen!
+20221212 -- Cooles Tattoo! Voll Vintage! Ich muss meins unbedingt mal wegmachen lassen. - UV_Strahlung ist der Radiergummi für Tattoos! Geh lieber aus der Sonne! -
