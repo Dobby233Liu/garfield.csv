@@ -167,6 +167,7 @@
 19951019 -- Is' Ihnen nicht gut? - Das Pilzragout... ...selber gesucht... Mein Bauch! - Hier! Trinken Sie das... ...hmm! Gut! was ist das? - Gegen Pilze...
 19951020 -- Was is' nu mit dem Zaster? -und stellt die verdammte Heizung ab! Mir is' schon ganz schummirg! - Was...aubacke... Oha... - Hören Sie...ich...ich hab'...hatte...'n neues Auto, 12 Kinder, 'n taz-Abo! -was hätt' ich denn tun sollen? Jute statt
 19951020 -- Plastik. ALDI
+19951021 -- Schnell! Eine Klinikpackung "Nervipan"!! - Ah! Prüfungen? - Naja...kurzum...ich weiss überhaupt nicht, wie ich das alles schaffen soll...
 19951103 -- Pardon... - Schönes Fahrrad! Ja-nicht wahr? Sie sollten damit fahren!! - Ach komm-Du kannst in Deinen Schuhen doch auch nicht laufen...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
@@ -228,6 +229,7 @@
 19990709 -- Oooh-'ne Schildkröte!! -is' die süüüüüs... Bisschen schüchtern, was? - Darf ich sie mal streicheln? Wie denn? - Zum Doc
 19990801 -- Wir waren einmal die schärfste Männer-WG diesseits der Berge.. - *** - ...und das sind wir heute noch! Doch das ist eine andere Geschichte...
 19991231 -- Was machste denn so Kuhaugen? Kennste noch nicht? Man muss sich beim Anstossen in die Augen schauen-sonst hat man 7 Jahre schlechten Sex! - Haha! Is ja grossartig! - Endlich mal wieder Sex... * ping
+20000108 -- Ich kann nich' schlafen! Dann zähl' Schafe! -aber bitte leise!! - - Ich hab' Hunger...
 20000117 -- Ich will hie rnicht wohnen! Ich will wieder nach Hause! Ich bin ein Grossstadtkind! Ich hasse Landeier! Die riechen nach Kuh und reden komisch! *drrinng! Komme! Knödlingen ist kein Dorf sondern Kreisstadt! Hier sind viel weniger Autos... -
 20000117 -- Oh-hallo!  Äh-ja, also...wir sind die neuen Mieter, morgen kommen die Möbel und...äh... Sie wohnen auch hier im Haus? - ...und ausserdem sind hier im Süden die Leute viel netter! KEHRWOCHE
 20000314 -- Hilfe!! Zu Hilfe!! So helfen Sie mir doch! . Ich werde verfolgt!! Tut mir leid... Ich bin nur für das nasse Element zuständig... - Dann tun Sie was! ...sie will mich küssen!
@@ -892,3 +894,4 @@
 20221209 -- Doch, doch, hier sind Sie richtig! Nur interessehalber... - Wie kommt man auf die verdammenswerte Idee, mit lausig schlechtem Glühwein seinen Lebensunterhalt zu verdienen? - Lassen Sie sich ruhig Zeit, wir haben allen Glühwein der Welt!
 20221210 -- CHRRR...CHRRR...CHRRR... HE! DU SCHNARCHST! chrrr... ...was? - Weiterschnarchen! HA! - Wir versuchen gerade, uns anzuschleichen!
 20221212 -- Cooles Tattoo! Voll Vintage! Ich muss meins unbedingt mal wegmachen lassen. - UV_Strahlung ist der Radiergummi für Tattoos! Geh lieber aus der Sonne! -
+20221213 -- Er braucht eine neue Frisur! Schon wieder? - Sein Lieblingskicker hat den entscheidenden Elfmeter versemmelt. Oha! Eine gängige Universal-Spielerfrisur wäre gut! -

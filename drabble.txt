@@ -10550,3 +10550,4 @@ dr221209 -- WALLY How can I be sure there are no badgers outside? - They're prob
 dr221210 -- Merry Christmas, Steinbauer! A plate of cookies from our family to yours! - Oh, uh...we have something for you, too. I'll get it! - Here you go! Great minds think alike! - He just changed the ribbon!
 dr221211 -- Grrrrr! - I'm practicing my anti-badger look in the mirror! - You never know when you might encounter a badger, and you need to be able to scare them away! - GRRRR!! - WHOA! - That was a good one!
 dr221212 -- Nice try, Penny... - But you may not use mommy's hosiery!
+dr221213 -- I love this time of year! - You love EVERY time of year. - That's not true! - I wasn't crazy about late August of 2009!
