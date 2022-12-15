@@ -14295,3 +14295,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221211 -- about that.
 221212 -- Want to go to lunch with Tina and me? - That sounds like a nightmare. We would all starve before agreeing on a place to eat. - Are you in? Yes, because for some reason, I never learn. continued...
 221213 -- Hour One: Deciding where to Eat Lunch Okay, we need a vegan, keto restaurant with no gluten. - And it needs to be within limping distance because Tina has a bad foot. - That narrows it down to...nothing. What if you carry her?
+221214 -- Hour Two: Deciding where to Eat Lunch We've narrowed down the choices to... - ...a place that is too busy for us to get a table and a place that used to exist but for some reason no longer does. - They can't be our only choices. No, we also
+221214 -- have two places that are too far away.

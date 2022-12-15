@@ -11194,5 +11194,7 @@
 221211 -- sollte man Arbeiter bezahlen, wenn man einfach Sklaven einsetzen kann? - Aus moralischen Gründen? - Sie sind gefeuert. Ich habe Sie gewarnt...
 221212 -- Möchten Sie mit Tina und mir zum Mittagessen gehen? . Das klingt nach einem Albtraum. Wir würden verhungern, bevor wir uns auf ein Restaurant einigen könnten. - Sind Sie dabei? Ja, denn aus irgendeinem Grund lerne ich nie etwas dazu.
 221212 -- Fortsetzung folgt...
-221213 -- SRTUNDE EINS: WOHIN ZUM MITTAGESSEN? Okay, wir brauchen ein veganes, ketogenes Restaurant mit glutenfreiem Essen. - Und es muss in Humpel-Reichweite sein, denn Tina tut der Fuss weh. - Da bleibt aber gar nichts mehr übrig. Und wenn Sie sie
+221213 -- STUNDE EINS: WOHIN ZUM MITTAGESSEN? Okay, wir brauchen ein veganes, ketogenes Restaurant mit glutenfreiem Essen. - Und es muss in Humpel-Reichweite sein, denn Tina tut der Fuss weh. - Da bleibt aber gar nichts mehr übrig. Und wenn Sie sie
 221213 -- tragen?
+221214 -- STUNDE ZWEI: WOHIN ZUM MITTAGESSEN? ...damit reduziert sich die Auswahl auf... - ...einen Laden, der so voll ist, dass wir garantiert keinen Tisch bekommen, und einen anderen, der aus irgendwelchen Gründen nicht mehr existiert. - Das kann doch
+221214 -- nicht die ganze Auswahl sein. Stimmt, es gibt auch noch drei Läden, die zu weit weg sind.
