@@ -11198,3 +11198,5 @@
 221213 -- tragen?
 221214 -- STUNDE ZWEI: WOHIN ZUM MITTAGESSEN? ...damit reduziert sich die Auswahl auf... - ...einen Laden, der so voll ist, dass wir garantiert keinen Tisch bekommen, und einen anderen, der aus irgendwelchen Gründen nicht mehr existiert. - Das kann doch
 221214 -- nicht die ganze Auswahl sein. Stimmt, es gibt auch noch drei Läden, die zu weit weg sind.
+221215 -- STUNDE DREI: WOHIN ZUM MITTAGESSEN? Wenn wir uns auf kein Restaurant einigen können, müssen wir zu Plan B übergehen. - Plan B beinhaltet Hunger, Verrat und Kannibalismus. - Ich habe Hunger und meine Oberarme sind kräftiger als die von
+221215 -- mindestens einer von Ihnen, daher stimme ich für Plan B.

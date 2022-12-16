@@ -168,7 +168,8 @@
 19951020 -- Was is' nu mit dem Zaster? -und stellt die verdammte Heizung ab! Mir is' schon ganz schummirg! - Was...aubacke... Oha... - Hören Sie...ich...ich hab'...hatte...'n neues Auto, 12 Kinder, 'n taz-Abo! -was hätt' ich denn tun sollen? Jute statt
 19951020 -- Plastik. ALDI
 19951021 -- Schnell! Eine Klinikpackung "Nervipan"!! - Ah! Prüfungen? - Naja...kurzum...ich weiss überhaupt nicht, wie ich das alles schaffen soll...
-19951022 -- Alles klar? Naklar...klar...jaguar... - Nagut... Uuund: BOXEN!! - Wieviel Watt?
+19951023 -- Alles klar? Naklar...klar...jaguar... - Nagut... Uuund: BOXEN!! - Wieviel Watt?
+19951024 -- Soo...und jetzt da rüber... - Nur noch ein paar Meter... - Öffentlichkeitsarbeit ist Arbeitsplatzsicherung!
 19951103 -- Pardon... - Schönes Fahrrad! Ja-nicht wahr? Sie sollten damit fahren!! - Ach komm-Du kannst in Deinen Schuhen doch auch nicht laufen...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
@@ -554,6 +555,8 @@
 20150915 -- Outfit gegriffen, das unten zu war!
 20150930 -- Gibts hier eigentlich auch weibliche Teufel...? Warum? - Naja...wär mir lieber... Nein. Nur teuflische Weiber. - Wer hat schon wieder meine Gluthaufen hübsch zurechtgerückt?
 20151002 -- Oh, da hat sich jemand aber Mühe gemacht mit dem Muster auf dem Schaum! Sehe ich da Herzchen? Und echte Blümchen! Für mich? Hehehe... - Hier, ruf mich an, Schätzchen...oh! Steck ein, meine Frau! - Die Alte von oben fegt wieder ihren Balkon! Cafe
+20151015 -- Sonnenstudio? Nein, wir waren auf Bali. Wir haben total viele Fotos gemacht. Interesse? Gerne! Aber ist das nicht wahnsinnig teuer? - Gar nicht! Das Hotel kann ich nur empfehlen! Hier... Schamhaare...Schamhaare...Schamhaare...Das waren die in
+20151015 -- der Dusche. Hier die im Pool. - Das gab schon mal dreissig Prozent! Zeig ihr den Ordner mit den Schimmelbildern!
 20151017 -- Hallo Baum! Ich hab einen tollen Film über Indonesien gesehen! In meinem nächsten Leben werde ich ein Orang-Utan! - Rote Haare hab ich schon! Und ich hab dann waaahnsinnig lange Arme! Das ist phantastisch! - Dann kann ich Bäume umarmen und
 20151017 -- mich dabei gleichzeitig gemütlich am Hintern kratzen!
 20151106 -- Frollein! Mein Espresso ist kalt! Was?! Mein... - Weg vom Tisch! Notfall! - Na los! Komm schon! Komm schon! Komm! Ich brauch mehr Power!
@@ -575,7 +578,7 @@
 20160609 -- Keine Angst, ich will die nicht verschicken. Aber könnte ich die hier kurz deponieren? Was ist denn das für ein Lärm da draussen? - Oh, das ist nur die Aktion "Barrierefreier Stadtpark". Soso. Und wann holen Sie Ihr Gestänge hier wieder ab? -
 20160609 -- Wenn die Bullen weg sind. Wir haben vorhin im Park ein paar Walker entwaffnet.
 20160615 -- Ich weiss schon...eine Marke. Hier! Schnell! Da kommen die anderen! ? - Pfadfindertreffen? Schnitzeljagd. Das geht schon den ganzen Tag so. Warumimmer ich... - Ausverkauft. *
-20160624 -- Kannst Du mal eben den Kurzen wickeln? Ich bin in der Warteschleife. Ich?! Kann ich nicht! - Frische Pampers sind da drin. Einfach da drumwickeln, wo das eklige Zeug rauskommt... Ja-hallo? Endlich! börp... *
+20160624 -- Kannst Du mal eben den Kurzen wickeln? Ich bin in der Warteschleife. Ich?! Kann ich nicht! - Frische Pompers sind da drin. Einfach da drumwickeln, wo das eklige Zeug rauskommt... Ja-hallo? Endlich! börp... *
 20160803 -- Da! Das ist Ralf! Hinterher! Diesmal erwischen wir ihn! Schnell! - Und? Hast Du ihn? Er hat heimlich geraucht! Äh-nein. Keine Zigarette? Er übt erotischen Stangentanz an dem Halteverbot-Schild um die Ecke! - Keine Zigarette zu sehen! Mist!
 20160808 -- Ha! Verloren! Hahaha! ** Arschbombe vom Zehner! Arschbombe vom Zehner! ** - ?! - So, Sportsfreund! Vor nächstem Sommer will ich Dich hier nicht mehr sehen!
 20160903 -- Deine Mutter fährt echt schnell! Wie trainierst Du sie? Gar nicht. Ich hab einen Film über Doping gesehen! - Mit dem ganzen Zeug aus dem Bad, das ich ihr in den Kaffee rühre, ist sie schon ganz flott geworden. - An den lästigen Zwischenstopps
@@ -899,3 +902,4 @@
 20221213 -- Er braucht eine neue Frisur! Schon wieder? - Sein Lieblingskicker hat den entscheidenden Elfmeter versemmelt. Oha! Eine gängige Universal-Spielerfrisur wäre gut! -
 20221214 -- Hallo zusammen! Heute basteln wir ein Luxus-Phone! Wir brauchen: Ein betagtes Handy, hässliche Gläser und einen Wellensittich! ? - Kristalle machen, Hany mit Kleber einmumpen, drin Wälzen, bunte Federn drauf-fertig! Toll! Mutti wird weinen! -
 20221214 -- Und das nächste Mal zeige ich Euch... ...in welchem Kinderheim er wohnt, tschühüs!
+20221215 -- Was machst Du?! Warte! Da ist ein Hund im Garten! - Das da? Hahaha! Das ist doch kein Hund, das ist ein Kalb! Hüah!!! - Vor Kühen muss man keine Angst haben! ding dong **
