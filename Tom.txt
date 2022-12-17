@@ -170,6 +170,7 @@
 19951021 -- Schnell! Eine Klinikpackung "Nervipan"!! - Ah! Prüfungen? - Naja...kurzum...ich weiss überhaupt nicht, wie ich das alles schaffen soll...
 19951023 -- Alles klar? Naklar...klar...jaguar... - Nagut... Uuund: BOXEN!! - Wieviel Watt?
 19951024 -- Soo...und jetzt da rüber... - Nur noch ein paar Meter... - Öffentlichkeitsarbeit ist Arbeitsplatzsicherung!
+19951025 -- Die Apatschen!! - Sicher? - Hast Du sie gesehen?
 19951103 -- Pardon... - Schönes Fahrrad! Ja-nicht wahr? Sie sollten damit fahren!! - Ach komm-Du kannst in Deinen Schuhen doch auch nicht laufen...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
@@ -653,6 +654,7 @@
 20190215 -- auch wieder zurück! Da wird sich der Chinese sicher freuen! Der wird auch immer dicker.
 20190223 -- Hallo! Ich hätte gerne Kaffee und Kuchen! Aber unbedingt mit ohne... Moment! - Einfach hier mit der App die Inhaltsstoffe auswählen-Kaffee hier, Kuchen da-und dann auf "Senden" tippen! Und ich bringe Ihnen dann genau, was Sie möchten. -
 20190227 -- Hellau! Huh-Ihr seid aber gruselige Hexen! - Ein bisschen schüchtern die beiden Mäuschen, was? Aber super Hexenkostüme! - Halli Galli
+20190327 -- Wow! Die haben aber eine moderne Waage! - Ich versteh die Anzeige nicht, aber ich glaube, ich hab abgenommen! Was bedeutet dieses Signal? * - Es bedeutet, der Saugroboter fährt zur Ladestation.
 20190330 -- Hey, Du! Hallo! Alles klar! Du kannst abbiegen! Es kommt keiner! Alles frei! Kann nix passieren! Gute Fahrt! ? - Ich arbeite jetzt als Toter-Winkel-Assistent! Aha. Boah-hat der Segelohren!! Untersteh Dich!
 20190509 -- Hahaha! Ich habe einen geilen Witz gelesen! Kennen Sie den? Kommt ein Mann zum Friseur... - Haha! Wollen Sie mich etwa damit rasieren? - Fragen Sie mich nach dem Witz noch mal.
 20190519 -- Da bist Du ja endlich! Guten Morgen! Verschlafen? - Ich war noch schnell im Nagelstudio! Schick, oder? ** ding dong
@@ -903,3 +905,4 @@
 20221214 -- Hallo zusammen! Heute basteln wir ein Luxus-Phone! Wir brauchen: Ein betagtes Handy, hässliche Gläser und einen Wellensittich! ? - Kristalle machen, Hany mit Kleber einmumpen, drin Wälzen, bunte Federn drauf-fertig! Toll! Mutti wird weinen! -
 20221214 -- Und das nächste Mal zeige ich Euch... ...in welchem Kinderheim er wohnt, tschühüs!
 20221215 -- Was machst Du?! Warte! Da ist ein Hund im Garten! - Das da? Hahaha! Das ist doch kein Hund, das ist ein Kalb! Hüah!!! - Vor Kühen muss man keine Angst haben! ding dong **
+20221216 -- Onkel Ralf! Raus! Raus! Raus! Weg! Weg! Weg! Nicht gucken! - Ich bemal gerade das Geschenk für Onkel Ralf! Und das ist was...? - Ein unsichtbarer Aschenbecher! Onkel Ralf raucht nämlich nur noch heimlich!

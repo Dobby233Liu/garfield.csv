@@ -11200,3 +11200,5 @@
 221214 -- nicht die ganze Auswahl sein. Stimmt, es gibt auch noch drei Läden, die zu weit weg sind.
 221215 -- STUNDE DREI: WOHIN ZUM MITTAGESSEN? Wenn wir uns auf kein Restaurant einigen können, müssen wir zu Plan B übergehen. - Plan B beinhaltet Hunger, Verrat und Kannibalismus. - Ich habe Hunger und meine Oberarme sind kräftiger als die von
 221215 -- mindestens einer von Ihnen, daher stimme ich für Plan B.
+221216 -- STUNDE VIER: WOHIN ZUM MITTAGESSEN? Wir haben jetzt 35 potentielle Essensmöglichkeiten ausgeschlossen. - Ich finde, es liegt in der Natur der Sache, dass wir uns jetzt eingestehen, dass wir es nicht wert sind zu überleben. - Ich gleube, Tina
+221216 -- ist Ihrer Meinung, aber sie ist schon zu schwach, um zu antworten.
