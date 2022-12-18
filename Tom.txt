@@ -171,6 +171,8 @@
 19951023 -- Alles klar? Naklar...klar...jaguar... - Nagut... Uuund: BOXEN!! - Wieviel Watt?
 19951024 -- Soo...und jetzt da rüber... - Nur noch ein paar Meter... - Öffentlichkeitsarbeit ist Arbeitsplatzsicherung!
 19951025 -- Die Apatschen!! - Sicher? - Hast Du sie gesehen?
+19951026 -- - - ?
+19951027 -- Buenos dias! Buon giorno... Äh...Zahnpasta? "Dsanbasta"?? -- Pasta! Für die Zähne...äh...dental...genau: Pasta den-tal! Pas-ta dent-al? Ah! Al dente! Bingo! Pasta al dente! - Gab's das Zeug nich' in der Tube?
 19951103 -- Pardon... - Schönes Fahrrad! Ja-nicht wahr? Sie sollten damit fahren!! - Ach komm-Du kannst in Deinen Schuhen doch auch nicht laufen...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
@@ -244,6 +246,7 @@
 20001013 -- - ARRRRHH!! - Nur die Ruhe-eine verlorene Schlacht ist noch kein verlorener Krieg! Ich hab nicht angefangen!
 20001026 -- Glauben Sie ja nicht, dass Sie mich mit so albernem Gepiesacke beeindrucken können! Ich war 40 Jahre lang der Boss des Syndikats-Dr. No ist gegen mich ein Teletubbie! - Tj-ich bin nunmal ein harter Knochen-da kann man man nichts machen! -
 20001026 -- Suppe.
+20001116 -- Schöner Fisch... Danke! - Aber ist er auch frisch? So frisch wie Sie, junge Frau! - Streiken schon wieder die Brummi-Fahrer?
 20001125 -- DIE RACHE DER TELETUBEN ENDE Die Stimmung im Team wurde auch zusehends schlechter. Nochmal!! - Und da ich als letzter kam, wurde ich als erster gegangen. * Hinke! Hinke! * - Wie gesagt: Ich habe es vergeigt und ich habe mich damit abgefunden,
 20001125 -- Das einzige, was mich noch quält ist: Wie haben diese kleinen Teufel bloss den Sekundenkleber in mein Kostüm bekommen?!
 20001208 -- Haushaltswaren? Durch die Parfümabteilung und dann die Rolltreppe hoch... Danke. - Testen Sie "Zlatko Noir"! "Hop-Singh" Der neue Herrenduft von "Hoss"! Ein Pröbchen, "Animaliman"? - Warste wieder im Puff?
@@ -906,3 +909,4 @@
 20221214 -- Und das nächste Mal zeige ich Euch... ...in welchem Kinderheim er wohnt, tschühüs!
 20221215 -- Was machst Du?! Warte! Da ist ein Hund im Garten! - Das da? Hahaha! Das ist doch kein Hund, das ist ein Kalb! Hüah!!! - Vor Kühen muss man keine Angst haben! ding dong **
 20221216 -- Onkel Ralf! Raus! Raus! Raus! Weg! Weg! Weg! Nicht gucken! - Ich bemal gerade das Geschenk für Onkel Ralf! Und das ist was...? - Ein unsichtbarer Aschenbecher! Onkel Ralf raucht nämlich nur noch heimlich!
+20221217 -- Ich seh aus wie ein Sack Kartoffeln! Ruf ein Taxi! Gar nicht! Steig auf, wir müssen los! - Guten Morgen! Oh! Legen Sie Vorräte an? ? - Es ist Dir nicht einmal aufgefallen! Ruf ein Taxi!
