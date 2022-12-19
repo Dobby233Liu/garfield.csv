@@ -173,6 +173,7 @@
 19951025 -- Die Apatschen!! - Sicher? - Hast Du sie gesehen?
 19951026 -- - - ?
 19951027 -- Buenos dias! Buon giorno... Äh...Zahnpasta? "Dsanbasta"?? -- Pasta! Für die Zähne...äh...dental...genau: Pasta den-tal! Pas-ta dent-al? Ah! Al dente! Bingo! Pasta al dente! - Gab's das Zeug nich' in der Tube?
+19951028 -- Ich hasse Claudia Schiffer! Ich auch! Die is' doch gedopt! - Quatsch! Wovon kriegt man schon Steckenbeine, Wespentaille, blaue Augen und 'ne blonde Matte... ...bis zum Hintern? - Barbieturate.
 19951103 -- Pardon... - Schönes Fahrrad! Ja-nicht wahr? Sie sollten damit fahren!! - Ach komm-Du kannst in Deinen Schuhen doch auch nicht laufen...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
@@ -180,6 +181,7 @@
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
+19960608 -- ...taufe ich Dich auf den Namen: "Mike Nelson"! - - My Lady...es ist ein U-Boot...
 19960713 -- Fertig!!-Tiere? Was?! Dreck... Nix... Nix! Würmer! 20! - Krankheiten? Ich war von Anfan an dagegen "Stadt, Land Fluss" mit... Nix... Würmer! 20! - Stadt? Nix. Hmpf... Worms! 20!
 19960822 -- Markein allen Preisklassen Postbank Tüdelüt! ? - Herr Oberpostrat!... ...Ihre Mutter...verstehe...selbstverständlich... Eine Einemarkmarke...eilig...selbstverständlich... Wiederhörn. - Guten Tag! Ich bin meine Mutter!
 19960830 -- Alles Gute-Stop-Sauf nicht so viel-Stop-Gruss Frieda. Und der Empfänger? Pachulke... - Paula-Anton-Cäsar-Heinrich-Ulrich-Ludwig-Kaufmann-Emil. Is ja gut! Is ja gut! Ein Vorname reicht!
@@ -423,6 +425,7 @@
 20081231 -- Raketen erst ab 18! - Wir müssen den Start ein paar Jahre verschieben.
 20090121 -- Hier hab ich mir die Grippe geholt! Unsinn! Wir Frontmänner sind alle geimpft! - Dies ist ein Virenscanner. Mit ihm können wir Grippeviren sichtbar machen. Bitte. Aber, wie gesagt... -
 20090210 -- Halt! Parkkontrolle! Haben Sie für diese Gehhilfen einen gültigen Behindertenausweis? - Hahaha! Das ist wie Radfahren mit Stützrädchen! Können Sie nicht ohne? Doch. -
+20090224 -- Hellau! Tolles Kostüm! Aber ich habe Sie sofort an der Stimme erkannt. HRRRRR! - Hellau! Eineeine...oh! Oh! Oh! Hrrr... - Rufen Sie den zoo an! Und ich versuche, ihn mit irgendwas abzulenken. Geben Sie mir eine Marke! Hrrrr...
 20090320 -- Frechheit! Rennrüpel! tocktocktock Selber plemplem! - Ich hab Ihnen nicht den Vogel gezeigt! Ich wollte bloss andere Musik! Hey-Du versuchst mich zu verarschen. Respekt! - Neinneinnein! Mein IPod hängt hier an der Mütze! Hells Bengels
 20090321 -- Hast Du eine Wurst? Gut. Der Plan: Sturm klingeln. Tür wird aufgerissen. Wurst reinwerfen. Dann ist der Hund eine Weile beschäftigt... - - Warte! Wieso rennen wir eigentlich? Wegen einer Wurst, die ein Vegetarier-Kind seinem Hund weggefressen
 20090321 -- hat? Nein. Wegen der Schlaftabletten, die ich zur Sicherheit in die Wurst gestopft habe.
