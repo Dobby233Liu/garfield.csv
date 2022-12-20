@@ -174,6 +174,7 @@
 19951026 -- - - ?
 19951027 -- Buenos dias! Buon giorno... Äh...Zahnpasta? "Dsanbasta"?? -- Pasta! Für die Zähne...äh...dental...genau: Pasta den-tal! Pas-ta dent-al? Ah! Al dente! Bingo! Pasta al dente! - Gab's das Zeug nich' in der Tube?
 19951028 -- Ich hasse Claudia Schiffer! Ich auch! Die is' doch gedopt! - Quatsch! Wovon kriegt man schon Steckenbeine, Wespentaille, blaue Augen und 'ne blonde Matte... ...bis zum Hintern? - Barbieturate.
+19951030 -- Chef! In Nichtschwimmerbecken zwo säuft einer ab! Ich komm' nich' ran! -is' so voll! - SETZEN!! -
 19951103 -- Pardon... - Schönes Fahrrad! Ja-nicht wahr? Sie sollten damit fahren!! - Ach komm-Du kannst in Deinen Schuhen doch auch nicht laufen...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
@@ -688,6 +689,7 @@
 20201015 -- Das war lecker! Warte, ich helf Dir! Wie trennt Ihr den Müll? - Gekennzeichnete Kunststoffe in die gelbe Tonne, sortenreines Papier in die blaue, sauberes Glas in die grüne, organisches in die braune, Restmüll in die schwarze. - Und alles,
 20201015 -- was arg stinkt, beim Nachbarn hinten übern Zaun.
 20201025 -- Hasso: Gib Pfötchen! Na lLs: Gib Pfötchen!! Gib Pfötchen! Hopp!! Du sollst Pfötchen geben! * ? ? ? - Hoffnungslos-diese Töle ist dumm wie Brot! - Hasso: Vorne rechts...
+20201114 -- Hi, ich bin die Hochgeschwindigkeitsfee, und Du darfst Dir was wünschen-jetzt! Äh... Ich würde gerne irgendwas richtig gut können! - Irgendwass. Irgendwas, aber richtig gut! Okay. - Oaaah...! Guuuuut...!
 20210119 -- ACHTUNG!! BAHN FREI!! - Brüll doch nicht so! Da ist doch keiner! Noch nicht! - Bei Deinem Tempo können die alle jetzt noch gemütlich loslaufen, um überfahren zu werden!
 20210128 -- Nun denn, wohl auf! Hinaus in die Welt und den Körper gestählt! - Meinst Du echt, ich kann so gehen? Ist das nicht zu eng im Schritt? Alles gut. - Die Welt ist hart im Nehmen.
 20210320 -- Halt! Ich bin die Stop-and-Go-Fee, und Du darfst Dir was wünschen! - Ich würde gerne natürlicher wirken! -
@@ -913,3 +915,4 @@
 20221215 -- Was machst Du?! Warte! Da ist ein Hund im Garten! - Das da? Hahaha! Das ist doch kein Hund, das ist ein Kalb! Hüah!!! - Vor Kühen muss man keine Angst haben! ding dong **
 20221216 -- Onkel Ralf! Raus! Raus! Raus! Weg! Weg! Weg! Nicht gucken! - Ich bemal gerade das Geschenk für Onkel Ralf! Und das ist was...? - Ein unsichtbarer Aschenbecher! Onkel Ralf raucht nämlich nur noch heimlich!
 20221217 -- Ich seh aus wie ein Sack Kartoffeln! Ruf ein Taxi! Gar nicht! Steig auf, wir müssen los! - Guten Morgen! Oh! Legen Sie Vorräte an? ? - Es ist Dir nicht einmal aufgefallen! Ruf ein Taxi!
+20221219 -- Wenn Du mit dem Finger in der Nase hinfällst, bohrt sich Dein Zeigefinger in Dein Gehirn! - Danke! Bitte. - Der kleine Finger wirkt ja auch viel eleganter!
