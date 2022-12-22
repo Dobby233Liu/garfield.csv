@@ -11209,3 +11209,4 @@
 221219 -- Ich eröffne eine Krypto-Börse. Geben Sie mir all Ihr Geld. - Halten Sie mich für einen Idioten? Ich würde Ihnen niemals mein Geld anvertrauen, solange Sie keine Prominenten Unterstützer haben! - Mit Ihrem Geld könnte ich welche besorgen. Das
 221219 -- ergibt Sinn.
 221220 -- Meine Krypto-Börse möchte gern Ihr Stadion sponsern. - Woher weiss ich, dass Sie eine seriöse Firma sind? - Hier ist eine Mappe mit all den Politiern, die ich gekauft habe. Okay, das sieht seriös aus.
+221221 -- Ich empfehele Ihnen, diese Hälfte Ihrer investitionen in meine Krypto-Börse zu stecken. - Ich habe keine Ahnung von Krypto-Börsen. - Wenn da sso ist, sollten Sie all Ihr Geld dort investieren.
