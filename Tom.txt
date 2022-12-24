@@ -179,6 +179,8 @@
 19951101 -- Nun: Ist der Meridian- oder Äquatorumfang grösser, bzw. welche Form hat denn nun die Erde? Brigitte! chrrr... - Was? Äh...Goethe! Kann jemand die Problemstellung wiederholen? - "Is' die Erde mehr Ernie oder mehr Bert?"
 19951102 -- "Zuckerschnütchen", "Spatzl", "Süsse",,,und kaum hab' ich'n Baby sagt er bloss noch "Mutter" zu mir,,, Würde Horst nie wagen! Mama! - Äh... - Ma' mal bitte noch'n Bier auf... ...Mausi...
 19951103 -- Pardon... - Schönes Fahrrad! Ja-nicht wahr? Sie sollten damit fahren!! - Ach komm-Du kannst in Deinen Schuhen doch auch nicht laufen...
+19951104 -- Dagsi!! - Wohin? Heim... - Welches?
+19951106 -- Ich will wie Papa pinkeln! - Wie Papa!! -
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -284,6 +286,7 @@
 20020603 -- DLRG DLRG - DLRG DLRG - Du hast wieder Tierfilme geguckt... "Flamingos am Kabimbi-See"!
 20020803 -- Sag mal, hast Du die Klingel abgestellt? Das Telefon ist übrigens auch tot-und irgendein Idiot hat unseren Briefkasten abge... - - Morgen, 19 Uhr, Feriendias anschauen bei Knösels...
 20020817 -- - CIRCUS MAX - HUACHU!
+20020828 -- - HUACHU! -
 20020920 -- Ah! Kruse-git, dass ich Sie noch treffe! Herr Dr. Sichler! Keien Unterricht heute? - Dochdoc-ich habe gleich Vertretung...in der 9b... Oh! Ein übler Haufen! Sie sagen es, Kause, Sie sagen es... - Geben Sie mir doch eine schöne grosse
 20020920 -- Schachtel Quietsch-Kreide... Material
 20020924 -- Gratuliere! Sie sind kerngesund! Und Sie haben das Fahrgestell eines jungen Mannes! Verdammt... - Hmmm...Tango...? Salsa. Der Kurs beginnt nächste Woche. Sie hat schon bezahlt... - Ähm...sprachen wir schon über Ihre Hüftgelenke? ...Orte des
@@ -429,6 +432,7 @@
 20081129 -- Hat geschmeckt, ja? Einen kleinen Grappa aufs Haus, ja? Wraum? Horst! Gerne, grazie, due, prego. - Wenn das Essen okay war, braucht man keinen Schnaps! Die Muscheln... Alte Unke-der will doch nur einen mittrinken! - Salute!
 20081231 -- Ein Dutzend von den grossen Raketen da oben, bitte. Die darf ich Dir nicht verkaufen, zu gefährlich. Knallerbsen kannst Du haben. - Zu gefährlich? Das ist albern! Die fliegen doch weg! Knallerbsen bekommt man ins Auge geworfen! Verdammt!
 20081231 -- Raketen erst ab 18! - Wir müssen den Start ein paar Jahre verschieben.
+20090117 -- Weiterfahrt nur mit Schneeketten Na toll. Und nu? - Na, was schon. Das Hotel ist da oben. Es wird gleich dunkel. Und wir brauchen die Schneeketten. Wir haben keine Wahl. - Wir müssen ihn losmachen.
 20090121 -- Hier hab ich mir die Grippe geholt! Unsinn! Wir Frontmänner sind alle geimpft! - Dies ist ein Virenscanner. Mit ihm können wir Grippeviren sichtbar machen. Bitte. Aber, wie gesagt... -
 20090210 -- Halt! Parkkontrolle! Haben Sie für diese Gehhilfen einen gültigen Behindertenausweis? - Hahaha! Das ist wie Radfahren mit Stützrädchen! Können Sie nicht ohne? Doch. -
 20090224 -- Hellau! Tolles Kostüm! Aber ich habe Sie sofort an der Stimme erkannt. HRRRRR! - Hellau! Eineeine...oh! Oh! Oh! Hrrr... - Rufen Sie den zoo an! Und ich versuche, ihn mit irgendwas abzulenken. Geben Sie mir eine Marke! Hrrrr...
@@ -925,4 +929,7 @@
 20221219 -- Wenn Du mit dem Finger in der Nase hinfällst, bohrt sich Dein Zeigefinger in Dein Gehirn! - Danke! Bitte. - Der kleine Finger wirkt ja auch viel eleganter!
 20221220 -- Hallo! Ich...Oh! Weihnachtsplätzchen! Danke! Sagen Sie, Sie gehen doch immer in den Wald, Bäume umarmen, nicht wahr? - Ob Sie uns wohl mal ein kleines Tännchen mitbringen könnten? Na, klar! Ich schau mal! - Hallo! **Tataa! Für Sie! Schön,
 20221220 -- oder? Und keine Sorge! - Er ist eines ganz natürlichen Todes gestorben. Frohes Fest!
-20221221 -- 
+20221221 -- Ich geh ins Dorf! Braucht Ihr was? Nö, aber nimm Dir einen Schirm, es regnet! - Eine von den Gänsen fehlt! Die hat sicher Weihnachten gewittert und sich irgendwo versteckt! -
+20221222 -- Möchten Sie wieder ein paar Vanillekipferl? Aber gerne! Frohes Fest! - Was willst Du mit den Betongipfeln von der Klöpke? Scheiben einwerfen? - Mit ein paar Tröpfchen Spiritus sind das hervorragende Grillanzünder!
+20221223 -- Was hören Sie da für wundervolle Musik? Bach! Das Weihnachtsoratorium! ** ** ** * Von...? Motettenchor Knödlingen. - * * * * ? - Titelmelodie "Der weisse Hai". * * *
+20221224 -- Schöne Wohnung! Und die Nachbarn? Muss sich noch einschleifen... - Thorben! Willst Du nicht Oma und Opa Hallo sagen? Thorben? Thorben?! Ist das Ihrer? - Er ist einfach bei uns reingerannt und hat alle Geschenke ausgepackt!!
