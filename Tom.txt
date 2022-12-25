@@ -181,6 +181,7 @@
 19951103 -- Pardon... - Schönes Fahrrad! Ja-nicht wahr? Sie sollten damit fahren!! - Ach komm-Du kannst in Deinen Schuhen doch auch nicht laufen...
 19951104 -- Dagsi!! - Wohin? Heim... - Welches?
 19951106 -- Ich will wie Papa pinkeln! - Wie Papa!! -
+19951107 -- Ich hätte gerne für 10 Mark Fische für mein Aquarium hier. - Naja...weisst Du, Zierfische kosten mehr als 10 Mark... -wie wär's mit 'ner Eidechse? - Hatt' ich schon... * Ist ersoffen...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -627,6 +628,7 @@
 20170812 -- gewinnen heute Ampelrennen!
 20170825 -- "Klingel defekt". Dann gehen wir eben wieder. - ** Ding Dong ** - Grundkurs Bauchreden! Hupen kann ich auch schon! Wehe! Hanni Nammi
 20170826 -- Ihr habt echt noch Sex?! Na sicher! Leidenschaftlichst! - Im Ernst? So richtig mit schmutzige Dinge sagen und so? Aber sowas von! - Du hast schon wieder Hüpfburg gesagt!
+20170829 -- Vielleicht könnte man ja noch ein eKasse aufmachen! * * * - Oh! Gute Idee, danke! -gehen Sie bitte alle auch da rüber! - Und immer schön nach der Deutschlandkart fragen!
 20170905 -- * - ? - Wuuh..
 20171010 -- Sag mal...Fleisch vor dem Braten waschen? Keine Ahnung. Moment... - Hm...die einen sagen nein, die anderen sagen wenn, dann richtig. Musst Du entscheiden. - Nochmal Hackfleisch? Kommen Gäste? Darfs noch was sein? Kennen Sie einen günstige
 20171010 -- Klempner?
