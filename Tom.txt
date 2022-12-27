@@ -42,7 +42,7 @@
 19950526 -- Hohoho! Was für ein Popo! Mutter!! - In Deinem Alter! Ganz recht! In meinem Alter! - In meinem Alter erinnert man sich nur noch an die schönen Sachen von früher...
 19950527 -- Ah! Das Vergnügen, einen Handwerker bei der Arbeit zu sehen! * - Aufmachen-reingucken. Bisschen hier fummeln-bisschen da fummeln.. - Finger klemmen-zumachen. Passt! Fein! Ausprobieren... *** - Und jetzt kommt gleich der Handwerker...
 19950529 -- POMPERS POMPERS POMPERS POMPERS * * * ? * - Sooo...300 Pompers Ultra und 400 Light, 30 kg Hüpp...wartense...irgendwas hab' ich vergessen... * * * - Präser?
-19950530 -- Er reagiert überhaupt nicht mehr... - Da macht man das erste Mal seit Jahren Urlaub...nettes Zimmer, sehr ruhig... ...und billig,,, Geben Sie mir mal den Taschenrechner. - Fernseher kaufen.
+19950530 -- Er reagiert überhaupt nicht mehr... - Da macht man das erste Mal seit Jahren Urlaub...nettes Zimmer, sehr ruhig... ...und billig... Geben Sie mir mal den Taschenrechner. - Fernseher kaufen.
 19950531 -- Neue und leicht geleckte Marken POSTBANK * - Ach, Verzeihung, könnten Sie mir einen kleinen Gefallen tun? Klat, Muttchen... - Muss nur mal für alte Mädchen...
 19950601 -- Ich will Body-Building machen! Mich stählen! Meinen Körper zu einem Kunstwerk formen! Asthetisieren! OKay. - Eisenstemmen? Gewichte drücken? Trimm-Rad fahren oder Liegestützen? Womit soll ich anfangen? - Rumpfbeugen...
 19950602 -- Uärks-ist der eklig... Stinkt sicher tierisch aus'm Hals... - Na prima...schwimmen kann er auch nicht... Tjaja...Lehrjahre sind keine Herrenjahre... *
@@ -177,12 +177,13 @@
 19951030 -- Chef! In Nichtschwimmerbecken zwo säuft einer ab! Ich komm' nich' ran! -is' so voll! - SETZEN!! -
 19951031 -- OO - - 
 19951101 -- Nun: Ist der Meridian- oder Äquatorumfang grösser, bzw. welche Form hat denn nun die Erde? Brigitte! chrrr... - Was? Äh...Goethe! Kann jemand die Problemstellung wiederholen? - "Is' die Erde mehr Ernie oder mehr Bert?"
-19951102 -- "Zuckerschnütchen", "Spatzl", "Süsse",,,und kaum hab' ich'n Baby sagt er bloss noch "Mutter" zu mir,,, Würde Horst nie wagen! Mama! - Äh... - Ma' mal bitte noch'n Bier auf... ...Mausi...
+19951102 -- "Zuckerschnütchen", "Spatzl", "Süsse"...und kaum hab' ich'n Baby sagt er bloss noch "Mutter" zu mir... Würde Horst nie wagen! Mama! - Äh... - Ma' mal bitte noch'n Bier auf... ...Mausi...
 19951103 -- Pardon... - Schönes Fahrrad! Ja-nicht wahr? Sie sollten damit fahren!! - Ach komm-Du kannst in Deinen Schuhen doch auch nicht laufen...
 19951104 -- Dagsi!! - Wohin? Heim... - Welches?
 19951106 -- Ich will wie Papa pinkeln! - Wie Papa!! -
 19951107 -- Ich hätte gerne für 10 Mark Fische für mein Aquarium hier. - Naja...weisst Du, Zierfische kosten mehr als 10 Mark... -wie wär's mit 'ner Eidechse? - Hatt' ich schon... * Ist ersoffen...
 19951108 -- Wenn Du mit mir nach Huase kommst, zeig ich Dir mein Aquarium... - Du hast'n Aquarium= So richtig mit Wasser? Logisch! - Fische sind teuer.
+19951109 -- Soldat? Turner? Ex-"Schwebende-Jungfrau"? Was?...äh, nein. Warum? - - Mein Deo hat versagt...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -415,6 +416,7 @@
 20080104 -- Flaschenpfand Was ist? Tun Sie doch endlich Ihre Flaschen rein! - Ich muss doch sehr bitten! - * Hier warten Diskretionsabstand
 20080108 -- Die Wiege des 10-Meter-Bretts ist Amerika. Ursprünglich wurde es als 1-Meter-Brett Entwickelt. - Aus Sicherheitsgründen musste man den Sockel um 9 Meter verlängern. Aus Sicherheitsgründen?! - Man brauchte Platz für die Aufkleber mit all den
 20080108 -- Warnhinweisen.
+20080111 -- He! Vermisst einer der Herren sine Mütze? Weiss. Mit gelbem Schild! - Ralf, das ist Deine! Kann nicht sein. Meine ist komplett weiss! -
 20080204 -- Ist der süüüss! Der?! Ein Langweiler. Der verkleidet sich nie. Du meinst, der ist echt? - Waschecht! Und furchtbar schüchtern- Sei behutsam, falls Du was vorhast... Ich lass mir was einfallen! -
 20080308 -- Wer kommt mit, eine rauchen? Ralf, Ralf...Du rauchst wieder? - Nein. Aber ich kann doch nicht meine ehemaligen Rauchpartner im Regen stehen lassen. He! Wartet! Es regnet doch gar nicht... - *
 20080327 -- Der erfahrene Waldläufer braucht keinen Kompass. Er schaut sich einen Baum an... - ...und da, wo so komisches Zeug dran haängt, da ist immer Westen. - Stimmt.
@@ -427,7 +429,7 @@
 20080520 -- ** Palimpalim ** - Tür zu! - Ist gerade ungünstig. Mein Mann grillt. Auf dem Balkon.
 20080722 -- Ich bin eine alte Frau! Meine Beine sind krumm genug! Wie lange soll ich denn noch hier rumstehen? Für eine Marke! Das ist respektlos! Ich könnte Ihre Mutter sein! - Nein, das könnten Sie nicht. Mama war eine ausgesprochen höfliche, ruhige
 20080722 -- und geduldige Person! Duschmarken POST Auch wenn sie mit Ihnen Kinderpost spielen musste...?
-20080816 -- Den Baum berühren...den Baum spüren,,,eins werden mit dem Baum... Fühlen Sie ein aus der Tiefe des Stammes rührendes, immer stärker werdendes Vibrieren? - Ja! Eine sich aufbauende Energie? Ja!! ein sich Bündeln an einem Punkt? Ja!!! Einen
+20080816 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... Fühlen Sie ein aus der Tiefe des Stammes rührendes, immer stärker werdendes Vibrieren? - Ja! Eine sich aufbauende Energie? Ja!! ein sich Bündeln an einem Punkt? Ja!!! Einen
 20080816 -- enormen Drang nach aussen? Ja! Ja! Ja! - Dann lacht er sich einen Ast.
 20081108 -- Ja-ich bins. Wir sind gleich da. Setz schon mal das Nudelwasser auf. Ja. ** Bussi ** Wie haben die Leute sich früher schnell was wichtiges gesagt-ohne Telefone? - Mit Brieftauben. - Du hast eine SMS bekommen.
 20081111 -- Polizei! Das Spiel ist aus! Fallen lassen! Ich sagte: Fallen lassen! Päng! Bäng! Päng! Päng! Päng! - Päng! Päng! Päng päng... - *
