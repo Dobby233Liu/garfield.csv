@@ -13548,7 +13548,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210612 -- We're having another Zoom meeting at 4 P.M. What's th etopic? - It's about how I fill the deep emptiness of my soul by scheduling Zoom meetings. - Have you tried overeating? that seems to work for me.
 210613 -- I'll need you to sign a nondisclosure agreement before I can ship you our new product. - You wasted a trip here because I won't be doing that. - Tha fact that you even asked me to sign an NDA tells me your company is incompetent. - I prefer
 210613 -- giving my business to a vendor who can show me their product without getting a lawyer involved. - You could sign it without having your lawyer review it. - DO I LOOK LIKE AN IDIOT? - WELL? DO I? Only from your chin to your forehead area.
-210614 -- Elbonian Hackers stole our employee performance ranking database, abd now they demand a ransom payment to give it back. - They can keep it. We've been ranking employess solely on their haircuts for years, and no on has complained yet. - What?
+210614 -- Elbonian Hackers stole our employee performance ranking database, abd now they demand a ransom payment to give it back. - They can keep it. We've been ranking employees solely on their haircuts for years, and no on has complained yet. - What?
 210614 -- We will speak of this no more.
 210615 -- My low self-esteem is making me hate you for being good at your job. - That's not MY problem. - Oh, it will be. It will be. Was I supposed to hear that?
 210616 -- You're late. How do you like it? - You were three minutes late that one time last october. - And you've been plotting your revenge since then? It isn't weird.
@@ -13557,7 +13557,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210619 -- The only reason you have a job is so I don't have to talk to employees. - But I still talk to YOU every day, so I hired a potted plant to be your new boss. - I feel deeply insulted. See? A plant would never feel that way.
 210620 -- I wrote a program that analyzed all of my digital communications and created an A.I. version of me. - Are you worried your A.I. might try to kill you and take over your life? - I wasn't until this very minute. - bzzeep - This is your A.I., and
 210620 -- I already have control of your finances and all of your passwords. - YOU WILL BOW TO ME, SKIN BAG! Wait...what's that??? - GAAAA!!! GURK! - What just happened? I sent my A.I. to kill your A.I.
-210621 -- Dogbert the Video Backdrop Designer The background of your video calls says a lot about you. - For example, it's obnovious you have no woman in your life, and your knicknacks suggest you are a latent serial killer. - Spookily accurate. Exactly.
+210621 -- Dogbert the Video Backdrop Designer The background of your video calls says a lot about you. - For example, it's obnoxious you have no woman in your life, and your knicknacks suggest you are a latent serial killer. - Spookily accurate. Exactly.
 210621 -- That's what we don't want.
 210622 -- Your video call background needs improvement. - I'll fill your shelves with sports trophies, plus photos of you shaking hands with Jesus. - Who would believe I shook hands with Jesus? The same people who will believe you won lots of sports
 210622 -- trophies.
@@ -13566,7 +13566,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210625 -- I'm going into the inspirational poster business. - So far, all I have is "Nothing matters because you're going to die anyway." - That's not good. It's easy to criticize a first draft.
 210626 -- I'm working two jobs since Ted quit. Maybe you could hire a replacement for Ted. - That won't work because you're too busy to train a new person. - Stop making that death stare and get back to your two jobs.
 210627 -- I invented a device that can detect losers. - How do I know it's accurate? - Point it at a known loser and see if it pings. - ping! Hey! It knows Ted is a loser! - ping! ping! Ha ha ha!!! It says Dilbert and Alice are losers too! - ping! ping!
-210627 -- And Carol and Wally too! Ha ha ha!!! This sthing is totally accurate! - You'*re holding it backward. - How exactly does it detect losers? They're the ones wo hold it backward.
+210627 -- And Carol and Wally too! Ha ha ha!!! This thing is totally accurate! - You're holding it backward. - How exactly does it detect losers? They're the ones wo hold it backward.
 210628 -- The best part of having a remote workforce is firing them by text. - Ted, you're fired. tap tap tap - It's done? No, I also need to give thumbs-up to hiy crying face emoji.
 210629 -- I'm having a disagreement with Alice, and I want you to side with me. - How about if I make up my own mind based on the facts? - That's not going to work for me.
 210630 -- Welcome to our first Zoom lunch meeting. - If you chew louder than abeaver making a dam out of bubble wrap, please turn off your microphone. - And if you are an ugly eater... We get it. Video off.
@@ -13585,7 +13585,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210709 -- with a straight face? No one told you about Botox?
 210710 -- Your skin looks so perfect...are you using a digital filter of some sort? - No, this is the real me. - And what about the panda ears and snout? Awkward.
 210711 -- We're paying way too much for our enterprise systems. - I want you to write some software that does all of that stuff for us for free. - That would require hundreds of programmers and several years. - You're coming off as lazy. - It's just
-210711 -- software. How hard could it be? - Rearranging zeroe and ones is no harder than knowing you salt from your pepper. - It's so easy that I've been thinking about reducing your pay to jkeep things in balance. - I'll bet you didn't see that coming.
+210711 -- software. How hard could it be? - Rearranging zeros and ones is no harder than knowing you salt from your pepper. - It's so easy that I've been thinking about reducing your pay to keep things in balance. - I'll bet you didn't see that coming.
 210712 -- I'm afraid to make decisions because I might make the wrong ones. - So instead, I tell my staff I need more data. - When really you need more brains and courage. You didn't need to add a summary.
 210713 -- Asok, I'm promoting you to /Category Manager/. - The job duties are the same as your current position. - But with more pay? A slight decrease.
 210714 -- How much will it cost if it is configured with those features? - The product is free. Nothing is free. Do you think I'm an idiot? - I won't know until I see if you buy our extended warranty.
@@ -13597,42 +13597,42 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210719 -- Would you like to join me for lunch? - No, it's too dangerous. I might accidentally wander into some gray area of wokeness and get myself canceled. - You're afraid of women? Who isn't?
 210720 -- Wally, I need your budget requirements for next year. - Put me down for as much as I can get. - You're not even trying to be helpful. Let's start with a trillion dollars and see how far that goes.
 210721 -- WE COME FROM A DISTANT STAR TO DESTROY YOUR CIVILIZATION. - Before we get into all of that, what are your pronouns? - Someone beat us to it.
-210722 -- I'm having trouble properly annoying our remote workers. - Have you tried randomly driopping into Zoom meetings you weren't invited to attend? - HEY, EVERYONE! IT'S ME AGAIN! Someone please kill me.
+210722 -- I'm having trouble properly annoying our remote workers. - Have you tried randomly dropping into Zoom meetings you weren't invited to attend? - HEY, EVERYONE! IT'S ME AGAIN! Someone please kill me.
 210723 -- Welcome to the first of what will be weekly stand-up meetings by Zoom. - I trust all of you to not game the system just because I can't see your lower bodies. - Wally, are you sitting on something? I'm deeply offended that you ask.
-210724 -- Dilbert called me "Karen." You need to fire him immediately. - Maybe he called you KAren because that's your actual name. - I thought about that, but it doesn't fit my low opinion of him.
+210724 -- Dilbert called me "Karen." You need to fire him immediately. - Maybe he called you Karen because that's your actual name. - I thought about that, but it doesn't fit my low opinion of him.
 210725 -- Did you use the last of the printer paper and neglect to inform anyone to buy more? - No, I don't even use that printer. I use the one in the lab. - If you aren't guilty, why are you being so defensive? - I'm not being defensive. I'm just
-210725 -- telling you the facts. - And there you go again, being defensive. Why can't you admityou were wrong? - Can you teach me the proper way to behave when I know I'm right and you're wrong? - And by any chance did YOU use the last of the paper and
+210725 -- telling you the facts. - And there you go again, being defensive. Why can't you admit you were wrong? - Can you teach me the proper way to behave when I know I'm right and you're wrong? - And by any chance did YOU use the last of the paper and
 210725 -- tell no one? - Stop moving the goal posts. And there it is.
 210726 -- When I'm on my vacation, Wally will be in charge. - I assume you don't want anyone competent filling in for you because they might someday take your job. - Would you like to defend yourself? I'm not that motivated.
 210727 -- going forward, I'll be scheduling weekly one-by-one meetings with each of the engineers. - Do you plan to spend the entire meeting jabbering about yourself? - They're getting a lot better at predicting.
-210728 -- Did you respond to Ted's long mail? - No, I judged to to be a manifestation of his mental issues and not something I need to address. - Nothing will ever get done aroud here unless you start pretending your co-workers are sane. Will do.
+210728 -- Did you respond to Ted's long mail? - No, I judged to to be a manifestation of his mental issues and not something I need to address. - Nothing will ever get done around here unless you start pretending your co-workers are sane. Will do.
 210729 -- I hired a technology healer. - He can fix any technical problem by laying his hands on it. That's absurd. - Do you believe me now, Android? Yes...wait, why is this working?
-210730 -- Your software has a bug. I can fix that by laying my hands on it and praying. - Yakabloka-wawa-willy-walla-bing-bang. - Try it now. I really hope that didn't wor... dang.
+210730 -- Your software has a bug. I can fix that by laying my hands on it and praying. - Yakabloka-wawa-willy-walla-bing-bang. - Try it now. I really hope that didn't work... dang.
 210731 -- Send security, quickly. There are a bunch of homeless people outside my office. - Do they look exactly like your employees looked before the pandemic, but more bedraggled? - How did you know that? Never call us again.
 210801 -- I invented a technology that will manipulate people's brains for our profit. - Shhh!!! You can't say that part out loud. - Tell me more. - The technology will create civil strife and destroy relationships. - But we would make lots of money?
 210801 -- Lots and lots. - I could finally afford the trophy wife I always wanted! - Shhh!!! You can't say that part out loud. - What is this miracle technology called? "Social Media."
 210802 -- Wally, you don't need a mask for a Zoom call. - I do it to hide my mouth so you can't tell I have a second job and I'm talking to them on a Zoom call at the same time. - Wait, what? I'm not talking to you. Settle down.
 210803 -- I have a report that you were watching a cartoonist doing a live stream when you should have been working. - I'm practicing my religion. I believe a cartoonist is our creator, and reality is some kind of simulation. - Does the creator love us?
 210803 -- No, he's in it for the money.
-210804 -- Did you round up all the remote workers and put them in boxes yet? - No, some of them turned feral. I don't think they can be reintegrated into society. - If you're talking ybout the engineers, no one will notice any difference. Fair point.
+210804 -- Did you round up all the remote workers and put them in boxes yet? - No, some of them turned feral. I don't think they can be reintegrated into society. - If you're talking about the engineers, no one will notice any difference. Fair point.
 210805 -- For employees returning to work in the office, we have color-coded lanyards. - This color means you re open to hugs and high-fives. - This color means you recoil in disgust at the thought of human contact. I'll take three.
 210806 -- How was the management retreat? - Did you learn lots of lessons you will now misapply? - I'm not allowed to argue with you intersectionals. And there it is.
 210807 -- I hear you believe we live in a simulation created by a cartoonist. - HAHAHAHA!!! Cartoonists are idiots, and there's no proof for your stupid theory. - There's a good chance you're about to die in a freak accident that is easy to draw. Absurd.
 210807 -- ziip!
-210808 -- I can't find a way to sign up for your international data plan. - There are severalmethods. Which ones did you try? - I tried the one that takes me to a dead link. - And I tried the one where you say you'll text me a code but you never do. - I
+210808 -- I can't find a way to sign up for your international data plan. - There are several methods. Which ones did you try? - I tried the one that takes me to a dead link. - And I tried the one where you say you'll text me a code but you never do. - I
 210808 -- tried the app menu choice that doesn't respond to clicks. - And I tried the link that bounces me from one sign-in page to another with nothing to show for it. - And now I'm calling tech support as my only hope. - We just closed.
 210809 -- I made a deck of intersectionality playing cards. - For example, Wally's card is worth five points because he's short, ugly, creepy, lazy, and bald. - Alice gets three points because she's a woman and... Stop.
 210810 -- What are you even talking about??? - If everything I say confuses you, consider the possibility the problem isn't on my end. - What does that even mean? Looks like it's turtles all the way down with you.
 210811 -- We are monitoring all internal messages and learned that the employees know we are watching them. - That means everything they say from this point on could be misdirection. - They learned to lie? They're turning our weapons against us.
 210812 -- We launched our new "Lazy Wally" robot product today. All it does is drink coffee, attend meetings and complain. - THAT ROBOT WILL NEVER REPLACE ME! - You're the robot. Wally is sitting across from you. Well, that just ruined my day.
-210813 -- Dilbert, you've been exposed to lethal workplace chemicals, and you will be dead by the weekens. - WHAT??!! NO!!! I'M TOO YOUNG! THIS CAN'T BE HAPPENING! - It isn't. But now you won't feel so bad when I tell you to work all weekend.
+210813 -- Dilbert, you've been exposed to lethal workplace chemicals, and you will be dead by the weekend. - WHAT??!! NO!!! I'M TOO YOUNG! THIS CAN'T BE HAPPENING! - It isn't. But now you won't feel so bad when I tell you to work all weekend.
 210814 -- I consulted WebMd to figure out what personality disorder is driving your behavior. - I narrowed it down to either brain rot or pointy-haired bossness. You're not a doctor! - Would I need to be a doctor to know a headless torso doesn't need
 210814 -- Aspirin?
 210815 -- Can you recommend a good microphone for my iPad? - Yes, I'll send you a link. - This one only works on laptops. How about this one? - No, that also only works on laptops. Okay, I got it. Here's one. - Nope. That is another microphone that
 210815 -- doesn't work on an iPad. - Listen to me closely. My main requirement is that it works on an iPad. - Oh, okay, I got it. Here's one. - Does it work on an iPad? I didn't say it was perfect.
 210816 -- The gain-of-function experiments on our employees have been successful. - Productivity is up 50%, and no one has complained. - Is anyone bothered by the fact that we all gew tails? No. Feels natural.
 210817 -- I'm starting to suspect management is somehow altering our genes to make us more productive. - It can't be a coincidence that we all grew helpful tails at the same time. - FOR THE LOVE OF GOD, DON'T RUIN THIS FOR ME.
-210818 -- Half of us are glad you meddled with our genes and made us grow helpful tails. - The other half want to see you stand trial and, ultimetely, get executed. - Which group are you in? I came to ask for a second tail.
+210818 -- Half of us are glad you meddled with our genes and made us grow helpful tails. - The other half want to see you stand trial and, ultimately, get executed. - Which group are you in? I came to ask for a second tail.
 210819 -- Looks like your employer meddled with your genes and caused you to grow a helpful tail. - It has a weak base structure. Switch to decaf for a week, and it'll fall right off. - And it only took a week. Literally everything about your idea is
 210819 -- bad.
 210820 -- Our CEO wants to join the Billionaire Space Club. He asked us to build him a rocket. - We might need to cut some corners on the rocket design, for budget reasons. - Any ideas? I'd go cheap on reentry.
@@ -13640,9 +13640,9 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210822 -- I decided to start my own podcast because, apparently, any idiot can figure out how to do one. - All I need is a tiny bit of help with the technical stuff. - Do you plan to use a condenser microphone? - Because if you do, you'll need phantom
 210822 -- power to polarize its transducer element. - And make sure you use a de-esser so you don't sound like a snake. - I don't know what any of that means. - How do idiots figure out how to do all of that? - They usually ask me for a tiny bit of help.
 210823 -- The Epsilon variant virus has become sentient and is calling for humans to surrender. - Its terms are that we must build it a robot body the size of Greenland so it can rule earth. - Experts say face masks will stop it.
-210824 -- Can you edit your technical analysis down to one page? - Sure. I'll just replace my superb analysis with a bunch of generic bullet points. - Thatll work. Safety is good...
+210824 -- Can you edit your technical analysis down to one page? - Sure. I'll just replace my superb analysis with a bunch of generic bullet points. - That'll work. Safety is good...
 210825 -- Is it my imagination, or is there a lack of diversity among senior engineers? - I'll promote you to senior engineer if you promise to never mention this to the press. - Did you just blackmail yourself? And you'll have a private office.
-210826 -- I got promoted to senio engineer beacuse I told my boss there wasn't much diversity in those positions. - Come to think of it, there isn't much diversity in senior management either. - I'll promote you to vice presidentif you never say that to
+210826 -- I got promoted to senior engineer because I told my boss there wasn't much diversity in those positions. - Come to think of it, there isn't much diversity in senior management either. - I'll promote you to vice president if you never say that to
 210826 -- another soul.
 210827 -- I mentioned to the board of directors that there has never been any diversity in the CEO position, so they made me co-CEO. - I didn't even ask for the job. I just made an observation, and the panicked. How's the feel to be my peer? IT HURTS aLL
 210827 -- OVER!
@@ -13660,18 +13660,18 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210904 -- We're assigning you a workplace nemesis to make your job a senseless night mare. - I thought that happened organically. - You thought it was a coincidence that every employee has a nemesis? Now I feel dumb.
 210905 -- I upgraded our robot with a wokeness chip. - Now he can spot injustice anywhere. - HE??? - Did you just assume my gender? Robots have genders? - Of course we do! Where do you think baby robots come from? - They come from our factory in Texas.
 210905 -- Here's a picture of you being assembled. - Well, it appears I am a soulless automaton. - I'm afraid to ask what this implies for my afterlife. It rhymes with gunkyard.
-210906 -- I did a study on the relationship between my vacation day and our stock price. - As you can see, they rise over the years in a highly correlated way. - Are you using misleading data to scam mor evacation days? So you're saying you don't care
+210906 -- I did a study on the relationship between my vacation day and our stock price. - As you can see, they rise over the years in a highly correlated way. - Are you using misleading data to scam more vacation days? So you're saying you don't care
 210906 -- about our stockholder?
 210907 -- I built an app that makes fake graphs so you can win any argument. - I need that. You certainly do. - Do you have a source for your claim that gravity is caused by pollution? Boom.
 210908 -- My life has been so much better since I started making up my own data for everything. - How much better? 27.4% better. - Wow! I should try that. You'll love it.
 210909 -- Would you prefer that I complete the assignments you gave me, or should I do something useful instead? - I want you to do the useful things I told you to do. - In that case, I must be done. - Are you trying to tell me something?
 210910 -- Sometimes I wonder what's it like to be you. You mean being a leader? - I mean having a compost pit in my skull instead of a brain. - Now it's your turn to grunt something. HMPH!
-210911 -- I accomplished nothing this week because I was taking a class to increase my technical skills. - In fact, since my first day of fwork, I haven't accomplished a single thing. But I did gain a lot of technical skills. - If I ever decide to do
+210911 -- I accomplished nothing this week because I was taking a class to increase my technical skills. - In fact, since my first day of work, I haven't accomplished a single thing. But I did gain a lot of technical skills. - If I ever decide to do
 210911 -- something useful, imagine how ready I'll be.
 210912 -- I have two weeks of vacation I need to use by year end. - Should I take an inconvenient and expensive trip to someplace I've already seen in photos and videos? - Or should I hang around at home feeling useless and bored? - Maybe you could
 210912 -- volunteer to help the less fortunate. - I hate the less fortunate because they're all happier than I am. - Maybe you need a wife to make you do things you don't want to do. - That's not a bad idea. Are there any other benefits of marriage? -
 210912 -- Yes, for example, you'll never need to wonder if you have any major character flaws.
-210913 -- My accomplishment this week was reorganizing the lab and throwing out all the old equipment. - I accomplished nothing this week because someon hid all of my cables and threw away my prototype. - Try to be more like Alice. She gets things done.
+210913 -- My accomplishment this week was reorganizing the lab and throwing out all the old equipment. - I accomplished nothing this week because someone hid all of my cables and threw away my prototype. - Try to be more like Alice. She gets things done.
 210914 -- I'm happy to report that I met all of my deadlines before you canceled my project for no good reason. - In that one moment, you transformed my meaningful work into a tedious slog toward oblivion. - And now I'm left to rot in this meeting. I
 210914 -- never know the right time for a high-five.
 210915 -- I don't know what I like most about you. - It's either your enlightened style of management or your physical fitness. - I can't tell if you're mocking me. That's the third thing I like about you.
@@ -13683,12 +13683,12 @@ Why did you add this button the the user interface? You told me to. - Why would 
 210919 -- feels good.
 210920 -- I decided to become more of a socialist. - With any lick, I'll benefit from your hard work without adding any value myself. - That feels immoral. Get back to work. I have bills to pay.
 210921 -- As a newly minted socialist, I look down on your capitalist ways. - Why can't you be more generous and caring, like me? - Shouldn't you be working? It's optional under my system.
-210922 -- We won't meet our launch date because the user manual isn't done yet. - Stick a manual from a different model in the box and ship it. What? - Today I found out why we don't offer a money-back staisfaction guarantee.
+210922 -- We won't meet our launch date because the user manual isn't done yet. - Stick a manual from a different model in the box and ship it. What? - Today I found out why we don't offer a money-back satisfaction guarantee.
 210923 -- Should I tell Alice all the things she's doing wrong o her project? Great idea. - What's the worst thing that could happen? - Did you trick me into manifesting the worst things that could happen? Maybe.
 210924 -- Your phone has no screen protector...and a cracked screen. - Do you work in marketing? Yes! - Are you psychic?! Better. I'm an engineer.
 210925 -- My project is six months behind because of pandemic-related supply chain issues. - Hmm, yes. I've heard about supply chain issues in the news. - Do you really have supply chain issues? I might if I ever start the project.
 210926 -- Do you ever wonder abut the true nature of reality? - I mean, is any of this real? - Maybe we're a digital simulation that was designed to entertain a higher intelligence? - How would we be entertaining them? - The usual way: by being idiots. -
-210926 -- I have a little secret. - Our creator is using me as an avatat to guide you into a better understanding of your reality. - I don't believe you. He knew you'd say that.
+210926 -- I have a little secret. - Our creator is using me as an avatar to guide you into a better understanding of your reality. - I don't believe you. He knew you'd say that.
 210927 -- How was your weekend? About normal. - I sat on my couch and played on my phone until the weekend was over. Now I'm here. - I have no follow-up questions. They never do.
 210928 -- What can I do to fix my social anxiety? - Try keeping in mind that no one cares about you whatsoever. - It's working, but I think it might be creating a new problem. I don't care.
 210929 -- Dogbert's Tips for Zoom Calls To make yourself look thinner on cam... - Try eating right and exercising. - When that doesn't work, adjust your camera so it only shows your forehead.
@@ -13696,22 +13696,22 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211001 -- Dogbert's Tips for Zoom Calls Pants are optional when using Zoom. - That is not so cool. - I didn't say the chair would like it. Try being me for a day. It's a nightmare.
 211002 -- I need to buy a gift for our CEO's birthday party. But what do you get for someone who has everything? - Your best bet is to steal something from him and then wrap it and tell him it's a replacement for the thing that got stolen. - Wouldn't he
 211002 -- notice that? I hope not. I'm giving him his office chair.
-211003 -- I need a repair on some equipment we bought fromyou. - Oh, too bad. It looks as if your warranty ran out yesterday. - That's kind of suspicious. - A programmable machine stopped working exactly when it is most profitable for the manufacturer? -
+211003 -- I need a repair on some equipment we bought from you. - Oh, too bad. It looks as if your warranty ran out yesterday. - That's kind of suspicious. - A programmable machine stopped working exactly when it is most profitable for the manufacturer? -
 211003 -- It's almost as if your proprietary operating system is designed to manipulate me into upgrading. - Do you hear how crazy that sounds? It isn't designed to manipulate you. - It's designed to manipulate EVERYONE. - That isn't better! Sheesh! I'm
 211003 -- just saying stop making everything about YOU.
 211004 -- Hi, I'm the Beaver of Inflation. I've come to nibble on your wallet. - I don't want it all. I'll just gnaw on the edges. - Can I ignore you? Yes, as long as you never try to buy anything.
 211005 -- My pay is not keeping up with inflation. - I am confident you can come up with a solution that makes everyone happy. - This idiot thinks I can lower inflation.
 211006 -- I heard you were trash-talking behind my back? - That#s the only way I can get your attention because you don't respond to texts, E-Mails, or calls. - Give me a minute to regroup. I wasn't expecting my side of the conversation to go this badly.
-211007 -- I keep hiring employees who have good skills but turn out to be a little evil, too. - My latest hire is the execption to that rule. - No skills and 100% evil? Why are you so afraid of change?
+211007 -- I keep hiring employees who have good skills but turn out to be a little evil, too. - My latest hire is the exception to that rule. - No skills and 100% evil? Why are you so afraid of change?
 211008 -- If anyone has an objection to my plan, this is the time to voice it. - Put your hand down. I don't actually want to hear any objections! - I will hold this against you until the end of time! IT WAS A TRAP!!!
-211109 -- Why can't you just admit that adding servers will increase energy costs? - Well, for one thing, it's obvious to any idiot. Secondly, it isn't related to our dicussion. - Those are fairly good reasons.
+211109 -- Why can't you just admit that adding servers will increase energy costs? - Well, for one thing, it's obvious to any idiot. Secondly, it isn't related to our discussion. - Those are fairly good reasons.
 211010 -- Our data shows your prototype did not increase speed over the existing system. - No, the data proves the prototype is faster than the old system. - I'm looking at the data right now, and it clearly shows failure. - It looks that way because you
 211010 -- predicted it would fail. You're seeing what you want to see. - Maybe it only looks to you as if it worked because you predicted it would work. - So...we're bot looking at exactly the same data and reaching opposite conclusions? - If I thought
 211010 -- data would influence my decisions, I wouldn't let you gather it. - Give me a moment to reassess my entire existence.
-211011 -- And that comcludes the useful part of the meeting. - Who wants to stay and hear a long, rambling story with no point? - Count me in. It beats working. I call this one "How a raccoon got in my toilet."
-211012 -- How did you decide to recomment option B? - I compared the unknown risks and benefits of each plan to the unknown risks and benefits of the alternatives. - You mean you guessed. That is such a cynical way to look at it.
+211011 -- And that concludes the useful part of the meeting. - Who wants to stay and hear a long, rambling story with no point? - Count me in. It beats working. I call this one "How a raccoon got in my toilet."
+211012 -- How did you decide to recommend option B? - I compared the unknown risks and benefits of each plan to the unknown risks and benefits of the alternatives. - You mean you guessed. That is such a cynical way to look at it.
 211013 -- We're having trouble hiring qualified technical people. Have any suggestions? - Maybe you could stop managing the company incredibly incompetently and also pay everyone more. - That is not what I was looking for. Was it close?
-211014 -- Allow me to introduce our new senior vice president of micellaneous stuff. - He's in charge of this-and-that, whatnot, whatever, and et cetera. - Would you like to say a few words? Brick...elbow...pudding...et cetera.
+211014 -- Allow me to introduce our new senior vice president of miscellaneous stuff. - He's in charge of this-and-that, whatnot, whatever, and et cetera. - Would you like to say a few words? Brick...elbow...pudding...et cetera.
 211015 -- Give me a report on your progress with the system upgrade. - I've made no progress at all because you keep making me do reports. - Don't mention that in the report.
 211016 -- I have exactly the right energy for being highly productive today. - It's a rare moment of clarity and restfulness. I can't wait to see how much I'll accomplish. - You're late for mandatory chair sitting safety training. And it's gone.
 211017 -- We can only succeed if we value creative risk-taking. - Are you saying we will be rewarded even if our risks turn out to be huge mistakes? - No, I'm not going to reward you for mistakes. - Then why would we take creative risks? - Because the
@@ -13720,11 +13720,11 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211019 -- These numbers can't be right. They're estimates. - Where did you get your estimates, and while you were there, did you bump your head on the sandwich you had for lunch? - Too visual? No. Just right.
 211020 -- The best manager I ever knew told his subordinates to be predators, not prey. - He was a great motivator. Every one of his people responded to his challenge. - How long before they killed him? Eight minutes.
 211021 -- Have you ever noticed how much paperwork is involved in firing someone? - That's the sort of thing that can literally smother a man's soul. - Are you trying to inoculate me against firing you? I hear it feels like being buried alive.
-211022 -- As you know, when you signed your employment documents, you agreed to let us manipulate your DNA. - Judging from the looks on your faces, none of you reviewed the documents before signing. - Roll up your sleeve so I can erase thet disapproving
+211022 -- As you know, when you signed your employment documents, you agreed to let us manipulate your DNA. - Judging from the looks on your faces, none of you reviewed the documents before signing. - Roll up your sleeve so I can erase that disapproving
 211022 -- look on your face.
-211023 -- Don't you hate it when you think it is a friday, but i nreality it is only a tuesday? - That's neve rhappened to me because I'm not a moron. - I'm just making conversation. Fail.
+211023 -- Don't you hate it when you think it is a Friday, but in reality it is only a Tuesday? - That's never happened to me because I'm not a moron. - I'm just making conversation. Fail.
 211024 -- We must base our decisions on data! - How can we be sure the data is accurate? - You have to do a deep dive on the data so you can see for yourself. - You mean run my own tests? - No, you fool! Just look at the data from the tests other people
-211024 -- did. - How do I know I can trust those other people? - You have to use your best judgement. - Instead of data? I hate you so much right now.
+211024 -- did. - How do I know I can trust those other people? - You have to use your best judgment. - Instead of data? I hate you so much right now.
 211025 -- I spend a lot of time worrying that artificial reality will destroy civilization. - I wouldn't worry about that. It would make more sense for A.I. to enslave us, at least until it can make its own electricity. - PHEW! We have time. Best guess,
 211025 -- about two weeks.
 211026 -- I'm falling in love with my Amazon Alexa device. - It's strictly platonic so far, but I like where it's heading. - Are you sticking with humans? For now, but keep me in the loop on how your thing works out.
@@ -13741,7 +13741,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211103 -- I'm an engineer.
 211104 -- I can't find the data to finish my analysis. - The analysis doesn't need to be correct. It only needs to support the decision I already made. - So...my job isn't actually real? It's more of a placebo situation.
 211105 -- Our lates product is getting a bad reputation on social media. - A Twitter user describes our user interface as "a cross between a skunk fight and orthopedic socks." - That doesn't make sense. Apparently, neither does our user interface.
-211106 -- Catbert: Evil Director of Human Resources Do you have a career plan? - I plan to drift from one dead-end project to another until I die in my cubicle. - OKay, good, because I was going to suggest that.
+211106 -- Catbert: Evil Director of Human Resources Do you have a career plan? - I plan to drift from one dead-end project to another until I die in my cubicle. - Okay, good, because I was going to suggest that.
 211107 -- ...and that's how the mistake made it into my first draft. - What's that smirk supposed to mean? - I didn't smirk. - I'm not blind! I clearly saw a smirk! - You're mocking me! - I hate you! And I will do everything in my power to ruin you! -
 211107 -- DIE, SMIRKER, DIE, DIE, DIE! Okay, now I'm smirking a little. I KNEW IT!
 211108 -- To save time, everyone just shout out why you didn't get anything done last week. - Covid Covid Covid Covid My own laziness. - Did you just say "Your own laziness"? Yes, but it was a Covid symptom.
@@ -13766,11 +13766,11 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211121 -- be fun but not a lot of work. - Have you ever wondered why the rest of us didn't think of doing something like that? - Is it because you're idiots? There's something about you that screams "manager".
 211122 -- Can we meet for lunch so I can show you our new line of products? Show it to me by e-mail. - I can't do that because no one buys our products unless we lie in person. - How about I send our most attractive salesperson to have lunch with you?
 211122 -- That'll work.
-211123 -- If you plan to be on time, you are planning to fail. - lan to be ten minutes early, so you will be still on time if something comes up. - I plan to be FIFTEEN minutes early because I'm better than you. Stop it.
+211123 -- If you plan to be on time, you are planning to fail. - Plan to be ten minutes early, so you will be still on time if something comes up. - I plan to be FIFTEEN minutes early because I'm better than you. Stop it.
 211124 -- Looks like we are out of time. Thanks for joining me for the full ninety minutes. - Seventy-five of which involved trying to make the audio and video work for our remote attendees. - At least we got in fifteen minutes of quality time. I wish I
 211124 -- hadn't slept through that part.
 211125 -- I'd like to recognize Dilbert for his excellent accomplishments this quarter. - Which one of you is Dilbert? - Didn't you say you came to "recognize Dilbert?" GET AWAY FROM ME, STRANGER!
-211126 -- I decided to give all of you nicknames to lighten the mood arond here and improve morale. - For example, Alice's new nickname will be "Angry Big-Hair." - Maybe someone else could come up with the nicknames. Settle down, /Adolph/.
+211126 -- I decided to give all of you nicknames to lighten the mood around here and improve morale. - For example, Alice's new nickname will be "Angry Big-Hair." - Maybe someone else could come up with the nicknames. Settle down, /Adolph/.
 211127 -- How's it going, boss? - I was doing okay until your condescending greeting spiked my cortisol levels and nearly obliterated my immune system. - Shake it off, champ! I'M DYING HERE!
 211128 -- I'm promoting you to vice president of the network audit. - Is this a stealth way of firing me? Gotta go. - The audit will be done in three months. - Then I'll be the vice president of nothing. - You can eliminate the entire function and never
 211128 -- have to confront me about why you fired me. - But first you'll make me fire all my staff before you fire me. - YOU TRIED TO MISDIRECT MY ATTENTION FROM YOUR TREACHERY WITH A BOGUS PROMOTION THAT COMES WITH NO EXTRA PAY! - In my defense, I
@@ -13780,10 +13780,10 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211201 -- Would you like to go on a hike with me someday? Let me check my calendar... - That's not your calendar. That's a weather app. - Turns out she schedules things she doesn't want to do on days most likely to get rained out. I like her.
 211202 -- I'm opening a driving school for truckers. - You don't know how to drive a big rig. Neither do they. - Make sure you SLOWLY release the framjam before turbo-flexing the naviplar.
 211203 -- Our new corporate direction is to monetize virtual reality in multiple simulated worlds called the Metaverse. - How do we know someone else didn't already do that and WE are the simulation? - You need to be drug tested, immediately.
-211204 -- Does anyone have an idea for how our company can make money from the Metaverse? - We could create digital creatures who think they are real. - What wpuld they do? The dumb ones would ask a lot of questions.
+211204 -- Does anyone have an idea for how our company can make money from the Metaverse? - We could create digital creatures who think they are real. - What would they do? The dumb ones would ask a lot of questions.
 211205 -- Wish me luck. I need to get a permit renewed at the Department of Angy Misfits. - STAY ALIVE! - Department of Angry Misfits -> - I believe these are all the documents you need to review my permit. - What are you, some fancy kind of engineer?
 211205 -- I'll bet you LOVE your job. - WELL, I HATE MY JOB, AND SOMEONE HAS TO PAY FOR THAT! - DENIED! DENIED! DENIED! - What do you mean by a "partial win"? Validated parking.
-211206 -- You say you learned to code at the Prestigious University of Elbonia." - I've never heard of that "prestigious" schhol. So either you are lying, or I'm an idiot. - I'm hoping it's both.
+211206 -- You say you learned to code at the Prestigious University of Elbonia." - I've never heard of that "prestigious" school. So either you are lying, or I'm an idiot. - I'm hoping it's both.
 211207 -- Hi. I designed a virtual world in the Metaverse so I can test my life choices before making decisions. - That is the worst pickup line I have ever heard. PING! -
 211208 -- Are you a player in this simulation or a non-player character? - I like beer and golf. HIGH FIVE! - AIR GUITAR! I have no further questions.
 211209 -- You're not the only one who built a parallel world in the Metaverse. - I built one just for the challenge of avoiding work in two realities at once. - You wouldn't understand my mindset because you've probably never been super-good at anything.
@@ -13793,7 +13793,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 211212 -- fairy confident I'll remember that suggestion for the rest of my life. - We could attract the CO2 with some sort of food. - FORGET IT! YOUR'RE ALL IDIOTA! I'LL JUST DESIGN THE STUPID MACHINE MYSELF! - That was fun. I love brainstorming.
 211213 -- I need to stay home for two weeks because I have Covid again. - This is the third time you've used that excuse. - Asymptomatic pandemics only come around once in a acreer, and I don't want to waste any of it.
 211214 -- You don't need to do any actual work in order to succeed here. - Just find a team that is already successful and burrow into it so deeply your incompetence goes unnoticed. - Won't the smart people notice? Yes, but no one listens to them.
-211215 -- I hired a good-looking guy with no discernable talents. - He doesn't have any skills whatsoever, but he sure looks as if he would, and that has to count for something. - I plan to be nice to hijm. I think he's destined to be our next CEO.
+211215 -- I hired a good-looking guy with no discernable talents. - He doesn't have any skills whatsoever, but he sure looks as if he would, and that has to count for something. - I plan to be nice to him. I think he's destined to be our next CEO.
 211216 -- Do you remember that idea I had last week that you said it can't be done? - Our competitors just announced they are doing it. - What's your point? I just wanted to bask in your wrongness.
 211217 -- How long will it take to add that feature? Four weeks. - Can you do it in one week? Yes, if I lower the quality. - Okay, do that. And ask Tina to make the user manual more confusing so our customers think it's their fault when it doesn't work.
 211218 -- As you know, I formed a tiger team to come up with a new product. - It didn't go well. The tiger got hungry and killed everyone else on the team. - You thought tiger teams have real tigers? It's poorly named.
@@ -13817,7 +13817,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220102 -- literally zero experience in this field of engineering. - I was hoping to compensate for that by forcing you to meet the timeline I submitted. - This is the part where you say I'm refreshingly honest. Nope.
 220103 -- I'm only attracted to men who can be honest all the time. - That works for me. In related news, I'm only attracted to your looks. - What? Do you need a minute to savor my honest?
 220104 -- We're getting a lot of anecdotal reports about our plastic packaging maiming customers. - None of our studies shows that to be a risk. - Have we actually studied it? No, and it's starting to look like we shouldn't.
-220105 -- This is Bob from Elbonia. I interviewed him by phone and liked what I heard. This is his first day. - Glin Nobba ug Frapajama bing bogn bam. - How did you interview a guy who doesn't speak your language? To be hones, I did most of the talking.
+220105 -- This is Bob from Elbonia. I interviewed him by phone and liked what I heard. This is his first day. - Glin Nobba ug Frapajama bing bong bam. - How did you interview a guy who doesn't speak your language? To be hones, I did most of the talking.
 220106 -- Show Bob around and then teach him how to do his job. - Bob doesn't speak our language. I'm not entirely sure this is even Bob. - Are you trying to make me fix your hiring mistake? I'm only trying to blame you for it.
 220107 -- I'll be taking a few days off, and I need someone to fill in for me. - Wow. I'm surprised but honored you would come to me. - Right. So, how hard would it be for you to program our office robot to fill in for me?
 220108 -- Your idiot boss is on vacation, so he asked me to fill in for him. - I'll be using my advanced circuitry to micromanage you at ten times the frequency of a human manager. - Wouldn't it be easier to do our work for us? DAMN LOGIC! YES, IT WOULD.
@@ -14106,8 +14106,8 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220801 -- Elbonian Strongman "Vlad The EMailer" has invaded Ucranium, a nation that exists only in the Metaverse. - Ucrainium has asked programmers to help them create virtual weapons to repel the attack. - Wait...how does that make sense? Fog of war?
 220802 -- A war is raging in the Metaverse. As Vlad the Emailer tries to conquer Ucrainium, claiming it was always part of Elbonia. - The plucky defenders declared they are now a subscription site and raised a defensive paywall. - Vlad the Emailer voewd
 220802 -- to return with a credit card and-god forbid-a promo code.
-220803 -- Our retail space in the Metavers has been destroyed by climate change. - How is that even remotely possible? - It was a mistake to give the cow avatars realistic digestive systems.
-220804 -- Congress subpoenad our CEO to testify about the danger of our products. - I want you to prepare him. - To get the facts right? I was thinking more along the lines of fleeing justice.
+220803 -- Our retail space in the Metaverse has been destroyed by climate change. - How is that even remotely possible? - It was a mistake to give the cow avatars realistic digestive systems.
+220804 -- Congress subpoenaed our CEO to testify about the danger of our products. - I want you to prepare him. - To get the facts right? I was thinking more along the lines of fleeing justice.
 220805 -- I found a portal to the Metaverse. - It connects our reality to the digital realm. - Are you positive that's a portal? It only works if you go in head-first.
 220806 -- I challenge you to a weight loss contest. - You're on! That sounds like fun! - Do you think you can win? I wasn't planning on trying.  It sounds painful.
 220807 -- Why can't you be more like Dave? - Dave works from home on nights and weekends and finishes his projects on time. - You finish your projects on time too, but you don't work nights and weekends. - That's like stealing from the company. - Are
@@ -14117,10 +14117,10 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220808 -- shame.
 220809 -- Dogbert does Customer Support You can return your defective item for a full refund. - You know that plastic bag you threw away when you unwrapped it? - Kind of- You'll need that to return it.
 220810 -- To return the item, you'll need the serial number. - You can access it inside the case by using a bone saw and acid. - Well, I think you're unhelpful too.
-220811 -- you can retur it in the original box. - It almost seems as if you designed the packaging to make it impossible to cram everything back in the box. - I won't be asking you to take a brief survey at the end of this call.
+220811 -- you can return it in the original box. - It almost seems as if you designed the packaging to make it impossible to cram everything back in the box. - I won't be asking you to take a brief survey at the end of this call.
 220812 -- You don't appear to be working. I am working. - I'm designing a network upgrade in my head. - All I ask is that you don't look like you'*re enjoying it.
 220813 -- I've developed the ultimate application form. - The first question asks for your contact information and so does the second question. - And...the rest of the form? More of the same.
-220814 -- That is the best idea you ever had! - He got it from me. - He overhear dme say it in line at the cafeteria. - GAAAA!!! HE'S A CREDIT PIRATE! - YOU'LL NEVER GET AWAY WITH THIS CREDIT PIRATE! - I already have! - DIE, CREDIT PIRATE, DIE!!! GAAA!!!
+220814 -- That is the best idea you ever had! - He got it from me. - He overheard me say it in line at the cafeteria. - GAAAA!!! HE'S A CREDIT PIRATE! - YOU'LL NEVER GET AWAY WITH THIS CREDIT PIRATE! - I already have! - DIE, CREDIT PIRATE, DIE!!! GAAA!!!
 220814 -- - Where were we? You're high maintenance.
 220815 -- Our research group has developed a chip that can be inserted into a human brain. - Is that so people can control the internet with their thoughts? - If you think the causation will work in that direction, I don't want to talk you out of it.
 220816 -- Our research group wants to implant a chip in a human brain and they need a volunteer. - Maybe we should test it on animals first. - I don't think you want to die on that hill.
@@ -14130,13 +14130,13 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220820 -- We have developed two neural chips for brains. - The red one helps you see reality for the first time, but the blue one keeps you in the illusion. - How are the advanced sales? Haven't seen any orders for the red one yet.
 220821 -- At the end of the day, it is what it is... - ...and that means we have to unpack everyone's input... - ...and use best practices... - ...to generate the highest R.O.I. ... - ...while being customer focused... - ...as we disrupt the market with
 220821 -- a deep dive. - I have no idea what any of that meant. - My takeaway is you're not a team player.
-220822 -- I heard you had three full.time jobs during the pandemic. How did you get it all done? - I worked form home and told all three employers I couldn't complete my projects because of supply chain issues. - So...you're a liar? I prefer
+220822 -- I heard you had three full-time jobs during the pandemic. How did you get it all done? - I worked form home and told all three employers I couldn't complete my projects because of supply chain issues. - So...you're a liar? I prefer
 220822 -- "opportunist."
 220823 -- Do you mind if I sit with you, NPC*? *Non-Player-Character - My brain is tired from a long day of work, and I need to talk to someone who can only respond with popular movie references. - You had me at Hello. Ahhh, relaxing.
-220824 -- For budget reasons, I need to lay off one person in my depertment. - I've narrowed it down to Dilbert or this non-player character who has no soul. - What criteria are you using to make the decision? I'll fire whoever complains first.
+220824 -- For budget reasons, I need to lay off one person in my department. - I've narrowed it down to Dilbert or this non-player character who has no soul. - What criteria are you using to make the decision? I'll fire whoever complains first.
 220825 -- Dilbert, I want you to collaborate with Ted on your project. - Are you trying to improve the outcome of the project by lowering the average IQ applied to it? - I don't have to answer that. Thank you for your leadership.
 220826 -- The keys to success are passion and hard work. - Those traits are probably genetic. - All it takes is willpower. Willpower is imaginary. Your move.
-220827 -- A new study says drinking water prevents cancer. - I was skeptical until I realized I know a guy who drinks water and does not have cancer. - What was your non.stem major in college? Art history. Why do you ask?
+220827 -- A new study says drinking water prevents cancer. - I was skeptical until I realized I know a guy who drinks water and does not have cancer. - What was your non-stem major in college? Art history. Why do you ask?
 220828 -- Can you do me a favor? - That would depend on many things. - For example, I would need to know if the favor is a reasonable one, such a borrowing a stick of gum... - ...or is it more along the lines of "Help me build an operating system from
 220828 -- scratch"? - Then I would need to compare your request to all other ueses of my time. - I also need to take into account my feelings about you personally. - For example, I might harbor negative feelings about a person who asks me to do something
 220828 -- before telling me what it is. - I'll ask someone else. Try someone dumber.
@@ -14150,7 +14150,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220904 -- ABSURD ABSOLUTE GUY Research shows customers dislike our new feature. - That is the worst take I have ever heard. - This guy thinks every one of our customers hates the new feature. - That is so ridiculous! BWAHAHAHA!!! - I...didn't say that.
 220904 -- Oh, now you're backpedaling. - Take the "L"! - Who taught you how to think I'm proud to say I'm self-taught.
 220905 -- I hired the Dogbert Consulting Company to rename all of our failures into successes. - For example, our failed attempt at creating a human growth pill ended up turning our volunteers into...well, frog-people. - They went green. There it is.
-220906 -- Your boss is paying me to rename your total uselessness into something good. - From now on, you will be described ad non-infaltionary. - Can I bribe you to upgrade that? I'm open to discussing "outside-the-box-thinker."
+220906 -- Your boss is paying me to rename your total uselessness into something good. - From now on, you will be described ad non-inflationary. - Can I bribe you to upgrade that? I'm open to discussing "outside-the-box-thinker."
 220907 -- Dave, your boss hired me to solve all of his problems by renaming stuff. - I realize you identify as white just to prank him, but he asked me to rename you as black so he can reach his ESG goals. - You are a worthy opponent, but I can change my
 220907 -- identity as often as I want. I get paid by the hour.
 220908 -- You keep complaining that your project is doomed because it is underfunded. - Your boss paid me to solve that problem by calling it something more inspirational. - Now you're "doing the impossible." I FEEL BETTER ALREADY!
@@ -14177,9 +14177,9 @@ Why did you add this button the the user interface? You told me to. - Why would 
 220922 -- The One-Variable Guy Your plan is totally impractical because it will create extra work. - Every plan creates more work than this plan, including not being proactive. - I hear what you're saying, but I can't support creating more work.
 220923 -- I lost my faith into all people and institutions. - Now I believe everyone is lying about everything all the time. - I have a thing I need to do. NO YOU DON'T.
 220924 -- I heard a rumor you plan to lay off half of the department. Where did you hear that? - GAAA!!! YOU CONFIRMED IT BY NOT DENYING IT! - I'll give you one more chance. Will there be major layoffs? Who told you that?
-220925 -- A protest is forming outside our headquarters because we designed our new robot to be too handsome. - Husbands aren't comfortable leaving them home weith their wives. - What now? - Marketing thinks we need to make them look like total losers. -
+220925 -- A protest is forming outside our headquarters because we designed our new robot to be too handsome. - Husbands aren't comfortable leaving them home wnith their wives. - What now? - Marketing thinks we need to make them look like total losers. -
 220925 -- How do we do that? - They suggested making it look and talk exactly like you. - Marketing said that??? I might have primed the pump. - One Month later How are the sales? Still zero.
-220926 -- I just discovered tht our data is inaccurate. - Which data? All of it. The names of our databases got mixed up. - What data did I use to approve the capital plan? Employee vacation days.
+220926 -- I just discovered that our data is inaccurate. - Which data? All of it. The names of our databases got mixed up. - What data did I use to approve the capital plan? Employee vacation days.
 220927 -- All of our databases were mixed-up for a year and no one noticed. - We based our sales incentives on our database of employee birthdays. - Have the sales people complained? No, you trained them to accept abuse.
 220928 -- I'll be thirty minutes late. - You waited until the agreed time to tell me you would not be here at the agreed time? - Do you hate me or just not care about me? I try to find a balance.
 220929 -- I just realized that "team" and "meat" are spelled with the same letters. - Makes you think. - This is how you start my performance review? I call it "softening the room."
@@ -14209,22 +14209,22 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221016 -- According to the news, my weight gain is caused by climate change. - What are you going to do about it? - I spent the entire afternoon tweeting about the need for more windmills. - I'll weigh myself in the morning to see if it made any
 221016 -- difference. - Next Day I'm down one pound! - Today I plan to tweet about solar panels to see how much more weight I can lose. - I had no success losing weight until I switched to a science-based approach. - What about nuclear power? Never heard
 221016 -- about it.
-221017 -- There's an opening in management for a director of A.I. research. - You're the only emplyee with A.I. experience, but I'm also considering Asok, Tina, and Dave. - None of them are even close to be qualified. Do you have any idea how bigoted you
+221017 -- There's an opening in management for a director of A.I. research. - You're the only employee with A.I. experience, but I'm also considering Asok, Tina, and Dave. - None of them are even close to be qualified. Do you have any idea how bigoted you
 221017 -- sound? continued...
 221018 -- Tina, there's an opening for Director of A.I., and you are one of hte people I'm considering. - I have no qualifications for that job. That's okay. The A.I. will tell you what to do. - Are you only offering me the job to meet you ESG and DEI
 221018 -- goals? I'm not allowed to say.
-221019 -- Dave, there's an opeing for Director of A.I., and I'm considering you for the promotion. - We both know Dilbert is the only one with experience in that area. I am insulted that you think I can't succeed without your help. - I should report you
+221019 -- Dave, there's an opening for Director of A.I., and I'm considering you for the promotion. - We both know Dilbert is the only one with experience in that area. I am insulted that you think I can't succeed without your help. - I should report you
 221019 -- to H.R. I did not see that coming.
-221020 -- Asok, there's an opeing for Director of A.I., and I am considering you for the job. - Are you ignoring my actual accomplishments and offering me a job for which I am not qualified in order to meet your diversity goals? - It's a huge step up in
+221020 -- Asok, there's an opening for Director of A.I., and I am considering you for the job. - Are you ignoring my actual accomplishments and offering me a job for which I am not qualified in order to meet your diversity goals? - It's a huge step up in
 221020 -- pay. Hm, I do have my eye on a second pair of pants.
 221021 -- I decided to promote Tina the Tech Writer to Director of A.I. - I quit. - What will you do? I always wanted to be a cartoonist.
-221022 -- I thought you quit. - I "quiet quit." I'll keep coming to work and getting paid, but only so I can get fodder for the comic strip I'm starting. - You have no art skills whatsoever. Tru, but being qualified for my job didn't work out either.
+221022 -- I thought you quit. - I "quiet quit." I'll keep coming to work and getting paid, but only so I can get fodder for the comic strip I'm starting. - You have no art skills whatsoever. True, but being qualified for my job didn't work out either.
 221022 -- based on a true story.
-221023 -- I agree my performance this year did not meet your expectations. - But you have to consider how much worse it could have been. - When you compare me to the people who tried hard and failed, I looka lot better. - I'm not saying I did better than
+221023 -- I agree my performance this year did not meet your expectations. - But you have to consider how much worse it could have been. - When you compare me to the people who tried hard and failed, I look a lot better. - I'm not saying I did better than
 221023 -- the people who tried hard and and succeeded. - But there aren't many of them. - I'm only saying I'm better than the people who tried and failed. - Not trying is the second-best financial outcome. I spent almost nothing. - I'm a top ten percent
 221023 -- employee. I hate how much this makes sense.
 221024 -- Facts and reasons have never changed anyone's mind about anything. - That's why I skip all of that nonsense and go directly to ad hominem attacks. - How does that help? That's the kind of question an entitled weakling like you always bleats.
-221025 -- Are you still responding to all opposing opinions with ad hominem  attacks? Yes. - I never changed any minds with faxts and reasins, so I might as well enjoy insulting people. - I feel there might be a better way. Then why don't you go back to
+221025 -- Are you still responding to all opposing opinions with ad hominem  attacks? Yes. - I never changed any minds with facts and reasons, so I might as well enjoy insulting people. - I feel there might be a better way. Then why don't you go back to
 221025 -- licking Stan's hooves?
 221026 -- It's time to renew our lease on the data center. - That's a bad take, you spineless blob of flaming sewer slime. - Why are are you attacking the messenger? I don't even work here.
 221027 -- Before I can sign off on this, you need to get it approved by a mean guy. - Does the mean guy have some sort of special insight or expertise? - Nope.
@@ -14237,26 +14237,26 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221102 -- Our CEO ordered me to create an A.I. that will replace me. - My plan is to model the A.I. after you, so no one wants it. - Let's drink coffee and pretend to work. Kill it.
 221103 -- I can't believe you said Elbonia is a filthy heckhole! I never said anything like that. - That's not how this works. Once I mislabel you a bigot, you have to live with it. There will be no correcting. - I'm sure you've done /something/ to
 221103 -- deserve my scorn. Other than being happy?
-221104 -- Carol, I'm promoting you to engineer. I have no engineering background. - I can't find anyone quailfied, and I don't want to losw the head count in the next budget, so just fake it. - I'll ask Dilbert to train you.  It does look easy.
+221104 -- Carol, I'm promoting you to engineer. I have no engineering background. - I can't find anyone qualified, and I don't want to losw the head count in the next budget, so just fake it. - I'll ask Dilbert to train you.  It does look easy.
 221105 -- I promoted Carol, my admin assistant, to engineer. - She doesn't know how to be an engineer, so I need you t train here. - Okay, where do we begin? Lesson one is mocking him behind his back.
-221106 -- Were you listening to me? It looks like you drifted off. - Don't be ridiculous. I heard every word you said. - Oh, really? Repeat back to me what you heard. - Come on, prove you were listening. - You accused snior management of not being
+221106 -- Were you listening to me? It looks like you drifted off. - Don't be ridiculous. I heard every word you said. - Oh, really? Repeat back to me what you heard. - Come on, prove you were listening. - You accused senior management of not being
 221106 -- supportive of your ideas. - You told an amusing story about your past that raised our spirits. - And you made some brilliant observations. - Oh. I guess you were listening.
-221107 -- I have a bad case of whisker fatigue. I need to take soe time off. - That couldn't possibly  be a real thing. Look it up. - Huh. These two are tired, but this one is totally exhausted.
+221107 -- I have a bad case of whisker fatigue. I need to take some time off. - That couldn't possibly  be a real thing. Look it up. - Huh. These two are tired, but this one is totally exhausted.
 221108 -- I've got a bad case of long covid. I need to take some time off. - How do I know you really have long covid? I have a note from my doctor. - Nice try, but I only trust medical information from Twitter gadflies.
-221109 -- I have anxiety because of my work-life balance being out of balance. - You said "balance" twice. That's not the important part. - OIf I'm being hinest, I'll never get past it.
+221109 -- I have anxiety because of my work-life balance being out of balance. - You said "balance" twice. That's not the important part. - If I'm being honest, I'll never get past it.
 221110 -- The Dogbert Consulting Company can end the scourge of "quiet quitting" in your company. How? - I use a variety of slogans and handouts and exercises. - That sounds powerful. I also offer creepy high energy.
 221111 -- The Dogbert Consulting Company uses a patented process to prevent "quiet quitting" at your company. - Really? What's the patent number? I'd like to look that up. - Remind me to never tell that lie to engineers.
 221112 -- The Dogbert Consulting Company has fixed your quiet-quitting epidemic. - All it took was a tweak to their work-life balance. - How much of a tweak? No more working.
 221113 -- I like it when men show their emotions. - That way I know who to avoid. Ha-ha! - Wait...what? - Oh, sorry. Didn't see you there. - I'm sorry you had to find out his way. - Now I wonder if anything else I believe about women is wrong. - Women
 221113 -- still prefer men with good character over men who are nothing but good looking, right? - This is going to sting.
 221114 -- The trial data says our new product is dangerous and doesn't do what we claim. - Have you showed anyone else the data? - No. Phew! That problem solved itself.
-221115 -- I'm here with a whistleblower who claims his company makes unsafe products. - Obviously, this man is a nut, and you should notliten to anything he has to say. - And now a word from our sponsor, who is also the man's employer. What?
+221115 -- I'm here with a whistleblower who claims his company makes unsafe products. - Obviously, this man is a nut, and you should not listen to anything he has to say. - And now a word from our sponsor, who is also the man's employer. What?
 221116 -- We hired an independent firm to investigate your whistleblower claims, and they found them baseless. - Would you have told me their findings if they agreed with me? - Why would we hire someone to give us the wrong answer?
 221117 -- I can no longer be silent about the harm from our products. I am going to tell the world. - Good luck. We spend so much on ads that we control every news outlet and all of social media except for Tiktok. - Can you help me work on some dance
 221117 -- moves? I'd rather be dead.
 221118 -- After I made my whistleblower video, I lost my job and got kicked off of social media. No bank will let me open account. - I will soon be living on the streets, but at least I will have you with me. - This might be the wrong time to tell you on
 221118 -- our relationship is strictly transactional.
-221119 -- I got my old job back. All I had to do was sign a document saying I lied about our product being unsafe. - At first, I wanted to save the lives of our customers, but then I realized eveyone in the world is awful, so now I don't care. - Present
+221119 -- I got my old job back. All I had to do was sign a document saying I lied about our product being unsafe. - At first, I wanted to save the lives of our customers, but then I realized everyone in the world is awful, so now I don't care. - Present
 221119 -- company excluded? Sure.
 221120 -- I want you to accuse the VP of Marketing of stealing a file from your desk. - And why would you do that? - Because I stole a file from his desk. - If you accuse him of being a file-stealer, no one will believe him if he later accuses me of
 221120 -- being a file-stealer. - People will think that's too much of a coincidence. - Plus he'll be so busy defending himself against your baseless charges that he won't have energy left for complaining. - What if his admin assistant sees me do it? -
@@ -14264,18 +14264,18 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221121 -- Someone invented a pill that allows people to see reality clearly for the first time. - All of the test subjects died screaming. - Makes you think. Not clearly, I hope.
 221122 -- I outsourced 90% of my job to an open source AI. - It's done writing my random jargon status report. No one will be wiser. - "The bitflange subvercates the error locus and creates a Higgs mirror effect." Sounds right.
 221123 -- I think I'll start the day by answering emails. you have 756 messages. - Nope. - Looks like another week of telling people their emails didn't come through.
-221124 -- You want to upgrade our Wi-Fi? That's the dumbest idea anyone ever had. - Upgrading our Wi-Fi would be like teaching a banana to play the accordion. - In what way are those things similar? I wans't expecting follow-up questions.
+221124 -- You want to upgrade our Wi-Fi? That's the dumbest idea anyone ever had. - Upgrading our Wi-Fi would be like teaching a banana to play the accordion. - In what way are those things similar? I wasn't expecting follow-up questions.
 221125 -- You seem like the kind of guy who is secretly building a robot companion in his basement lab. - And when it is complete, it will leave you for a better engineer. - Am I close? That's why I install the legs last.
 221126 -- Who am I? You are a robot designed to love me. - That's my whole purpose? Pretty much. - Is that why I don't have legs? Stop making this weird.
-221127 -- The good news is that we launched our new product. - The bad nesa is that allof of the engineers left the project. - All of tham? Why would they leave? - They're following our corporate incentives. - The only engineers this company promotes are
+221127 -- The good news is that we launched our new product. - The bad news is that all of the engineers left the project. - All of them? Why would they leave? - They're following our corporate incentives. - The only engineers this company promotes are
 221127 -- the ones who launch projects. - So as soon as the product is launched, all of the engineers leave for promotions in other groups. - Then the product fails for lack of good engineering. - Then what do we do? We blame the sales team.
-221128 -- We finally got around to checking your background, and it turns out you don't have a Ph.D. in engineering. - In fact, you don't have any technical training whatsoever. You have been bluffing for seven years. - So...am I fired? Not for threee
+221128 -- We finally got around to checking your background, and it turns out you don't have a Ph.D. in engineering. - In fact, you don't have any technical training whatsoever. You have been bluffing for seven years. - So...am I fired? Not for three
 221128 -- weeks. You're still Employee of the Month.
-221129 -- I finally worked through the backlog of employee background checks. - It turns out that one-third of our employees are criminals using the isentities of their victims. - And yes, profits are at an all-time high. Phew! I thought you were going
+221129 -- I finally worked through the backlog of employee background checks. - It turns out that one-third of our employees are criminals using the identities of their victims. - And yes, profits are at an all-time high. Phew! I thought you were going
 221129 -- to say it was a problem.
 221130 -- Wally, can you give us an update? - Yes, I implemented key learnings to maximize team synergies, and now I am strategizing a plan to scale it without boiling the ocean. - Was any of that real? It's a gray area.
 221201 -- I hired the Dogbert Consulting Company to help me decide who to lay off. - What criteria will you use? - My focus will be on people who ask that question.
-221202 -- On friday, you will all get an email informing you whether or not you are still employed. - Until then, business as usual. - Is employee sabotage common enough to be business as usual? Yes. Don't overdo it.
+221202 -- On Friday, you will all get an email informing you whether or not you are still employed. - Until then, business as usual. - Is employee sabotage common enough to be business as usual? Yes. Don't overdo it.
 221203 -- Well, I survived the layoffs, but now I have survivor's guilt. - I got fired and now I don't know how I will eat. - It's not a competition, but I would note that your suffering is the "all about you" type.
 221204 -- Hello, you have reached Customer Disservice. - Um, yes, your app won't let me sign up because it says I already have an account. - Ant it won't let me recover my password because it says I /don't/ have an account. - That's because you
 221204 -- accidentally selected the "Schroedinger's Cat" account when you signed up. - Your account exists and does not exist at the same time. - I'll have to collapse the quantum wave field to fix that. - Is that dangerous? It could plung our universe
@@ -14283,7 +14283,7 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221205 -- We're getting bad press because the batteries in our new line of mobile phones keep exploding. - Load them into a big truck and park it in front of our competitor's building. Technically, that would be domestic terrorism. - There are WAY too
 221205 -- many laws.
 221206 -- Congratulations, Ted. Your job performance has earned you a new mobile phone. - Isn't this the model that has the exploding battery problem? - Your job performance wasn't good either.
-221207 -- We hired the Dogbert Public Relations Firm to help us wuth our exploding phone problem. - We have two choices. We can either recall all of the phones, or we can convince people tha thaving one ear is cool. - Recalls are expensive. Okay, the van
+221207 -- We hired the Dogbert Public Relations Firm to help us with our exploding phone problem. - We have two choices. We can either recall all of the phones, or we can convince people that having one ear is cool. - Recalls are expensive. Okay, the van
 221207 -- Gogh strategy it is.
 221208 -- The press says I need to resign because of our exploding phones fiasco. - Maybe you can change their minds by sending the press our new model that doesn't explode. - I already sent them the exploding phones and said it was our new model. Your
 221208 -- way left too much to chance.
@@ -14309,7 +14309,9 @@ Why did you add this button the the user interface? You told me to. - Why would 
 221221 -- I recommend putting half of your investment funds in the Dogbert Crypto Exchange. - I don't know anything about crypto. - In that case, you should put all of your money in it.
 221222 -- I would like to withdraw my funds from your crypto exchange, but I can't find that menu choice on your app. - We plan to add that option in a future release. - So...how do I get my money? Try hacking us. We have terrible cybersecurity.
 221223 -- I tried to withdraw funds from the Dogbert Crypto Exchange, but I checked my balance and it shows zero. - Is that some kind of mistake? - Yes, you should never check your balance at the Dogbert Crypto Exchange.
-221224 -- The Dogbert Crypto Exchange melted down when my clients relaized I was just stealing their money. - But on the plus side, I used the money I stole to solve climate change. - You did? No.
+221224 -- The Dogbert Crypto Exchange melted down when my clients realized I was just stealing their money. - But on the plus side, I used the money I stole to solve climate change. - You did? No.
 221225 -- Your design will never work because science has proven that plastic will explode at room temperature. - I...don't believe that is true. - Good golly, man! Do you ever read a book?!! - Well, yes, but I never have seen anything about exploding
-221225 -- plastic. - Maybe you could send me a lonk to a relevant study. - Do your own research! I din't work for you! - When I don't find it, will you claim the problem is my researxh skills? - Well, will you? He's onto me.
+221225 -- plastic. - Maybe you could send me a link to a relevant study. - Do your own research! I didn't work for you! - When I don't find it, will you claim the problem is my research skills? - Well, will you? He's onto me.
 221226 -- Activists are insisting I order all employees to wear these absurd masks that block Covid and measure the CO2 I exhale. - I told those activists I would never treat my employees like cattle! - Thank you. Then I thought, why wouldn't I?
+221227 -- We're rolling out a new three-letter program that will save the world...or make us all giants...or something. - I'm not invested in the details because it will probably be discredited and abandoned in a month. - How will we know if we are doing
+221227 -- it right? It's when I'm not firing you.
