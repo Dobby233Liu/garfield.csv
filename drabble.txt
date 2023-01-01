@@ -10572,3 +10572,7 @@ dr221226 -- How on earth did you get up THERE?? - I followed the popcorn string!
 dr221227 -- What a beautiful sunrise! - I should take a picture! - Actually, that's the sunset! - But I just woke up! The days are short this time of year!
 dr221228 -- Hi, Wally! - How's my favorite dog? - DOG?! - ...besides overly sensitive? He called me a dog!
 dr221229 -- Time to take off the ornaments. - I can't believe this tree lasted this long! - BINK! - Barely.
+dr221230 -- Thanks for spending New Year's Eve Eve with me, Echo! - It was the best New Year's Eve Eve I've ever had! - I would've asked you for New Year's EVE, but I was afraid you'd be busy. - Maybe we could go out for Valentine's Day Eve! How drabbly
+dr221230 -- can you get?
+dr221231 -- HAPPY NEW YEAR Did you make a list of New Year's resolutions, Ralph? I sure did! - It's right here. - You wrote all of your resolutions on a sticky note? I only came up with one... - "Try harder to think of resolutions next year!" I'll make a
+dr221231 -- list for you if my pen doesn't run out of ink!
