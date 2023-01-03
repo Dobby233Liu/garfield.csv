@@ -17099,3 +17099,4 @@ ga221229 -- CREAK! CREAK! POP! POP! - Garfield, I hear you trying to sneak to th
 ga221230 -- I worry I'm not goood enough for you. - Don't worry about it. - What does she mean by that? Worry.
 ga221231 -- Oops. - I forgot to exercise today. - That's the 365th time this year.
 ga230101 -- - Today's the day I'm going to get up and exercise. - - - Goodnight, Garfield. - - Today's the day I'm going to get up and exercise.
+ga230102 -- You lost a poiund! - - Wait, just found it. Oh, and there's another one! My bad.

@@ -198,6 +198,7 @@
 19951123 -- TSCHUMM! H... H.. H... - *! HUACHU! - Gesundheit! Danke!
 19951124 -- Hastes bald? Jaja... - Stells gleich auf! Is' schon offen... Okay Okay... Thermalbecken - Nicht vom Beckenrand springen!
 19951125 -- Kurt-sag' ich-Kurt, so schwer es auch fällt: Man muss an die Zukunft denken, man weiss ja nie... - Wir machen Gütertrennung! Da hörstes! - Pff...wir hamm' doch schon seit Jahren 'ne gelbe Tonne...
+19951127 -- Gnä' Frau? Erweisen Sie mir die Ehre, Sie auf ein Gläschen Kukident zu mir nach Hause einladen zu dürfen? - Gewiss... -
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -283,6 +284,7 @@
 20010516 -- hab ich schon mal gesehen... Hier! Nehmen Sie eine!! - Geben Sie mir zwei! Das muss ich auch Trude unbedingt schreiben!
 20010706 -- Was ist passiert? Öh-ich glaube, wir sind auf Grund gelaufen... - Herrgott-kannst Du denn nicht mal zwei Minuten den Kurs halten? -immer auf den Leuchtturm zu hab ich gesagt! Welcher Leuchtturm? -
 20010716 -- Untern Zug gekommen? Berufsunfall... Stuntman? - Grundschullehrer. Sport? Werken. Werken? Fragen Sie lieber nicht... - Ah-Sie sind sicher das Laubsägenmassaker!
+20010904 -- Neulich in Drei Sterne Restaurant MOMENT! HA... ? - TSCHIE! - WELCH EIN KOCH!
 20011110 -- Guten Tag, Meiermann...verbinden Sie mich mit dem Kundendienst! Augenblick, bitte... - Oh nein! Hör Dir das an! Warteschleifenmusik "Classics"! Haha! * * * * * * "Üb immer treu und Redlichkeit"-Plingpling! Das waren damals die ersten Anlagen!
 20011110 -- Die konnten nur das! - 
 20011121 -- ** Tätää **hier kommt der grosse böse Räuber! Und-ohoo! Er hat den kleinen bösen Räuber auch mitgebracht! Hihi! Schön. Würdest Du bitte das Licht ausmachen? - He! Plötzlich prüde geworden? Sollte mir da was entgangen sein? Ich fürchte, ja...
@@ -581,6 +583,7 @@
 20141122 -- Das Pferd ist soo schön! Und hochintelligent! Schau mal, was das alles kann! - Hey! Was ist 3 mal 5? - Intelligent! Der Gaul im Zirkus wusste das!
 20141212 -- Wie geht eigentlich Kricket? Hier. Versuch mal, die Burg da zu treffen. - - Ungefähr so. Plus ein paar idiotische Regeln.
 20141230 -- Schade, ich hätte ja gerne noch einen Jahresrückblick gesehen, Schulz! - Huch! Das ging jetzt aber schnell! Mehr war nicht dieses Jahr? - Die Vollidioten schneiden wir immer raus.
+20150212 -- Ach ja, Quotenfasching! Oh, pardon: Weiberfastnacht. Hellau, hellau! - Erschöpft? So viele Krawatten abgeschnitten? Krawatten? Kinderkram. - Bei Bärten und Kopfhörern muss man noch richtig flitzen!
 20150213 -- Fasching kommt von Faschismus! Lächerliche Klamotten und alberne Musik! Nicht mit mir! Gitti ist aber sauer, wenn wir nicht kommen! - Ich schau mir doch nicht den ganzen Abend besoffene Pappnasen an! Musst Du nicht. Du bekommst nur Schönes zu
 20150213 -- sehen, versprochen? - Hellauchen! Wie süss! Kommt rein. Hallo Horst! Licht an!
 20150313 -- Vielleicht sollte ich besser nicht mehr mit meiner Kreditkarte bezahlen. Nicht, daß irgendwer ein Bewegungsmuster von mir erstellt! - Muster? Eine Gerade ist kein Muster. - Zuhause-Bierladen-Zuhause-Bierladen...
@@ -967,3 +970,5 @@
 20221230 -- Wie?! Schon zu Ende? Mist. Unsterblichkeit wäre schön gewesen! Ich bin Historiker! - Ich wüsste schon gerne, wie das mal ausgeht mit der Welt und den Menschen... Spoileralarm! - 1:0.
 20221231 -- Haben Sie gute Böller? Also, richtig laute Böller? Brutal laute Böller? Die allerlautesten Böller? BUMM BÖLLER BALLA BALLA BÖLLER - Ich frag für'n Freund. Hahaha! Ja, klar! Hahaha! Den Freund will ich sehen! - Du musst ihn selber fragen!!
 20221331 -- WAAS?! 
+20230102 -- Meine guten Vorsätze für das neue Jahr: Hm... - -Nie wieder das peinliche "Passwort vergessen" anklicken. Fertig! - Das ist nur ein Vorsatz. Das ist zu wenig! Das gilt für Dutzende von Passwörtern!
+20230103 -- Ich will einen Hund! Einen grossen Hund! Nein. Du hast gesagt, ich darf ein Haustier haben! - Alles, aber keins, bei dem ich dann mit der Plastiktüte die Kacke aufheben muss! Versprochen? Versprochen! - Das Pferd bezahlst aber Du!
