@@ -199,6 +199,7 @@
 19951124 -- Hastes bald? Jaja... - Stells gleich auf! Is' schon offen... Okay Okay... Thermalbecken - Nicht vom Beckenrand springen!
 19951125 -- Kurt-sag' ich-Kurt, so schwer es auch fällt: Man muss an die Zukunft denken, man weiss ja nie... - Wir machen Gütertrennung! Da hörstes! - Pff...wir hamm' doch schon seit Jahren 'ne gelbe Tonne...
 19951127 -- Gnä' Frau? Erweisen Sie mir die Ehre, Sie auf ein Gläschen Kukident zu mir nach Hause einladen zu dürfen? - Gewiss... -
+19951128 -- Wir drehen einen kleinen Werbefilm für die Post... - Tun Sie einfach das, was Sie immer tun... - Da reicht 'n Foto!!
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -220,6 +221,7 @@
 19970117 -- Wenn Du das nochmal machst, atomisiere ich Deine Jahreskarte! Ja genau-Du!! Sagen Sie... - Wenn Sie die Leute beatmen und die haben NAsenbluten oder so-haben Sie da gar keine Angst sich zu infizieren? Ich mein'-AIDS oder so...? - Nein.
 19970129 -- Also-das ist ja wohl... Spielen und Hausieren verboten! - Welcher Idiot hat schon wieder Weissglas ins Grünglas geworfen? - Es war Pfefferminzlikör!
 19970304 -- Der Sprungturm sollte ans Kopfende-und das hab' ich auch montiert! - Was ist los? Er sollte ans andere Ende!! Was jetzt? - Erstmal sperren...
+19970312 -- Oh-Du hast die Fenster geputzt... Gut! - Da sind noch Streifen! -
 19970409 -- Tag! -Eine Postkartenmarke! - Das heisst Briefmarke! - Das heisst schon wieder teurer...
 19970412 -- Hamm' Sie was verloren? Nein! - Kann ich Ihnen helfen? Ja! Stören Sie mich nicht! - Wenn ich den Start vergurke schaff ich die Grünphase nicht!
 19970503 -- Hoi-hoi! Der ist aber dick, Mann. Familienfotos... - Dann geb' ich Ihnen einen schöne, grosse, bunte Sondermarke... Es geschehen Zeiten und Wunder! - Uups-gaaanz knapp drüber-da muss dann wohl noch eine drauf!
@@ -972,3 +974,4 @@
 20221331 -- WAAS?! 
 20230102 -- Meine guten Vorsätze für das neue Jahr: Hm... - -Nie wieder das peinliche "Passwort vergessen" anklicken. Fertig! - Das ist nur ein Vorsatz. Das ist zu wenig! Das gilt für Dutzende von Passwörtern!
 20230103 -- Ich will einen Hund! Einen grossen Hund! Nein. Du hast gesagt, ich darf ein Haustier haben! - Alles, aber keins, bei dem ich dann mit der Plastiktüte die Kacke aufheben muss! Versprochen? Versprochen! - Das Pferd bezahlst aber Du!
+20230104 -- Was ist das?! Was neues! Gesund und extrem klimaneutral! Guten Appetit! - Wie "klimaneutral"? Der Anbau? Der Transport? Die Zubereitung? Die Verwertung! ? ? - Ihr müsst nicht pupsen!
