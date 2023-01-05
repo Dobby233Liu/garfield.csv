@@ -17101,3 +17101,4 @@ ga221231 -- Oops. - I forgot to exercise today. - That's the 365th time this yea
 ga230101 -- - Today's the day I'm going to get up and exercise. - - - Goodnight, Garfield. - - Today's the day I'm going to get up and exercise.
 ga230102 -- You lost a pound! - - Wait, just found it. Oh, and there's another one! My bad.
 ga230103 -- Being trapped int the house during a snowstorm means there's nothing to do. - - I love winter.
+ga230104 -- First rule of winter. - The colder the morning... - The hotter the coffee.
