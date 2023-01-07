@@ -11234,3 +11234,7 @@
 230103 -- Ich wollte nicht den Eindruck vermitteln, dass Du gewinnen könntest...
 230104 -- Dogbert, der Arbeitsplatz-Dating-Coach Es ist wichtig zu wissen, welchen Wert Sie in eine Beziehung einbringen. - Der Wert bin ich selbst. Und ich will einen Mann haben, der einen viel höheren Wert hat. - Ich probier's mal so...ich schicke Ihre
 230104 -- Kontaktinformationen an einen Obdachlosen, der todkrank ist.
+230105 -- Dogbert, der Arbeitsplatz-Dating-Coach Die beste Person, mit der Sie anbändeln können, wäre Ihr Chef. - Aus Kostengründe sollten Sie aber auch mit dem Anwalt anbändeln, den Sie brauchen, um Ihren Chef zu verklagen, nachdem Sie sich getrennt
+230105 -- haben. - Haben Sie nachher schon was vor? Wieso fragt mich das heute Jeder?
+230106 -- Dogbert, der Arbeitsplatz-Dating-Coach Ihre Körperhaltung ist das erste, was einem potentiellen Date auffällt. - Und Ihre Haltung drückt aus: "Ich bin ein gruseliger Versager und ich habe keine Ahnung, wie man eine Frau zufriedenstellt. - Also
+230106 -- sollte ich mich aufrechter hinstellen? Ja, wenn Sie Etikettenschwindel betreiben wollen.

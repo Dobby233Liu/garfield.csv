@@ -201,6 +201,9 @@
 19951127 -- Gnä' Frau? Erweisen Sie mir die Ehre, Sie auf ein Gläschen Kukident zu mir nach Hause einladen zu dürfen? - Gewiss... -
 19951128 -- Wir drehen einen kleinen Werbefilm für die Post... - Tun Sie einfach das, was Sie immer tun... - Da reicht 'n Foto!!
 19951129 -- Quälen sollen Sie ihn nicht, nur ein bisschen.naja-in Bewegung halten... - Verstehe-dann brauche ich noch was Persönliches. - Ich hab' nur die Fernbedienung. Das Klo ging nich' ab...
+19951130 -- Am besten, Sie entspannen sich erstmal-versuchen Sie, einfach an nichts zu denken... - Nichts? Gar nichts? Überhaupt niy? Nüscht? Null? Oder ehr im Sinne von Leere, Vakuum-dem Fehlen von allem, wirklich allem, nicht nur Materie... - Denken
+19951130 -- Sie: "Dings"...
+19951201 -- Kurt trägt jetzt nur noch ganz knappe bodies! Susanne! ** - Und er pinkelt jetzt nur noch im Sitzen! Nein! - Ich kauf' ihm immer die mit dem Druckknöpfen im Schritt!
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -317,6 +320,7 @@
 20021109 -- Eine Einemarkmarke! Gute Frau, falls es Ihnen entgangen sein sollte... Jaja-ich weiss! Und Raider ist jetzt Twix! - Wasist das? Ein Glas Selter. Und das? Ein Tempo. Und das? Spüli. Und das? Ein Stück Tesa. - Sehen Sie.und das da ist eine
 20021109 -- Einemarkmarke. Egal, was Sie draufschreiben! Sie machen mir Kopfschmerzen... Nehmen Sie eine Aspirin!
 20021217 -- Boh-was ist das?! Ich hatte mal einen korsischen Käse, der... Neinnein-das hier riecht eindeutig nach... - ...Verwesung -
+20030120 -- Sei bloss vorsichtig mit der Dosierung! CHLOR Mir ist mal ein ganzer Kanister reingelaufen! - Zum Glück hat er mich damals nicht verklagt... Der Umweltbeauftragte? - Michael Jackson...
 20030204 -- Ehm-hallo? Ich will Sie ja nicht beunruhigen... Aber Ihr Sohn stülpt sich gerade eine Plastiktüte über den Kopf! - Jaja, das hat er von seinem Vater...machen Sie einfach ein paar Löcher rein... - Es ist ihm peinlich, in einem Leihwagen
 20030204 -- gesehen zu werden.
 20030211 -- Also, halbrechts ist eine Abfahrt für Anfänger, recht leicht. Weiter rechts für Fortgeschrittene... Und links, da muß man schon sehr gut sein! Wie gut sind Sie? - Naja-sagen wir mal, die Richtung steht fest-was ist mit geradezu runter? Das
@@ -573,7 +577,7 @@
 20140717 -- - Das kam einer Kreuzigung schon sehr nahe.
 20140730 -- Der Fahrstuhl ist defekt. Viel Spass! - Können Sie uns mitnehmen? GUCKSTDU CLEAN Eigentlich nicht. Aber...? - Hanni Nanni
 20140816 -- Das tut mir echt leid mit Ihren Pflanzen. Ich hab' die echt total viel gegossen! Ständig. Aber irgendwie kann ich mit denen nicht. - Am ärgsten tut mir der Gummibaum leid. Der sah so toll aus! Und jetzt ? Braun und labbrig... Dabei hab' ich
-20410816 -- mich um den am meisten gekümmert. - Der ist aus Plastik.
+20140816 -- mich um den am meisten gekümmert. - Der ist aus Plastik.
 20140825 -- Und Du lernst nachher schwimmen, Freundchen! Haha! Hören Sie auf! Sie sind doch gar nicht für mich zuständig! Sie sind doch der Schwimmeister. Ich bin aber Nichtschwimmer! - Für mich ist der Nichtschwimmermeister zuständig! - Der ist
 20140825 -- ertrunken.
 20140913 -- Hallihallo! Ich bin die gute Fee und hätte noch einen Wunsch zu vergeben! Interesse? Dann aber hurtig! - Ich hätte gerne Superkräfte! - Das ist der Herr Knöbl, der starrt bei uns die Löcher in den Käse.
@@ -624,6 +628,8 @@
 20160324 -- verstecken werden!
 20160402 -- Oh! Das ist aber trist hier! - Und nichts dabei ausser ein dünnes Hemdchen! Früher hat man den Toten noch Grabbeigaben mit ins Grab gelegt! - Früher gabs noch keinen Sperrmüll.
 20160425 -- Ist schon wieder alles voll mit Kaugummis! Hey, Du! - Willst Du so ein geiles T-Shirt? Dann musst Du nur das ganze weisse Zeug vom Boden kratzen. Aber alles! - Haben Sie diesem Idioten gesagt, er soll den Zebrastreifen wegkratzen?
+20160524 -- Früher, in finsterer Vergangenheit, entfachten unsere Vorfahren rieseige Feuer und opferten, um die Götter gnädig zu stimmen, Tiere und, ja, auch ihre eigenen Artgenossen! - Heute grillt man. - Und damit es nicht wieder nach Menschenfleisch
+20160524 -- riecht, tragen wir im Anfängerkurs Grillhandschuhe!
 20160609 -- Keine Angst, ich will die nicht verschicken. Aber könnte ich die hier kurz deponieren? Was ist denn das für ein Lärm da draussen? - Oh, das ist nur die Aktion "Barrierefreier Stadtpark". Soso. Und wann holen Sie Ihr Gestänge hier wieder ab? -
 20160609 -- Wenn die Bullen weg sind. Wir haben vorhin im Park ein paar Walker entwaffnet.
 20160615 -- Ich weiss schon...eine Marke. Hier! Schnell! Da kommen die anderen! ? - Pfadfindertreffen? Schnitzeljagd. Das geht schon den ganzen Tag so. Warumimmer ich... - Ausverkauft. *
@@ -701,6 +707,7 @@
 20181101 -- auch gefürchtet!
 20181114 -- Ich kann hier mit der Raupe nicht wenden! Dann fahr doch auf den Spielplatz! - Hoppla! ** Tschuldigung! - Schon wieder die Raupe? Was hat sie diesmal? Zahnausfall. Getriebe? Unterkiefer.
 20181212 -- Herr Klöpke, bitte! Ich war aber vor dem da! - Vielleicht hab ich ja was schlimmeres! Vielleicht hab ich ja was interessanteres! - Dann geh ich. Ich hab was normales. Sie können ja solange gugeln!
+20181224 -- ** STÜ-HÜL-LE NAAACHT! ** Muss das sein mit dem Singen? - Ja, unbedingt! Das ist ein ganz alter Brauch! - Ich wusste, dass es was mit böse Geister vertreiben zu tun hat!
 20190119 -- * Bing! Mama! * Bing! * Bing! *** Bing! Bing! Bing! Fahr Zick-Zack! - Ey, Du Poller! Vorbeilassen! Ich hab geklingelt! - Mama! Mama! Die Mikrowelle kann sprechen! *
 20190215 -- Ein Todschicker Mantel! Ich hab ihn gleich mal in sämtlichen Grössen bestellt! Der Chinese hats ja nicht so mit Grössen! - Und raten Sie mal, welcher gepasst hat! XL! XL!! Hahaha! Die spinnen ja! Ich lauf doch nicht in XL rum! Den schick ich
 20190215 -- auch wieder zurück! Da wird sich der Chinese sicher freuen! Der wird auch immer dicker.
@@ -732,6 +739,7 @@
 20200619 -- Oh, hallo! Nein, Sie stören nicht, kommen Sie doch rein! Ich bin nur am Kochen. - Möchten Sie was mitessen? Ist genug da! * - Hubert! Wir hatten doch gesagt, ich reib Dir den Rücken erst nach dem Essen ein!
 20200903 -- Heute reden wir über Sicherheit: Ein Hund! Er rennt auf Euch zu! Schnell wegwalken? Zu spät! - Ihr seid allein mit Euren Stöcken! Ihr habt fünf Sekunden! Was tut Ihr? Und los! -
 20200918 -- Wir hauen ab! Ich hab eine Tür entdeckt! Dahinter ist freies Land! Eine offene Tür? Hier? - Der Notausgang, was weiss ich! Egal, nix wie weg! Hahaha! Die lassen eine Tür offen! Haha! Wie blöd kann man sein? -
+20200926 -- Also...jaa...Ihre Zukunft sieht ganz okay aus... Das macht dann vierzig Euro. - Wie?! Das wars jetzt?! "Ganz Okay"? Für vierzig Euro? Ich verlange Details! Wie Sie wünschen. - Spoileralarm! Der Held stirbt am Schluss.
 20201015 -- Das war lecker! Warte, ich helf Dir! Wie trennt Ihr den Müll? - Gekennzeichnete Kunststoffe in die gelbe Tonne, sortenreines Papier in die blaue, sauberes Glas in die grüne, organisches in die braune, Restmüll in die schwarze. - Und alles,
 20201015 -- was arg stinkt, beim Nachbarn hinten übern Zaun.
 20201025 -- Hasso: Gib Pfötchen! Na lLs: Gib Pfötchen!! Gib Pfötchen! Hopp!! Du sollst Pfötchen geben! * ? ? ? - Hoffnungslos-diese Töle ist dumm wie Brot! - Hasso: Vorne rechts...
@@ -977,3 +985,6 @@
 20230102 -- Meine guten Vorsätze für das neue Jahr: Hm... - -Nie wieder das peinliche "Passwort vergessen" anklicken. Fertig! - Das ist nur ein Vorsatz. Das ist zu wenig! Das gilt für Dutzende von Passwörtern!
 20230103 -- Ich will einen Hund! Einen grossen Hund! Nein. Du hast gesagt, ich darf ein Haustier haben! - Alles, aber keins, bei dem ich dann mit der Plastiktüte die Kacke aufheben muss! Versprochen? Versprochen! - Das Pferd bezahlst aber Du!
 20230104 -- Was ist das?! Was neues! Gesund und extrem klimaneutral! Guten Appetit! - Wie "klimaneutral"? Der Anbau? Der Transport? Die Zubereitung? Die Verwertung! ? ? - Ihr müsst nicht pupsen!
+20230105 -- Warte, hier habe wir schon geklingelt! Die machen doch wieder nicht auf, die haben einen Türspion. - Weisst Du, wie schlecht sich Zeugen an Personen erinnern? Lass mich nur machen! - Verdammt...
+20230106 -- Seid gegrüsst, guter Mann! Wir sind die zwölf weisen Könige und suchen... Drei. Bitte? - Drei. Ihr seid nur drei Könige. - Egal! Ein bisschen Schwund ist immer!
+20230107 -- CHRRR... CHRRR... - Was starrst Du mich so an?! Dein Schnarchen ist so gewaltig! Diese enorme Energie muss man doch irgendwie nutzen! - CHRRR...

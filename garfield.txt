@@ -17102,3 +17102,5 @@ ga230101 -- - Today's the day I'm going to get up and exercise. - - - Goodnight,
 ga230102 -- You lost a pound! - - Wait, just found it. Oh, and there's another one! My bad.
 ga230103 -- Being trapped int the house during a snowstorm means there's nothing to do. - - I love winter.
 ga230104 -- First rule of winter. - The colder the morning... - The hotter the coffee.
+ga230105 -- I'm working my way through my winter reading list. - Me, too. - "Preheat oven to 350 dregrees..."
+ga230106 -- - HURRY UP!! - Where have you been? Having a word with spring.
