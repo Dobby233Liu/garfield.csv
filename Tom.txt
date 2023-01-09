@@ -204,6 +204,8 @@
 19951130 -- Am besten, Sie entspannen sich erstmal-versuchen Sie, einfach an nichts zu denken... - Nichts? Gar nichts? Überhaupt niy? Nüscht? Null? Oder ehr im Sinne von Leere, Vakuum-dem Fehlen von allem, wirklich allem, nicht nur Materie... - Denken
 19951130 -- Sie: "Dings"...
 19951201 -- Kurt trägt jetzt nur noch ganz knappe bodies! Susanne! ** - Und er pinkelt jetzt nur noch im Sitzen! Nein! - Ich kauf' ihm immer die mit dem Druckknöpfen im Schritt!
+19951202 -- Hats geschmeckt? Nein! - Oh...äh...tja...67 Mark fünfzig... - Sagen wir 100 und wir reden nicht mehr davon...
+19951204 -- Dringg! * Dring! * ? - Hallo? Wen wollen Sie sprechen? Herrn Pachulke? Mmh! Mmh! - Tut mir leid...falsch verbunden!
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -224,6 +226,7 @@
 19961219 -- bin ich richtig! Ich hab ihn im Taxi-blau und pleite.  Wenn Sie bezahlen, bring ich ihn hoch...
 19970117 -- Wenn Du das nochmal machst, atomisiere ich Deine Jahreskarte! Ja genau-Du!! Sagen Sie... - Wenn Sie die Leute beatmen und die haben NAsenbluten oder so-haben Sie da gar keine Angst sich zu infizieren? Ich mein'-AIDS oder so...? - Nein.
 19970129 -- Also-das ist ja wohl... Spielen und Hausieren verboten! - Welcher Idiot hat schon wieder Weissglas ins Grünglas geworfen? - Es war Pfefferminzlikör!
+19970303 -- Ich bring' schnell die ollen Pompers runter... - Guten Tag! Tag. - Sie könnten sich mal um 'ne braune Tonne kümmern!
 19970304 -- Der Sprungturm sollte ans Kopfende-und das hab' ich auch montiert! - Was ist los? Er sollte ans andere Ende!! Was jetzt? - Erstmal sperren...
 19970312 -- Oh-Du hast die Fenster geputzt... Gut! - Da sind noch Streifen! -
 19970409 -- Tag! -Eine Postkartenmarke! - Das heisst Briefmarke! - Das heisst schon wieder teurer...
@@ -675,38 +678,39 @@
 20171111 -- Eine grosse Latte to go, bitte. Kaffee oder Kalauer? Was? Oh...Kaffee! Caffee Latte to go! - Gefroren?! - Pappbecher geht gar nicht!
 20171123 -- Hallo, komme Sie doch rein! Oh-wären Sie so nett, die Sachen aus dem Briefkasten mitzubringen? Gerne! - Eine Benachrichtigung. "Sendung beim Nachbarn abgegeben." Ich klingel mal! - Ein Klavier! Ein Klavier! **
 20180103 -- Und? Wie schmeckts? - Ist das ein Seniorenteller? Ist es zu wenig? - Schmeckt "Kannste vergessen"!
-20180130 -- Oh-oh! Hat da etwa jemand einen Stinker gemacht? - Da schauen wir doch gleich mal nach! - * AU!
-20180410 -- Rasieren, bitte! Gerne. Stellen Sie Ihr Handy bitte auf Flugmodus! - Aber wir fliegen doch gar nicht! Und das wollen wir auch nicht. - Sie nicht, ich nicht und Ihre Nase nicht, Wenn Sie im falschen Moment Ihre Nachrichten checken!
-20180531 -- Drei Kugeln, bitte... Schoko-Bärlauch... Käse-Karamell... und Vanille-Wespe. Becher oder Waffel...? - Wir machen die Waffeln selber! Dann Waffel! Waffel!! - Wir üben noch...
-20180606 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... He! Sie! - Ich glaub, ich hab da hinten einen Wolf gesehen! - - Den Baum ersteigen...Kuscheln mit den Zweigen...eins werden mit dem Baum...
-20180908 -- Ey-Ihr da! Wenn Ihr dringend kacken, kochen oder Kinder machen müsst: Da drüben ist ein Lüdl, die haben einen Riesenparkplatz! - Dann müsst Ihr Eure stinkende Beziehungskiste nicht auf dem Radweg abstellen, Ihr Elchaufkleber! - Du wolltest
-20180908 -- heute doch keine Leute anbrüllen! Ich musste! Das war mein erstes Wohnmobil!
-20180920 -- Heute ist Weltkindertag! Wow, ja! Stimmt! - Was wollen wir machen? Wir?! Also, ich geh mich amüsieren! Und wir? Ihr nicht. - Ihr müsst Kinder machen.
-20181201 -- Tag, ich brauch einen Kühlschrank. Sie haben Glück! Die neuen Modelle sind gerade reingekommen! - Hier: Unser Topmodell! Mit Internet und Blutuut! Kauf, wenn mal was alle ist, eigenständig ein! Aber schauen Sie sich ruhig um! Wenn Sie Fragen
-20181201 -- haben... - Muss ich da den Gästeschlüssel reinlegen oder klingelt der?
 20180120 -- Ich sehe einen schönen Mann in Ihr Leben treten... Ach ja? - Darf ich? Danke. Und ich sehe, dass Sie auch kürzlich Geburtstag hatten... Was? Woher...? Wie haben Sie das gemacht? - Ich versuche auch seit Tagen, jemandem meine Karte für das
 20180120 -- Hansi-Hintereisen-Konzert anzudrehen.
+20180130 -- Oh-oh! Hat da etwa jemand einen Stinker gemacht? - Da schauen wir doch gleich mal nach! - * AU!
 20180219 -- ** Hallöchen! - ** Hallöchen! - Noch ein hallöchen, und ich lass mich scheiden! Warum gehst Du nicht joggen, wie alle anderen alten Männer?
 20180302 -- Stimmt das, dass Ihr die Erde nur von uns Kindern geliehen habt? Kann man so sehen. - Und warum ist die Erde dann in einem so lausigen Zustand? Hä? - Weil Kinder immer nur ihr altes Spielzeug verleihen.
 20180303 -- Ja, wo ist denn jetzt der Jubilar? Der kommt schon. Sie kennen doch den Bernstein! Der hat sicher unterwegs irgendwas entdeckt, was er noch schnell zeichnen muss! - Ey, habt Ihr schon gehört? Der Spielberg dreht hier irgendwo die
 20180303 -- Völkerschlacht bei Leipzig! - Dann kanns dauern.
 20180404 -- Was ist los? Du bist heute so auffallend still... Ich glaub, ich hab 'n Burnout. Bretter da mal übers Kopfsteinpflaster! - Ah! ja! Gut! Geht wieder! - Ey! Abstand halten, Du Pimmelnase!
+20180410 -- Rasieren, bitte! Gerne. Stellen Sie Ihr Handy bitte auf Flugmodus! - Aber wir fliegen doch gar nicht! Und das wollen wir auch nicht. - Sie nicht, ich nicht und Ihre Nase nicht, Wenn Sie im falschen Moment Ihre Nachrichten checken!
 20180428 -- Hi, ich bin die danke-keinen-Kaffee-ich-muss-gleich-weiter-Fee, und Du darfst Die jetzt oder nie was wünschen! - Dann wünsche ich mir ein superlanges sorgenloses Leben! -
 20180509 -- Ich werde erpresst! Die haben mich gefilmt! Mit meinem eigenen Computer! In der Mail steht, wenn ich nicht bezahle, stellen sie den Film ins Internet! - Na und? Du machst doch keine peinlichen Sachen vor dem Computer. Oder? Horst? Horst! -
 20180509 -- Ich hab neulich heimlich versucht, Yoga zu machen! Bezahl!
 20180526 -- Hallo, ich bin die was-mach-ich-hier-eigentlich-noch-Fee, und Du darfst Dir was wünschen! Aber hurtig! - Respekt! Ich will Respekt! -
+20180531 -- Drei Kugeln, bitte... Schoko-Bärlauch... Käse-Karamell... und Vanille-Wespe. Becher oder Waffel...? - Wir machen die Waffeln selber! Dann Waffel! Waffel!! - Wir üben noch...
 20180605 -- Ist das nicht fürchterlich, den ganzen Tag in offene Futterluken gucken zu müssen? - Genau das hab ich meinen Professor damals auch gefragt! Und er hat mir etwas sehr weises geantwortet, das mich in meiner Entscheidung, Zahnarzt zu werden,
 20180605 -- nachhaltig bestärkt hat! Was hat er gesagt? Lieber oben als unten!
+20180606 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... He! Sie! - Ich glaub, ich hab da hinten einen Wolf gesehen! - - Den Baum ersteigen...Kuscheln mit den Zweigen...eins werden mit dem Baum...
 20180811 -- Warum gehen Männer immer ewig aufs Klo? Keine Ahnung, frag die Maus! Ich könnte gar nicht so lange auf der Schüssel hocken! - Schon gar nicht bei dieser Hitze! Nanu-schon fertig? - Eiswürfel vergessen.
 20180822 -- Klöpke *** DONGG! BALLONNG! BONNNGG! - Wie die Klingel des Mannes, so sein Johannes! - So lang er auch war, das Ende ist nah!
 20180829 -- BÄKO Ein Schokocroissant, ein Puddingplunder und das Sandwich da! Kann alles in eine Tüte. Sicher? - Klar, kommt doch alles zusammen in denselben Bauch, haha! Hahaha! - Aber leider nicht zusammen wieder raus. Das war Avocado auf dem Sandwich,
-20180929 -- oder? Geben Sie mir noch eine Tüte! Avocado kann er nicht.
+20180829 -- oder? Geben Sie mir noch eine Tüte! Avocado kann er nicht.
+20180908 -- Ey-Ihr da! Wenn Ihr dringend kacken, kochen oder Kinder machen müsst: Da drüben ist ein Lüdl, die haben einen Riesenparkplatz! - Dann müsst Ihr Eure stinkende Beziehungskiste nicht auf dem Radweg abstellen, Ihr Elchaufkleber! - Du wolltest
+20180908 -- heute doch keine Leute anbrüllen! Ich musste! Das war mein erstes Wohnmobil!
+20180920 -- Heute ist Weltkindertag! Wow, ja! Stimmt! - Was wollen wir machen? Wir?! Also, ich geh mich amüsieren! Und wir? Ihr nicht. - Ihr müsst Kinder machen.
 20181009 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... - Wussten Sie, dass Bäume untereinander kommunizieren können? Natürlich! Bäume sind sogar sehr intelligent! Sogar intelligent? - Dann machen die jetzt Witze über peinliche
 20181009 -- geblümte Krawatten!
 20181101 -- Warum ist mein Paket gegenüber abgegeben worden?! Ich war zu Hause! Ich hab sogar den ganzen Tag die Tür offen gelassen! - Und laut Musik gehört! Und Kuchen gebacken! Mehr zu Hause kann man nicht sein! Wo war Ihr Kollege? - Da hätt ich mich
 20181101 -- auch gefürchtet!
 20181114 -- Ich kann hier mit der Raupe nicht wenden! Dann fahr doch auf den Spielplatz! - Hoppla! ** Tschuldigung! - Schon wieder die Raupe? Was hat sie diesmal? Zahnausfall. Getriebe? Unterkiefer.
+20181201 -- Tag, ich brauch einen Kühlschrank. Sie haben Glück! Die neuen Modelle sind gerade reingekommen! - Hier: Unser Topmodell! Mit Internet und Blutuut! Kauf, wenn mal was alle ist, eigenständig ein! Aber schauen Sie sich ruhig um! Wenn Sie Fragen
+20181201 -- haben... - Muss ich da den Gästeschlüssel reinlegen oder klingelt der?
 20181212 -- Herr Klöpke, bitte! Ich war aber vor dem da! - Vielleicht hab ich ja was schlimmeres! Vielleicht hab ich ja was interessanteres! - Dann geh ich. Ich hab was normales. Sie können ja solange gugeln!
+20181215 -- Äh...bin ich hier richtig? Was haben Sie denn in letzter Zeit für Werbung bekommen? Schauen Sie mal auf Ihr Handy. - Äh-Grillanzünder, Saunaöfen, Vulkankreuzfahrten, Sodbrennen und Pommesgabeln. - Ja.
 20181224 -- ** STÜ-HÜL-LE NAAACHT! ** Muss das sein mit dem Singen? - Ja, unbedingt! Das ist ein ganz alter Brauch! - Ich wusste, dass es was mit böse Geister vertreiben zu tun hat!
 20190119 -- * Bing! Mama! * Bing! * Bing! *** Bing! Bing! Bing! Fahr Zick-Zack! - Ey, Du Poller! Vorbeilassen! Ich hab geklingelt! - Mama! Mama! Die Mikrowelle kann sprechen! *
 20190215 -- Ein Todschicker Mantel! Ich hab ihn gleich mal in sämtlichen Grössen bestellt! Der Chinese hats ja nicht so mit Grössen! - Und raten Sie mal, welcher gepasst hat! XL! XL!! Hahaha! Die spinnen ja! Ich lauf doch nicht in XL rum! Den schick ich

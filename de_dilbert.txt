@@ -11238,3 +11238,8 @@
 230105 -- haben. - Haben Sie nachher schon was vor? Wieso fragt mich das heute Jeder?
 230106 -- Dogbert, der Arbeitsplatz-Dating-Coach Ihre Körperhaltung ist das erste, was einem potentiellen Date auffällt. - Und Ihre Haltung drückt aus: "Ich bin ein gruseliger Versager und ich habe keine Ahnung, wie man eine Frau zufriedenstellt. - Also
 230106 -- sollte ich mich aufrechter hinstellen? Ja, wenn Sie Etikettenschwindel betreiben wollen.
+230107 -- Dogbert, der Arbeitsplatz-Dating-Coach Ich empfehle Ihnen, mit Kollegen anzubändeln, die sich als Single betrachten. - Und die jemanden hat, der sich als Gatte betrachtet? - Treffen Sie sich mit solchen Leuten niemals bei denen zu Hause, das
+230107 -- gibt nur Ärger.
+230108 -- Ich aktualisiere meinen Style. Diesen Look nenne ich "Krypto-Penner". - Sollte ich je Krypto-Milliardär werden, muss ich mir keine neuen Klamotten kaufen. - Und sollte ich durch einen Krypto-Crash alles verlieren, werde ich Penner und brauche
+230108 -- AUCH kein neuen Klamotten. - Die Leute werden mich ansehen und vermuten, ich hätte so viel Geld, dass ich tragen kann, was ich will. Ich gehe jetzt in ein schickes Restaurant und teste das aus. - Na, wen haben wir denn da? Sie sind entweder
+230108 -- Krypto-Milliardär oder obdachlos. - Ich tippe auf obdachlos. - Wieso gehen Sie vom Schlimmsten aus? Ich gehe vom Sympathischeren aus.

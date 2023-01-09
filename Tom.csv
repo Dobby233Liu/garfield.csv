@@ -603,6 +603,12 @@ transcript,comic_id
 "- Kurt trägt jetzt nur noch ganz knappe bodies! Susanne! **
 - Und er pinkelt jetzt nur noch im Sitzen! Nein!
 - Ich kauf' ihm immer die mit dem Druckknöpfen im Schritt!",19951201
+"- Hats geschmeckt? Nein!
+- Oh...äh...tja...67 Mark fünfzig...
+- Sagen wir 100 und wir reden nicht mehr davon...",19951202
+"- Dringg! * Dring! * ?
+- Hallo? Wen wollen Sie sprechen? Herrn Pachulke? Mmh! Mmh!
+- Tut mir leid...falsch verbunden!",19951204
 "- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen!
 - Fangen wir mit was einfachem an: ""Baby"". Huschke! chrrr...
 - Teenie, Yuppie, Daddy, Zombie.",19951214
@@ -658,6 +664,9 @@ transcript,comic_id
 "- Also-das ist ja wohl... Spielen und Hausieren verboten!
 - Welcher Idiot hat schon wieder Weissglas ins Grünglas geworfen?
 - Es war Pfefferminzlikör!",19970129
+"- Ich bring' schnell die ollen Pompers runter...
+- Guten Tag! Tag.
+- Sie könnten sich mal um 'ne braune Tonne kümmern!",19970303
 "- Der Sprungturm sollte ans Kopfende-und das hab' ich auch montiert!
 - Was ist los? Er sollte ans andere Ende!! Was jetzt?
 - Erstmal sperren...",19970304
@@ -1699,31 +1708,12 @@ transcript,comic_id
 "- Und? Wie schmeckts?
 - Ist das ein Seniorenteller? Ist es zu wenig?
 - Schmeckt ""Kannste vergessen""!",20180103
-"- Oh-oh! Hat da etwa jemand einen Stinker gemacht?
-- Da schauen wir doch gleich mal nach!
-- * AU!",20180130
-"- Rasieren, bitte! Gerne. Stellen Sie Ihr Handy bitte auf Flugmodus!
-- Aber wir fliegen doch gar nicht! Und das wollen wir auch nicht.
-- Sie nicht, ich nicht und Ihre Nase nicht, Wenn Sie im falschen Moment Ihre Nachrichten checken!",20180410
-"- Drei Kugeln, bitte... Schoko-Bärlauch... Käse-Karamell... und Vanille-Wespe. Becher oder Waffel...?
-- Wir machen die Waffeln selber! Dann Waffel! Waffel!!
-- Wir üben noch...",20180531
-"- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... He! Sie!
-- Ich glaub, ich hab da hinten einen Wolf gesehen!
--
-- Den Baum ersteigen...Kuscheln mit den Zweigen...eins werden mit dem Baum...",20180606
-"- Ey-Ihr da! Wenn Ihr dringend kacken, kochen oder Kinder machen müsst: Da drüben ist ein Lüdl, die haben einen Riesenparkplatz!
-- Dann müsst Ihr Eure stinkende Beziehungskiste nicht auf dem Radweg abstellen, Ihr Elchaufkleber!
-- Du wolltest heute doch keine Leute anbrüllen! Ich musste! Das war mein erstes Wohnmobil!",20180908
-"- Heute ist Weltkindertag! Wow, ja! Stimmt!
-- Was wollen wir machen? Wir?! Also, ich geh mich amüsieren! Und wir? Ihr nicht.
-- Ihr müsst Kinder machen.",20180920
-"- Tag, ich brauch einen Kühlschrank. Sie haben Glück! Die neuen Modelle sind gerade reingekommen!
-- Hier: Unser Topmodell! Mit Internet und Blutuut! Kauf, wenn mal was alle ist, eigenständig ein! Aber schauen Sie sich ruhig um! Wenn Sie Fragen haben...
-- Muss ich da den Gästeschlüssel reinlegen oder klingelt der?",20181201
 "- Ich sehe einen schönen Mann in Ihr Leben treten... Ach ja?
 - Darf ich? Danke. Und ich sehe, dass Sie auch kürzlich Geburtstag hatten... Was? Woher...? Wie haben Sie das gemacht?
 - Ich versuche auch seit Tagen, jemandem meine Karte für das Hansi-Hintereisen-Konzert anzudrehen.",20180120
+"- Oh-oh! Hat da etwa jemand einen Stinker gemacht?
+- Da schauen wir doch gleich mal nach!
+- * AU!",20180130
 "- ** Hallöchen!
 - ** Hallöchen!
 - Noch ein hallöchen, und ich lass mich scheiden! Warum gehst Du nicht joggen, wie alle anderen alten Männer?",20180219
@@ -1736,6 +1726,9 @@ transcript,comic_id
 "- Was ist los? Du bist heute so auffallend still... Ich glaub, ich hab 'n Burnout. Bretter da mal übers Kopfsteinpflaster!
 - Ah! ja! Gut! Geht wieder!
 - Ey! Abstand halten, Du Pimmelnase!",20180404
+"- Rasieren, bitte! Gerne. Stellen Sie Ihr Handy bitte auf Flugmodus!
+- Aber wir fliegen doch gar nicht! Und das wollen wir auch nicht.
+- Sie nicht, ich nicht und Ihre Nase nicht, Wenn Sie im falschen Moment Ihre Nachrichten checken!",20180410
 "- Hi, ich bin die danke-keinen-Kaffee-ich-muss-gleich-weiter-Fee, und Du darfst Die jetzt oder nie was wünschen!
 - Dann wünsche ich mir ein superlanges sorgenloses Leben!
 -",20180428
@@ -1745,8 +1738,15 @@ transcript,comic_id
 "- Hallo, ich bin die was-mach-ich-hier-eigentlich-noch-Fee, und Du darfst Dir was wünschen! Aber hurtig!
 - Respekt! Ich will Respekt!
 -",20180526
+"- Drei Kugeln, bitte... Schoko-Bärlauch... Käse-Karamell... und Vanille-Wespe. Becher oder Waffel...?
+- Wir machen die Waffeln selber! Dann Waffel! Waffel!!
+- Wir üben noch...",20180531
 "- Ist das nicht fürchterlich, den ganzen Tag in offene Futterluken gucken zu müssen?
 - Genau das hab ich meinen Professor damals auch gefragt! Und er hat mir etwas sehr weises geantwortet, das mich in meiner Entscheidung, Zahnarzt zu werden, nachhaltig bestärkt hat! Was hat er gesagt? Lieber oben als unten!",20180605
+"- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... He! Sie!
+- Ich glaub, ich hab da hinten einen Wolf gesehen!
+-
+- Den Baum ersteigen...Kuscheln mit den Zweigen...eins werden mit dem Baum...",20180606
 "- Warum gehen Männer immer ewig aufs Klo? Keine Ahnung, frag die Maus! Ich könnte gar nicht so lange auf der Schüssel hocken!
 - Schon gar nicht bei dieser Hitze! Nanu-schon fertig?
 - Eiswürfel vergessen.",20180811
@@ -1755,8 +1755,13 @@ transcript,comic_id
 - So lang er auch war, das Ende ist nah!",20180822
 "- BÄKO Ein Schokocroissant, ein Puddingplunder und das Sandwich da! Kann alles in eine Tüte. Sicher?
 - Klar, kommt doch alles zusammen in denselben Bauch, haha! Hahaha!
-- Aber leider nicht zusammen wieder raus. Das war Avocado auf dem Sandwich,",20180829
-- oder? Geben Sie mir noch eine Tüte! Avocado kann er nicht.,20180929
+- Aber leider nicht zusammen wieder raus. Das war Avocado auf dem Sandwich, oder? Geben Sie mir noch eine Tüte! Avocado kann er nicht.",20180829
+"- Ey-Ihr da! Wenn Ihr dringend kacken, kochen oder Kinder machen müsst: Da drüben ist ein Lüdl, die haben einen Riesenparkplatz!
+- Dann müsst Ihr Eure stinkende Beziehungskiste nicht auf dem Radweg abstellen, Ihr Elchaufkleber!
+- Du wolltest heute doch keine Leute anbrüllen! Ich musste! Das war mein erstes Wohnmobil!",20180908
+"- Heute ist Weltkindertag! Wow, ja! Stimmt!
+- Was wollen wir machen? Wir?! Also, ich geh mich amüsieren! Und wir? Ihr nicht.
+- Ihr müsst Kinder machen.",20180920
 "- Den Baum berühren...den Baum spüren...eins werden mit dem Baum...
 - Wussten Sie, dass Bäume untereinander kommunizieren können? Natürlich! Bäume sind sogar sehr intelligent! Sogar intelligent?
 - Dann machen die jetzt Witze über peinliche geblümte Krawatten!",20181009
@@ -1766,9 +1771,15 @@ transcript,comic_id
 "- Ich kann hier mit der Raupe nicht wenden! Dann fahr doch auf den Spielplatz!
 - Hoppla! ** Tschuldigung!
 - Schon wieder die Raupe? Was hat sie diesmal? Zahnausfall. Getriebe? Unterkiefer.",20181114
+"- Tag, ich brauch einen Kühlschrank. Sie haben Glück! Die neuen Modelle sind gerade reingekommen!
+- Hier: Unser Topmodell! Mit Internet und Blutuut! Kauf, wenn mal was alle ist, eigenständig ein! Aber schauen Sie sich ruhig um! Wenn Sie Fragen haben...
+- Muss ich da den Gästeschlüssel reinlegen oder klingelt der?",20181201
 "- Herr Klöpke, bitte! Ich war aber vor dem da!
 - Vielleicht hab ich ja was schlimmeres! Vielleicht hab ich ja was interessanteres!
 - Dann geh ich. Ich hab was normales. Sie können ja solange gugeln!",20181212
+"- Äh...bin ich hier richtig? Was haben Sie denn in letzter Zeit für Werbung bekommen? Schauen Sie mal auf Ihr Handy.
+- Äh-Grillanzünder, Saunaöfen, Vulkankreuzfahrten, Sodbrennen und Pommesgabeln.
+- Ja.",20181215
 "- ** STÜ-HÜL-LE NAAACHT! ** Muss das sein mit dem Singen?
 - Ja, unbedingt! Das ist ein ganz alter Brauch!
 - Ich wusste, dass es was mit böse Geister vertreiben zu tun hat!",20181224
