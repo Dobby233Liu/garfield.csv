@@ -10584,3 +10584,4 @@ dr230105 -- Stop jumping with excitement. You may not lick the beaters! - You ca
 dr230106 -- I made you some hot chocolate, dad! - Thanks, Norm! - I couldn't find a mug, so I borrowed the one that was on your desk. - Look out for the pencils!
 dr230107 -- Ahem! - WALLY - skattle skattle skattle! - I was just clearing my throat! Sounded like "Dinner-Time" to me!
 dr230108 -- - - - - - DING! DING! DING! DING! ...Sigh... - Why does my refrigerator wait until I'm all the way upstairs to tell me that the door is ajar? DING! DING! DING! DING!
+dr230109 -- Hi, No-Neck! - Happy new year, Ralph! - When is the appropriate time to stop saying happy new year? - I stopped saying it when I turned 49!
