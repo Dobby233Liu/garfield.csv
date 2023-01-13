@@ -209,6 +209,9 @@
 19951205 -- Auch 'n Cheeseburger? - Fleischessen ist Mord! Käse essen ist Folter! - Das Brötchen  ist Vorbereitung eines Angriffskrieges...
 19951206 -- Zackige Marken Post * - - Mein Gott, Kasperle...bist Du alt geworden!
 19951207 -- Hey! Wie wars mit Biggi? Ein Desaster! - Sie is' Veganerin..."Fleischessen is' Mord, Käseessen Folter" und so... He! Und ich hab 'se zu 'nem Cheeseburger eingeladen! - Nägelkauen ist Kannibalismus!
+19951208 -- 100 - Geh' schon mal rein, komme sofort... - Der arme Benny! Ganz zermatscht... Lauter! Ach, Frau Beimer, der is im Himmel bei Mathias... Oh mein Gott!
+19951209 -- - - Kittekak
+19952111 -- Advent, Advent, ein Lichtlein brennt... - Dann brennen zwei, dann drei, dann vier... - ...und dann die Wohnung über Dir...
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -587,6 +590,8 @@
 20140717 -- Lange nicht gesehen... Ich hab' eine Freundin auf einer Kreuzfahrt begleitet... Toll! Karibik? Hurtigruten? Santiago de Compostela. - Sie meine, Sie waren auf einer Pilgerfahrt. Mit dem Bus! Non Stop! Klo auf dem Gang! Und es wurde gesungen!
 20140717 -- - Das kam einer Kreuzigung schon sehr nahe.
 20140730 -- Der Fahrstuhl ist defekt. Viel Spass! - Können Sie uns mitnehmen? GUCKSTDU CLEAN Eigentlich nicht. Aber...? - Hanni Nanni
+20140813 -- Ich hab' Dir eine Sicherheitskarte und ein Duty-Free-Magazin in die Hosentasche gesteckt! Jetzt fühl' ich mich fast wie im Flugzeug! - Ey! Das war rot, Du Maulwurf! - Hä? Warum ist das so feucht? Das liegt an dem "fast". Ich hab' die Kotztüte
+20140813 -- vergessen.
 20140816 -- Das tut mir echt leid mit Ihren Pflanzen. Ich hab' die echt total viel gegossen! Ständig. Aber irgendwie kann ich mit denen nicht. - Am ärgsten tut mir der Gummibaum leid. Der sah so toll aus! Und jetzt ? Braun und labbrig... Dabei hab' ich
 20140816 -- mich um den am meisten gekümmert. - Der ist aus Plastik.
 20140825 -- Und Du lernst nachher schwimmen, Freundchen! Haha! Hören Sie auf! Sie sind doch gar nicht für mich zuständig! Sie sind doch der Schwimmeister. Ich bin aber Nichtschwimmer! - Für mich ist der Nichtschwimmermeister zuständig! - Der ist
@@ -1003,3 +1008,4 @@
 20230109 -- Du bist nicht mehr der jüngste... ? Du solltest Dir weniger Stress machen... - Wir wissen, wo Dei Fahrrad steht! Probleme? Nein. - Ich weiss, wo Eure Mutter Eure Unterhosen kauft!
 20230110 -- Das nenn ich einen Föhn! Das war noch Qualität! Ein Klassiker! Die halten ewig! - Na, die Heizdrähte waren jetzt durch. Aber dem Frisör ist nichts zu schwör! Haha! Wer hat den dafür noch Ersatzteile? - Mein Toaster.
 20230111 -- Wie jeder Sport ist auch Nordic Walking nicht ohne Tücken! Wir üben heute mal den Ernstfall! Herr Klöpke: Bitte in Position! - Sie finden einen offenbar schwer gestürzten Walker. Was tun Sie? - Nichts. Das ist mein Mann. Der ist Hypochonder.
+20230112 -- Wir umrunden das Satans-Zipfeli und campen am Schulzwald. Sorry, Bus verpasst! - Also, auf geht's! Ich hab die Kaffeemühle vergessen! - Kein Ding-eine Handvoll Bohnen in die Schuhe und wir haben morgen ein schönes Tässchen Kaffee!
