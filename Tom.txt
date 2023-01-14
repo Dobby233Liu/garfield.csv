@@ -211,7 +211,8 @@
 19951207 -- Hey! Wie wars mit Biggi? Ein Desaster! - Sie is' Veganerin..."Fleischessen is' Mord, Käseessen Folter" und so... He! Und ich hab 'se zu 'nem Cheeseburger eingeladen! - Nägelkauen ist Kannibalismus!
 19951208 -- 100 - Geh' schon mal rein, komme sofort... - Der arme Benny! Ganz zermatscht... Lauter! Ach, Frau Beimer, der is im Himmel bei Mathias... Oh mein Gott!
 19951209 -- - - Kittekak
-19952111 -- Advent, Advent, ein Lichtlein brennt... - Dann brennen zwei, dann drei, dann vier... - ...und dann die Wohnung über Dir...
+19951211 -- Advent, Advent, ein Lichtlein brennt... - Dann brennen zwei, dann drei, dann vier... - ...und dann die Wohnung über Dir...
+19951212 -- * Kssst! Hallo! Ja! - Meine Badehose...ich war auf dem Sprungbrett... Sie ist weg!! - ***
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -332,6 +333,8 @@
 20030120 -- Sei bloss vorsichtig mit der Dosierung! CHLOR Mir ist mal ein ganzer Kanister reingelaufen! - Zum Glück hat er mich damals nicht verklagt... Der Umweltbeauftragte? - Michael Jackson...
 20030204 -- Ehm-hallo? Ich will Sie ja nicht beunruhigen... Aber Ihr Sohn stülpt sich gerade eine Plastiktüte über den Kopf! - Jaja, das hat er von seinem Vater...machen Sie einfach ein paar Löcher rein... - Es ist ihm peinlich, in einem Leihwagen
 20030204 -- gesehen zu werden.
+20030305 -- J, bitte? Ich wette, Sie sind "classic"!  Verloren, ich bin Horst. Haha! Neinein.ich meine, Sie kaufen Ihren Strom doch sicher noch bei den Stadtwerken, was? Eben "classic"! - Sehen Sie, und das müssen Sie nicht! Das ist viel zu teuer! Wollen
+Sie Geld sparen? Ich kann Ihnen da ein sehr attraktives Angebot machen... - Wehe, Du hast Dir wieder was andrehen lassen! Du wirst stauen! 1,5V Batteries
 20030211 -- Also, halbrechts ist eine Abfahrt für Anfänger, recht leicht. Weiter rechts für Fortgeschrittene... Und links, da muß man schon sehr gut sein! Wie gut sind Sie? - Naja-sagen wir mal, die Richtung steht fest-was ist mit geradezu runter? Das
 20030211 -- ist für Anfänger... - ...im Gleitschirmfliegen...
 20030219 -- - Oh! Mama! Mama! Kuck! Da! - Der Verkehrskasper! *
@@ -1009,3 +1012,5 @@
 20230110 -- Das nenn ich einen Föhn! Das war noch Qualität! Ein Klassiker! Die halten ewig! - Na, die Heizdrähte waren jetzt durch. Aber dem Frisör ist nichts zu schwör! Haha! Wer hat den dafür noch Ersatzteile? - Mein Toaster.
 20230111 -- Wie jeder Sport ist auch Nordic Walking nicht ohne Tücken! Wir üben heute mal den Ernstfall! Herr Klöpke: Bitte in Position! - Sie finden einen offenbar schwer gestürzten Walker. Was tun Sie? - Nichts. Das ist mein Mann. Der ist Hypochonder.
 20230112 -- Wir umrunden das Satans-Zipfeli und campen am Schulzwald. Sorry, Bus verpasst! - Also, auf geht's! Ich hab die Kaffeemühle vergessen! - Kein Ding-eine Handvoll Bohnen in die Schuhe und wir haben morgen ein schönes Tässchen Kaffee!
+20230113 -- Ich will mich beschweren! Aber gleuben Sie, da bekommt man einen Termin? Das ist ja schlimmer als in Berlin! Ich geh jetzt da hin und hau einen! - Und? Termin? Zwei. Immer Mittwoch und Freitag. - Zum Training.
+20230114 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... Schief... - Verabschiedest Du Dich von dem Baum? Der muss weg, oder? Jaaa!  Aber ich lass ihn niemals los nicht! - Frag Dich lieber, warum er das Weite sucht!
