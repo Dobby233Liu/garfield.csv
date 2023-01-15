@@ -212,8 +212,10 @@
 19951208 -- 100 - Geh' schon mal rein, komme sofort... - Der arme Benny! Ganz zermatscht... Lauter! Ach, Frau Beimer, der is im Himmel bei Mathias... Oh mein Gott!
 19951209 -- - - Kittekak
 19951211 -- Advent, Advent, ein Lichtlein brennt... - Dann brennen zwei, dann drei, dann vier... - ...und dann die Wohnung über Dir...
-19951212 -- * Kssst! Hallo! Ja! - Meine Badehose...ich war auf dem Sprungbrett... Sie ist weg!! - ***
+19951212 -- ******* Da oben! - **** ? Wir kommen wegen der Ruhestörung!! - ***** Oh, danke-das blöde Gekloppe hat schon aufgehört.
+19951213 -- * Kssst! Hallo! Ja! - Meine Badehose...ich war auf dem Sprungbrett... Sie ist weg!! - ***
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
+19951215 -- Meister-ich brauch 'n Nasenwärmer! - Aber nich' do 'ne Deppenmütze! Was modernes! - ... ...und den hier zum Dynamo...
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
@@ -422,7 +424,9 @@ Sie Geld sparen? Ich kann Ihnen da ein sehr attraktives Angebot machen... - Wehe
 20060705 -- Kann ich das Auto haben? Ich mach den Tank auch wieder voll. - Und ich werde natürlich keinen Tropfen trinken und keinen Unsinn auf dem Rücksitz machen. Versprochen. - Schon gut, das ist nur behutsames Heranführen. Nicht, dass Du als alter
 20060705 -- Sack einen Herzkasper kriegst, wenn es dann soweit ist.
 20061003 -- Du brauchst keine Angst vor der Schule zu haben, Schule ist toll! Papa und ich sind immer gerne zur Schule gegangen. Nicht wahr, Hubert? Hu-bert... Was? Jaklarsicherganztollschulesupergernewiederdanke. - Ehrlich? Glaubst Du, Dein Vater könnte
-20062003 -- Dich belügen? - Ahoi! Wohin fährt dieses Schiff? Hoppetasse
+20061003 -- Dich belügen? - Ahoi! Wohin fährt dieses Schiff? Hoppetasse
+20061103 -- Fernsehen heute Abend ist gestrichen! Was?! Ich hab doch gar nichts gemacht! - Du sollst nicht mit dem Essen spielen! Hab ich doch gar nicht! - Acht Pferde...schnell geritten...nur eins davon beschlagen...auf der Marmelade ist es rückwärts
+20061103 -- gelaufen... Da hat jemand Probleme mit mir und den Komantschen.
 20061230 -- "Mein guter Vorsatz für das neue Jahr:" Sehr löblich! Aber bedenke: Realistisch bleiben! Nicht zuviel vornehmen. - - Mein guter Vorsatz für das neue Jahr: Weniger erwischen lassen.
 20070112 -- ** Ding Dong Deine Handtaschen werden auch immer grösser! Muss das sein? - Guten Morgen! Wir möchten uns mit Ihnen ausführlich über ein wichtiges Thema unterhalten. Und ich werde Ihnen genüsslich die Tür vor der Nase zuknallen. -
 20070112 -- Hervorragende Idee, die Tasche in die Tür zu stellen! Wo hast Du den Amboss her?
@@ -502,6 +506,9 @@ Sie Geld sparen? Ich kann Ihnen da ein sehr attraktives Angebot machen... - Wehe
 20090929 -- Du meine Güte, Regine! Bist Du das wirklich?! Du siehst 10 Jahre jünger aus! So...straff! - Du Miststück-jetzt muss ich mir auch diese ganzen grässlichen kleine Fältchen wegmachen lassen! Ich brauch unbedingt die Nummer von Deinem
 20090929 -- Gesichtsklempner! Ich ruf Dich an! Tschüsschen! - Lassen Sie die Lockenwickler doch bitte noch ein bisschen drin.
 20091030 -- Boah-krass! Das ist preisverdächtig! - HALLOWEEN Kostümwettbewerb Wow! - Nur gegen meine nBruder werden wir beim Gruselkopfwettbewerb keine Chance haben... Er hat seit letzte Woche seine Aknecreme abgesetzt.
+20091104 -- Na, solche Gäste lieben wir! Nur 1 Tasse Tee, kein Trinkgeld, aber alle Zuckertütchen einsacken! - Hallo Baum! Gott, ist mir schlecht...ich hab sicher 1000 Liter Tee und Kaffee getrunken...für einen guten Zweck! - Bei mir auch: Zucker im
+20091104 -- Tank! Und Milch? MASTINO
+20091107 -- Seltsam... Was? Nichts zu sehen! - Ich wollte eigentlich meine Leber spenden! - Die hatten gerade genug Cabernet-Sauvignon.
 20091114 -- Einen Milchkaffee und...welchen Kuchen würden Sie mir empfehlen? Keinen. - Kindchen, da sind doch mindestens 10 Kuchen in der Vitrine! Und davon können Sie keinen empfehlen? Schantall? - Welchen von dem Kuchenzeug macht am wenigsten noch
 20091114 -- fetter?
 20091216 -- Wo sind denn die ganzen Weihnachtskekse? Du meinst "Weihnachtsplätzchen". - Kekse-Plätzchen...das ist doch das gleiche. Oh nein. - Plätzchen von Platzen.
