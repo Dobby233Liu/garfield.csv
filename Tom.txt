@@ -216,6 +216,7 @@
 19951213 -- * Kssst! Hallo! Ja! - Meine Badehose...ich war auf dem Sprungbrett... Sie ist weg!! - ***
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
 19951215 -- Meister-ich brauch 'n Nasenwärmer! - Aber nich' do 'ne Deppenmütze! Was modernes! - ... ...und den hier zum Dynamo...
+19951216 -- Mein Gott! Tatsächlich! - Hier Mister! Und halten Sie die Klappe! schlk! schlk! schlk! schlk! schlk! - Okay...lass' uns Feierabend machen-"Nessie"... Muh.
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
@@ -736,6 +737,8 @@ Sie Geld sparen? Ich kann Ihnen da ein sehr attraktives Angebot machen... - Wehe
 20181215 -- Äh...bin ich hier richtig? Was haben Sie denn in letzter Zeit für Werbung bekommen? Schauen Sie mal auf Ihr Handy. - Äh-Grillanzünder, Saunaöfen, Vulkankreuzfahrten, Sodbrennen und Pommesgabeln. - Ja.
 20181224 -- ** STÜ-HÜL-LE NAAACHT! ** Muss das sein mit dem Singen? - Ja, unbedingt! Das ist ein ganz alter Brauch! - Ich wusste, dass es was mit böse Geister vertreiben zu tun hat!
 20190119 -- * Bing! Mama! * Bing! * Bing! *** Bing! Bing! Bing! Fahr Zick-Zack! - Ey, Du Poller! Vorbeilassen! Ich hab geklingelt! - Mama! Mama! Die Mikrowelle kann sprechen! *
+20190131 -- Hallo! Kann ich helfen? Ich brauch einen kleine Rucksack... Globetrottel Wo geht's denn hin? Hiddensee. - Nur ein langes Wochenende. Bisschen am Strand spazieren, Bernsteine suchen und so... Hiddensee! Ah-schön! Tolle kleine Insel! Ich zeig
+20190131 -- Dir einfach mal ein paar... - Praktisch?! Falls ich die Fähre verpasse, kann ich darin übernachten!
 20190215 -- Ein Todschicker Mantel! Ich hab ihn gleich mal in sämtlichen Grössen bestellt! Der Chinese hats ja nicht so mit Grössen! - Und raten Sie mal, welcher gepasst hat! XL! XL!! Hahaha! Die spinnen ja! Ich lauf doch nicht in XL rum! Den schick ich
 20190215 -- auch wieder zurück! Da wird sich der Chinese sicher freuen! Der wird auch immer dicker.
 20190223 -- Hallo! Ich hätte gerne Kaffee und Kuchen! Aber unbedingt mit ohne... Moment! - Einfach hier mit der App die Inhaltsstoffe auswählen-Kaffee hier, Kuchen da-und dann auf "Senden" tippen! Und ich bringe Ihnen dann genau, was Sie möchten. -
