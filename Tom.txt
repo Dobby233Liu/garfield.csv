@@ -221,6 +221,7 @@
 19951219 -- Ding dong! ** ding dong ding dong ding dong ding dong ding dong ****** Jajaja! Hagel und Granaten... - ? - 
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19951221 -- ...Flughöhe 10000 Meter... Mir is' schlecht! Nimm 'ne Tüte. - ...rechts unter uns: Die Lichter von Paris... Hör' bloss auf-ich schaffs noch aufs Klo... Warte! - Hier! Wirf noch 'n paar "No Nukes" hinterher...
+19951222 -- Briekmark POSTBANK - Na gut... Fröhliche Weihnachten! ** - Hämorrhoidensalbe... Stützstrümpfe!
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -633,6 +634,7 @@
 20150409 -- gibt auch eine gute Nachricht! - Wir haben eine bisher unbekannte Reaktion auf lösungsmittelfreien Bastelklebstoff!
 20150425 -- Na? Habt Ihr den Grill gefunden? Ja. Steht ganz hinten im Garten. Was würdest Du denn gerne mal essen? - Hm...keine Ahnung... Ja, brat mir doch einer einen Storch! Okay, alles ausser Geflügel... - Mist. Wir brauchen einen neuen Grill.
 20150427 -- * ? - Mist. Wir haben eine schlechte Kundenbewertung bekommen! "Geländer wäre cool". Depp! Wann? Vor einer Minute. -
+20150507 -- Neunundzwanzigneunundneunzig. Sammeln Sie Punkte? - Nur in Flensburg! - Ups! Jetzt hab ich mir vor Lachen in die Hose gemacht. Bin gleich wieder da.
 20150513 -- Häkeln ist für mich Abenteuer. Laternen Umhäkeln finde ich öde. Ich brauch den Kick! - Dann warst Du das mit der Gorillaschaukel im Zoo? Du bist wahnsinnig! Du musst sehr leise und sehr schnell sein. Ich plane bereits grösseres! - *
 20150520 -- Bongschur! Lammuhr! Im Supermarkt ist französische Woche! Na, wie seh ich aus? - Fast wie ein waschechter Franzose. Die tragen allerdings das Brot in der Hand. - Dann wird es in der Mitte nicht weich.
 20150608 -- Ja, er sieht scheisse aus. Aber tanzen kann er, Hammer! Einfach überirdisch! Der?! Eine Körperbeherrschung! Eine Wendigkeit! Wahnsinn! - Der wird irgendwo trainieren. Aber wo? Mit wem? -
@@ -1035,3 +1037,4 @@
 20230116 -- Warum ist die Rutsche gesperrt? Au!! Zuviel Feinstaub! - Rutschen rubbelt die Badehosen ab! Das macht Nanoplastik und so! Da kann ich nix machen! - Speiseöl 20l
 20230117 -- Hier! Hab ich im Keller gefunden! Von Uropa-Erwin-der-Herr-hab-ihn-selig! Was ist das? - Schnupftabal! Das ist gegen Schnupfen. Das tut man sich in die Nase. Und dann? - Wo ist Deine Schwester? Im Bad.
 20230118 -- Oje, da ist wieder diese sbösartige Hündchen. * HRRRR... Hanni Nanni - Eine Quietschewurst! Geniale Idee! Äh...mit Senf...? - Vertrauen ist gut, Sekundenkleber ist besser! * * *
+20230119 -- Mein Papa ist Anwalt! - Er sagt, Du musst uns auch in die Buddelkiste lassen! Hier ist seine Karte! - Was hat er verschluckt? Die Karte eines Sandschäufelchenherstellers!

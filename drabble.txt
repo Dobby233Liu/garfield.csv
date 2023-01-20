@@ -10593,4 +10593,5 @@ dr230114 -- - What do I have to do to get your attention?
 dr230115 -- - - - TA-DAAAAH! - - ta-daaaaaah! - TA-DAH! Oh, sorry! That was great!!
 dr230116 -- - - - I miss the package delivery guy.
 dr230117 -- I love to make hot chocolate! - Actually, I love to DRINK hot chcolate! - - Actually, I just love the whipped cream! skraakk!
-dr230118 - I still feel bloated from the holidays! That's understandable. - 45 Halloweens have taken their toll!
+dr230118 -- I still feel bloated from the holidays! That's understandable. - 45 Halloweens have taken their toll!
+dr230119 -- Hey, you might be interested in this video, honeybunch! - It shows you how to tone your... - Tone your... - Tune your piano! Too bad we don't have a piano!
