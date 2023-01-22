@@ -215,13 +215,15 @@
 19951212 -- ******* Da oben! - **** ? Wir kommen wegen der Ruhestörung!! - ***** Oh, danke-das blöde Gekloppe hat schon aufgehört.
 19951213 -- * Kssst! Hallo! Ja! - Meine Badehose...ich war auf dem Sprungbrett... Sie ist weg!! - ***
 19951214 -- Heute wollen wir uns mit der Deklination vin Anglizismen beschäftigen! - Fangen wir mit was einfachem an: "Baby". Huschke! chrrr... - Teenie, Yuppie, Daddy, Zombie.
-19951215 -- Meister-ich brauch 'n Nasenwärmer! - Aber nich' do 'ne Deppenmütze! Was modernes! - ... ...und den hier zum Dynamo...
+19951215 -- Meister-ich brauch 'n Nasenwärmer! - Aber nich' so 'ne Deppenmütze! Was modernes! - ... ...und den hier zum Dynamo...
 19951216 -- Mein Gott! Tatsächlich! - Hier Mister! Und halten Sie die Klappe! schlk! schlk! schlk! schlk! schlk! - Okay...lass' uns Feierabend machen-"Nessie"... Muh.
 19951218 -- Doch-doch...modernes Krippenspiel im Hallenbad... tolle Idee! Nur... - ...die Ouverture...also für meinen Geschmack... - ...etwas zu "hollywoodesk"...
 19951219 -- Ding dong! ** ding dong ding dong ding dong ding dong ding dong ****** Jajaja! Hagel und Granaten... - ? - 
 19951220 -- -1 Perso-1 Schlüssel-3 Mark 28-1 Hasenpfote-1 Flitschgummi.-Hier unterschreiben! - KLANK! Frei! - Für 3 Mark 28 Currywurst und Bildzeitung bis zum Abwinken! Lange in der taz gesessen?
 19951221 -- ...Flughöhe 10000 Meter... Mir is' schlecht! Nimm 'ne Tüte. - ...rechts unter uns: Die Lichter von Paris... Hör' bloss auf-ich schaffs noch aufs Klo... Warte! - Hier! Wirf noch 'n paar "No Nukes" hinterher...
-19951222 -- Briekmark POSTBANK - Na gut... Fröhliche Weihnachten! ** - Hämorrhoidensalbe... Stützstrümpfe!
+19951222 -- Briefmark POSTBANK - Na gut... Fröhliche Weihnachten! ** - Hämorrhoidensalbe... Stützstrümpfe!
+19951223 -- Jingle-Bells ** Jigle-Bells ** RRHH!! - Einmal weg-weit weg! Egal wohin...äh...sagen wir...genau? Zentralafrika! Wann? Sofort! DM 5.478,50 - JUNGLE-BELLS ** * JUNGLE-BELLS
+19951227 -- Also, Erwin und ich, wir sprechen das immer ab mit den Geschenken... - Dieses Jahr hat er mir diese suuuperteuren Pariser Seidenstrümpfe geschenkt! ** - Und Du ihm? 'ne Nagelfeile.
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -303,6 +305,8 @@
 20010125 -- Marken fürs Leben! POSTBANK chrrr... chrrr... - BONK! AU! - Wenn ich jetzt sofort meine Marke kriege...sag ich, dass es ein Arbeitsunfall war...
 20010219 -- Platz da! Jetz' komm ich! - Ja! He?! - ?
 20010404 -- Soo-jetzt stellst Du Dich hier hin... - Und wenn Du dran bist, kaufst Du von dem Onkel eine Einmarkmarke. -hier hast Du eine Mark! - Geben Sie ihm lieber zwei! -sie erhöhen das Porto längeren Zeitabständen...
+20010507 -- Was?! Eine "Eins Minus"? Aber...wieso? Tja-sozusagen einen Millimeter ander Eins vorbei-Du hast "Millimeter" mit nur einem "l" geschrieben. - Aber das ist völlig unmöglich! Ich bin doch nicht blöde! Hier-bitte. Aha! Das erklärt natürlich
+20010507 -- alles! Sind Sie blind? - Ich hab' aus Versehen die beiden "l" übereinander geschrieben!
 20010516 -- Wo...wo bin ich? Wer sind Sie? Was wollen Sie? Was will ich? Wer bin ich? Was bin ich? Was geht hier vor? Und warum? Oh je... Nu' isses passiert! - Sie müssen sich doch an irgendwas erinnern! Versuchen Sie es! Diese kleien bunten Dinger da
 20010516 -- hab ich schon mal gesehen... Hier! Nehmen Sie eine!! - Geben Sie mir zwei! Das muss ich auch Trude unbedingt schreiben!
 20010706 -- Was ist passiert? Öh-ich glaube, wir sind auf Grund gelaufen... - Herrgott-kannst Du denn nicht mal zwei Minuten den Kurs halten? -immer auf den Leuchtturm zu hab ich gesagt! Welcher Leuchtturm? -
@@ -789,6 +793,7 @@
 20210320 -- Halt! Ich bin die Stop-and-Go-Fee, und Du darfst Dir was wünschen! - Ich würde gerne natürlicher wirken! -
 20210319 -- Was soll das werden? Ins Wasser schubsen? Hahaha! Ich zeigs Dir! Hnnch! - Also-nach rechts schauen, ob keiner kommt, nach links schauen, ob keiner kommt und dann... - Ey-nicht von der Seite reinspringen!
 20210412 -- Eine Feuerstelle auf der Liegewiese! Leergut im Becken! Die haben hier Party gemacht! - Wenn ich die erwische! Die erwischen wir! - Einer ist nach dem Pinkeln vom Zehner oben eingepennt.
+20210415 -- Ist das ei KAmpfhund? Nicht mehr! * HRRR... - Wir haben beim Hundeflüsterer einen Kurs gemacht! waffwaffwaffwaffwaff!! - "Gewaltlose Deeskalation".
 20210416 -- Eineeinemarkmarke!! Hu! Sund wir heute mit dem falschen Fuss aufgestanden? - Ich habe keinen falschen Fuss! Das ist alles noch original! - Ich hab nur mal wieder den falschen Planeten betreten!
 20210430 -- Aaah! Was ist da?! Kabel! - Papa kauft einen 3-D-Drucker! Und ich druck dann, was ich träume! In 3-D!! Ist das nicht irre? Wahnsinn. - chrrr...
 20210504 -- Willkommen im 21- Jahrhundert! ? Ich hab den Föhn optimiert! Augenblick... - WUUUH! - Autonomes Föhnen hat keine Zukunft!
@@ -1038,3 +1043,5 @@
 20230117 -- Hier! Hab ich im Keller gefunden! Von Uropa-Erwin-der-Herr-hab-ihn-selig! Was ist das? - Schnupftabal! Das ist gegen Schnupfen. Das tut man sich in die Nase. Und dann? - Wo ist Deine Schwester? Im Bad.
 20230118 -- Oje, da ist wieder diese sbösartige Hündchen. * HRRRR... Hanni Nanni - Eine Quietschewurst! Geniale Idee! Äh...mit Senf...? - Vertrauen ist gut, Sekundenkleber ist besser! * * *
 20230119 -- Mein Papa ist Anwalt! - Er sagt, Du musst uns auch in die Buddelkiste lassen! Hier ist seine Karte! - Was hat er verschluckt? Die Karte eines Sandschäufelchenherstellers!
+20230120 -- POST Sind Sie im Einsatz? * chrrr... Sie haben eine Helm auf! - Ach so! Nö, ich weiss nur nicht, wohin damit. chrrr... - Eildepesche! Eineeinemarkmarke! Und schnell! Ich hab da draussen den Motor von meinem E-Bike laufen!
+20230121 -- Geht es Ihnen eigentlich auch so, dass Sie gewissen Leuten gerne mal so richtig in den Arsch treten würden? - Hahaha! Und ob! Und es werden jeden Tag mehr! - Sehen Sie, und dazu brauchen Sie unbedingt eine neue Hüfte!
