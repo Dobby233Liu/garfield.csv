@@ -17121,3 +17121,4 @@ ga230118 -- "Dear Ask a Dog, why does my dog stare at something that isn't there
 ga230119 -- Let me tell you about this amazing 12-course meal that I just ate. - To make a long story short... - BURP!
 ga230120 -- Liz, what do you like to do today? - Something exciting! You got it! - I gues we WON'T be sorting socks today. WHAT?!
 ga230121 -- Wait, what was I going to do? I was going to do SOMETHING... - Of course! - When in doubt, do nothing.
+ga230122 -- - - - - - - Jon, is it my imagination or are you getting better looking?

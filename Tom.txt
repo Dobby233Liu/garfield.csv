@@ -224,6 +224,7 @@
 19951222 -- Briefmark POSTBANK - Na gut... Fröhliche Weihnachten! ** - Hämorrhoidensalbe... Stützstrümpfe!
 19951223 -- Jingle-Bells ** Jigle-Bells ** RRHH!! - Einmal weg-weit weg! Egal wohin...äh...sagen wir...genau? Zentralafrika! Wann? Sofort! DM 5.478,50 - JUNGLE-BELLS ** * JUNGLE-BELLS
 19951227 -- Also, Erwin und ich, wir sprechen das immer ab mit den Geschenken... - Dieses Jahr hat er mir diese suuuperteuren Pariser Seidenstrümpfe geschenkt! ** - Und Du ihm? 'ne Nagelfeile.
+19951228 -- Sommer 96 Verzeihung. - Wo kann ich denn hier mein Weihnachtsgeschenk umtauschen? Sehen Sie die beiden Schlangen da hinten? - Krawatten rechts-Kölnisch Wasser links.
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -448,6 +449,8 @@
 20070303 -- der Blödzeitung? ...aha! Bleib, wo Du bist! Du hast gestern in der Sauna unsere Brillen vertauscht!
 20070308 -- Von uns Kindern bekommt Papa zum Fünfzigsten ein Navigationsgerät für seinen neuen Flitzer. - Damit er auch mal alleine Rumbrettern kann. Und von Mutti bekommt er die Stimme dazu. Süss! Nach der nächsten Ampel bei der ersten Möglichkeit
 20070308 -- rechts abbiegen... - ...äh...links.
+20070327 -- Ähm-hallo? Sie erinnern sich? Eineienemarkmarke? Dauerts noch lange? Es dauert so lange, wie es dauert! - Ach so, ja, natürlich. Welch törichte Frage! Und ausserdem geht es ja sowieso meistens schneller, als man denkt! Ganz genau! - Nehmen
+20070327 -- wir meinen Kragen. Der war auf den ersten Blick: unplatzbar...
 20070407 -- Fröhliche Ostern! Hast Du Feuer? Aah! Ralf! Äh...nein. Kein Feuer. Nimm den Gasherd...aber ich dachte, Du rauchst nicht... - Ein Wort und ich streich Dir die Eier! - Mama! Mama! Der Hamster raucht!
 20070511 -- Wir kriegen ja jetzt auch ein Internet... Ah ja? Fein. - Ja, ich hab einfach mal so ein DSL bestellt. Sehr gut. Wie schnell? - Oh-wir warten erst 4 Wochen...
 20070615 -- Po... ...stlag... ...ernd. Postlagernd! - Was heisst Postlagernd? Nun... - Schlafsack und Verpflegung mitbringen.
@@ -1045,3 +1048,4 @@
 20230119 -- Mein Papa ist Anwalt! - Er sagt, Du musst uns auch in die Buddelkiste lassen! Hier ist seine Karte! - Was hat er verschluckt? Die Karte eines Sandschäufelchenherstellers!
 20230120 -- POST Sind Sie im Einsatz? * chrrr... Sie haben eine Helm auf! - Ach so! Nö, ich weiss nur nicht, wohin damit. chrrr... - Eildepesche! Eineeinemarkmarke! Und schnell! Ich hab da draussen den Motor von meinem E-Bike laufen!
 20230121 -- Geht es Ihnen eigentlich auch so, dass Sie gewissen Leuten gerne mal so richtig in den Arsch treten würden? - Hahaha! Und ob! Und es werden jeden Tag mehr! - Sehen Sie, und dazu brauchen Sie unbedingt eine neue Hüfte!
+20230122 -- Schwimmen ist fantastisch! Da fühle ich mich immer so leicht, so schwerelos! - Als of ich fliege! - Nicht zu tief fliegen, ich hab gleich Feierabend!
