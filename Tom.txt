@@ -225,6 +225,7 @@
 19951223 -- Jingle-Bells ** Jigle-Bells ** RRHH!! - Einmal weg-weit weg! Egal wohin...äh...sagen wir...genau? Zentralafrika! Wann? Sofort! DM 5.478,50 - JUNGLE-BELLS ** * JUNGLE-BELLS
 19951227 -- Also, Erwin und ich, wir sprechen das immer ab mit den Geschenken... - Dieses Jahr hat er mir diese suuuperteuren Pariser Seidenstrümpfe geschenkt! ** - Und Du ihm? 'ne Nagelfeile.
 19951228 -- Sommer 96 Verzeihung. - Wo kann ich denn hier mein Weihnachtsgeschenk umtauschen? Sehen Sie die beiden Schlangen da hinten? - Krawatten rechts-Kölnisch Wasser links.
+19951229 -- Na, das wird ja 'ne traugige Silvesterparty: Dein Vater die Kniescheiben gebrochen, - Muttern die Hüften ausgerenkt, Dein grosser Bruder seit Weihnachten im Koma... - ...und ich darf Dir trotzdem bloss Knallerbsen verkaufen.
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -617,6 +618,8 @@
 20140730 -- Der Fahrstuhl ist defekt. Viel Spass! - Können Sie uns mitnehmen? GUCKSTDU CLEAN Eigentlich nicht. Aber...? - Hanni Nanni
 20140813 -- Ich hab' Dir eine Sicherheitskarte und ein Duty-Free-Magazin in die Hosentasche gesteckt! Jetzt fühl' ich mich fast wie im Flugzeug! - Ey! Das war rot, Du Maulwurf! - Hä? Warum ist das so feucht? Das liegt an dem "fast". Ich hab' die Kotztüte
 20140813 -- vergessen.
+20140814 -- Dann bräuchte ich noch Ihren Ausweis. Meinen Ausweis. Ach ja. Eben hatte ich den doch noch...ich hatte ihn extra...ich bin ganz sicher... Oh Gott, ich muss ihn verloren haben! Bin gleich wieder da! - Hier. Lag da. Der Ausweis! Wieso haben Sie
+20440814 -- nichts gesagt? - Ich hab' schon mal erlebt, wie lange die braucht, um sich zu bedanken.
 20140816 -- Das tut mir echt leid mit Ihren Pflanzen. Ich hab' die echt total viel gegossen! Ständig. Aber irgendwie kann ich mit denen nicht. - Am ärgsten tut mir der Gummibaum leid. Der sah so toll aus! Und jetzt ? Braun und labbrig... Dabei hab' ich
 20140816 -- mich um den am meisten gekümmert. - Der ist aus Plastik.
 20140825 -- Und Du lernst nachher schwimmen, Freundchen! Haha! Hören Sie auf! Sie sind doch gar nicht für mich zuständig! Sie sind doch der Schwimmeister. Ich bin aber Nichtschwimmer! - Für mich ist der Nichtschwimmermeister zuständig! - Der ist
