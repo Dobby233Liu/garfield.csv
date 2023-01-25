@@ -226,6 +226,9 @@
 19951227 -- Also, Erwin und ich, wir sprechen das immer ab mit den Geschenken... - Dieses Jahr hat er mir diese suuuperteuren Pariser Seidenstrümpfe geschenkt! ** - Und Du ihm? 'ne Nagelfeile.
 19951228 -- Sommer 96 Verzeihung. - Wo kann ich denn hier mein Weihnachtsgeschenk umtauschen? Sehen Sie die beiden Schlangen da hinten? - Krawatten rechts-Kölnisch Wasser links.
 19951229 -- Na, das wird ja 'ne traugige Silvesterparty: Dein Vater die Kniescheiben gebrochen, - Muttern die Hüften ausgerenkt, Dein grosser Bruder seit Weihnachten im Koma... - ...und ich darf Dir trotzdem bloss Knallerbsen verkaufen.
+19951230 -- Und? Nix! Knallerbsen! Was dickeres krieg ich nicht... - "Erbsen statt Böller". Pah! Piff! Hm... - Uuuund... GO! Frohes Neues!
+19960102 -- Frohes Neues! Frohes Neues, Chef! Na? Ordentlich reingefeiert? - He! Sie da! Und wie! Hoho! - Das lag hier im Whirlpool!
+19960103 -- Ein neues Jahr! Jungfräulich, rein und unbesudelt... - Was wird es uns bringen? - "Same procedure as every year"...
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -730,6 +733,8 @@
 20180404 -- Was ist los? Du bist heute so auffallend still... Ich glaub, ich hab 'n Burnout. Bretter da mal übers Kopfsteinpflaster! - Ah! ja! Gut! Geht wieder! - Ey! Abstand halten, Du Pimmelnase!
 20180410 -- Rasieren, bitte! Gerne. Stellen Sie Ihr Handy bitte auf Flugmodus! - Aber wir fliegen doch gar nicht! Und das wollen wir auch nicht. - Sie nicht, ich nicht und Ihre Nase nicht, Wenn Sie im falschen Moment Ihre Nachrichten checken!
 20180428 -- Hi, ich bin die danke-keinen-Kaffee-ich-muss-gleich-weiter-Fee, und Du darfst Die jetzt oder nie was wünschen! - Dann wünsche ich mir ein superlanges sorgenloses Leben! -
+20180502 -- Oh, wie ich diese Angeberburg hasse! Wir müssen sie endlich plattmachen! Aber wie? Er hat ein Schäufelchen! - Aufrüstung! Wir wuchten einen Baumstamm auf Omas Rollator, und schon haben wir eine Ramme! Nicht so laut! - Ich fürchte, er hat was
+20180502 -- gehört.
 20180509 -- Ich werde erpresst! Die haben mich gefilmt! Mit meinem eigenen Computer! In der Mail steht, wenn ich nicht bezahle, stellen sie den Film ins Internet! - Na und? Du machst doch keine peinlichen Sachen vor dem Computer. Oder? Horst? Horst! -
 20180509 -- Ich hab neulich heimlich versucht, Yoga zu machen! Bezahl!
 20180526 -- Hallo, ich bin die was-mach-ich-hier-eigentlich-noch-Fee, und Du darfst Dir was wünschen! Aber hurtig! - Respekt! Ich will Respekt! -
@@ -1051,4 +1056,5 @@
 20230119 -- Mein Papa ist Anwalt! - Er sagt, Du musst uns auch in die Buddelkiste lassen! Hier ist seine Karte! - Was hat er verschluckt? Die Karte eines Sandschäufelchenherstellers!
 20230120 -- POST Sind Sie im Einsatz? * chrrr... Sie haben eine Helm auf! - Ach so! Nö, ich weiss nur nicht, wohin damit. chrrr... - Eildepesche! Eineeinemarkmarke! Und schnell! Ich hab da draussen den Motor von meinem E-Bike laufen!
 20230121 -- Geht es Ihnen eigentlich auch so, dass Sie gewissen Leuten gerne mal so richtig in den Arsch treten würden? - Hahaha! Und ob! Und es werden jeden Tag mehr! - Sehen Sie, und dazu brauchen Sie unbedingt eine neue Hüfte!
-20230122 -- Schwimmen ist fantastisch! Da fühle ich mich immer so leicht, so schwerelos! - Als of ich fliege! - Nicht zu tief fliegen, ich hab gleich Feierabend!
+20230123 -- Schwimmen ist fantastisch! Da fühle ich mich immer so leicht, so schwerelos! - Als of ich fliege! - Nicht zu tief fliegen, ich hab gleich Feierabend!
+20230124 -- Weisst Du, was die Steinzeitmenschen früher gegessen haben? Mammuts? Genau! - Sie haben umgefallene Mammutbäume gesucht und haben dann die Rinde  abgeknabbert! ? - Die Kita will auf vegetarisches Essen umstellen.
