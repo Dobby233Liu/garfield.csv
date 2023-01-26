@@ -229,6 +229,7 @@
 19951230 -- Und? Nix! Knallerbsen! Was dickeres krieg ich nicht... - "Erbsen statt Böller". Pah! Piff! Hm... - Uuuund... GO! Frohes Neues!
 19960102 -- Frohes Neues! Frohes Neues, Chef! Na? Ordentlich reingefeiert? - He! Sie da! Und wie! Hoho! - Das lag hier im Whirlpool!
 19960103 -- Ein neues Jahr! Jungfräulich, rein und unbesudelt... - Was wird es uns bringen? - "Same procedure as every year"...
+19960104 -- Tss-'ne Tropfsteindecke! Wie romantisch! Pff... - Eine "Pizza Diavolo"! Haha! - tut mir leid-nur "Internationale Grillspezialitäten".
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -697,6 +698,8 @@
 20161025 -- noch mal ein halbes Stündchen aufs Ohr legen.
 20161124 -- Du warst beim Sport? Habt Ihr einen Babysitter? Ich mach jetzt Babysport! - Rennen mit Baby, Sit-Ups mit Baby und Babystemmen für die Muckis! Obwohl, ans Hantel ist er fast schon zu schwer! Haha! Wo ist denn der kleine Moppel? - Ich müsste
 20161124 -- nochmal in den Geräteraum.
+20161224 -- Fröhliche Weihnachten! Ich bin die Schöne-Bescherung.Fee und Sie dürfen sich was wünschen! Früher haben wir hier Weihnachten immer richtig gross gefeiert! Da war was los! - Ich wünschte, es wären alle Beteiligten noch mal hier! Aber nur die
+20161224 -- netten! -
 20170310 -- HA!! Hm...? Krieg ich ein Pferd? Ja, Schatz. - Juhu! Spinnst Du?! Du hast Ihr gerade einen Gaul versprochen! Ich? Niemals! Du hast "Ja, Schatz." gesagt! - Das gilt nicht. Dann hab ich nicht zugehört.
 20170420 -- Au! Au! Der beisst! Der beisst! Mein Bein! Mein Bein! Hast Du das Pfefferspray dabei? Nein! - Au! Dein Parfüm! Nimm Dein Parfüm! Au! Au! Rückzug! - Iiiih! Ich stink nach alte Tante!
 20170427 -- Wir beginnen sofort mit den Rodungsarbeiten! Siche rist sicher! Zu spät! Wir haben Post. - Oh neine! Welches ekelhafte Kroppzeug ist es diesmal? Der lila Juchenkäfer? Die rostige Hufeisennase oder der unrasierte Nacktmulch? Meine Tabletten!
@@ -1058,3 +1061,4 @@
 20230121 -- Geht es Ihnen eigentlich auch so, dass Sie gewissen Leuten gerne mal so richtig in den Arsch treten würden? - Hahaha! Und ob! Und es werden jeden Tag mehr! - Sehen Sie, und dazu brauchen Sie unbedingt eine neue Hüfte!
 20230123 -- Schwimmen ist fantastisch! Da fühle ich mich immer so leicht, so schwerelos! - Als of ich fliege! - Nicht zu tief fliegen, ich hab gleich Feierabend!
 20230124 -- Weisst Du, was die Steinzeitmenschen früher gegessen haben? Mammuts? Genau! - Sie haben umgefallene Mammutbäume gesucht und haben dann die Rinde  abgeknabbert! ? - Die Kita will auf vegetarisches Essen umstellen.
+20230125 -- Halt! Finger weg! Dieser Baum wird nicht umarmt! - Hier brüten Rotmilane! Ja und? Seh ich aus wie ein Windrad? - Bei uns im Dorf würden Sie Proteste auslösen.

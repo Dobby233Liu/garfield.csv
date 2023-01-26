@@ -10600,3 +10600,5 @@ dr230121 -- Hey, Norman! Will you bring me a root beer? - WHIRRRRRRRR - WHIRRR -
 dr230122 -- - - ? - Why did I come in this room? - Oh, yeah! To get my phone! - I feel like I'm losing my mind sometimes! - - Now, what did I want my phone for?
 dr230123 -- I like you, Bob! - You sit in the background and watch over our family without credit or recognition. - And you always seem perfectly content! - Actually, I've sent applications to "Blondie" and "Puxkles."
 dr230124 -- Poor Bob. - All he ever does is sit there and look confused. - You'd look so confused, too, if someone told you to sit on a perch and pretend you're a rare south american parrot. - Well, I didn't think he'd actually DO it!
+dr230125 -- Tell me again why we wanted Bob to pretend he's a rare South American parrot! - Because dad hated ducks. But now Dad KNOWS Bob is a duck! - But Mr. Steinbauer doesn't! He's the president of the Home-Owners Association! Oh! - It all makes
+dr230125 -- perfect sense to me now! That makes one of us!
