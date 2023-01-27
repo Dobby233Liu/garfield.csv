@@ -10602,3 +10602,5 @@ dr230123 -- I like you, Bob! - You sit in the background and watch over our fami
 dr230124 -- Poor Bob. - All he ever does is sit there and look confused. - You'd look so confused, too, if someone told you to sit on a perch and pretend you're a rare south american parrot. - Well, I didn't think he'd actually DO it!
 dr230125 -- Tell me again why we wanted Bob to pretend he's a rare South American parrot! - Because dad hated ducks. But now Dad KNOWS Bob is a duck! - But Mr. Steinbauer doesn't! He's the president of the Home-Owners Association! Oh! - It all makes
 dr230125 -- perfect sense to me now! That makes one of us!
+dr230126 -- Mr. Steinbauer is president of the H.O.A.! Ducks can't be pets in our neighborhood! NO DUCKS LIVE HERE - That's why we have to pretend Bob is a parrot! - If he knew Bob was a duck, he'd make us get rid of him! He wouldn't dare!! - Would he?
+dr230126 -- He just fined our neigbors because their snowman is too tall!

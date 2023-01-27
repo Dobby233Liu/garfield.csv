@@ -230,6 +230,7 @@
 19960102 -- Frohes Neues! Frohes Neues, Chef! Na? Ordentlich reingefeiert? - He! Sie da! Und wie! Hoho! - Das lag hier im Whirlpool!
 19960103 -- Ein neues Jahr! Jungfräulich, rein und unbesudelt... - Was wird es uns bringen? - "Same procedure as every year"...
 19960104 -- Tss-'ne Tropfsteindecke! Wie romantisch! Pff... - Eine "Pizza Diavolo"! Haha! - tut mir leid-nur "Internationale Grillspezialitäten".
+19960105 -- Auch 'ne Art, die Studentenzahlen zu senken... - Schau Dir die an! Denen schmeckts! Barbaren! wörks - Lebensmittelchemiker? Nix wie hin!
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -1062,3 +1063,4 @@
 20230123 -- Schwimmen ist fantastisch! Da fühle ich mich immer so leicht, so schwerelos! - Als of ich fliege! - Nicht zu tief fliegen, ich hab gleich Feierabend!
 20230124 -- Weisst Du, was die Steinzeitmenschen früher gegessen haben? Mammuts? Genau! - Sie haben umgefallene Mammutbäume gesucht und haben dann die Rinde  abgeknabbert! ? - Die Kita will auf vegetarisches Essen umstellen.
 20230125 -- Halt! Finger weg! Dieser Baum wird nicht umarmt! - Hier brüten Rotmilane! Ja und? Seh ich aus wie ein Windrad? - Bei uns im Dorf würden Sie Proteste auslösen.
+20230126 -- Den Baum berühren...den Baum spüren...eins werden mit... Halt! Warten Sie! - Warum? Brüten hier Rotmilane? Nein, aber da hinten, bei meiner Kollegin. - Könnten Sie bitte dort umarmen? Wir müssten da dringend ein paar Windräder bauen!
