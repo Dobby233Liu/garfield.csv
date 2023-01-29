@@ -232,6 +232,7 @@
 19960104 -- Tss-'ne Tropfsteindecke! Wie romantisch! Pff... - Eine "Pizza Diavolo"! Haha! - tut mir leid-nur "Internationale Grillspezialitäten".
 19960105 -- Auch 'ne Art, die Studentenzahlen zu senken... - Schau Dir die an! Denen schmeckts! Barbaren! wörks - Lebensmittelchemiker? Nix wie hin!
 19960106 -- Schau nur, Maria! Räucherkerzen! Duftharz! Und gelbe Metallstücke!! * Toll! - ...in 36 Monatsraten... - ...und den Esel als Anzahlung!
+19960108 -- Komm' schon! Lass' den Mann in Ruhe! - Wir sollten einen Arzt rufen!... Es gibt hier sowas wie Religionsfreiheit... - Die Hefte waren zwei Monate alt...
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -759,6 +760,7 @@
 20180829 -- oder? Geben Sie mir noch eine Tüte! Avocado kann er nicht.
 20180908 -- Ey-Ihr da! Wenn Ihr dringend kacken, kochen oder Kinder machen müsst: Da drüben ist ein Lüdl, die haben einen Riesenparkplatz! - Dann müsst Ihr Eure stinkende Beziehungskiste nicht auf dem Radweg abstellen, Ihr Elchaufkleber! - Du wolltest
 20180908 -- heute doch keine Leute anbrüllen! Ich musste! Das war mein erstes Wohnmobil!
+20180914 -- Kalorien zählen, Kalorien zählen, Kalorien zählen! Alle anderen Diäten sind gegen den Wind gepisst! - Zu kompliziert. Horst braucht was einfaches! Zählen! Zählen! Zählen! - Was gibts zu essen? Junge Erbsen
 20180920 -- Heute ist Weltkindertag! Wow, ja! Stimmt! - Was wollen wir machen? Wir?! Also, ich geh mich amüsieren! Und wir? Ihr nicht. - Ihr müsst Kinder machen.
 20180925 -- Rasieren! Aber vorsichtig! Wenn Du mich schneidest, brauchst Du keine Herrentoilette mehr. Ich halte eine 38er auf Deinen Schritt gerichtet! - Herzlich willkommen im 21. Jahrhundert! - Es gibt jetzt Unisex-Toiletten, und beim Pinkeln trage
 20180925 -- ich Ihre Sonnenbrille!
@@ -1073,3 +1075,5 @@
 20230126 -- Den Baum berühren...den Baum spüren...eins werden mit... Halt! Warten Sie! - Warum? Brüten hier Rotmilane? Nein, aber da hinten, bei meiner Kollegin. - Könnten Sie bitte dort umarmen? Wir müssten da dringend ein paar Windräder bauen!
 20230127 -- Ich bin krank! Mir ist so heiss! Haben Sie ein Fieberthermometer? Hahaha! Nein. Schulz! - Aber es gibt sicher eine App für das neue ÜPhone! * - Vorsichtig einführen, den Wert in der Cloud ablesen... ...und gleich mit Gewertung in den
 20230127 -- höllischen Netzwerken teilen!
+20230128 -- Können wir bei dem Scheisswetter nicht wie ganz normale Leute mit einem Klotzauto zur Kita fahren? Nein. - Wir packen uns lieber gut ein und haben ein gutes Gewissen! - He, schaut mal! Die Wertstofftonne macht Betriebsausflug! * Da drüben ist
+20230128 -- ein Taxi!
