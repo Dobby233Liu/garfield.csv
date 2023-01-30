@@ -233,6 +233,7 @@
 19960105 -- Auch 'ne Art, die Studentenzahlen zu senken... - Schau Dir die an! Denen schmeckts! Barbaren! wörks - Lebensmittelchemiker? Nix wie hin!
 19960106 -- Schau nur, Maria! Räucherkerzen! Duftharz! Und gelbe Metallstücke!! * Toll! - ...in 36 Monatsraten... - ...und den Esel als Anzahlung!
 19960108 -- Komm' schon! Lass' den Mann in Ruhe! - Wir sollten einen Arzt rufen!... Es gibt hier sowas wie Religionsfreiheit... - Die Hefte waren zwei Monate alt...
+19960109 -- Ja, die meisten Herren machens schon im Stehen...auch in den Kabinen... - Nö, das is' nich' so schlimm-die paar Tröpfchen-schlimm is'...* danke... - Schlimm is', wenn wenn sie nicht mehr richtig stehen können...
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -295,6 +296,7 @@
 19990625 -- Süsse Marken POSTBANK chrrr...pfff...chrrr... - AUF! - Ah-es geht doch nichts über eine solide Schulerziehung...!
 19990709 -- Oooh-'ne Schildkröte!! -is' die süüüüüs... Bisschen schüchtern, was? - Darf ich sie mal streicheln? Wie denn? - Zum Doc
 19990801 -- Wir waren einmal die schärfste Männer-WG diesseits der Berge.. - *** - ...und das sind wir heute noch! Doch das ist eine andere Geschichte...
+19990925 -- - Mein Gott-nu nimm doch die Finger! - Der Hund wird zu fett...
 19991231 -- Was machste denn so Kuhaugen? Kennste noch nicht? Man muss sich beim Anstossen in die Augen schauen-sonst hat man 7 Jahre schlechten Sex! - Haha! Is ja grossartig! - Endlich mal wieder Sex... * ping
 20000108 -- Ich kann nich' schlafen! Dann zähl' Schafe! -aber bitte leise!! - - Ich hab' Hunger...
 20000117 -- Ich will hie rnicht wohnen! Ich will wieder nach Hause! Ich bin ein Grossstadtkind! Ich hasse Landeier! Die riechen nach Kuh und reden komisch! *drrinng! Komme! Knödlingen ist kein Dorf sondern Kreisstadt! Hier sind viel weniger Autos... -
@@ -585,7 +587,9 @@
 20120519 -- DR.SPECHT IST EIN DOFER LEHRER UND WIR WISSEN WO ER WOHNT! ANONYMUS - Ey-Klöppi! Neben Deinem Graffiti an der Turnhalle hängt ein Zettel! - Anonymus hat eine signifikante Sauklaue, heisst Andreas Klöpke, und ich habe die Telefonnummer seiner
 20120519 -- Eltern. Dr. Specht
 20120609 -- Was tust Du?! - Ballast abwerfen! Ich befreie mich von diesem albernen Sport! Endlich! - Ich habe keine Lust mehr, meine Zeit mit zwei Stäben in den Händen zu verbringen! - 761 167
-20120707 -- Echt jetzt? Ich hab einen Wunsch frei? Egal was? Ja! Abe presto! - Ich hätte gern einen längeren! Hihi! Sie wissen schon! -
+20120707 -- Echt jetzt? Ich hab einen Wunsch frei? Egal was? Ja! Aber presto! - Ich hätte gern einen längeren! Hihi! Sie wissen schon! -
+20120713 -- Die Hölle. Wie trist. Oh-wir dekorieren gerade um. Wir haben wechselnde Themenwochen. Sehr abwechslungsreich! - Das nächste Thema heisst "durch deutsche Lande." Wie schön! Was wollen Sie zeigen? Fachwerkhäuser? Biergärten? Felder, Wälder,
+20120713 -- Wiesen? Berge? Blühende Landschaften? - Ich dachte an Solarzellen.
 20120918 -- Ich will nicht zu den hyperaktiven verhaltensgestörten Minimachos und den überkandidelten Heulsusen-Prinzessinen Mit Blödmann-Eltern! Aber da sind doch auch ganz viele nette andere Kinder. - Die sind alle doof wie nasser Torfsoden oder
 20120918 -- platzen bald, weil ihre Eltern sie mit Mist vollstopfen! Moment! - Ist Deine Mama Lehererin? Nein! Sie ist Burnout!
 20121010 -- Nur Waschen und Föhnen, bitte. Ich hab sie gerade erst schneiden lassen. Im Urlaub. Ich weiss. - Sieht man sofort. Der Profi nennt das "I.N.S.". "I.N.S."? Internationaler Norm Schnitt? - Irrer neuseeländischer Schafscherer.
@@ -632,7 +636,7 @@
 20140813 -- Ich hab' Dir eine Sicherheitskarte und ein Duty-Free-Magazin in die Hosentasche gesteckt! Jetzt fühl' ich mich fast wie im Flugzeug! - Ey! Das war rot, Du Maulwurf! - Hä? Warum ist das so feucht? Das liegt an dem "fast". Ich hab' die Kotztüte
 20140813 -- vergessen.
 20140814 -- Dann bräuchte ich noch Ihren Ausweis. Meinen Ausweis. Ach ja. Eben hatte ich den doch noch...ich hatte ihn extra...ich bin ganz sicher... Oh Gott, ich muss ihn verloren haben! Bin gleich wieder da! - Hier. Lag da. Der Ausweis! Wieso haben Sie
-20440814 -- nichts gesagt? - Ich hab' schon mal erlebt, wie lange die braucht, um sich zu bedanken.
+20140814 -- nichts gesagt? - Ich hab' schon mal erlebt, wie lange die braucht, um sich zu bedanken.
 20140816 -- Das tut mir echt leid mit Ihren Pflanzen. Ich hab' die echt total viel gegossen! Ständig. Aber irgendwie kann ich mit denen nicht. - Am ärgsten tut mir der Gummibaum leid. Der sah so toll aus! Und jetzt ? Braun und labbrig... Dabei hab' ich
 20140816 -- mich um den am meisten gekümmert. - Der ist aus Plastik.
 20140825 -- Und Du lernst nachher schwimmen, Freundchen! Haha! Hören Sie auf! Sie sind doch gar nicht für mich zuständig! Sie sind doch der Schwimmeister. Ich bin aber Nichtschwimmer! - Für mich ist der Nichtschwimmermeister zuständig! - Der ist
@@ -661,6 +665,7 @@
 20150513 -- Häkeln ist für mich Abenteuer. Laternen Umhäkeln finde ich öde. Ich brauch den Kick! - Dann warst Du das mit der Gorillaschaukel im Zoo? Du bist wahnsinnig! Du musst sehr leise und sehr schnell sein. Ich plane bereits grösseres! - *
 20150520 -- Bongschur! Lammuhr! Im Supermarkt ist französische Woche! Na, wie seh ich aus? - Fast wie ein waschechter Franzose. Die tragen allerdings das Brot in der Hand. - Dann wird es in der Mitte nicht weich.
 20150608 -- Ja, er sieht scheisse aus. Aber tanzen kann er, Hammer! Einfach überirdisch! Der?! Eine Körperbeherrschung! Eine Wendigkeit! Wahnsinn! - Der wird irgendwo trainieren. Aber wo? Mit wem? -
+20150615 -- He! Kannst Du überhaupt schwimmen? Was?! Brustschwimmen! Kannst Du Brustschwimmen? - Ich hab doch noch keine! KAnnst Du dann wenigstens Kraulen? Klaro! Na, das will ich sehen! -
 20150822 -- Hallihallo! Ich bin die flinke Fee und hätte noch einen schnellen Wunsch zu vergeben. Geil! - Ich wär gern wahnsinnig intelligent! - Igor! Bring mir das grosse! Das quetschen wir rein. Das setzt sich noch.
 20150915 -- Der Laden hat was. Ich steh auf Retro. Was allerdings Ihr äußeres Erscheinungsbild anbelangt... - Glauben Sie mir, ich wäre gern mephistotelischer. Aber nach vier Jahren Grundausbildung in einem Kasperletheater? - Ich hab mir das erstbeste
 20150915 -- Outfit gegriffen, das unten zu war!

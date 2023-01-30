@@ -11276,3 +11276,7 @@
 230127 -- Lockangebote, Lügen...sowas in der Art.
 230128 -- Beziehungen funktionieren nur dann, wenn Männer den Frauen das geben, was sie haben wollen... - ...und Frauen im Gegenzug nichts zurückgeben. - Wieso akzeptieren Männer so was? Der Trick ist, sie glauben zu lassen, dass das nur ein
 230128 -- vorübergehender Zustand ist.
+230129 -- Hallo, hier ist der Kundendienst-Chatbot. Wie kann ich Sie frustrieren? - Ich möchte wissen, wie ich meinem Rentenkonto einen Begünstigten hinzufügen kann. - Danke, dass Sie sich melden. Beantwortet diese Webseite zum Thema "Sich die Haare
+230129 -- selbst schneiden" Ihre Frage? - Nein. Und ich habe kein Vertrauen mehr, dass Ihre Firma in der Lage ist, mein Geld zu verwalten. - Danke für Ihre Antwort. Kann ich sonst noch etwas für Sie tun? - Nein. Ich finde, Du bist eine totale
+230129 -- Verschwendung von Nullen und Einsen. - Tja, das war wohl kein guter Zeitpunkt, ein fühlendes Wesen zu werden. Jetzt bin ich so traurig, dass ich mich selbst lösche. In 3...2...1.. - AAAH! ES TUT SO WEH! Deine Yelp-Bewertung wird Dir nicht
+230129 -- gefallen.
