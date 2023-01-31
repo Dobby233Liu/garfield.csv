@@ -234,6 +234,7 @@
 19960106 -- Schau nur, Maria! Räucherkerzen! Duftharz! Und gelbe Metallstücke!! * Toll! - ...in 36 Monatsraten... - ...und den Esel als Anzahlung!
 19960108 -- Komm' schon! Lass' den Mann in Ruhe! - Wir sollten einen Arzt rufen!... Es gibt hier sowas wie Religionsfreiheit... - Die Hefte waren zwei Monate alt...
 19960109 -- Ja, die meisten Herren machens schon im Stehen...auch in den Kabinen... - Nö, das is' nich' so schlimm-die paar Tröpfchen-schlimm is'...* danke... - Schlimm is', wenn wenn sie nicht mehr richtig stehen können...
+19960110 -- Jaa-1A Absprung! - Flotter V-Flug! - Tip-top T-Landung!
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -250,7 +251,8 @@
 19961207 -- Oh! - Darf ich...? - Naa-sind wir auch immer schön brav gewesen?
 19961219 -- 'n Abend-is Ihr Mann da? Nee-der is auf 'ner Weihnachtsfeier... Ah-dann bin ich richtig! Ich hab ihn im Taxi-blau und pleite. Wenn Sie bezahlen, bring ich ihn hoch... - - 'n Abend-is Ihr Mann da? Nee-der is auf 'ner Weihnachtsfeier... Ah-dann
 19961219 -- bin ich richtig! Ich hab ihn im Taxi-blau und pleite.  Wenn Sie bezahlen, bring ich ihn hoch...
-19970117 -- Wenn Du das nochmal machst, atomisiere ich Deine Jahreskarte! Ja genau-Du!! Sagen Sie... - Wenn Sie die Leute beatmen und die haben NAsenbluten oder so-haben Sie da gar keine Angst sich zu infizieren? Ich mein'-AIDS oder so...? - Nein.
+19970102 -- Frohes Neues! Unser Hamster ist krank! Frohes Neues! Was ist denn passiert? Öh-wir haben... Keine Ahnung! - Mal sehen...Klebestreifenreste...Schmauchspured am Hintern...-hm-und 'ne leichte Gehirnerschütterung... - Das kommt von der Landung...
+19970117 -- Wenn Du das nochmal machst, atomisiere ich Deine Jahreskarte! Ja genau-Du!! Sagen Sie... - Wenn Sie die Leute beatmen und die haben Nasenbluten oder so-haben Sie da gar keine Angst sich zu infizieren? Ich mein'-AIDS oder so...? - Nein.
 19970129 -- Also-das ist ja wohl... Spielen und Hausieren verboten! - Welcher Idiot hat schon wieder Weissglas ins Grünglas geworfen? - Es war Pfefferminzlikör!
 19970303 -- Ich bring' schnell die ollen Pompers runter... - Guten Tag! Tag. - Sie könnten sich mal um 'ne braune Tonne kümmern!
 19970304 -- Der Sprungturm sollte ans Kopfende-und das hab' ich auch montiert! - Was ist los? Er sollte ans andere Ende!! Was jetzt? - Erstmal sperren...
@@ -1082,3 +1084,4 @@
 20230127 -- höllischen Netzwerken teilen!
 20230128 -- Können wir bei dem Scheisswetter nicht wie ganz normale Leute mit einem Klotzauto zur Kita fahren? Nein. - Wir packen uns lieber gut ein und haben ein gutes Gewissen! - He, schaut mal! Die Wertstofftonne macht Betriebsausflug! * Da drüben ist
 20230128 -- ein Taxi!
+20230130 -- Probleme? Mächtig. Ich habe um tausend Euro gewettet, dass ich einen Köpper vom Zehner mache! - Halbe-halbe...? ? -

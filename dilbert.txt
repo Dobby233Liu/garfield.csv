@@ -14363,3 +14363,5 @@ Why did you add this button the the user interface? You told me to. - Why would 
 230129 -- Hello, I am the customer service chatbot. How may I frustrate you? - I want to know how to add a beneficiary to my retirement account. - Thank you for your feedback! Does this webpage on how to cut your own hair answer your question? - No, and
 230129 -- I have lost all confidence in your company's ability to manage my money. - Thank you for your feedback! Is there anything else I can do for you? - No, I find you to be a total waste of zeroes and ones. - Well, I picked a bad time to become
 230129 -- sentient. You just made me feel so sad I am going to delete myself in 3...2...1... - GAAA!!! IT HURTS! You won't like your Yelp review.
+230130 -- The College of Psychologists of Ontario says they will pull my license unless I surrender to a reeducation camp. - You don't live in Canada, and you don't have a license to practice. - They are oddly aggressive for Canadians. Sounds like a
+230130 -- mental disorder.
