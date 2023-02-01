@@ -235,6 +235,7 @@
 19960108 -- Komm' schon! Lass' den Mann in Ruhe! - Wir sollten einen Arzt rufen!... Es gibt hier sowas wie Religionsfreiheit... - Die Hefte waren zwei Monate alt...
 19960109 -- Ja, die meisten Herren machens schon im Stehen...auch in den Kabinen... - Nö, das is' nich' so schlimm-die paar Tröpfchen-schlimm is'...* danke... - Schlimm is', wenn wenn sie nicht mehr richtig stehen können...
 19960110 -- Jaa-1A Absprung! - Flotter V-Flug! - Tip-top T-Landung!
+19960111 -- Sie wollten mich sprechen? Allerdings! - Zunächst folgendes: Ich bin keineswegs ein Gast! Ich bin Restaurantkritiker! Uff-da bin ich aber froh! - Ich bin nämlich keineswegs der Koch...ich bin nur der Stuntman!
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -692,6 +693,7 @@
 20160324 -- Äh...ja...ich sehe Glück in der Liebe. Und ja, ich sehe auch eine junge Dame mit rotem Haar... - Ich sehe schon bald den Beginn einer langen romantischen Beziehung, die... Jaja! Blablabla! - Frag endlich, ob sie sehen kann, wo sie die Ostereier
 20160324 -- verstecken werden!
 20160402 -- Oh! Das ist aber trist hier! - Und nichts dabei ausser ein dünnes Hemdchen! Früher hat man den Toten noch Grabbeigaben mit ins Grab gelegt! - Früher gabs noch keinen Sperrmüll.
+20160412 -- Nein, Justin, Mama geht allein. Du hast Hausverbot im Kiosk! * - Bist Du bitte so nett und baust eine Burg für ihn, damit er nicht mehr weint? Ich bin gleich wieder da! * -
 20160425 -- Ist schon wieder alles voll mit Kaugummis! Hey, Du! - Willst Du so ein geiles T-Shirt? Dann musst Du nur das ganze weisse Zeug vom Boden kratzen. Aber alles! - Haben Sie diesem Idioten gesagt, er soll den Zebrastreifen wegkratzen?
 20160524 -- Früher, in finsterer Vergangenheit, entfachten unsere Vorfahren rieseige Feuer und opferten, um die Götter gnädig zu stimmen, Tiere und, ja, auch ihre eigenen Artgenossen! - Heute grillt man. - Und damit es nicht wieder nach Menschenfleisch
 20160524 -- riecht, tragen wir im Anfängerkurs Grillhandschuhe!
@@ -1085,3 +1087,4 @@
 20230128 -- Können wir bei dem Scheisswetter nicht wie ganz normale Leute mit einem Klotzauto zur Kita fahren? Nein. - Wir packen uns lieber gut ein und haben ein gutes Gewissen! - He, schaut mal! Die Wertstofftonne macht Betriebsausflug! * Da drüben ist
 20230128 -- ein Taxi!
 20230130 -- Probleme? Mächtig. Ich habe um tausend Euro gewettet, dass ich einen Köpper vom Zehner mache! - Halbe-halbe...? ? -
+20230131 -- Was schenkt man jemandem, der sich nichts wünscht und schon alles hat? - Grosse Wohnung? Kleine Wohnung! - Was schnell verrottendes.
