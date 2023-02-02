@@ -236,6 +236,7 @@
 19960109 -- Ja, die meisten Herren machens schon im Stehen...auch in den Kabinen... - Nö, das is' nich' so schlimm-die paar Tröpfchen-schlimm is'...* danke... - Schlimm is', wenn wenn sie nicht mehr richtig stehen können...
 19960110 -- Jaa-1A Absprung! - Flotter V-Flug! - Tip-top T-Landung!
 19960111 -- Sie wollten mich sprechen? Allerdings! - Zunächst folgendes: Ich bin keineswegs ein Gast! Ich bin Restaurantkritiker! Uff-da bin ich aber froh! - Ich bin nämlich keineswegs der Koch...ich bin nur der Stuntman!
+19960112 -- He! - Dieser kleine Bastard hat ins Kinderbecken gekackt!! Ich kümmer' mich drum.. - CHLOR
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -823,6 +824,7 @@
 20201114 -- Hi, ich bin die Hochgeschwindigkeitsfee, und Du darfst Dir was wünschen-jetzt! Äh... Ich würde gerne irgendwas richtig gut können! - Irgendwass. Irgendwas, aber richtig gut! Okay. - Oaaah...! Guuuuut...!
 20210119 -- ACHTUNG!! BAHN FREI!! - Brüll doch nicht so! Da ist doch keiner! Noch nicht! - Bei Deinem Tempo können die alle jetzt noch gemütlich loslaufen, um überfahren zu werden!
 20210128 -- Nun denn, wohl auf! Hinaus in die Welt und den Körper gestählt! - Meinst Du echt, ich kann so gehen? Ist das nicht zu eng im Schritt? Alles gut. - Die Welt ist hart im Nehmen.
+20210130 -- Sie müssen mir helfen! Horst geht es nicht gut! Ich bin kein Arzt. - Sie sprechen seine Sprache! Er muss sich bewegen! Was hat er? Zuviel durcheinandergetrunken! - Falsch betankt und dann noch Standschäden? Hallo Schrottpresse!
 20210320 -- Halt! Ich bin die Stop-and-Go-Fee, und Du darfst Dir was wünschen! - Ich würde gerne natürlicher wirken! -
 20210319 -- Was soll das werden? Ins Wasser schubsen? Hahaha! Ich zeigs Dir! Hnnch! - Also-nach rechts schauen, ob keiner kommt, nach links schauen, ob keiner kommt und dann... - Ey-nicht von der Seite reinspringen!
 20210412 -- Eine Feuerstelle auf der Liegewiese! Leergut im Becken! Die haben hier Party gemacht! - Wenn ich die erwische! Die erwischen wir! - Einer ist nach dem Pinkeln vom Zehner oben eingepennt.
@@ -1088,3 +1090,4 @@
 20230128 -- ein Taxi!
 20230130 -- Probleme? Mächtig. Ich habe um tausend Euro gewettet, dass ich einen Köpper vom Zehner mache! - Halbe-halbe...? ? -
 20230131 -- Was schenkt man jemandem, der sich nichts wünscht und schon alles hat? - Grosse Wohnung? Kleine Wohnung! - Was schnell verrottendes.
+20230201 -- Haptschi! * prööt... chrrr... chrrr... chrrr... - Haptschi! * prööt... chrrr... chrrr... chrrr... HALT! STOPP! AUS! -Herrgott!! Barbaren!! Das ist ein Cha-Cha-Cha! Mehr Schwung! Und die Bläser lauter! Nochmal!
