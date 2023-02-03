@@ -237,6 +237,7 @@
 19960110 -- Jaa-1A Absprung! - Flotter V-Flug! - Tip-top T-Landung!
 19960111 -- Sie wollten mich sprechen? Allerdings! - Zunächst folgendes: Ich bin keineswegs ein Gast! Ich bin Restaurantkritiker! Uff-da bin ich aber froh! - Ich bin nämlich keineswegs der Koch...ich bin nur der Stuntman!
 19960112 -- He! - Dieser kleine Bastard hat ins Kinderbecken gekackt!! Ich kümmer' mich drum.. - CHLOR
+19960113 -- * Schönen guten Tag! * Sie wünschen bitte` ** * ** * Wie? Was? - Äh-pff-geben Sie mir 'n paar Briefmarken... * * Von der Rolle? * - Klar! Wer rechnet denn mit sowas! ?
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -276,6 +277,7 @@
 19980218 -- rrrrrr... - rrrrr... **Tüdelüt** Ja? Hallo? - Und jetzt die Haare im anderen Ohr!
 19980402 -- ? Perfekt! Cool! Gigantisch! - Würden Sie mit uns "Titanic" spielen? -in einer Hauptrolle? Ich fühle mich geehrt... - Ein Eisberg! Rettet meinen Schmuck! Wir sinken!
 19980520 -- - Geh' da nicht so nah ran! ...das ist tief! - Quatsch! Nur stille Wasser sind tief!
+19980612 -- Aber nur 1 Bier! Mich muss mirgen früh raus... - Was gibts zu glotzen? Noch nie 'ne schöne Frau gesehen? Is' das hier 'n Knackitreffen, oder was? - Du stehst vorm Bildschirm... Tor!
 19980620 -- Hahahaa! - HahaHaa! - Hahahaa! **
 19980731 -- "Andrea"-"Andrea"!! -warum haben denn nun Hochs immer Männernamen... - ...und Tiefdruckgebiete Frauennamen? - -sie kommen öfter...
 19980805 -- -Anker lichten! -Maschinen volle Kraft voraus! -Steuer hart backbord! - -Alle Mann auf Kampfstation! -Luken dicht! -Alle Torpedos feuerbereit! -Angriffstiefe 90 Fuss! -
@@ -1091,3 +1093,5 @@
 20230130 -- Probleme? Mächtig. Ich habe um tausend Euro gewettet, dass ich einen Köpper vom Zehner mache! - Halbe-halbe...? ? -
 20230131 -- Was schenkt man jemandem, der sich nichts wünscht und schon alles hat? - Grosse Wohnung? Kleine Wohnung! - Was schnell verrottendes.
 20230201 -- Haptschi! * prööt... chrrr... chrrr... chrrr... - Haptschi! * prööt... chrrr... chrrr... chrrr... HALT! STOPP! AUS! -Herrgott!! Barbaren!! Das ist ein Cha-Cha-Cha! Mehr Schwung! Und die Bläser lauter! Nochmal!
+20230202 -- Ich hätte gerne mal was keckes! So ein paar farbliche Akzente vielleicht? Vielleicht...Strähnchen in Pink? - Auswurffarbene Rasta-Locken, einen Eimer rote Farbe über den Kopf... ...oder Birne rasieren und bunt tätowieren. - Alles kecker als
+20230202 -- Telekom-Strähnchen!
