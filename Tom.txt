@@ -238,6 +238,8 @@
 19960111 -- Sie wollten mich sprechen? Allerdings! - Zunächst folgendes: Ich bin keineswegs ein Gast! Ich bin Restaurantkritiker! Uff-da bin ich aber froh! - Ich bin nämlich keineswegs der Koch...ich bin nur der Stuntman!
 19960112 -- He! - Dieser kleine Bastard hat ins Kinderbecken gekackt!! Ich kümmer' mich drum.. - CHLOR
 19960113 -- * Schönen guten Tag! * Sie wünschen bitte` ** * ** * Wie? Was? - Äh-pff-geben Sie mir 'n paar Briefmarken... * * Von der Rolle? * - Klar! Wer rechnet denn mit sowas! ?
+19960115 -- * - - Danke... Ich ruf' sie an...
+19960116 -- Was gegen Motten...hm...haben Sie Kinder, Haustiere, Allergien? Und wie! Dann ist das nix... - Und was mach' ich jetzt? Bei "Qualle" zwei, drei Kaschmirmäntel bestellen... - ...dazuhängen und nach 14 Tagen Gebrauch vom Rückgaberecht machen...
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
@@ -509,6 +511,7 @@
 20080520 -- ** Palimpalim ** - Tür zu! - Ist gerade ungünstig. Mein Mann grillt. Auf dem Balkon.
 20080722 -- Ich bin eine alte Frau! Meine Beine sind krumm genug! Wie lange soll ich denn noch hier rumstehen? Für eine Marke! Das ist respektlos! Ich könnte Ihre Mutter sein! - Nein, das könnten Sie nicht. Mama war eine ausgesprochen höfliche, ruhige
 20080722 -- und geduldige Person! Duschmarken POST Auch wenn sie mit Ihnen Kinderpost spielen musste...?
+20080802 -- Wir halten uns an den Händen! Wir haben uns ganz doll lieb! Wir wollen zusammen einen schönen Urlaub verbringen! Wir wollen uns nicht streiten! Ja-woll! - So-und jetzt bringt jeder seine Sachen ins Auto, damit wir de Fähre noch bekommen! -
 20080816 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... Fühlen Sie ein aus der Tiefe des Stammes rührendes, immer stärker werdendes Vibrieren? - Ja! Eine sich aufbauende Energie? Ja!! ein sich Bündeln an einem Punkt? Ja!!! Einen
 20080816 -- enormen Drang nach aussen? Ja! Ja! Ja! - Dann lacht er sich einen Ast.
 20081108 -- Ja-ich bins. Wir sind gleich da. Setz schon mal das Nudelwasser auf. Ja. ** Bussi ** Wie haben die Leute sich früher schnell was wichtiges gesagt-ohne Telefone? - Mit Brieftauben. - Du hast eine SMS bekommen.
@@ -1095,3 +1098,6 @@
 20230201 -- Haptschi! * prööt... chrrr... chrrr... chrrr... - Haptschi! * prööt... chrrr... chrrr... chrrr... HALT! STOPP! AUS! -Herrgott!! Barbaren!! Das ist ein Cha-Cha-Cha! Mehr Schwung! Und die Bläser lauter! Nochmal!
 20230202 -- Ich hätte gerne mal was keckes! So ein paar farbliche Akzente vielleicht? Vielleicht...Strähnchen in Pink? - Auswurffarbene Rasta-Locken, einen Eimer rote Farbe über den Kopf... ...oder Birne rasieren und bunt tätowieren. - Alles kecker als
 20230202 -- Telekom-Strähnchen!
+20230203 -- Kannst Du bitte mal aufhören, mit dem Füssen zu scharren! Das nervt! Ich hab Langeweile! - Und ich hab schlechte Laune! Wollen wir tauschen? Du kanns sicher viel besser schmollen als ich. - Und ich hab viel größere Füße!
+20230204 -- Hallo! Ich bin die Main-zweiter-Name-ist-Tschüssikowski-Fee, und Du darfst Dir ganz schnell noch was wünschen! - Oh-keie Angst, der tut nix! Das ist ein ganz braver, gell? Jetzt schaut er wieder so lieb! Was der jetzt wohl denkt? - "Ich hätte
+20230204 -- ihn fressen sollen, als ich noch meine Eier hatte!"
