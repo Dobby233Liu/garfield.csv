@@ -241,8 +241,10 @@
 19960115 -- * - - Danke... Ich ruf' sie an...
 19960116 -- Was gegen Motten...hm...haben Sie Kinder, Haustiere, Allergien? Und wie! Dann ist das nix... - Und was mach' ich jetzt? Bei "Qualle" zwei, drei Kaschmirmäntel bestellen... - ...dazuhängen und nach 14 Tagen Gebrauch vom Rückgaberecht machen...
 19960117 -- Mensch, Biggi!! Trudchen? - Gut siehste aus! Ja! Ich hab' meinen Körper neu entdeckt! Ich mach' jetzt Body-Shaping! - Oh...ich muss bloss die Beine rasieren...
+19960118 -- "Bio-Fit-All"-Die Kraft der zwei Lebern! -Jeden Tag ein Gläschen und Sie fühlen sich wie 20! Mal probieren, der Herr? - Wie 20? Danke-Einmal Stalingrad reicht... - 2 Liter, bitte!
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
+19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
 19960608 -- ...taufe ich Dich auf den Namen: "Mike Nelson"! - - My Lady...es ist ein U-Boot...
@@ -751,6 +753,7 @@
 20171104 -- Kürbissuppe! Aus dem Halloweenkürbis! - Den grossen, mit dem geschnitzten Gesicht? Das kann ich nicht essen! So künstlerisch wertvoll war der nicht. Hm-lecker! Den hat Andi Klöpke auf dem Kopf gehabt! - Muss ich den Arzt holen? Hol Pizza!
 20171111 -- Eine grosse Latte to go, bitte. Kaffee oder Kalauer? Was? Oh...Kaffee! Caffee Latte to go! - Gefroren?! - Pappbecher geht gar nicht!
 20171123 -- Hallo, komme Sie doch rein! Oh-wären Sie so nett, die Sachen aus dem Briefkasten mitzubringen? Gerne! - Eine Benachrichtigung. "Sendung beim Nachbarn abgegeben." Ich klingel mal! - Ein Klavier! Ein Klavier! **
+20171130 -- Ein koffeinfreier Espresso und ein kleiner Gruss aus der Küche, bitte sehr... Danke. - Das ist der leckerste koffeinfreie Espresso, den ich je getrunken habe! Ähm...was war der Gruss aus der Küche...? - Koffein.
 20180103 -- Und? Wie schmeckts? - Ist das ein Seniorenteller? Ist es zu wenig? - Schmeckt "Kannste vergessen"!
 20180120 -- Ich sehe einen schönen Mann in Ihr Leben treten... Ach ja? - Darf ich? Danke. Und ich sehe, dass Sie auch kürzlich Geburtstag hatten... Was? Woher...? Wie haben Sie das gemacht? - Ich versuche auch seit Tagen, jemandem meine Karte für das
 20180120 -- Hansi-Hintereisen-Konzert anzudrehen.

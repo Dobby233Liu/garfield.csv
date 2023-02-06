@@ -17135,3 +17135,4 @@ ga230201 -- Garfield... - Pizza is not a healthy breakfast. munch munch munch - 
 ga230202 -- What's the key to a successful diet? - Portion control. - Just one portion of food a day!
 ga230203 -- Jon, you've been sitting there a long time. - I bought an exercise bike. - Can't move your legs? Nope.
 ga230204 -- Look! Irma's Diner just expanded their menu. - They added three kinds of meatloaf... Cool. - Ooooh... And 23 kinds of bacon!
+ga230205 -- - - WAIT HERE FOR SURPRISE - - - - It's sure quiet around here today. Surprise!
