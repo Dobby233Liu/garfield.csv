@@ -242,6 +242,8 @@
 19960116 -- Was gegen Motten...hm...haben Sie Kinder, Haustiere, Allergien? Und wie! Dann ist das nix... - Und was mach' ich jetzt? Bei "Qualle" zwei, drei Kaschmirmäntel bestellen... - ...dazuhängen und nach 14 Tagen Gebrauch vom Rückgaberecht machen...
 19960117 -- Mensch, Biggi!! Trudchen? - Gut siehste aus! Ja! Ich hab' meinen Körper neu entdeckt! Ich mach' jetzt Body-Shaping! - Oh...ich muss bloss die Beine rasieren...
 19960118 -- "Bio-Fit-All"-Die Kraft der zwei Lebern! -Jeden Tag ein Gläschen und Sie fühlen sich wie 20! Mal probieren, der Herr? - Wie 20? Danke-Einmal Stalingrad reicht... - 2 Liter, bitte!
+19960219 -- ...und ganz zum Schluss noch nachzutragen, was ich am Karneval so schätz: Die Wahrhrit kann ich allen sagen und hab' ich Euch auch mal verletzt, - So weis sich, das könnt Ihr vertragen-wir haben schliesslich Faselnacht: Humor ist, wennman
+19960219 -- trotzdem lacht! -
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
@@ -666,6 +668,8 @@
 20141230 -- Schade, ich hätte ja gerne noch einen Jahresrückblick gesehen, Schulz! - Huch! Das ging jetzt aber schnell! Mehr war nicht dieses Jahr? - Die Vollidioten schneiden wir immer raus.
 20150212 -- Ach ja, Quotenfasching! Oh, pardon: Weiberfastnacht. Hellau, hellau! - Erschöpft? So viele Krawatten abgeschnitten? Krawatten? Kinderkram. - Bei Bärten und Kopfhörern muss man noch richtig flitzen!
 20150213 -- Fasching kommt von Faschismus! Lächerliche Klamotten und alberne Musik! Nicht mit mir! Gitti ist aber sauer, wenn wir nicht kommen! - Ich schau mir doch nicht den ganzen Abend besoffene Pappnasen an! Musst Du nicht. Du bekommst nur Schönes zu
+20150217 -- Hallo Baum! Ich hab einen tollen Film über Indonesien gesehen! In meinem nächsten Leben werde ich ein Orang-Utan! - Rote Haare hab ich schon! Und ich hab dann waaahnsinnig lange Arme! Das ist phantastisch! - Dann kann ich Bäume umarmen und
+20150217 -- mich dabei gleichzeitig gemütlich am Hintern kratzen!
 20150213 -- sehen, versprochen? - Hellauchen! Wie süss! Kommt rein. Hallo Horst! Licht an!
 20150313 -- Vielleicht sollte ich besser nicht mehr mit meiner Kreditkarte bezahlen. Nicht, daß irgendwer ein Bewegungsmuster von mir erstellt! - Muster? Eine Gerade ist kein Muster. - Zuhause-Bierladen-Zuhause-Bierladen...
 20150316 -- Du hast geblubbert! Was?! Du hast geblubbert! Ich hab nicht geblubbert! Ich hab es genau gehört! Ich blubbere nie! Ach ja? - Und in der Badewanne? Was?! Nein! Soso... Nochmal! -
@@ -1106,3 +1110,4 @@
 20230203 -- Kannst Du bitte mal aufhören, mit dem Füssen zu scharren! Das nervt! Ich hab Langeweile! - Und ich hab schlechte Laune! Wollen wir tauschen? Du kanns sicher viel besser schmollen als ich. - Und ich hab viel größere Füße!
 20230204 -- Hallo! Ich bin die Main-zweiter-Name-ist-Tschüssikowski-Fee, und Du darfst Dir ganz schnell noch was wünschen! - Oh-keie Angst, der tut nix! Das ist ein ganz braver, gell? Jetzt schaut er wieder so lieb! Was der jetzt wohl denkt? - "Ich hätte
 20230204 -- ihn fressen sollen, als ich noch meine Eier hatte!"
+20230206 -- Die Wasserqualität Ihres Planschbeckens ist hervorragend! Bestes Tafelwasser! - Wir haben die Reinigungsintervalle erhöht! Vorbildlich! - Wir schrubben sie jetzt grundsätzlich vorher ab! *
