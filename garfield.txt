@@ -17137,3 +17137,4 @@ ga230203 -- Jon, you've been sitting there a long time. - I bought an exercise b
 ga230204 -- Look! Irma's Diner just expanded their menu. - They added three kinds of meatloaf... Cool. - Ooooh... And 23 kinds of bacon!
 ga230205 -- - - WAIT HERE FOR SURPRISE - - - - It's sure quiet around here today. Surprise!
 ga230206 -- It's monday... - It's February, and it's hailing. tok tok tok tok tok tok tok tok tok tok tok tok tok tok tok - Three strikes and I'm out!
+ga230207 -- I'm always mindful of others. - - So I can avoid them.
