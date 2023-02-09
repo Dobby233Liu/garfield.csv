@@ -17138,3 +17138,4 @@ ga230204 -- Look! Irma's Diner just expanded their menu. - They added three kind
 ga230205 -- - - WAIT HERE FOR SURPRISE - - - - It's sure quiet around here today. Surprise!
 ga230206 -- It's monday... - It's February, and it's hailing. tok tok tok tok tok tok tok tok tok tok tok tok tok tok tok - Three strikes and I'm out!
 ga230207 -- I'm always mindful of others. - - So I can avoid them.
+ga230208 -- The following program contains strong language. - Meeowww! Meowr! Bark! Bark! Arf! Grr! - Meowrr! Grrwl! I can't believe they let that on TV!

@@ -244,6 +244,7 @@
 19960118 -- "Bio-Fit-All"-Die Kraft der zwei Lebern! -Jeden Tag ein Gläschen und Sie fühlen sich wie 20! Mal probieren, der Herr? - Wie 20? Danke-Einmal Stalingrad reicht... - 2 Liter, bitte!
 19960119 -- - Kitekat -
 19960120 -- Nu' komm' schon! ***** rrr!! - HAAAA! Keine Angst! Der tut nix... - Der rapt nur...
+19960121 -- Da draussen sitzen 300 besoffene Wurst- und Dosenfabrikanten! Hier ist ein Vertrag! - Und Sie, Sie werden jetzt mit Mr. Magic da rausgehen... - ...und diese verdammte Currywurst-Nummer machen!! 100 Jahre Dosenwurst
 19960219 -- ...und ganz zum Schluss noch nachzutragen, was ich am Karneval so schätz: Die Wahrhrit kann ich allen sagen und hab' ich Euch auch mal verletzt, - So weis sich, das könnt Ihr vertragen-wir haben schliesslich Faselnacht: Humor ist, wennman
 19960219 -- trotzdem lacht! -
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -255,6 +256,7 @@
 19960713 -- Fertig!!-Tiere? Was?! Dreck... Nix... Nix! Würmer! 20! - Krankheiten? Ich war von Anfan an dagegen "Stadt, Land Fluss" mit... Nix... Würmer! 20! - Stadt? Nix. Hmpf... Worms! 20!
 19960822 -- Markein allen Preisklassen Postbank Tüdelüt! ? - Herr Oberpostrat!... ...Ihre Mutter...verstehe...selbstverständlich... Eine Einemarkmarke...eilig...selbstverständlich... Wiederhörn. - Guten Tag! Ich bin meine Mutter!
 19960830 -- Alles Gute-Stop-Sauf nicht so viel-Stop-Gruss Frieda. Und der Empfänger? Pachulke... - Paula-Anton-Cäsar-Heinrich-Ulrich-Ludwig-Kaufmann-Emil. Is ja gut! Is ja gut! Ein Vorname reicht!
+19960902 -- Da! Dein Sohn hat sich heimlich tätowieren lassen! - Also-das ist ja wohl...das ist doch sündhaft teuer! - Wo hast Du das Geld her? * Kuttes Tatoo Shop Tel 2233 Ruf an!
 19961014 -- 1a Märkle POSTBANK CHRRR...PFFF...CHRRR - DRING! DRING! - Ein eine Mark Marke...
 19961028 -- GESPERRT! *** - He! Sie können doch nicht einfach die Leiter sperren! ** Do-och! Wie lange denn? Bis morgen früh! - Mist... 5m
 19961109 -- Dagsie! - Wohin? Ins Bett... - Zu Dir oder zu mir...?
@@ -340,6 +342,8 @@
 20010404 -- Soo-jetzt stellst Du Dich hier hin... - Und wenn Du dran bist, kaufst Du von dem Onkel eine Einmarkmarke. -hier hast Du eine Mark! - Geben Sie ihm lieber zwei! -sie erhöhen das Porto längeren Zeitabständen...
 20010507 -- Was?! Eine "Eins Minus"? Aber...wieso? Tja-sozusagen einen Millimeter ander Eins vorbei-Du hast "Millimeter" mit nur einem "l" geschrieben. - Aber das ist völlig unmöglich! Ich bin doch nicht blöde! Hier-bitte. Aha! Das erklärt natürlich
 20010507 -- alles! Sind Sie blind? - Ich hab' aus Versehen die beiden "l" übereinander geschrieben!
+20010512 -- Ufos! Ich sag' Ihnen, Chef, das waren Ufos! Die haben Treibstoff gebraucht und alles weggebeamt! Ich war bloss Zigaretten holen...naja...und'n Bier... - Das waren Die Ausserirdischen! Bestimmt! Ich meine...kein Mensch klaut 10 Tonnen Sand...
+20010512 -- - ...und lässt den LKW da!
 20010516 -- Wo...wo bin ich? Wer sind Sie? Was wollen Sie? Was will ich? Wer bin ich? Was bin ich? Was geht hier vor? Und warum? Oh je... Nu' isses passiert! - Sie müssen sich doch an irgendwas erinnern! Versuchen Sie es! Diese kleien bunten Dinger da
 20010516 -- hab ich schon mal gesehen... Hier! Nehmen Sie eine!! - Geben Sie mir zwei! Das muss ich auch Trude unbedingt schreiben!
 20010706 -- Was ist passiert? Öh-ich glaube, wir sind auf Grund gelaufen... - Herrgott-kannst Du denn nicht mal zwei Minuten den Kurs halten? -immer auf den Leuchtturm zu hab ich gesagt! Welcher Leuchtturm? -
@@ -1116,3 +1120,4 @@
 20230204 -- ihn fressen sollen, als ich noch meine Eier hatte!"
 20230206 -- Die Wasserqualität Ihres Planschbeckens ist hervorragend! Bestes Tafelwasser! - Wir haben die Reinigungsintervalle erhöht! Vorbildlich! - Wir schrubben sie jetzt grundsätzlich vorher ab! *
 20230207 -- Bevor wir loswalken, tun wir was für unsere Beinchen! Wir gehen in die grosse Schrittposition... - ...und dehnen! Halten...und jetzt die andere Seite! - Du hast überdehnt! Ich hab Dir doch gesagt, die Hose ist zu alt!
+20230208 -- Tolles Schloss! - Vielleicht öffnet ja ein Prinz und bitte um meine Hand! Oder um meine! Hahahahahaha! - ...und wenn Sie her halten könnten, dann kann ich oben den neuen Dübel anbringen.
