@@ -244,7 +244,16 @@
 19960118 -- "Bio-Fit-All"-Die Kraft der zwei Lebern! -Jeden Tag ein Gläschen und Sie fühlen sich wie 20! Mal probieren, der Herr? - Wie 20? Danke-Einmal Stalingrad reicht... - 2 Liter, bitte!
 19960119 -- - Kitekat -
 19960120 -- Nu' komm' schon! ***** rrr!! - HAAAA! Keine Angst! Der tut nix... - Der rapt nur...
-19960121 -- Da draussen sitzen 300 besoffene Wurst- und Dosenfabrikanten! Hier ist ein Vertrag! - Und Sie, Sie werden jetzt mit Mr. Magic da rausgehen... - ...und diese verdammte Currywurst-Nummer machen!! 100 Jahre Dosenwurst
+19960122 -- Da draussen sitzen 300 besoffene Wurst- und Dosenfabrikanten! Hier ist ein Vertrag! - Und Sie, Sie werden jetzt mit Mr. Magic da rausgehen... - ...und diese verdammte Currywurst-Nummer machen!! 100 Jahre Dosenwurst
+19960123 -- Streichholz! Streichholz! ? 'n Neuer! krchch... - Warum schämt sich der Mann? Hat er was böses getan? Nein-der hatte bloss doofe Eltern... "genant" kommt von geniessen und... hihi! Pff-was kann man dem schon weggucken... - Skifahren! Ich war
+19960123 -- Skifahren!
+19960124 -- Jetzt reichts! Wirf sofort diese Pestbeule da raus! Klar, Chef! - Zecke entfernt! Sehr gut! Probleme? Keine! Sehr gut! Das heisst... - Was mach' ich mit seine Klamotten?
+19960125 -- Wie lange hat sie das schon? Seit heute morgen. ...so frei... - Ich fühl' mich so frei...so...so unbeschwert! So...so sicher! Ich kann alles machen! Einfach alles! Alles! So frei... - Sagen Sie es ruhig, Herr Doktor...sie nimmt Drogen!
+19960125 -- Nein-nein. So sicher. Die neue "Always Ultra!"
+19960126 -- Einzelfegefeuer oder Gruppenfegefeuer? Öh-was empfehlen Sie? Naja-die Gruppendynamik ist der therapeutischen Effizienz nicht gerade förderlich... - "Geteiltes Leid ist halbes Leid" und so... Prima! Nehm' ich!! - Dafür gibt's keinen Fernseher
+19960126 -- und keine Minibar.
+19960127 -- Ich will bloss schnell 'n bisschen Geld abheben...könnt' ich...? Wer will das nicht...Schlussverkauf? Ja... Chrrr... - Schnäppchen? Ja! Einzelstück? Ja"" Gängige Grösse? Jajaja!!! Oh je...- Ich sollte Werbung für Kreditkarten machen...
+19960129 -- Ist es nicht wundervoll? - Das Bett ist Mist! Na und? - Du schläfst doch eh' vor der Glotze...
 19960219 -- ...und ganz zum Schluss noch nachzutragen, was ich am Karneval so schätz: Die Wahrhrit kann ich allen sagen und hab' ich Euch auch mal verletzt, - So weis sich, das könnt Ihr vertragen-wir haben schliesslich Faselnacht: Humor ist, wennman
 19960219 -- trotzdem lacht! -
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -268,11 +277,14 @@
 19970102 -- Frohes Neues! Unser Hamster ist krank! Frohes Neues! Was ist denn passiert? Öh-wir haben... Keine Ahnung! - Mal sehen...Klebestreifenreste...Schmauchspured am Hintern...-hm-und 'ne leichte Gehirnerschütterung... - Das kommt von der Landung...
 19970117 -- Wenn Du das nochmal machst, atomisiere ich Deine Jahreskarte! Ja genau-Du!! Sagen Sie... - Wenn Sie die Leute beatmen und die haben Nasenbluten oder so-haben Sie da gar keine Angst sich zu infizieren? Ich mein'-AIDS oder so...? - Nein.
 19970129 -- Also-das ist ja wohl... Spielen und Hausieren verboten! - Welcher Idiot hat schon wieder Weissglas ins Grünglas geworfen? - Es war Pfefferminzlikör!
+19970201 -- Also-Du bist ja nun langsam ein Mann und da ist es an der Zeit-äh-also, es gibt doch auch Mädchen, nicht wahr, als Frauen-und wenn die sich lieb haben... Die Frauen? - Nein! Die Männer! Quatsch! Herrgott, nu unterbrich mich doch nicht
+19970201 -- ständig! Der Mann und die Frau! ...öh...wo war ich? Ach ja: Also, dann legt sich der Mann...ehm...auf die Frau und äh... - Können wir das 19. Jahrhundert überspringen?
 19970303 -- Ich bring' schnell die ollen Pompers runter... - Guten Tag! Tag. - Sie könnten sich mal um 'ne braune Tonne kümmern!
 19970304 -- Der Sprungturm sollte ans Kopfende-und das hab' ich auch montiert! - Was ist los? Er sollte ans andere Ende!! Was jetzt? - Erstmal sperren...
 19970312 -- Oh-Du hast die Fenster geputzt... Gut! - Da sind noch Streifen! -
 19970409 -- Tag! -Eine Postkartenmarke! - Das heisst Briefmarke! - Das heisst schon wieder teurer...
 19970412 -- Hamm' Sie was verloren? Nein! - Kann ich Ihnen helfen? Ja! Stören Sie mich nicht! - Wenn ich den Start vergurke schaff ich die Grünphase nicht!
+19970502 -- Guten Tag-ich hätte gern ein Rad... - BMX-, Mountain-, Trekking-, City-, Beach-, Holland-, Bonanza-, Renn-, Klapp-, Ein-, Zwei-, Drei-, Liege-Rad oder was? - Eins für Vorne...
 19970503 -- Hoi-hoi! Der ist aber dick, Mann. Familienfotos... - Dann geb' ich Ihnen einen schöne, grosse, bunte Sondermarke... Es geschehen Zeiten und Wunder! - Uups-gaaanz knapp drüber-da muss dann wohl noch eine drauf!
 19970514 -- Augenblick, junger Mann! Kann ich mal sehen, was Sie da unterm Mantel haben? - Schon gut!-schon gut! - Da war so'n seltsamer Typ mit Mantel-hat der die Salami bezahlt?
 19970531 -- ...denn wie steht schon in 1. Petrus 5,7 geschrieben: "Alle Eure Sorgen werfet auf ihn: denn er sorgt für Euch" - Also, wenn die Seele mal zwackt: Gönnen Sie sich ruhig mal was und kippen Sie sich ordentlich einen hinter den Knorpel! Das
@@ -280,6 +292,8 @@
 19970618 -- Woher stammt also die Bezeichnung "Barbar"? -Einzer? Von den Bärten der wilden Männer des Nordens! - Sehr gut! -Was verstehen wir unter einem "Akt der Barbarei"? -Huschke? - Die Socken in den Sandalen der wilden Männer des Nordens...
 19970619 -- Also nee-mit der Marke kann ich den Brief nicht annehmen! Hab' ich noch 'ne ganze Kiste von... Die gilt nicht mehr...glücklicherweise! - Die Nationalhymne ist doch auch noch dieselbe! Aber ohne die erste Strophe! - Könnten Sie nicht das
 19970619 -- Bärtchen wegstempeln?
+19970701 -- Und? Wo solls hingehen? Was? Sie fahren doch sicher in Urlaub! - Ich frage mich, ob Postler sich gegenseitig Karten schicken... Wahrscheinlich zu viel "Arbeit"-obwohl... - Eine reicht ja... Lesen doch eh alle...
+19970801 -- Liebe Kinder! Das ist der böse Räuber! Wenn Ihr ihn seht-ruft mich sofort! - ** Dumdidumdidum * Guten Tag! Guten Tag... - Was denn-Räuber machen so was!
 19970926 -- DLRG - Verdammt...Maulsperre! - killekillekille
 19971023 -- Also: -Kasperle mit Patsch. -Auftritt Krokodil. -Kasperle: "Hahaa! etc. etc." -KAsperle vertrimmt Krokodil. -Abgang Krokodil. Alles klar? Hm. - Hahaa...he! Was zum...? - Memme!
 19971128 -- 'n Abend! Wir sind die neuen Nachbarn unten... Studenten, was? - Ja-wir feiern ein bisschen-falls es zu laut wird... Jaja-schon gut... - Dann kommense hoch und ich mach den Fernseher leiser...
@@ -311,6 +325,7 @@
 19990326 -- "Das Motiv"-ahem...Buch, ganz neu, liegt neben Bett aufgeregt! Wird sicher nett! Ist sich Kriminalroman! Noch ein Schlückchen, fange an: Moritat-hochinteressant! Detektiv-schlau und charmant! - Wer hat wen wann wie und wo? Noch ein
 19990326 -- Schluck-mit Buch zum Klo. Nach der Mitte: Ein Verdacht wer wen wann wo umgebracht. Drittes Viertel: Und auch wie! Nächste Seite:Alibi!! - Morgen graut.noch 3 Kapitel! Umgeblättert: wieder Titel?! Falsch gebunden! Ende fort! ...plane
 19990326 -- Druckermeuchelmord!
+19990331 -- Da-schau Dir den an! -eine Geschäftsidee -Patent drauf. - -in Fernost produzieren lassen -und abkassieren... Was verkauft er? ...Computerkram? - Leicht entflammbare US-Fahnen...
 19990625 -- Süsse Marken POSTBANK chrrr...pfff...chrrr... - AUF! - Ah-es geht doch nichts über eine solide Schulerziehung...!
 19990709 -- Oooh-'ne Schildkröte!! -is' die süüüüüs... Bisschen schüchtern, was? - Darf ich sie mal streicheln? Wie denn? - Zum Doc
 19990801 -- Wir waren einmal die schärfste Männer-WG diesseits der Berge.. - *** - ...und das sind wir heute noch! Doch das ist eine andere Geschichte...
@@ -340,6 +355,8 @@
 20010125 -- Marken fürs Leben! POSTBANK chrrr... chrrr... - BONK! AU! - Wenn ich jetzt sofort meine Marke kriege...sag ich, dass es ein Arbeitsunfall war...
 20010219 -- Platz da! Jetz' komm ich! - Ja! He?! - ?
 20010404 -- Soo-jetzt stellst Du Dich hier hin... - Und wenn Du dran bist, kaufst Du von dem Onkel eine Einmarkmarke. -hier hast Du eine Mark! - Geben Sie ihm lieber zwei! -sie erhöhen das Porto längeren Zeitabständen...
+20010407 -- Wo...wo bin ich? He! Sie sind doch... Nein, ich seh nur so aus. Also, diese Ähnlichkeit! Danke. - Verblüssend! Kaum zu gleuben! Wie ein Ei dem anderen! Nun ja... Wir bewegen uns auch sehr ähnlich-kennen Sie die Szene in "Der unsichtbare
+20010407 -- Dritte", wo... - "Der unsichtbare Dritte?" Oh! Ich dachte, es wären immer schon 4 Teletubbies gewesen...
 20010507 -- Was?! Eine "Eins Minus"? Aber...wieso? Tja-sozusagen einen Millimeter ander Eins vorbei-Du hast "Millimeter" mit nur einem "l" geschrieben. - Aber das ist völlig unmöglich! Ich bin doch nicht blöde! Hier-bitte. Aha! Das erklärt natürlich
 20010507 -- alles! Sind Sie blind? - Ich hab' aus Versehen die beiden "l" übereinander geschrieben!
 20010512 -- Ufos! Ich sag' Ihnen, Chef, das waren Ufos! Die haben Treibstoff gebraucht und alles weggebeamt! Ich war bloss Zigaretten holen...naja...und'n Bier... - Das waren Die Ausserirdischen! Bestimmt! Ich meine...kein Mensch klaut 10 Tonnen Sand...
@@ -1121,3 +1138,6 @@
 20230206 -- Die Wasserqualität Ihres Planschbeckens ist hervorragend! Bestes Tafelwasser! - Wir haben die Reinigungsintervalle erhöht! Vorbildlich! - Wir schrubben sie jetzt grundsätzlich vorher ab! *
 20230207 -- Bevor wir loswalken, tun wir was für unsere Beinchen! Wir gehen in die grosse Schrittposition... - ...und dehnen! Halten...und jetzt die andere Seite! - Du hast überdehnt! Ich hab Dir doch gesagt, die Hose ist zu alt!
 20230208 -- Tolles Schloss! - Vielleicht öffnet ja ein Prinz und bitte um meine Hand! Oder um meine! Hahahahahaha! - ...und wenn Sie her halten könnten, dann kann ich oben den neuen Dübel anbringen.
+20230209 -- Gütiger Himmel! Was ist das?! ? Dieses hässliche monströse Ding da drüben? - Du meinst dieses groteske unästhetische Monstrum für Verhaltensgestörte Soziopathen? Man nennt es "SUV". "SUV"? - "Sehr Unangenehme Verteidigungsanlage".
+20230210 -- Höllisch willkommen! Würden Sie die bitte aufsetzen? Wir arbeiten gerade mit virtueller Realität. - Das ist eine Taucherbrille! - War nicht meine Idee.
+20230211 -- Ich brauch eine Wärmflasche! Sofort! Ich hab kalte Füsse! - Sehr kalte Füsse? Sehr eiskalte Füsse! - Wir werden berühmt! Das ist der Durchbruch beim Energiesparen! PILS
