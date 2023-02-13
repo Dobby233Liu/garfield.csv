@@ -254,6 +254,9 @@
 19960126 -- und keine Minibar.
 19960127 -- Ich will bloss schnell 'n bisschen Geld abheben...könnt' ich...? Wer will das nicht...Schlussverkauf? Ja... Chrrr... - Schnäppchen? Ja! Einzelstück? Ja"" Gängige Grösse? Jajaja!!! Oh je...- Ich sollte Werbung für Kreditkarten machen...
 19960129 -- Ist es nicht wundervoll? - Das Bett ist Mist! Na und? - Du schläfst doch eh' vor der Glotze...
+19960130 -- Diese Schweine! 150000-nur um aus dieser Törtchen-Klitsche 'n anständiges Restaurant zumachen! Und jetzt das! - "Törtchenklitsche"? Das "Cafe Heideröschen" war hier drin... - Irgendwelche Hinweise? Mafia? Terroristen? Nix... Nur die 12
+19960130 -- Literflaschen Kölnisch Wasser...
+19961231 -- Junggeselle, was? Keine abgekriegt, oder hatte sie das Warten satt? - War ich gerade... - Der Kollege hat Wurst auf der Stulle!
 19960219 -- ...und ganz zum Schluss noch nachzutragen, was ich am Karneval so schätz: Die Wahrhrit kann ich allen sagen und hab' ich Euch auch mal verletzt, - So weis sich, das könnt Ihr vertragen-wir haben schliesslich Faselnacht: Humor ist, wennman
 19960219 -- trotzdem lacht! -
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -300,6 +303,7 @@
 19971227 -- "Omas Socken sind die besten!" -ich führ noch 'ne ganz heisse Nadel für mein Rheuma! Was haben Sie Ihren Enkeln geschenkt? - Geld. Geld auf dem Gabentisch? Wie stilloas... - Sie akzeptieren Kreditkarten...
 19980127 -- Was darf's sein, junge Frau? Zwei Schrippen von gestern, bitte! - Nu machense mal nicht so Kuhaugen.ich könnte mir auch locker frische leisten! Lohnt sich aber nicht... - Bis ich nach Hause gewackelt bin, sind die Dinger eh' steinhart...
 19980218 -- rrrrrr... - rrrrr... **Tüdelüt** Ja? Hallo? - Und jetzt die Haare im anderen Ohr!
+19980302 -- Seit 15 Jahren machen wir jetzt hier Urlaub-immer bei Pepe-fast schon Familie... - Dann lern ich endlich mal Spanisch.ich! -und was is? - Der Kerl ist ein kompletter Schwachkopf!
 19980402 -- ? Perfekt! Cool! Gigantisch! - Würden Sie mit uns "Titanic" spielen? -in einer Hauptrolle? Ich fühle mich geehrt... - Ein Eisberg! Rettet meinen Schmuck! Wir sinken!
 19980520 -- - Geh' da nicht so nah ran! ...das ist tief! - Quatsch! Nur stille Wasser sind tief!
 19980612 -- Aber nur 1 Bier! Mich muss mirgen früh raus... - Was gibts zu glotzen? Noch nie 'ne schöne Frau gesehen? Is' das hier 'n Knackitreffen, oder was? - Du stehst vorm Bildschirm... Tor!
@@ -641,6 +645,8 @@
 20130817 -- Hi! Ohje, ist das schon wieder spät. Okay...Sie haben, naja, sagen wir, einen Wunsch frei. Geil! - Ich will endlich mal einen Riesen Koffer voller Geld finden! - 
 20130831 -- Tust Du mir einen Gefallen? Ich dreh sas Steak gelich um. Du zählst einfach bis 200, und dann servierst Du es. Ich geh nur ein paar Biere wegbringen und holen. - Äh...Du kannst doch zählen? Mein zweiter Name ist Graf Zahl! Na super, bis
 20130831 -- gleich! - Alles okay! Ich hab aus Versehen bis 2000 gezählt. Aber kein Problem. Ich hab dann sofort wieder korrekt auf 200 zurückgezählt!
+20130907 -- Das Ding ist nagelneu! Und jetzt macht es seltsame Geräusche! ....brummt. Nein, der Stecker ist nicht drin! Herrgott, ich bin doch nicht doof! - Sie haben nicht aus Versehen Ihren Hamster...nein. Dann machen Sie das Gerät halt mal auf und
+20130907 -- schauen genau rein. Ich mach jetzt Mittag. Mahlzeit. Oh, hallo Schatz! Du bist schon zu Hause? Rate mal, wie ich das Wespenproblem gelöst habe!
 20130914 -- Hallihallo, ich hätte noch auf die Schnelle eien Wunsch zu vergeben. Wenns nix grosses ist. - Ich will endlich mal auf einen grünen Zweig kommen! -
 20130923 -- Flaschenpost?! ? - "Pullermannverlängerung? Rufen Sie an!" Spam! - Ich brauche das Geld! Und ich hab doch keine Computer!
 20131004 -- Oh-dieser Nebel! Baum...? Hallo Baum? Huhu? Ah-da bist Du ja! - Den Baum berühren...den Baum spüren...eins werden mit dem Baum. CUT! - Nein! Nein! Die Hexe erst in  Szene zwo! Herrgott, ich kann so nicht arbeiten!

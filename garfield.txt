@@ -17142,3 +17142,4 @@ ga230208 -- The following program contains strong language. - Meeowww! Meowr! Ba
 ga230209 -- Look! A mourning dove! - DONK! It hit the window! Let that be a lesson to you, kids... - :-( PING! Never text and fly.
 ga230210 -- The car won't start. - I cn't figure out what's wrong. - Have you considered it's to embarrassed to be seen with you?
 ga230211 -- There is no substitute for hard work. - - Said no cat ever.
+ga230212 -- - - - - - - It's been a long day. Tell me about it.

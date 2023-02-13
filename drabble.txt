@@ -10623,3 +10623,5 @@ dr230208 -- Norman, I can't believe you never won a trophy! - Not even for T-Bal
 dr230209 -- I didn't even win a participation trophy when I played peewee soccer! - I was the leading goal scorer on the team! - Don't tell me... - You scored them all in the wrong net? The coach still won't look at me when I see him around town!
 dr230210 -- I'm sorry you've never won a trophy, Norman! My luck could change tomorrow. - I'm hoping to be named Employee of the Week at the hardware store! - I think I have a really good chance. - I had the week off, so I didn't mess up anything!
 dr230211 -- I'm sorry you didn't win Emplyee of the Week, Norman. - Remember trophys and awards are overrated. - Easy for you to say. You've won 37 trophies! - Actually, some of them were just plaques.
+dr230212 -- I'm so happy it's Super Bowl Sunday! - Now, remember, football is a complicated game. - If you don't understand something, just ask me. - There is no such thing as a stupid question! - I have a question... - Why does Super Bowl Sunday always
+dr230212 -- seem to fall on a Sunday? - Dand, now I have to make more guacamole. I'll just google it.
