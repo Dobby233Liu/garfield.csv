@@ -257,6 +257,18 @@
 19960130 -- Diese Schweine! 150000-nur um aus dieser Törtchen-Klitsche 'n anständiges Restaurant zumachen! Und jetzt das! - "Törtchenklitsche"? Das "Cafe Heideröschen" war hier drin... - Irgendwelche Hinweise? Mafia? Terroristen? Nix... Nur die 12
 19960130 -- Literflaschen Kölnisch Wasser...
 19961231 -- Junggeselle, was? Keine abgekriegt, oder hatte sie das Warten satt? - War ich gerade... - Der Kollege hat Wurst auf der Stulle!
+19960201 -- Bist Du der DJ? -Hey! Schicker Body! LAtex? - Nur der Sound, Alter, der Sound...haut mich nicht um! Kein Problem. Schuuulz!! - 300 Beats per Minute.
+19960202 -- Verdammte Affenhitze! Alte Meckertante! Wochenlang haste zu Hause über die Kälte geschimpft! Was fährste überhaupt weg? Öfter mal was Neues...
+19960203 -- Und? Sitzen machen! - Schwein gehabt...wieso heisst das eigentlich "B-Test"? -typisch! So wie "B-Note"... Ich glaube, ,an nennt sowas "Inversion"... - B-Test kommt vor A-Test...
+19960205 -- Ich habe Kultur gemacht, mein Herr! Ich verlange den Olymp!! - Ich gab in Salzburg den "Jedermann"! ** JÖÖDÖRMAANN!! - Wollte nur keiner haben...
+19960206 -- ...erstreckte sich bis zur Befreiung da sGebiet der sogenannten "Ostmark",... - ...die wir seitdem unter welchem Namen kennen? - D-Mark.
+19960207 -- Argh! Scheisse! Schaeisse!! Scheisse!!! - Für die einen ist es Scheisse... - ...für die anderen doe längste Visitenkarte der Welt!
+19960208 -- Nee-nee! Bloss kein Rindfleisch! Jeden Tag musste er 'n Steak auf'm Teller haben, der Heinz, jeden Tag! Und jetzt, jetzt hat er auch den Alzheimer! - So ein Quatsch! Vom Rindfleisch kriegt man Rinderwahnsinn und nicht Alzheimer! -
+19960208 -- Doch-doch...Alzheimer! Kann mich nicht erinnern, warum ich ausgerechnet Dich eingestellt habe...
+19960209 -- Ich hab' schon mal bestellt... Was ist das? - Seafood, Sir! Oh... I see... - I see eight foot...
+19960210 -- Miese Schulnoten haben keine medizinischen Ursachen! Er is' so hippelig... - Naja, ich könnte ihm was verschreiben... - Kann ich selber!
+19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Wa sgetroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
+19960213 -- Ah! Da kommt der Herr Seeger! ...arbeitet im Sägewerk...war mein allererster Patient! - * Sinnggg! Sämtliche Finger ab! In 10 Minuten hatte ich alle wieder dran! Tag, Herr Seeger! - Tach Doktor!
 19960219 -- ...und ganz zum Schluss noch nachzutragen, was ich am Karneval so schätz: Die Wahrhrit kann ich allen sagen und hab' ich Euch auch mal verletzt, - So weis sich, das könnt Ihr vertragen-wir haben schliesslich Faselnacht: Humor ist, wennman
 19960219 -- trotzdem lacht! -
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -321,6 +333,7 @@
 19981212 -- "Manko"-ahem...diese Autos sind fantastisch durchzugskräftig und elastisch. Fahrwerk super (etwas tiefer). Farbton in metallic (schiefer). Servo, Niederquerschnittreifen. Ganz dezente Ralleystreifen. - Airbag, Klima, ABS. Bis zum Abwinken PS.
 19981212 -- - Fehlt noch für Schwarzbartherren Kleinhirnträgerwegfahrsperren!
 19990108 -- * - * - ***
+19990201 -- chrrr... - **** - Eineeinemarkmarke!
 19990306 -- Er hat die volle Winter-Lethargie-bewegt sich kaum noch-Vitamine nutzen nix-ich dachte, vielleicht können Sie mit Akupunktur was machen... Hmm... - AU! - Eine Woche lang-ein Mal täglich-nach dem Essen...
 19990317 -- Gluck gluck gluck? ? - Na-nu gib' ihm schon 'ne Cola! - Man merkt, dass Du keine Kinde rhast... Gluck gluck gluck!
 19990312 -- "Ja er ists" ...ahem... Seht: Geschmolzen Schnee und Eis! Violett, orange und weiss Kroken aus der Erde kommen! Frühling, bists! Hab' Dich vernommen! - Seh' Dein flatternd blaues Band! Süsse Ahnung streift das Land! Und auch Düfte-ach oh
@@ -336,6 +349,8 @@
 19990925 -- - Mein Gott-nu nimm doch die Finger! - Der Hund wird zu fett...
 19991231 -- Was machste denn so Kuhaugen? Kennste noch nicht? Man muss sich beim Anstossen in die Augen schauen-sonst hat man 7 Jahre schlechten Sex! - Haha! Is ja grossartig! - Endlich mal wieder Sex... * ping
 20000108 -- Ich kann nich' schlafen! Dann zähl' Schafe! -aber bitte leise!! - - Ich hab' Hunger...
+20000111 -- Sagen Sie-Ihre neue Perücke...die juckt doch sicher! Oder? Juckt die nicht? "Toupet"! Es ist nur ein Toupet!! Nein! Echt? Also, mich würd' das ja furchtbar jucken! Die ganzen fremden Haare-huuh! Von fremden Köpfen! Das juckt doch! Huuh... -
+20000111 -- ** dumdidum...didum... ********* ..lala... ** ... ... lalaaa ** ** hmmm... Tjaja... Gott-wie die Zeit vergeht! -ich muss mal wieder-tschüs! - Sie dürfen sich jetzt kratzen...
 20000117 -- Ich will hie rnicht wohnen! Ich will wieder nach Hause! Ich bin ein Grossstadtkind! Ich hasse Landeier! Die riechen nach Kuh und reden komisch! *drrinng! Komme! Knödlingen ist kein Dorf sondern Kreisstadt! Hier sind viel weniger Autos... -
 20000117 -- Oh-hallo!  Äh-ja, also...wir sind die neuen Mieter, morgen kommen die Möbel und...äh... Sie wohnen auch hier im Haus? - ...und ausserdem sind hier im Süden die Leute viel netter! KEHRWOCHE
 20000218 -- Spazierengehen? Jetzt?! Bist Du irre? Es schüttet!! Es gibt kein schlechtes Wetter, es gibt nur schlechte Ausrüstung! Wir haben doch noch die Sachen vom letzten Urlaub! - Na-seh' ich nicht aus wie ein alter Seebär? Naja...nicht direkt... -
@@ -1147,3 +1162,4 @@
 20230209 -- Gütiger Himmel! Was ist das?! ? Dieses hässliche monströse Ding da drüben? - Du meinst dieses groteske unästhetische Monstrum für Verhaltensgestörte Soziopathen? Man nennt es "SUV". "SUV"? - "Sehr Unangenehme Verteidigungsanlage".
 20230210 -- Höllisch willkommen! Würden Sie die bitte aufsetzen? Wir arbeiten gerade mit virtueller Realität. - Das ist eine Taucherbrille! - War nicht meine Idee.
 20230211 -- Ich brauch eine Wärmflasche! Sofort! Ich hab kalte Füsse! - Sehr kalte Füsse? Sehr eiskalte Füsse! - Wir werden berühmt! Das ist der Durchbruch beim Energiesparen! PILS
+20230213 -- Ich hab eine Wurst ins Wasser gemacht! Was?! - Nein! Es heisst "gefallen"! Dir ist Deine Wurst ins Wasser gefallen! Na, das ist ja nicht so schlimm. Wo denn? - Da hinten! Und es heisst "Currywurst mit Pommes" und "gebrochen"!

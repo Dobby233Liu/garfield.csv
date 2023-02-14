@@ -10625,3 +10625,4 @@ dr230210 -- I'm sorry you've never won a trophy, Norman! My luck could change to
 dr230211 -- I'm sorry you didn't win Emplyee of the Week, Norman. - Remember trophys and awards are overrated. - Easy for you to say. You've won 37 trophies! - Actually, some of them were just plaques.
 dr230212 -- I'm so happy it's Super Bowl Sunday! - Now, remember, football is a complicated game. - If you don't understand something, just ask me. - There is no such thing as a stupid question! - I have a question... - Why does Super Bowl Sunday always
 dr230212 -- seem to fall on a Sunday? - Dand, now I have to make more guacamole. I'll just google it.
+dr230213 -- PIZZA I'm sorry I've been feeling sorry for myself, Echo. That's OK. Too bad you've never won a trophy. - You still might someday! I doubt it... - Unless there's an dault T-ball league somewhere!
