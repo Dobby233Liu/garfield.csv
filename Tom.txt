@@ -269,6 +269,7 @@
 19960210 -- Miese Schulnoten haben keine medizinischen Ursachen! Er is' so hippelig... - Naja, ich könnte ihm was verschreiben... - Kann ich selber!
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Wa sgetroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960213 -- Ah! Da kommt der Herr Seeger! ...arbeitet im Sägewerk...war mein allererster Patient! - * Sinnggg! Sämtliche Finger ab! In 10 Minuten hatte ich alle wieder dran! Tag, Herr Seeger! - Tach Doktor!
+19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-Da hat einer an meinen Beinen gegrabbelt! -
 19960219 -- ...und ganz zum Schluss noch nachzutragen, was ich am Karneval so schätz: Die Wahrhrit kann ich allen sagen und hab' ich Euch auch mal verletzt, - So weis sich, das könnt Ihr vertragen-wir haben schliesslich Faselnacht: Humor ist, wennman
 19960219 -- trotzdem lacht! -
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
@@ -343,6 +344,7 @@
 19990326 -- Schluck-mit Buch zum Klo. Nach der Mitte: Ein Verdacht wer wen wann wo umgebracht. Drittes Viertel: Und auch wie! Nächste Seite:Alibi!! - Morgen graut.noch 3 Kapitel! Umgeblättert: wieder Titel?! Falsch gebunden! Ende fort! ...plane
 19990326 -- Druckermeuchelmord!
 19990331 -- Da-schau Dir den an! -eine Geschäftsidee -Patent drauf. - -in Fernost produzieren lassen -und abkassieren... Was verkauft er? ...Computerkram? - Leicht entflammbare US-Fahnen...
+19990401 -- Wo bin ich...? Wer...wer sind Sie? Petrus. - Einundzwanzig...zweiundzwanzig... - ** April-April! **
 19990625 -- Süsse Marken POSTBANK chrrr...pfff...chrrr... - AUF! - Ah-es geht doch nichts über eine solide Schulerziehung...!
 19990709 -- Oooh-'ne Schildkröte!! -is' die süüüüüs... Bisschen schüchtern, was? - Darf ich sie mal streicheln? Wie denn? - Zum Doc
 19990801 -- Wir waren einmal die schärfste Männer-WG diesseits der Berge.. - *** - ...und das sind wir heute noch! Doch das ist eine andere Geschichte...
@@ -525,6 +527,7 @@
 20070327 -- wir meinen Kragen. Der war auf den ersten Blick: unplatzbar...
 20070407 -- Fröhliche Ostern! Hast Du Feuer? Aah! Ralf! Äh...nein. Kein Feuer. Nimm den Gasherd...aber ich dachte, Du rauchst nicht... - Ein Wort und ich streich Dir die Eier! - Mama! Mama! Der Hamster raucht!
 20070511 -- Wir kriegen ja jetzt auch ein Internet... Ah ja? Fein. - Ja, ich hab einfach mal so ein DSL bestellt. Sehr gut. Wie schnell? - Oh-wir warten erst 4 Wochen...
+20070516 -- He! Hier kein FKK! - Tschuldigung...
 20070615 -- Po... ...stlag... ...ernd. Postlagernd! - Was heisst Postlagernd? Nun... - Schlafsack und Verpflegung mitbringen.
 20070703 -- Fluch und Segen der Volkshochschule... - Der Häkelkurs geht walken. -
 20070712 -- M-Hmm...schönes Fahrrad, nicht wahr? - Lass ja Deine glibbrigen Daddelfinger von dem Rad, Du Hängehöschen! Sonst dreh ich Dir die Mütze richtig! Capito? - Äh...das war doch gar nicht Deins. Dein Rad steht doch da drüben. Ja. Aber wenn er eins
@@ -611,6 +614,8 @@
 20100629 -- Aber nur 1 Bier! Ich muss morgen früh raus... - Was gibts zu glotzen? Noch nie 'ne schöne Frau gesehen? Is' das hier 'n Knackitreffen, oder was? - Du stehst vorm Bildschirm... Tor!
 20100710 -- Ich hab einen Wunsch frei? Ich? Ich darf mir was wünschen? Hab ich wieder genuschelt? Ja. Einen Wunsch frei. Du. Und zwar ein bisschen plötzlich. - Oh! Puh...was wünsche ich mir denn da? Oh! Puh...äh...ich wünsche mir...puh... -
 20100817 -- Pass auf! Sieh genau hin! Ich hab am Wochenende etwas geübt. Achunt... - ** Ding Dong ** - War ich schneller als mein Schatten? Du hast wieder Lucky Luke gelesen!
+20010114 -- Das ist mir egal, Klöpke! Es ist Ihr Arsch! Wenn Sie die Zahlen nicht schaffen, dann hasta la vista, Dividende! Dann kann sich Ihre Gatting die Datsch auf Mallorca an die Botoxbacke schmieren! OKay? Ja-tschüs. Hallo Mausi! Nein, noch im
+20010114 -- Zug..Knödlingen...Du, ich... - QUAAK! QUAAK! QUAAK! QUAAK! QUAAK! QUAAK! Nein!! Im Zug! Ich...doch! Warte, ich schau mal, wo ich in Ruhe telefonieren kann! - Herr Schaffner! Ich glaube, der Herr sucht den Gepäckwagen.
 20110305 -- Wir sind beide eingeladen, also gehen wir auch zusammen hin! I'm soooo sorry. Ich darf nicht. Ich hab ein Attest. Tut mir leid. - Karnevalsmusik versetzt mich in lebensgefährliche Erregungszustände! Hier, bitte. Aber wenn ich irgendwann mal
 20110305 -- nichts mehr höre, gehe ich natürlich gerne mit! Was wäre denn das Motto gewesen? ** Hellau! Kommt rein! Hallo Horst! Gartenparty <---
 20110312 -- Ich brauch ein neues Outfit! Ich kann diesen praktischen Kram nicht mehr sehen! Ich will was frisches, jugendliches! MODA ZZ Ich will wieder wahrgenommen werden! - Ich seh schon. Gut...ziehen Sie mal das, das, das, das, und das hier an.
@@ -855,6 +860,7 @@
 20190330 -- Hey, Du! Hallo! Alles klar! Du kannst abbiegen! Es kommt keiner! Alles frei! Kann nix passieren! Gute Fahrt! ? - Ich arbeite jetzt als Toter-Winkel-Assistent! Aha. Boah-hat der Segelohren!! Untersteh Dich!
 20190509 -- Hahaha! Ich habe einen geilen Witz gelesen! Kennen Sie den? Kommt ein Mann zum Friseur... - Haha! Wollen Sie mich etwa damit rasieren? - Fragen Sie mich nach dem Witz noch mal.
 20190519 -- Da bist Du ja endlich! Guten Morgen! Verschlafen? - Ich war noch schnell im Nagelstudio! Schick, oder? ** ding dong
+20190626 -- Hach...ich krieg ja immer eine Gänsehaut, wenn ich in einem Amt bin! - Ich finde, es hat sowas von Kirche... Sowas ernstes und die grossen Räume und die Leute reden leise... - Und wenn die Figuren sich bewegen, ist es ein Wunder!
 20190713 -- Faulpelz! Faulpelz! Ja, Du auch! Faulpelz! - Alles Faulpelze! Ihr Stromfresser, Ihr! Fahrt gefälligst Fahrrad! - So wie ich!
 20190722 -- ? - ?? - Okay, jetzt is es nicht mehr ganz so hoch-spring!
 20190803 -- Entschuldigung, wo gehen Sie mit Ihren Kindern aufs Klo?  Nirgends. - Sie meinen...? Aber das ist doch total unhygienisch! - Mama, der eine Klostein ist abgegangen!
@@ -1163,3 +1169,4 @@
 20230210 -- Höllisch willkommen! Würden Sie die bitte aufsetzen? Wir arbeiten gerade mit virtueller Realität. - Das ist eine Taucherbrille! - War nicht meine Idee.
 20230211 -- Ich brauch eine Wärmflasche! Sofort! Ich hab kalte Füsse! - Sehr kalte Füsse? Sehr eiskalte Füsse! - Wir werden berühmt! Das ist der Durchbruch beim Energiesparen! PILS
 20230213 -- Ich hab eine Wurst ins Wasser gemacht! Was?! - Nein! Es heisst "gefallen"! Dir ist Deine Wurst ins Wasser gefallen! Na, das ist ja nicht so schlimm. Wo denn? - Da hinten! Und es heisst "Currywurst mit Pommes" und "gebrochen"!
+20230214 -- Was gibts zu essen? Ich dachte, wir tauen uns heute mal was auf. - Nein! Das darfst Du nicht! Da smuss da drin bleiben! Denk an die Archäologen! - Zukünftige Generationen haben ein Recht darauf, aus den Fehlern der Vergangenheit zu lernen!

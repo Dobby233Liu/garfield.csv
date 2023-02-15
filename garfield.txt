@@ -17144,3 +17144,4 @@ ga230210 -- The car won't start. - I cn't figure out what's wrong. - Have you co
 ga230211 -- There is no substitute for hard work. - - Said no cat ever.
 ga230212 -- - - - - - - It's been a long day. Tell me about it.
 ga230213 -- Monday... - It's like a terrible movie... - With sequels.
+ga230214 -- Garfield... Yes? - How about a hug? Sure. - Excuse me? Hang on. You're next.
