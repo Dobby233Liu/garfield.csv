@@ -274,6 +274,7 @@
 19960219 -- trotzdem lacht! -
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
+19960215 -- Hölle-Alaaf!! Uahaha! - - Höllau?
 19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -345,6 +346,7 @@
 19990326 -- Druckermeuchelmord!
 19990331 -- Da-schau Dir den an! -eine Geschäftsidee -Patent drauf. - -in Fernost produzieren lassen -und abkassieren... Was verkauft er? ...Computerkram? - Leicht entflammbare US-Fahnen...
 19990401 -- Wo bin ich...? Wer...wer sind Sie? Petrus. - Einundzwanzig...zweiundzwanzig... - ** April-April! **
+19990503 -- Wie lange dauert das denn noch! Wenn's eilig ist, dann erledigen Sie Ihre Post doch "online"! - Ah-Sie denken wohl, ich bin von gestern! -nicht mit mir, junger Mann-nicht mit mir! - Das bisschen Rollschuhlaufen bring' ich auch noch!
 19990625 -- Süsse Marken POSTBANK chrrr...pfff...chrrr... - AUF! - Ah-es geht doch nichts über eine solide Schulerziehung...!
 19990709 -- Oooh-'ne Schildkröte!! -is' die süüüüüs... Bisschen schüchtern, was? - Darf ich sie mal streicheln? Wie denn? - Zum Doc
 19990801 -- Wir waren einmal die schärfste Männer-WG diesseits der Berge.. - *** - ...und das sind wir heute noch! Doch das ist eine andere Geschichte...
@@ -783,6 +785,7 @@
 20161124 -- nochmal in den Geräteraum.
 20161224 -- Fröhliche Weihnachten! Ich bin die Schöne-Bescherung.Fee und Sie dürfen sich was wünschen! Früher haben wir hier Weihnachten immer richtig gross gefeiert! Da war was los! - Ich wünschte, es wären alle Beteiligten noch mal hier! Aber nur die
 20161224 -- netten! -
+20170306 -- Ist es noch weit? Mir ist langweilig! Ich hab Hunger! Ich muss mal! Sind wir bald da? - - Sind Sie gestürzt? Nein. Ich bin am Rastplatz ausgesetzt worden.
 20170310 -- HA!! Hm...? Krieg ich ein Pferd? Ja, Schatz. - Juhu! Spinnst Du?! Du hast Ihr gerade einen Gaul versprochen! Ich? Niemals! Du hast "Ja, Schatz." gesagt! - Das gilt nicht. Dann hab ich nicht zugehört.
 20170420 -- Au! Au! Der beisst! Der beisst! Mein Bein! Mein Bein! Hast Du das Pfefferspray dabei? Nein! - Au! Dein Parfüm! Nimm Dein Parfüm! Au! Au! Rückzug! - Iiiih! Ich stink nach alte Tante!
 20170427 -- Wir beginnen sofort mit den Rodungsarbeiten! Siche rist sicher! Zu spät! Wir haben Post. - Oh neine! Welches ekelhafte Kroppzeug ist es diesmal? Der lila Juchenkäfer? Die rostige Hufeisennase oder der unrasierte Nacktmulch? Meine Tabletten!
@@ -1170,3 +1173,4 @@
 20230211 -- Ich brauch eine Wärmflasche! Sofort! Ich hab kalte Füsse! - Sehr kalte Füsse? Sehr eiskalte Füsse! - Wir werden berühmt! Das ist der Durchbruch beim Energiesparen! PILS
 20230213 -- Ich hab eine Wurst ins Wasser gemacht! Was?! - Nein! Es heisst "gefallen"! Dir ist Deine Wurst ins Wasser gefallen! Na, das ist ja nicht so schlimm. Wo denn? - Da hinten! Und es heisst "Currywurst mit Pommes" und "gebrochen"!
 20230214 -- Was gibts zu essen? Ich dachte, wir tauen uns heute mal was auf. - Nein! Das darfst Du nicht! Da smuss da drin bleiben! Denk an die Archäologen! - Zukünftige Generationen haben ein Recht darauf, aus den Fehlern der Vergangenheit zu lernen!
+20230215 -- Ja, das mist mit eine der unglücklichsten Varianten der Glatzenbildung... Was schlagen Sie vor? - Epilieren? Niemals! Kaschieren? Besser. - Viel besser!
