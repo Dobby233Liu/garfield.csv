@@ -274,7 +274,8 @@
 19960219 -- trotzdem lacht! -
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
-19960215 -- Hölle-Alaaf!! Uahaha! - - Höllau?
+19960215 -- Die Renten? Pah! - Meine Rente ist sicher! - Komm' ja nicht mal ich ran...
+19960216 -- Hölle-Alaaf!! Uahaha! - - Höllau?
 19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -351,6 +352,7 @@
 19990709 -- Oooh-'ne Schildkröte!! -is' die süüüüüs... Bisschen schüchtern, was? - Darf ich sie mal streicheln? Wie denn? - Zum Doc
 19990801 -- Wir waren einmal die schärfste Männer-WG diesseits der Berge.. - *** - ...und das sind wir heute noch! Doch das ist eine andere Geschichte...
 19990925 -- - Mein Gott-nu nimm doch die Finger! - Der Hund wird zu fett...
+19991101 -- Eine Personenwaage? -wir hamm doch schon eine... Jahaa-aber keine, die spricht! - Wo gibt's denn so was? Auf'm Rummel-hab ich gewonnen! So-mal sehen...Ah! Huer! ..."On"... - 98 Kilo! Nicht schlecht! Aber ich bin der Champion!
 19991231 -- Was machste denn so Kuhaugen? Kennste noch nicht? Man muss sich beim Anstossen in die Augen schauen-sonst hat man 7 Jahre schlechten Sex! - Haha! Is ja grossartig! - Endlich mal wieder Sex... * ping
 20000108 -- Ich kann nich' schlafen! Dann zähl' Schafe! -aber bitte leise!! - - Ich hab' Hunger...
 20000111 -- Sagen Sie-Ihre neue Perücke...die juckt doch sicher! Oder? Juckt die nicht? "Toupet"! Es ist nur ein Toupet!! Nein! Echt? Also, mich würd' das ja furchtbar jucken! Die ganzen fremden Haare-huuh! Von fremden Köpfen! Das juckt doch! Huuh... -
@@ -367,6 +369,7 @@
 20000613 -- Frittieröl!
 20000729 -- Sag mal-ist das nicht Dein Hubert? Dieser Drecksack!! Na warte-Dich stampf ich ein, Bürschchen! - Contenance, meine Liebe! Dich an so einem Schuft noch beschmutzen? Ich würde das ganz cool mit dem Handy regeln... Du hast ja so Recht! Ich
 20000729 -- hatte mich vergessen...danke! - POCK!!
+MMM
 20001013 -- - ARRRRHH!! - Nur die Ruhe-eine verlorene Schlacht ist noch kein verlorener Krieg! Ich hab nicht angefangen!
 20001026 -- Glauben Sie ja nicht, dass Sie mich mit so albernem Gepiesacke beeindrucken können! Ich war 40 Jahre lang der Boss des Syndikats-Dr. No ist gegen mich ein Teletubbie! - Tj-ich bin nunmal ein harter Knochen-da kann man man nichts machen! -
 20001026 -- Suppe.
@@ -881,6 +884,7 @@
 20200325 -- schneller, wenn sie was Plausibles hören.
 20200407 -- Du hast keine Angst vor grossen Hunden, oder? Nö. Hunde sind sehr sensibel. - Hrrr... Sensibel?! Sehr! - Ich stell mir immer vor, wie doof die beim Kacken aussehen. Das spüren die ganz genau. *
 20200516 -- Meister? Ich habe hier einen Algenburger und frage mich, wie ich den grille... - Das ist eine dumme Frage! Warum? - Das ist die richtige Frage!
+20200523 -- Wo ist eigentlich "da sLand, wo Milch und Honig fliesst"? - AAAAAH!! - Wenn wir Lukas mitnehmen, im Bioladen um die Ecke.
 20200605 -- Sie sind neu hier, nicht wahr? Vermutlich direkt von der Kassiererinnenschule. Und jetzt denken Sie sicher: Ich kann schneller scannen,... ...als die alte Schachtel hier einpacken kann. - Aber ich warne Sie, Kindchen! Diese alte Schachtel
 20200605 -- hier ist nicht irgendeine alte Schachtel! bibibibi biep! - 37,99-Wenn Sie es nochmal in Zeitlupe sehen wollen, können Sie das beim Filialleiter.
 20200619 -- Oh, hallo! Nein, Sie stören nicht, kommen Sie doch rein! Ich bin nur am Kochen. - Möchten Sie was mitessen? Ist genug da! * - Hubert! Wir hatten doch gesagt, ich reib Dir den Rücken erst nach dem Essen ein!
@@ -1174,3 +1178,4 @@
 20230213 -- Ich hab eine Wurst ins Wasser gemacht! Was?! - Nein! Es heisst "gefallen"! Dir ist Deine Wurst ins Wasser gefallen! Na, das ist ja nicht so schlimm. Wo denn? - Da hinten! Und es heisst "Currywurst mit Pommes" und "gebrochen"!
 20230214 -- Was gibts zu essen? Ich dachte, wir tauen uns heute mal was auf. - Nein! Das darfst Du nicht! Da smuss da drin bleiben! Denk an die Archäologen! - Zukünftige Generationen haben ein Recht darauf, aus den Fehlern der Vergangenheit zu lernen!
 20230215 -- Ja, das mist mit eine der unglücklichsten Varianten der Glatzenbildung... Was schlagen Sie vor? - Epilieren? Niemals! Kaschieren? Besser. - Viel besser!
+20230216 -- Was ist das?! Wir haben jetzt einen Hund. - Ja super! Gratuliere! Und was machen wir, wenn das Ding kacken muss? Hier hats überall Leute! Kein Problem! Ich hab Tüten dabei. - Er soll sich beeilen.
