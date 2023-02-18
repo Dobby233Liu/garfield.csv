@@ -270,12 +270,12 @@
 19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Wa sgetroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
 19960213 -- Ah! Da kommt der Herr Seeger! ...arbeitet im Sägewerk...war mein allererster Patient! - * Sinnggg! Sämtliche Finger ab! In 10 Minuten hatte ich alle wieder dran! Tag, Herr Seeger! - Tach Doktor!
 19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-Da hat einer an meinen Beinen gegrabbelt! -
-19960219 -- ...und ganz zum Schluss noch nachzutragen, was ich am Karneval so schätz: Die Wahrhrit kann ich allen sagen und hab' ich Euch auch mal verletzt, - So weis sich, das könnt Ihr vertragen-wir haben schliesslich Faselnacht: Humor ist, wennman
-19960219 -- trotzdem lacht! -
-19960212 -- Hubertus! Hubertus! Was für ein Zwölfender! - Was getroffen? Na hör mal! - Hubertus! Hubertus! Was für ein Elfender!
-19960214 -- OK-jetzt noch das Ding da hochtauchen und Du hast das Abzeichen... - He Sie!-da hat einer an meinen Beinen gegrapscht! -
 19960215 -- Die Renten? Pah! - Meine Rente ist sicher! - Komm' ja nicht mal ich ran...
 19960216 -- Hölle-Alaaf!! Uahaha! - - Höllau?
+19960217 -- ** Fiesta-Fiesta Mexikaanaa... ** Schunkeln! Polonaise! Pfui Teufel! - Nassgeschwitzte Körper klatschen aufeinander...hemmungslos getrunkene Hausfrauen grabbeln gierig... Du! Kommst! Mit! - Frau Blüml! Wie schön! das ist sicher Ihr reizender
+19960217 -- Gatte! ** Hossa" Hossa" Hossa! *
+19960219 -- ...und ganz zum Schluss noch nachzutragen, was ich am Karneval so schätz: Die Wahrhrit kann ich allen sagen und hab' ich Euch auch mal verletzt, - So weis sich, das könnt Ihr vertragen-wir haben schliesslich Faselnacht: Humor ist, wennman
+19960219 -- trotzdem lacht! -
 19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -369,6 +369,8 @@
 20000613 -- Frittieröl!
 20000729 -- Sag mal-ist das nicht Dein Hubert? Dieser Drecksack!! Na warte-Dich stampf ich ein, Bürschchen! - Contenance, meine Liebe! Dich an so einem Schuft noch beschmutzen? Ich würde das ganz cool mit dem Handy regeln... Du hast ja so Recht! Ich
 20000729 -- hatte mich vergessen...danke! - POCK!!
+20000801 -- "Womanizer"...ahem... Am Montag die kleine mit rostrotem Haar. Am Dienstag zwei Beine mein Tagestraum war. Am Mittwoch das Lachen der grossen Brünetten. Am Donnerstag zwei der gepiercten Koketten. - Am Freitag verfiel ich dem gelben Bikini.
+20000801 -- Am Samstag der Marktfrau (verkaufte Zucchini!). - Am Sonntag bis abends alleine im Bett. Mit schmerzendem Arm-oh, Frühpubertät!
 MMM
 20001013 -- - ARRRRHH!! - Nur die Ruhe-eine verlorene Schlacht ist noch kein verlorener Krieg! Ich hab nicht angefangen!
 20001026 -- Glauben Sie ja nicht, dass Sie mich mit so albernem Gepiesacke beeindrucken können! Ich war 40 Jahre lang der Boss des Syndikats-Dr. No ist gegen mich ein Teletubbie! - Tj-ich bin nunmal ein harter Knochen-da kann man man nichts machen! -
@@ -435,6 +437,7 @@ MMM
 20030329 -- Ich meine ja nur, dass Du ihn langsam mal ein bisschen abnabeln könntest... Ich habe dieses Kind nicht unter entsetzlichen Schmerzen und dem Einsatz meines Lebens geboren, ... - ---um es dann sofort in diesen Dschungel da draussen zu
 20030329 -- stossen! Hubert! Trink Deinen Saft, wir gehen!
 20030412 -- Interessante Tätowierung... - Nettes Piercing! - ALLES ORIGINAL!
+20030428 -- Kannst Du mal eben kommen? - Hoppla! Tschuldigung, gnä' Frau! - Es sind schon wieder Boule-Kugeln gestohlen worden!
 20030514 -- Du sitzt schon wieder vor der dämlichen glotze. Oh, Ihr Maschinenstürmer! Werdet Ihr nie die Faszination Internet begreifen! - Ich hole uns die relae Welt ins Wohnzimmer! Da: Das ist eine Live-Kamera! Das kannst Du rund um die Uhr sehen, was
 20030514 -- gerade auf der anderen Seite der Welt passiert! Wahnsinn! - Aha..oh-was war das? Da ist eben in China ein Sack Reis umgefallen.
 20030524 -- Schauen Sie sich das gut an, Jasmin! Kein besonders schöner Anblick, gewiss... Aber stellen Sie sich mal vor, wieviel dadrin schon zerkleinert worden ist! - Und das alles! - Darf ich nach Hause? Mir ist schlecht... Mir auch!
@@ -1179,3 +1182,4 @@ MMM
 20230214 -- Was gibts zu essen? Ich dachte, wir tauen uns heute mal was auf. - Nein! Das darfst Du nicht! Da smuss da drin bleiben! Denk an die Archäologen! - Zukünftige Generationen haben ein Recht darauf, aus den Fehlern der Vergangenheit zu lernen!
 20230215 -- Ja, das mist mit eine der unglücklichsten Varianten der Glatzenbildung... Was schlagen Sie vor? - Epilieren? Niemals! Kaschieren? Besser. - Viel besser!
 20230216 -- Was ist das?! Wir haben jetzt einen Hund. - Ja super! Gratuliere! Und was machen wir, wenn das Ding kacken muss? Hier hats überall Leute! Kein Problem! Ich hab Tüten dabei. - Er soll sich beeilen.
+20230217 -- Huch! Was war das?! Das war mein Magen. - Haben Sie nicht gefrühstückt? Nein. Ich wollte gut vorbereitet sein. - Er knurrt wie ein Rottweiler... ...und ich hab die Laune dazu!
