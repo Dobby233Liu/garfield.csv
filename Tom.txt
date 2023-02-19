@@ -276,6 +276,7 @@
 19960217 -- Gatte! ** Hossa" Hossa" Hossa! *
 19960219 -- ...und ganz zum Schluss noch nachzutragen, was ich am Karneval so schätz: Die Wahrhrit kann ich allen sagen und hab' ich Euch auch mal verletzt, - So weis sich, das könnt Ihr vertragen-wir haben schliesslich Faselnacht: Humor ist, wennman
 19960219 -- trotzdem lacht! -
+19960220 -- Oh mein Gott...nein... Nicht alle zu mir! ...agh... - Verdammt! Polonaise: kehrt! - Nächster Stop: Briefmarkenautomat!
 19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -371,7 +372,7 @@
 20000729 -- hatte mich vergessen...danke! - POCK!!
 20000801 -- "Womanizer"...ahem... Am Montag die kleine mit rostrotem Haar. Am Dienstag zwei Beine mein Tagestraum war. Am Mittwoch das Lachen der grossen Brünetten. Am Donnerstag zwei der gepiercten Koketten. - Am Freitag verfiel ich dem gelben Bikini.
 20000801 -- Am Samstag der Marktfrau (verkaufte Zucchini!). - Am Sonntag bis abends alleine im Bett. Mit schmerzendem Arm-oh, Frühpubertät!
-MMM
+20000901 -- Ja! Was ist denn?! Herrgott-ich komm noch zu spät!! Setz Dich erstmal hin... - Warum? ...ist was passiert? Setz Dich! - Kalt am Popo?
 20001013 -- - ARRRRHH!! - Nur die Ruhe-eine verlorene Schlacht ist noch kein verlorener Krieg! Ich hab nicht angefangen!
 20001026 -- Glauben Sie ja nicht, dass Sie mich mit so albernem Gepiesacke beeindrucken können! Ich war 40 Jahre lang der Boss des Syndikats-Dr. No ist gegen mich ein Teletubbie! - Tj-ich bin nunmal ein harter Knochen-da kann man man nichts machen! -
 20001026 -- Suppe.
@@ -382,6 +383,7 @@ MMM
 20001211 -- Oooch-kuck mal da! - Ist der nicht süüüüüss? - Ist der neu? Nö. Mit Bärwoll gewaschen.
 20010125 -- Marken fürs Leben! POSTBANK chrrr... chrrr... - BONK! AU! - Wenn ich jetzt sofort meine Marke kriege...sag ich, dass es ein Arbeitsunfall war...
 20010219 -- Platz da! Jetz' komm ich! - Ja! He?! - ?
+MMMM
 20010404 -- Soo-jetzt stellst Du Dich hier hin... - Und wenn Du dran bist, kaufst Du von dem Onkel eine Einmarkmarke. -hier hast Du eine Mark! - Geben Sie ihm lieber zwei! -sie erhöhen das Porto längeren Zeitabständen...
 20010407 -- Wo...wo bin ich? He! Sie sind doch... Nein, ich seh nur so aus. Also, diese Ähnlichkeit! Danke. - Verblüssend! Kaum zu gleuben! Wie ein Ei dem anderen! Nun ja... Wir bewegen uns auch sehr ähnlich-kennen Sie die Szene in "Der unsichtbare
 20010407 -- Dritte", wo... - "Der unsichtbare Dritte?" Oh! Ich dachte, es wären immer schon 4 Teletubbies gewesen...
@@ -865,6 +867,7 @@ MMM
 20190215 -- auch wieder zurück! Da wird sich der Chinese sicher freuen! Der wird auch immer dicker.
 20190223 -- Hallo! Ich hätte gerne Kaffee und Kuchen! Aber unbedingt mit ohne... Moment! - Einfach hier mit der App die Inhaltsstoffe auswählen-Kaffee hier, Kuchen da-und dann auf "Senden" tippen! Und ich bringe Ihnen dann genau, was Sie möchten. -
 20190227 -- Hellau! Huh-Ihr seid aber gruselige Hexen! - Ein bisschen schüchtern die beiden Mäuschen, was? Aber super Hexenkostüme! - Halli Galli
+20100307 -- Verzeihung-wie bin ich eigentlich genau von Euch gegangen? Beim Vögeln heruntergefallen. Echt? Hih, alter Schwede! Cool! - Ähm...von wem? Moment... Von Herrn oder Frau Hochsitz...Schulz!! - Es heisst "Vögel beobachten"!
 20190327 -- Wow! Die haben aber eine moderne Waage! - Ich versteh die Anzeige nicht, aber ich glaube, ich hab abgenommen! Was bedeutet dieses Signal? * - Es bedeutet, der Saugroboter fährt zur Ladestation.
 20190330 -- Hey, Du! Hallo! Alles klar! Du kannst abbiegen! Es kommt keiner! Alles frei! Kann nix passieren! Gute Fahrt! ? - Ich arbeite jetzt als Toter-Winkel-Assistent! Aha. Boah-hat der Segelohren!! Untersteh Dich!
 20190509 -- Hahaha! Ich habe einen geilen Witz gelesen! Kennen Sie den? Kommt ein Mann zum Friseur... - Haha! Wollen Sie mich etwa damit rasieren? - Fragen Sie mich nach dem Witz noch mal.
@@ -1183,3 +1186,4 @@ MMM
 20230215 -- Ja, das mist mit eine der unglücklichsten Varianten der Glatzenbildung... Was schlagen Sie vor? - Epilieren? Niemals! Kaschieren? Besser. - Viel besser!
 20230216 -- Was ist das?! Wir haben jetzt einen Hund. - Ja super! Gratuliere! Und was machen wir, wenn das Ding kacken muss? Hier hats überall Leute! Kein Problem! Ich hab Tüten dabei. - Er soll sich beeilen.
 20230217 -- Huch! Was war das?! Das war mein Magen. - Haben Sie nicht gefrühstückt? Nein. Ich wollte gut vorbereitet sein. - Er knurrt wie ein Rottweiler... ...und ich hab die Laune dazu!
+20230218 -- AREÖÖÖHH!! - Was machst Du?! Hör auf damit! Fahr da vorne mal näher dran vorbei! - Der auf dem Radweg! Ah-Fenster unten, cool! Der Fachmann spricht von "Vergrämung"!
