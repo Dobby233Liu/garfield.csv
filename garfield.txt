@@ -17149,3 +17149,4 @@ ga230215 -- BARK! BARK! BARK! BARK! - BARK! BARK! berk! COUGH! - That's it! I'm 
 ga230216 -- The adventures of Jon Arbuckle! - - Okay, so the plot's a little thin.
 ga230217 -- It's not too late to hide! - - Hi, Liz! Now it is!
 ga230218 -- Garfield! You ate the last donut! - You didn't leave anything for me! Very well. - ptoo CLANK
+ga230219 -- - sigh sigh - * DING! - ZIP! ZIP! - Good news, boys! - The oven's now preheated, the pizza will be ready in 20 minutes! - sigh sigh

@@ -256,7 +256,7 @@
 19960129 -- Ist es nicht wundervoll? - Das Bett ist Mist! Na und? - Du schläfst doch eh' vor der Glotze...
 19960130 -- Diese Schweine! 150000-nur um aus dieser Törtchen-Klitsche 'n anständiges Restaurant zumachen! Und jetzt das! - "Törtchenklitsche"? Das "Cafe Heideröschen" war hier drin... - Irgendwelche Hinweise? Mafia? Terroristen? Nix... Nur die 12
 19960130 -- Literflaschen Kölnisch Wasser...
-19961231 -- Junggeselle, was? Keine abgekriegt, oder hatte sie das Warten satt? - War ich gerade... - Der Kollege hat Wurst auf der Stulle!
+19960131 -- Junggeselle, was? Keine abgekriegt, oder hatte sie das Warten satt? - War ich gerade... - Der Kollege hat Wurst auf der Stulle!
 19960201 -- Bist Du der DJ? -Hey! Schicker Body! LAtex? - Nur der Sound, Alter, der Sound...haut mich nicht um! Kein Problem. Schuuulz!! - 300 Beats per Minute.
 19960202 -- Verdammte Affenhitze! Alte Meckertante! Wochenlang haste zu Hause über die Kälte geschimpft! Was fährste überhaupt weg? Öfter mal was Neues...
 19960203 -- Und? Sitzen machen! - Schwein gehabt...wieso heisst das eigentlich "B-Test"? -typisch! So wie "B-Note"... Ich glaube, ,an nennt sowas "Inversion"... - B-Test kommt vor A-Test...
@@ -383,7 +383,7 @@
 20001211 -- Oooch-kuck mal da! - Ist der nicht süüüüüss? - Ist der neu? Nö. Mit Bärwoll gewaschen.
 20010125 -- Marken fürs Leben! POSTBANK chrrr... chrrr... - BONK! AU! - Wenn ich jetzt sofort meine Marke kriege...sag ich, dass es ein Arbeitsunfall war...
 20010219 -- Platz da! Jetz' komm ich! - Ja! He?! - ?
-MMMM
+20010301 -- *** - AAAAH! Eine Boa Constrictor! AAAH! - Schon gut...Tarzan gerne helfen!
 20010404 -- Soo-jetzt stellst Du Dich hier hin... - Und wenn Du dran bist, kaufst Du von dem Onkel eine Einmarkmarke. -hier hast Du eine Mark! - Geben Sie ihm lieber zwei! -sie erhöhen das Porto längeren Zeitabständen...
 20010407 -- Wo...wo bin ich? He! Sie sind doch... Nein, ich seh nur so aus. Also, diese Ähnlichkeit! Danke. - Verblüssend! Kaum zu gleuben! Wie ein Ei dem anderen! Nun ja... Wir bewegen uns auch sehr ähnlich-kennen Sie die Szene in "Der unsichtbare
 20010407 -- Dritte", wo... - "Der unsichtbare Dritte?" Oh! Ich dachte, es wären immer schon 4 Teletubbies gewesen...
@@ -393,6 +393,7 @@ MMMM
 20010512 -- - ...und lässt den LKW da!
 20010516 -- Wo...wo bin ich? Wer sind Sie? Was wollen Sie? Was will ich? Wer bin ich? Was bin ich? Was geht hier vor? Und warum? Oh je... Nu' isses passiert! - Sie müssen sich doch an irgendwas erinnern! Versuchen Sie es! Diese kleien bunten Dinger da
 20010516 -- hab ich schon mal gesehen... Hier! Nehmen Sie eine!! - Geben Sie mir zwei! Das muss ich auch Trude unbedingt schreiben!
+MMMM
 20010706 -- Was ist passiert? Öh-ich glaube, wir sind auf Grund gelaufen... - Herrgott-kannst Du denn nicht mal zwei Minuten den Kurs halten? -immer auf den Leuchtturm zu hab ich gesagt! Welcher Leuchtturm? -
 20010716 -- Untern Zug gekommen? Berufsunfall... Stuntman? - Grundschullehrer. Sport? Werken. Werken? Fragen Sie lieber nicht... - Ah-Sie sind sicher das Laubsägenmassaker!
 20010904 -- Neulich in Drei Sterne Restaurant MOMENT! HA... ? - TSCHIE! - WELCH EIN KOCH!
@@ -912,6 +913,7 @@ MMMM
 20210430 -- Aaah! Was ist da?! Kabel! - Papa kauft einen 3-D-Drucker! Und ich druck dann, was ich träume! In 3-D!! Ist das nicht irre? Wahnsinn. - chrrr...
 20210504 -- Willkommen im 21- Jahrhundert! ? Ich hab den Föhn optimiert! Augenblick... - WUUUH! - Autonomes Föhnen hat keine Zukunft!
 20210512 -- Wolltest Du nicht im Sandkasten spielen? Nö. Ich hab verloren. - Wir haben Schnick-Schnack-Schnuck um den Sandkasten gespielt! Schere-Stein-Papier? - Er hatte immer Schäufelchen.
+20210626 -- RACKARACKARACKARACKARACKARACKA - Wow! Das nenn ich tollen Sex! Da frag ich morgen mal diskret, was die so machen! - Oh Herr! Lass es eine neue Waschmaschine sein!
 20210721 -- Was hat Sie? Sie hat seit drei Tagen keinen Baum umarmt. Das tut ihr mal ganz gut! - Ah! Da seid Ihr ja goldrichtig! Das einzige Holz hier auf der Insel ist die Fähre nach Patras. - Penelope
 20211022 -- Eineeinmarkmarke! - Gott, ist das öde! Immer das Gleiche! Ein Hirn brilliant und voller Fachwissen! Und keiner fordert es! - Zweizweimarkmarken!
 20211209 -- Ich will aber eine Mütze mit Pelzbommel! Alle haben eine Mütze mit Pelzbommel! Warum krieg ich keine Mütze mit Pelzbommel? - Weil für jeden Pelzbommel ein Tier sterben muss! Willst Du das? - *
