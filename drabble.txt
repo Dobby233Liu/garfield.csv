@@ -10632,3 +10632,4 @@ dr230216 -- Echo gave you a trophy! What a great girl! Yup! Z - Too bad she has 
 dr230217 -- Christmas was two months ago... - And I'm still listening to the nutcracker! CRRACK!
 dr230218 -- Come on, Wally! Jump into my arms... - So I can give you a bath! -
 dr230219 -- Ralph! Come take out the kitchen trash! - Coming, honeybunch! - - ...Sigh... - RALPH! Almost there! - This thing only goes so fast! WHIRRRRRR Sigh...
+dr230220 -- Before we go to the store, I need you to drive me to the library. - OK, what's the best way to get there? - It doesn't matter. Any way you want! - Why are you going THIS way?

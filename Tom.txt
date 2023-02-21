@@ -277,6 +277,7 @@
 19960219 -- ...und ganz zum Schluss noch nachzutragen, was ich am Karneval so schätz: Die Wahrhrit kann ich allen sagen und hab' ich Euch auch mal verletzt, - So weis sich, das könnt Ihr vertragen-wir haben schliesslich Faselnacht: Humor ist, wennman
 19960219 -- trotzdem lacht! -
 19960220 -- Oh mein Gott...nein... Nicht alle zu mir! ...agh... - Verdammt! Polonaise: kehrt! - Nächster Stop: Briefmarkenautomat!
+19960221 -- So! Schluss mit lustig! - 'n bisschen Fastenzeit würde Dir auch nicht schaden! - Red' blos snicht vom Essen...
 19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -381,6 +382,8 @@
 20001125 -- Das einzige, was mich noch quält ist: Wie haben diese kleinen Teufel bloss den Sekundenkleber in mein Kostüm bekommen?!
 20001208 -- Haushaltswaren? Durch die Parfümabteilung und dann die Rolltreppe hoch... Danke. - Testen Sie "Zlatko Noir"! "Hop-Singh" Der neue Herrenduft von "Hoss"! Ein Pröbchen, "Animaliman"? - Warste wieder im Puff?
 20001211 -- Oooch-kuck mal da! - Ist der nicht süüüüüss? - Ist der neu? Nö. Mit Bärwoll gewaschen.
+20010116 -- VOLKSHOCHSCHULE Ehm-ich möchte mich für einen Computerkurs anmelden! Anfänger oder Fortgeschrittene? Fortgeschritten! Sie haben also einen Rechner. - Äh-nein...aber ich habe schon einige Prospekte und war auch in etlichen Mediamärkten und
+20010116 -- ich habe bereits eine Ausgabe der "Computerbild"! Verstehe...einen Augenblick, bitte... - Luiiise?! -ist der Deppenkurs schon voll...?
 20010125 -- Marken fürs Leben! POSTBANK chrrr... chrrr... - BONK! AU! - Wenn ich jetzt sofort meine Marke kriege...sag ich, dass es ein Arbeitsunfall war...
 20010219 -- Platz da! Jetz' komm ich! - Ja! He?! - ?
 20010301 -- *** - AAAAH! Eine Boa Constrictor! AAAH! - Schon gut...Tarzan gerne helfen!
@@ -393,9 +396,10 @@
 20010512 -- - ...und lässt den LKW da!
 20010516 -- Wo...wo bin ich? Wer sind Sie? Was wollen Sie? Was will ich? Wer bin ich? Was bin ich? Was geht hier vor? Und warum? Oh je... Nu' isses passiert! - Sie müssen sich doch an irgendwas erinnern! Versuchen Sie es! Diese kleien bunten Dinger da
 20010516 -- hab ich schon mal gesehen... Hier! Nehmen Sie eine!! - Geben Sie mir zwei! Das muss ich auch Trude unbedingt schreiben!
-MMMM
+20010601 -- ? - Wo-wo bin ich? So dunkel...ich kann mich nicht bewegen! Wo ist Horst? Oh Gott! Sie haben mich begraben! LEBENDIG BEGRABEN! HILFE! HORST! - Oh-tschuldigung! Bin wohl kurz eingenickt...
 20010706 -- Was ist passiert? Öh-ich glaube, wir sind auf Grund gelaufen... - Herrgott-kannst Du denn nicht mal zwei Minuten den Kurs halten? -immer auf den Leuchtturm zu hab ich gesagt! Welcher Leuchtturm? -
 20010716 -- Untern Zug gekommen? Berufsunfall... Stuntman? - Grundschullehrer. Sport? Werken. Werken? Fragen Sie lieber nicht... - Ah-Sie sind sicher das Laubsägenmassaker!
+MMMMM
 20010904 -- Neulich in Drei Sterne Restaurant MOMENT! HA... ? - TSCHIE! - WELCH EIN KOCH!
 20011110 -- Guten Tag, Meiermann...verbinden Sie mich mit dem Kundendienst! Augenblick, bitte... - Oh nein! Hör Dir das an! Warteschleifenmusik "Classics"! Haha! * * * * * * "Üb immer treu und Redlichkeit"-Plingpling! Das waren damals die ersten Anlagen!
 20011110 -- Die konnten nur das! - 
@@ -1189,3 +1193,4 @@ MMMM
 20230216 -- Was ist das?! Wir haben jetzt einen Hund. - Ja super! Gratuliere! Und was machen wir, wenn das Ding kacken muss? Hier hats überall Leute! Kein Problem! Ich hab Tüten dabei. - Er soll sich beeilen.
 20230217 -- Huch! Was war das?! Das war mein Magen. - Haben Sie nicht gefrühstückt? Nein. Ich wollte gut vorbereitet sein. - Er knurrt wie ein Rottweiler... ...und ich hab die Laune dazu!
 20230218 -- AREÖÖÖHH!! - Was machst Du?! Hör auf damit! Fahr da vorne mal näher dran vorbei! - Der auf dem Radweg! Ah-Fenster unten, cool! Der Fachmann spricht von "Vergrämung"!
+20230219 -- Wer ist denn der schnuckelige junge Mann mit dem einfallslosen Kostüm da? - Den hab ich mir fürs Schlafzimmer geholt. - Nee, nee, Freundchen! Nicht mit dem Stilettos aufs Wasserbett!
