@@ -273,11 +273,12 @@
 19960215 -- Die Renten? Pah! - Meine Rente ist sicher! - Komm' ja nicht mal ich ran...
 19960216 -- Hölle-Alaaf!! Uahaha! - - Höllau?
 19960217 -- ** Fiesta-Fiesta Mexikaanaa... ** Schunkeln! Polonaise! Pfui Teufel! - Nassgeschwitzte Körper klatschen aufeinander...hemmungslos getrunkene Hausfrauen grabbeln gierig... Du! Kommst! Mit! - Frau Blüml! Wie schön! das ist sicher Ihr reizender
-19960217 -- Gatte! ** Hossa" Hossa" Hossa! *
+19960217 -- Gatte! ** Hossa! Hossa! Hossa! *
 19960219 -- ...und ganz zum Schluss noch nachzutragen, was ich am Karneval so schätz: Die Wahrhrit kann ich allen sagen und hab' ich Euch auch mal verletzt, - So weis sich, das könnt Ihr vertragen-wir haben schliesslich Faselnacht: Humor ist, wennman
 19960219 -- trotzdem lacht! -
 19960220 -- Oh mein Gott...nein... Nicht alle zu mir! ...agh... - Verdammt! Polonaise: kehrt! - Nächster Stop: Briefmarkenautomat!
 19960221 -- So! Schluss mit lustig! - 'n bisschen Fastenzeit würde Dir auch nicht schaden! - Red' blos snicht vom Essen...
+19960222 -- Ein Ausserirdischer! -ich hab's ja immer gesagt! - Wenn ich das geahnt hätte, hätte ich mich atürlich etwas zurechtgemacht... Für Ihre...hehe.."Experimente". - Intelligenztest: -negativ. Der nächste!
 19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -399,7 +400,7 @@
 20010601 -- ? - Wo-wo bin ich? So dunkel...ich kann mich nicht bewegen! Wo ist Horst? Oh Gott! Sie haben mich begraben! LEBENDIG BEGRABEN! HILFE! HORST! - Oh-tschuldigung! Bin wohl kurz eingenickt...
 20010706 -- Was ist passiert? Öh-ich glaube, wir sind auf Grund gelaufen... - Herrgott-kannst Du denn nicht mal zwei Minuten den Kurs halten? -immer auf den Leuchtturm zu hab ich gesagt! Welcher Leuchtturm? -
 20010716 -- Untern Zug gekommen? Berufsunfall... Stuntman? - Grundschullehrer. Sport? Werken. Werken? Fragen Sie lieber nicht... - Ah-Sie sind sicher das Laubsägenmassaker!
-MMMMM
+20010801 -- AAAAAAAAH!! - Meins! Meins! Alles meins! - Sehen Sir, Kruse: Für diese Momente lebt man als Trikotagenfachverkäufer! SSV
 20010904 -- Neulich in Drei Sterne Restaurant MOMENT! HA... ? - TSCHIE! - WELCH EIN KOCH!
 20011110 -- Guten Tag, Meiermann...verbinden Sie mich mit dem Kundendienst! Augenblick, bitte... - Oh nein! Hör Dir das an! Warteschleifenmusik "Classics"! Haha! * * * * * * "Üb immer treu und Redlichkeit"-Plingpling! Das waren damals die ersten Anlagen!
 20011110 -- Die konnten nur das! - 
@@ -413,6 +414,7 @@ MMMMM
 20020125 -- ...den hier anwesenden Wigbert Wullerich zu ehelichen, so antworten Sie mit "Ja"... - Ja! - Wegen seinem Knackarsch!
 20020207 -- So-und Ihre Ski... Ein grosser Schritt für die Menschheit......ein kleiner Schritt für mich! - - Skiunfall?! Draufgänger, was? Herr Ober! Noch einen! Geht wieder auf den Herrn...
 20020226 -- Baum! Baum! Hallo Baum! . Alte Borke! LAnge nicht gesehen! Lass Dich umarmen! - Ups-tschuldigung!-weh getan...?
+MMMMM
 20020429 -- Und? Was macht Dein Heuschnupfen? - HUACHU! - pffrz...
 20020508 TT Bääh-das ist eklig! Das ess ich nicht! - Es gibt viele Leute auf der Welt, die froh wären, wenn sie so was bekommen würden! - Wenn die wüssten, was es sonst noch so gibt, würden sie es auch eklig finden!
 20020508 MM OMMMMMMMMMMMMM... * - Hunderttausend heulende und jaulende Höllenhunde!! Verfluchter Bockmist, verfluchter! Dreck! Dreck! Dreck! - Jetzt hats mir wieder 'ne Füllung rausvibriert!
@@ -501,6 +503,7 @@ MMMMM
 20050611 -- Ich hab meinen Keller aufgeräumt. Und meine ganze alte Marmelade bei Ebay für ein Vermögen verhökert! - 1A Ware. Völlig unbelastet. Nach Adol und vor Tschernobyl. Bah! Da war doch garantiert so hoch der Schimmel drauf! - Die Auktion für die
 20050611 -- Design-Filzuntersetzer läuft noch...
 20050616 -- Wie lange soll ich denn noch hier rumstehen? Was wirft man mir denn vor? Grünmeise. Grünmeise?! - "Dämliches Gehupe sofort wenns grün wird". Schulz! - Ins Schalmeienorchester.
+20050625 -- "...ich war schon fast wieder zu Hause..." - "...blieb noch kurz vor einem Modegeschäft stehen..." - "...als plötzlich, wie aus dem Nichts, dieser maskierte Wahnsinnige vor mir Stand." ? "Er war klein, klein und...gemein."
 20050707 -- Als, Herrschaften! Die Stöcke setzen, wie wir es geübt haben. Zügig laufen... - Und schön zusammenbleiben, Aber nicht zu eng aufeinander! Sonst verhakelt sich einer... - Und wir haben wieder Idiotenmikado.
 20050818 -- Hallo! Hallo! Hallo! Äh...hallo! Hallo! - Chantal-Du musst jetzt sehr stark sein... Hab ich einen Pickel?! - Du bist nicht berühmt! Die wollen alle bloss was bestellen!
 20050913 -- Eingeschult-wie das schon klingt! Eingeschult, eingetütet, eingemottet, eingemacht. Ich weiss ja nicht... Schule ist absolut wichtig. Da lernt man alles, was man wissen muss! - Das sagst ausgerechnet Du?! 13 Jahre Schule (netto),
@@ -1194,3 +1197,4 @@ MMMMM
 20230217 -- Huch! Was war das?! Das war mein Magen. - Haben Sie nicht gefrühstückt? Nein. Ich wollte gut vorbereitet sein. - Er knurrt wie ein Rottweiler... ...und ich hab die Laune dazu!
 20230218 -- AREÖÖÖHH!! - Was machst Du?! Hör auf damit! Fahr da vorne mal näher dran vorbei! - Der auf dem Radweg! Ah-Fenster unten, cool! Der Fachmann spricht von "Vergrämung"!
 20230219 -- Wer ist denn der schnuckelige junge Mann mit dem einfallslosen Kostüm da? - Den hab ich mir fürs Schlafzimmer geholt. - Nee, nee, Freundchen! Nicht mit dem Stilettos aufs Wasserbett!
+20230220 -- Den Baum berühren...hm...zu gross! - Den Baum spüren...hm...zu klein! - Eins werden mit...ja! De rPasst! Was meinst Du? Nimm ihn! Ich hab Dir schon vor fünf Wäldern gesagt, probier mal Grösse "M"!

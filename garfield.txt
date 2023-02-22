@@ -17151,3 +17151,4 @@ ga230217 -- It's not too late to hide! - - Hi, Liz! Now it is!
 ga230218 -- Garfield! You ate the last donut! - You didn't leave anything for me! Very well. - ptoo CLANK
 ga230219 -- - sigh sigh - * DING! - ZIP! ZIP! - Good news, boys! - The oven's now preheated, the pizza will be ready in 20 minutes! - sigh sigh
 ga230220 -- Happiness is a giant cup of coffee. - - Monday is a giant cup of decaf.
+ga230221 -- - I have better things to do than sit and watch TV. click -
