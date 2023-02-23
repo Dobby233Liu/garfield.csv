@@ -10634,3 +10634,4 @@ dr230218 -- Come on, Wally! Jump into my arms... - So I can give you a bath! -
 dr230219 -- Ralph! Come take out the kitchen trash! - Coming, honeybunch! - - ...Sigh... - RALPH! Almost there! - This thing only goes so fast! WHIRRRRRR Sigh...
 dr230220 -- Before we go to the store, I need you to drive me to the library. - OK, what's the best way to get there? - It doesn't matter. Any way you want! - Why are you going THIS way?
 dr230221 -- I like it when the cat falls asleep on my lap! - - - Sorry, my stomach rumbled.
+dr230222 -- Dad, I need some fatherly advice... OK, let's see... - Always remember, even the most humble potato can become a french fry! I suppose I can use that.
