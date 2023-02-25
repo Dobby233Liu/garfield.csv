@@ -17153,3 +17153,5 @@ ga230219 -- - sigh sigh - * DING! - ZIP! ZIP! - Good news, boys! - The oven's no
 ga230220 -- Happiness is a giant cup of coffee. - - Monday is a giant cup of decaf.
 ga230221 -- - I have better things to do than sit and watch TV. click -
 ga230222 -- Odie, you lack ambition and drive. - Yup... - You're my kind of guy!
+ga230223 -- GARFIELD! - I know you shredded the curtains! - I sign my work.
+ga230224 -- Guess what! - I'm cooking dinner tonight! Ooo! - Should I bring anything? A fire extinguisher?

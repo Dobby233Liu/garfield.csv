@@ -280,6 +280,8 @@
 19960221 -- So! Schluss mit lustig! - 'n bisschen Fastenzeit würde Dir auch nicht schaden! - Red' blos snicht vom Essen...
 19960222 -- Ein Ausserirdischer! -ich hab's ja immer gesagt! - Wenn ich das geahnt hätte, hätte ich mich atürlich etwas zurechtgemacht... Für Ihre...hehe.."Experimente". - Intelligenztest: -negativ. Der nächste!
 19960223 -- Wandern! Und nich' mal 'ne Stulle dabei! -ich kann kaum laufen vor Hunger! Du bist fressfixiert.Deine Wampe kann's vertragen... - Schau Dir die Natur an...-das lenkt ab! Oh! Da! Sieh doch! ? Neben den Steinpilzen! Ein Kaninchen!! GROARRR!
+19960224 -- Den Slip hier... - Gehts nicht passend? - Es ist ein Geschenk!
+19960226 -- "Drogenersatzmittel" mit "M"...? Puh... Methadon. - Das kriegen die Junkies, damit sie aus ihrem kriminellen Umfeld rauskommen... - Weinbrandbohnen?
 19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -403,6 +405,7 @@
 20010716 -- Untern Zug gekommen? Berufsunfall... Stuntman? - Grundschullehrer. Sport? Werken. Werken? Fragen Sie lieber nicht... - Ah-Sie sind sicher das Laubsägenmassaker!
 20010801 -- AAAAAAAAH!! - Meins! Meins! Alles meins! - Sehen Sir, Kruse: Für diese Momente lebt man als Trikotagenfachverkäufer! SSV
 20010904 -- Neulich in Drei Sterne Restaurant MOMENT! HA... ? - TSCHIE! - WELCH EIN KOCH!
+20011001 -- Ich will da nicht rein! Das ist eklig! Was da alles drin ist! - Spucke! Popel! Pipi! Schweiss! Haare! Fusspilze! Na und? - Na, Sie müssens ja nicht trinken!
 20011110 -- Guten Tag, Meiermann...verbinden Sie mich mit dem Kundendienst! Augenblick, bitte... - Oh nein! Hör Dir das an! Warteschleifenmusik "Classics"! Haha! * * * * * * "Üb immer treu und Redlichkeit"-Plingpling! Das waren damals die ersten Anlagen!
 20011110 -- Die konnten nur das! - 
 20011121 -- ** Tätää **hier kommt der grosse böse Räuber! Und-ohoo! Er hat den kleinen bösen Räuber auch mitgebracht! Hihi! Schön. Würdest Du bitte das Licht ausmachen? - He! Plötzlich prüde geworden? Sollte mir da was entgangen sein? Ich fürchte, ja...
@@ -422,6 +425,7 @@
 20020518 -- Naja, ein Waschbrett haben die Leute benutzt, als es noch keine Waschmaschinen gab... - Das war so ein Brett mit Quer-Riffeln... - Und wenn ein Bauch so aussieht, dann ist das ein "Waschbrettbauch". Ah! Verstehe! So wie der von Papa... -
 20020518 -- Nein, das ist ein "Faltenbalg"...
 20020603 -- DLRG DLRG - DLRG DLRG - Du hast wieder Tierfilme geguckt... "Flamingos am Kabimbi-See"!
+MMMMMMMMMMMM
 20020803 -- Sag mal, hast Du die Klingel abgestellt? Das Telefon ist übrigens auch tot-und irgendein Idiot hat unseren Briefkasten abge... - - Morgen, 19 Uhr, Feriendias anschauen bei Knösels...
 20020817 -- - CIRCUS MAX - HUACHU!
 20020828 -- - HUACHU! -
@@ -517,6 +521,7 @@
 20060112 -- - -
 20060213 -- Dass die hier keine Alarmanlage haben... Wozu? - Wer klaut schon Chlorwasser? Aber es ist doch geschlossen. Die merken das doch gar nicht! Hey, das sind Bademeister! - Hallo Leute! Nachts lassen wir den Hai raus. Euer Bademeister
 20060328 -- Ein Traum. Das ist ein Traum. Das ist ein Traum. Das ist ein Traum. Das ist ein Traum. - Ja, nicht wahr? Ein Traum von einer Hölle! Es gibt Dinge, da darf man nicht sparen. - Sie sollten meine Küche sehen!
+20060406 -- Sagen Sie...bei meiner Freundin Trude ist Überschwemmung... Kein Problem. Sie stellen dort zu? - Selbstverständlich. Für ein Vermögen! Zum Standardtarif. Sie überraschen mich! - Plus Flaschenpfand.
 20060502 -- Ich will ein Pferd haben! Alle haben eins! Aber ja. Kein Problem. Als allererstes verkaufen wir Deinen Bruder. - Dann ist in seinem Bett Platz für das Heu. Pullern kann das Pferd in Dein Sandeimerchen und die Pferdeäpfel nimmst Du mit in die
 20060502 -- Schule und verschenkst sie an Deine Freunde. Schon gut. Vergiss es. - Ich nehm den Gaul!
 20060524 -- Morgen ist Vatertag. Mein erster! Da hau ich mit der alten Truppe mal wieder so richtig auf die Kacke! Haben ja jetzt alle eins... - Aber so ein blödes Hütchen lass ich mir nicht aufsetzen! Was empfiehlt der Meister? - pfft pfft
@@ -533,6 +538,7 @@
 20061019 -- Na, Ralf? Ein heimliches Zigarettchen? Hehehe... Keine Angst, erwischt zu werden? Pff! - He! Da kommt Deine... - Nee, doch nicht. *
 20061103 -- Fernsehen heute Abend ist gestrichen! Was?! Ich hab doch gar nichts gemacht! - Du sollst nicht mit dem Essen spielen! Hab ich doch gar nicht! - Acht Pferde...schnell geritten...nur eins davon beschlagen...auf der Marmelade ist es rückwärts
 20061103 -- gelaufen... Da hat jemand Probleme mit mir und den Komantschen.
+20061117 -- Hähähä! Buuh" - Au au au au! - So einen Pfefferspray wollte ich mir immer schon mal zulegen. Ist der nicht eigentlich für die Augen?
 20061230 -- "Mein guter Vorsatz für das neue Jahr:" Sehr löblich! Aber bedenke: Realistisch bleiben! Nicht zuviel vornehmen. - - Mein guter Vorsatz für das neue Jahr: Weniger erwischen lassen.
 20070112 -- ** Ding Dong Deine Handtaschen werden auch immer grösser! Muss das sein? - Guten Morgen! Wir möchten uns mit Ihnen ausführlich über ein wichtiges Thema unterhalten. Und ich werde Ihnen genüsslich die Tür vor der Nase zuknallen. -
 20070112 -- Hervorragende Idee, die Tasche in die Tür zu stellen! Wo hast Du den Amboss her?
@@ -841,6 +847,7 @@
 20180303 -- Völkerschlacht bei Leipzig! - Dann kanns dauern.
 20180404 -- Was ist los? Du bist heute so auffallend still... Ich glaub, ich hab 'n Burnout. Bretter da mal übers Kopfsteinpflaster! - Ah! ja! Gut! Geht wieder! - Ey! Abstand halten, Du Pimmelnase!
 20180410 -- Rasieren, bitte! Gerne. Stellen Sie Ihr Handy bitte auf Flugmodus! - Aber wir fliegen doch gar nicht! Und das wollen wir auch nicht. - Sie nicht, ich nicht und Ihre Nase nicht, Wenn Sie im falschen Moment Ihre Nachrichten checken!
+20180419 -- Der Marder hat wieder aufs Auto gekackt! Jetzt reichts! Jetzt kauf ich was! - Dieses kleine feine Gerät produziert für Marderohren dermassen unerträgliche Töne, dass der sofort für immer reissaus nimmt! Morgen ist der weg! -
 20180428 -- Hi, ich bin die danke-keinen-Kaffee-ich-muss-gleich-weiter-Fee, und Du darfst Die jetzt oder nie was wünschen! - Dann wünsche ich mir ein superlanges sorgenloses Leben! -
 20180502 -- Oh, wie ich diese Angeberburg hasse! Wir müssen sie endlich plattmachen! Aber wie? Er hat ein Schäufelchen! - Aufrüstung! Wir wuchten einen Baumstamm auf Omas Rollator, und schon haben wir eine Ramme! Nicht so laut! - Ich fürchte, er hat was
 20180502 -- gehört.
@@ -1204,3 +1211,5 @@
 20230221 -- Warum willst Du ein Pferd? Das legt nicht mal Eier! Pferde sind toll! - Ein Pferd ist gross! Es hat einen warmen Atem! Und wenn Du Dich draufsetzt, bekommst Du einen warmen Hintern! Ich weiss nur noch nicht, wie ich es nennen soll. -
 20230221 -- "Umluftherd".
 20230223 -- Die Croissant kommen frisch aus dem Ofen, die sind noch ganz heiss! - Am besten, Du lässt die Tüte noch eine Weile offen! OKay, Danke. Tschüs. - Das ist ja nett! Luise, Du auch? Auja!
+20230224 -- Legion zu mir! Erobert den Sandkasten! Und lasst ihn verschwinden! Und keine Sorge: Er hat nur ein Schäufelchen! - Und gleich gehört der ganze Spielplatz mir! Mir allein! Hahahahahaaa! Imperator? Es gibt ein Problem... - Er hat den Schlüssel
+20230224 -- zum Geräteschuppen.
