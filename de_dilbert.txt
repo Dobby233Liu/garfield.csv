@@ -11316,3 +11316,5 @@
 230223 -- Hi, ich bin Alex und meine Pronomen sind "Sie und "Ihr". - Hi, ich bin Wally und identifiziere mich als ein Typ, der nie die richtigen Pronomen verwendet. - Schach matt. Wenigstens nehmen Sie es sportlich.
 230224 -- Die Aktualisierung des Netzwerks ist glattgegangen und Sie stehen jetzt als Idiot da, weil Sie gesagt haben, das wird nichts. - Das haben Sie falsch in Erinnerung. Ich wusste nicht einmal, dass das Netzwerk aktualisiert wird. - Hören Sie auf
 230224 -- damit, mir was was einzureden! Ah, Sie sind einer von denen.
+230225 -- Wenn ich die Objekte in meiner Präsentation hin und herschiebe, kommt's mir vor, als würde ich arbeiten. - Arbeiten, arbeiten, arbeiten. - Der Unterschied zwischen der Arbeit an diner Präsentation und dem Begehen eines Wirtschaftsverbrechens
+230225 -- wird immer geringer.
