@@ -283,6 +283,7 @@
 19960224 -- Den Slip hier... - Gehts nicht passend? - Es ist ein Geschenk!
 19960226 -- "Drogenersatzmittel" mit "M"...? Puh... Methadon. - Das kriegen die Junkies, damit sie aus ihrem kriminellen Umfeld rauskommen... - Weinbrandbohnen?
 19960227 -- Äh...hallo? ...hallo? .....hallo! Einen Kaffee, bitte! ...EINEN KAFFEE! - * OLEEE-OLEEOLEE OLEE!! - WIR HAMM' NUr CAPPUCCHINO!!
+19960228 -- Ach, Du meine Güte! - "Held retted 5-köpfige Nichtschwimmer-Familie!" Hoho! - Rugby? Wasserballett...
 19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -436,7 +437,7 @@
 20020924 -- Gratuliere! Sie sind kerngesund! Und Sie haben das Fahrgestell eines jungen Mannes! Verdammt... - Hmmm...Tango...? Salsa. Der Kurs beginnt nächste Woche. Sie hat schon bezahlt... - Ähm...sprachen wir schon über Ihre Hüftgelenke? ...Orte des
 20020924 -- Grauens!
 20020928 -- He! Wo seid Ihr, Ihr Blödmänner? Ich kriege Euch alle! - Kalt. Eiskalt...ja...wärmer...wärmer...warm...warm...warm! - 24 Grad Celsius...
-MMMMMMMMMMMMMM
+20021001 -- ...den Baum fühlen... ... wie ein Baum fühlen... Hm... * - Geh nicht weg! Ich bin gleich wieder da, okay? - Wow!
 20021109 -- Eine Einemarkmarke! Gute Frau, falls es Ihnen entgangen sein sollte... Jaja-ich weiss! Und Raider ist jetzt Twix! - Wasist das? Ein Glas Selter. Und das? Ein Tempo. Und das? Spüli. Und das? Ein Stück Tesa. - Sehen Sie.und das da ist eine
 20021109 -- Einemarkmarke. Egal, was Sie draufschreiben! Sie machen mir Kopfschmerzen... Nehmen Sie eine Aspirin!
 20021217 -- Boh-was ist das?! Ich hatte mal einen korsischen Käse, der... Neinnein-das hier riecht eindeutig nach... - ...Verwesung -
@@ -458,6 +459,7 @@ MMMMMMMMMMMMMM
 20030514 -- Du sitzt schon wieder vor der dämlichen glotze. Oh, Ihr Maschinenstürmer! Werdet Ihr nie die Faszination Internet begreifen! - Ich hole uns die relae Welt ins Wohnzimmer! Da: Das ist eine Live-Kamera! Das kannst Du rund um die Uhr sehen, was
 20030514 -- gerade auf der anderen Seite der Welt passiert! Wahnsinn! - Aha..oh-was war das? Da ist eben in China ein Sack Reis umgefallen.
 20030524 -- Schauen Sie sich das gut an, Jasmin! Kein besonders schöner Anblick, gewiss... Aber stellen Sie sich mal vor, wieviel dadrin schon zerkleinert worden ist! - Und das alles! - Darf ich nach Hause? Mir ist schlecht... Mir auch!
+MMMMMMMMMMMMMMMMMMMMMMM
 20030714 -- - - Lassen Sie ihn ruhig noch ein bisschen! Er hat den Tabasco leergesoffen...
 20030726 -- Ausmachen! Wie meinen? Das Grillieren in öffentlichen Parkanlagen ist nur an den ausgewiesenen Stellen gestattet! - Aha-und wo finde ich diese Stellen? Nirgends. Was solls-dann essen wir eben Brote... -
 20030819 -- Johoo! Und hier ist wieder Euer cooler Verkehrskasper mit seinem fetten Verkehrsquiz für Kids! - Hey! Was bedeutet dieses voll krasse Schild? - "Vorsicht grosser Bruder!"
@@ -823,6 +825,7 @@ MMMMMMMMMMMMMM
 20170513 -- wenn die Leute weit weg sind! Rotes Kätzchen.
 20170530 -- Ich brauche dringend eine sommerliche Frisur, Maestro! - Aber das sieht doch top aus! Ich würde die nicht noch mehr kürzen. Kprzen?! Ich will Extensions! - Ich muss meine Sonnenbrille in die Haare stecken können!
 20170612 -- Wieso zahlen Nichtschwimmer genausoviel  Eintritt wie Schwimmer? - Unser Becken ist nur halb so voll! - Ihr trinkt mehr.
+20170710 -- Neee, mit dem Rauschebart steigen Sie nicht in mein frisches Becken! Wie bitte?! - Au! Sehn Sie? Haart wie ein toter Pudel! JA, und jetzt? Bin ich hier der Kreative? - * Danke. Cool. LUDL
 20170718 -- Tschuldigung, Fleckenmittel...? Ganz da hinten in der Ecke. Ich zeigs Ihnen. - Um was für Flecken handelt es sich denn? Der Klassiker! - Bauchflecken.
 20170726 -- Die Burg reissen wir ab und bauen dort Eigentumswohnungen! Mit Garagen! - Nicht in seine Richtung reden! Er kann von den Lippen lesen! Haha! im 17. Stick? Mit dem Rücken zu uns? Wie soll das gehen? - Mit einem polierten Edelstahlschäufelchen.
 20170729 -- Hahaha! Mit der alten Möhre brauchst Du ja ewig bis zur Kita! Bis später! Sags ihm! - Das ist ein total neues 28-Gang Tourenrad und sauschnell, bäh! Oh, tschuldigung! Ich Idiot! - Ich meinte alte Mähre! *
