@@ -284,6 +284,7 @@
 19960226 -- "Drogenersatzmittel" mit "M"...? Puh... Methadon. - Das kriegen die Junkies, damit sie aus ihrem kriminellen Umfeld rauskommen... - Weinbrandbohnen?
 19960227 -- Äh...hallo? ...hallo? .....hallo! Einen Kaffee, bitte! ...EINEN KAFFEE! - * OLEEE-OLEEOLEE OLEE!! - WIR HAMM' NUr CAPPUCCHINO!!
 19960228 -- Ach, Du meine Güte! - "Held retted 5-köpfige Nichtschwimmer-Familie!" Hoho! - Rugby? Wasserballett...
+19960229 -- >>BRATZ<<...der 8 jährige Peter sucht seine Mutti.er wartet auf sie am Informations-Stand der Delikatess-Abteilung. ! - - >>BRATZ<<...Sie soll einen Scheck mitbringen...
 19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -459,7 +460,8 @@
 20030514 -- Du sitzt schon wieder vor der dämlichen glotze. Oh, Ihr Maschinenstürmer! Werdet Ihr nie die Faszination Internet begreifen! - Ich hole uns die relae Welt ins Wohnzimmer! Da: Das ist eine Live-Kamera! Das kannst Du rund um die Uhr sehen, was
 20030514 -- gerade auf der anderen Seite der Welt passiert! Wahnsinn! - Aha..oh-was war das? Da ist eben in China ein Sack Reis umgefallen.
 20030524 -- Schauen Sie sich das gut an, Jasmin! Kein besonders schöner Anblick, gewiss... Aber stellen Sie sich mal vor, wieviel dadrin schon zerkleinert worden ist! - Und das alles! - Darf ich nach Hause? Mir ist schlecht... Mir auch!
-MMMMMMMMMMMMMMMMMMMMMMM
+20030602 -- THE MAKING OF... 1. Teil - Der Mensch-Krone der Schöpfung-Beherrscher der Atome... Ist doch logisch! Zuerst war das Ei! Mumpitz! Das Huhn! - Er weiss Taschenrechner in Armbanduhren zu bauen, elektrische Nasenhaarschneider zu
+20030602 -- konstruieren... Ei! Huhn! Ei! Huhn! Ei! Huhn! - ...und scheitert doch an den elementaren Geheimnissen der Schöpfung. BATSCH! BITSCH! Nun, am Anfang war die Socke...
 20030714 -- - - Lassen Sie ihn ruhig noch ein bisschen! Er hat den Tabasco leergesoffen...
 20030726 -- Ausmachen! Wie meinen? Das Grillieren in öffentlichen Parkanlagen ist nur an den ausgewiesenen Stellen gestattet! - Aha-und wo finde ich diese Stellen? Nirgends. Was solls-dann essen wir eben Brote... -
 20030819 -- Johoo! Und hier ist wieder Euer cooler Verkehrskasper mit seinem fetten Verkehrsquiz für Kids! - Hey! Was bedeutet dieses voll krasse Schild? - "Vorsicht grosser Bruder!"
@@ -470,6 +472,7 @@ MMMMMMMMMMMMMMMMMMMMMMM
 20031101 -- Ich bin ja eher so der flotte Frühlingstyp, sagt meine Typberaterin und ich krieg ja auch gleichDepris, wenn ich jetzt aus dem Fenster schaue... Und dann auch noch diese beknackte Zeitverdreherei! - Wenn ich dran denke, dass es jetzt da
 20031101 -- draussen um diese Uhrzeit schon wieder total... Nicht! ...dunkel ist... - Marke To Die For Postbank chrrr... Bravo!
 20031120 -- Muss das sein, so früh? Sonst gehen uns die Frühschichtler durch die Lappen. Ausserdem sind müde Menschen viel ruhiger. - ngdingdongdingdongdingdong HRRRR! - chrrr...
+MMMMMMMMMMMMMMMMMMM
 20040104 -- ? - - *
 20040122 -- SECURITY CHECK - - ---aus sicherheitstechnischen Gründen um einige Minuten verzögern...Ladies and Gentlemen, Flight Number...
 20040221 -- Nie wieder! Das nächste Mal kannst Du alleine versuchen, Dir den Hals zu brechen! Berge sind so schon ein Unsinn, aber mit Schnee eine internationale Bedrohung! - Wir müssen umsteigen... Ah! Zivilisation! Normale Menschen! - ** Heute blau und
@@ -950,6 +953,7 @@ MMMMMMMMMMMMMMMMMMMMMMM
 20220414 -- Rest hat nicht draufgepasst.
 20220426 -- Was macht der Föhn? Ich hab ein paar Teile gewechselt. Der schnurrt gleich wieder wie neu! - * FURZ! Bravo! Und jetzt? - Spassföhnen mit Okel Figaro Nur € 2,-
 20220507 -- ** DING DONG - HELLS ** ** BELLS! - Warn't Scherz! Da ist der Ausgang, bis später! * * * * 
+20220510 -- Hallo! Ich bin Ihr neuer Nachbar! Seh ich da eine E-Gitarre? - Das ist eine Laute! - Dann aber nur mit Kopfhörer, Freundchen!
 20220518 -- Um die Verbreitung von Infektionen zu vermeiden, empfehlen Gesundheitsexperten statt in die Hand in die Armbeuge zu niesen. - Dass dies jedoch ein schlechter Rat ist, demonstriert uns nun die Ortsgruppe der anonymen Hypochinder Knödlingen.
 20220518 -- Bitte sehr! * ****** ** *
 20220519 -- Na toll. Der Fahrstuhl hängt! Das kann dauern! - Und nichts zu lesen dabei... Hüstel... - Hanni Nanni
@@ -1220,3 +1224,4 @@ MMMMMMMMMMMMMMMMMMMMMMM
 20230224 -- Legion zu mir! Erobert den Sandkasten! Und lasst ihn verschwinden! Und keine Sorge: Er hat nur ein Schäufelchen! - Und gleich gehört der ganze Spielplatz mir! Mir allein! Hahahahahaaa! Imperator? Es gibt ein Problem... - Er hat den Schlüssel
 20230224 -- zum Geräteschuppen.
 20230225 -- Horst! Du schnachst! CHRRR! - Ich schnache nicht, ich schlafe starkatmig! - Und Schlafentzug ist keine Folter, sondern eine nächtliche Freizeitbeschäftigung!
+20230226 -- Mist! - Du wirst doch wohl nicht vom Boden essen wollen? Schäm Dich! -
