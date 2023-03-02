@@ -287,6 +287,7 @@
 19960229 -- >>BRATZ<<...der 8 jährige Peter sucht seine Mutti.er wartet auf sie am Informations-Stand der Delikatess-Abteilung. ! - - >>BRATZ<<...Sie soll einen Scheck mitbringen...
 19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
 19960302 -- ...begründet sich die Überlegenheit des "Homo Sapiens" in dessen Neugier, Mut und der Fähigkeit, extremste Herausforderungen... - ...durch Kreativität und Experimentierfreudigkeit zu meistern! Beispiele! Entdecker! Forscher! Flieger! - S/M...
+19960304 -- PUH... Bier? - Tequila! -
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
 19960608 -- ...taufe ich Dich auf den Namen: "Mike Nelson"! - - My Lady...es ist ein U-Boot...
@@ -383,6 +384,7 @@
 20000801 -- Am Samstag der Marktfrau (verkaufte Zucchini!). - Am Sonntag bis abends alleine im Bett. Mit schmerzendem Arm-oh, Frühpubertät!
 20000901 -- Ja! Was ist denn?! Herrgott-ich komm noch zu spät!! Setz Dich erstmal hin... - Warum? ...ist was passiert? Setz Dich! - Kalt am Popo?
 20001013 -- - ARRRRHH!! - Nur die Ruhe-eine verlorene Schlacht ist noch kein verlorener Krieg! Ich hab nicht angefangen!
+20001025 -- Hasso: Gib Pfötchen! Na los: Gib Pfötchen!! Gib Pfötchen! Hopp! Du sollst Pfötchen geben! * ? ? ? - Hoffnungslos-diese Töle ist dumm wie Brot! - Hasso: vorne rechts...
 20001026 -- Glauben Sie ja nicht, dass Sie mich mit so albernem Gepiesacke beeindrucken können! Ich war 40 Jahre lang der Boss des Syndikats-Dr. No ist gegen mich ein Teletubbie! - Tj-ich bin nunmal ein harter Knochen-da kann man man nichts machen! -
 20001026 -- Suppe.
 20001116 -- Schöner Fisch... Danke! - Aber ist er auch frisch? So frisch wie Sie, junge Frau! - Streiken schon wieder die Brummi-Fahrer?
@@ -479,7 +481,7 @@
 20040122 -- SECURITY CHECK - - ---aus sicherheitstechnischen Gründen um einige Minuten verzögern...Ladies and Gentlemen, Flight Number...
 20040221 -- Nie wieder! Das nächste Mal kannst Du alleine versuchen, Dir den Hals zu brechen! Berge sind so schon ein Unsinn, aber mit Schnee eine internationale Bedrohung! - Wir müssen umsteigen... Ah! Zivilisation! Normale Menschen! - ** Heute blau und
 20040221 -- morgen blau und üüüübermorgen wiiieder! ***
-MMMMMMMMMMMMMMMMMMM
+20040301 -- Da-scahu Dir das an! Ein paar Muttern-und? Das sind keine Muttern, das ist der Weg zum Reichtum! - Stahl kostet ein Vermögen! Und das Zeug liegt überall rum-wir müssen es nur aufheben! Ganz schön gross! Wo hast Du die her? - 10m
 20040419 -- Soll ich schon mal reinspringen? Gemach! Gemach! Schwimmen will gelernt sein! Geht gleich los... - Huark! Tja-Sie wechseln wohl besser erstmal das Wasser... Tschüss! - Gute Arbeit! War mir ein Vergnügen, mit Ihnen Geschäfte zu machen...
 20040503 -- - So! Der ist leer! Puh! öchö... - 
 20040528 -- Was wird das? Ein Minarett! Direkt vor meiner Nase! Das ist eine Frechheit! - Kein' deutschen Sand in Maurenhand! Ich werrrde dieses Machwerk dem Errrdboden... - *
@@ -1229,3 +1231,4 @@ MMMMMMMMMMMMMMMMMMM
 20230225 -- Horst! Du schnachst! CHRRR! - Ich schnache nicht, ich schlafe starkatmig! - Und Schlafentzug ist keine Folter, sondern eine nächtliche Freizeitbeschäftigung!
 20230227 -- Mist! - Du wirst doch wohl nicht vom Boden essen wollen? Schäm Dich! -
 20230228 -- Generalüberholt! Komplett zerlegt und wieder wie neu gemacht! Wow! Da liegt noch ein Schräubchen, Herr General! - Dann war es nicht wichtig. - WUUUUH!
+20230301 -- ** Ding Dong Klöpke? Klöpke...irgendwie klingelt es bei mir... - Hahaa! Nun denn! Lebz wohl! Ich gehe! Für immer! Ha! - Der ist harmlos. Schauspieler! Übt gerade Abgänge! !
