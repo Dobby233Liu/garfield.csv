@@ -288,6 +288,12 @@
 19960301 -- Hoho! Schau mal! Da unten! Unser Auto! - Wenn ich nur die Augen aufmache, wirds mir schlecht! Die Tüte ist da am Sitz... -
 19960302 -- ...begründet sich die Überlegenheit des "Homo Sapiens" in dessen Neugier, Mut und der Fähigkeit, extremste Herausforderungen... - ...durch Kreativität und Experimentierfreudigkeit zu meistern! Beispiele! Entdecker! Forscher! Flieger! - S/M...
 19960304 -- PUH... Bier? - Tequila! -
+19960305 -- Seltsam-da komm' ich aus dem Urlaub, zurück in eine Wohnung voller mühselig angesammelter Besitztümer... - ...und könnte mir doch vorstellen, weiterhin aus meiner Tasche zu leben... - Dann wollen wir sie doch gleich mal wegschliessen!
+19960306 -- Hallooo...ich heisse Moni...* Ich habe langes blondes Haar und einen tollen vollen Busen...mein knackiger Po freut sich... * * ?! - ...ahem...äh...hallo? Ich...äh...ich hab mich wohl verwählt... ...oh...verstehe...kein Problem. - ...ich geb'
+19960306 -- Ihnen 'ne Kollegin.
+19960307 -- Guten Tag-wir möchten mit Ihnen über Gott sprechen! - PSCHHT! - Hier! Kommen Sie heute abend zu dieser Adresse...und seien Sie um Gottes Willen vorsichtig!
+19960308 -- Schwelendes Feuer, * Alles verzehrende Gluut... ***** ** Au, das wird teuer! Bin ich nicht guut? ** - -
+CCCCCCCCCCCCCCCC
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
 19960608 -- ...taufe ich Dich auf den Namen: "Mike Nelson"! - - My Lady...es ist ein U-Boot...
@@ -359,6 +365,7 @@
 19990331 -- Da-schau Dir den an! -eine Geschäftsidee -Patent drauf. - -in Fernost produzieren lassen -und abkassieren... Was verkauft er? ...Computerkram? - Leicht entflammbare US-Fahnen...
 19990401 -- Wo bin ich...? Wer...wer sind Sie? Petrus. - Einundzwanzig...zweiundzwanzig... - ** April-April! **
 19990503 -- Wie lange dauert das denn noch! Wenn's eilig ist, dann erledigen Sie Ihre Post doch "online"! - Ah-Sie denken wohl, ich bin von gestern! -nicht mit mir, junger Mann-nicht mit mir! - Das bisschen Rollschuhlaufen bring' ich auch noch!
+19990525 -- Ein Flugzeug!! - ** Gerettet! Gerettet! ** Hahahahahahahaha...! - Bloss irgendwelche Kreuzfahrtraverdeppen-zurück auf Kurs! Roger...
 19990625 -- Süsse Marken POSTBANK chrrr...pfff...chrrr... - AUF! - Ah-es geht doch nichts über eine solide Schulerziehung...!
 19990709 -- Oooh-'ne Schildkröte!! -is' die süüüüüs... Bisschen schüchtern, was? - Darf ich sie mal streicheln? Wie denn? - Zum Doc
 19990801 -- Wir waren einmal die schärfste Männer-WG diesseits der Berge.. - *** - ...und das sind wir heute noch! Doch das ist eine andere Geschichte...
@@ -374,6 +381,8 @@
 20000218 -- He! Streiken die Kanalarbeiter?
 20000314 -- Hilfe!! Zu Hilfe!! So helfen Sie mir doch! . Ich werde verfolgt!! Tut mir leid... Ich bin nur für das nasse Element zuständig... - Dann tun Sie was! ...sie will mich küssen!
 20000403 -- Markwürdiges POSTBANK chrrr... - BEDIENUNG!! Eineeinmarkmarke! - Für mich noch'n Pils...
+20000422 -- Also-Du gehst durch Klöpkes Garten und hoppelst dann am Kinderzimmer vorbei... Los! Oh mann... - Mama! Mama! Da draussen ist ei riesiges Tier!! Ein Tier...? Was denn für ein Tier? - Keine Ahnung! Es liegt am Boden... Frau Klöpke hat es mit
+20000422 -- dem Spaten erledigt!
 20000529 -- Oh, Gott... ...is' mir schlecht... - Wo sind die Kotztüten? Wir sind hier nicht bei der Lufthansa! - Nehmen Sie Deutschland...
 20000531 -- Meine Güte! Der fährt aber nah auf! - Lass ihn doch vorbei... - Er will ja nicht!
 20000613 -- Hören Sie-das ganze muss ein Irrtum sein! Sie können mir nicht weissmachen, dass bei dem ganzen Tohuwabohu hier keien Fehler vorkommen!! - Najaa...wir hatten da mal einen vom Gesundheitsamt... Aha! - Aber seitdem wechseln wir täglich das
@@ -482,24 +491,26 @@
 20040221 -- Nie wieder! Das nächste Mal kannst Du alleine versuchen, Dir den Hals zu brechen! Berge sind so schon ein Unsinn, aber mit Schnee eine internationale Bedrohung! - Wir müssen umsteigen... Ah! Zivilisation! Normale Menschen! - ** Heute blau und
 20040221 -- morgen blau und üüüübermorgen wiiieder! ***
 20040301 -- Da-scahu Dir das an! Ein paar Muttern-und? Das sind keine Muttern, das ist der Weg zum Reichtum! - Stahl kostet ein Vermögen! Und das Zeug liegt überall rum-wir müssen es nur aufheben! Ganz schön gross! Wo hast Du die her? - 10m
+20040303 -- Raus da! Sofort! Dein Platz ist auf dem Kindersitz! - Hast Du an irgendwas rumgedaddelt? Was? Wer? Ich? Nein! Ich schwörs! Na gut-ich muss zu einem Termin. Mach das Tor auf! - "...an der nächsten Ampel rechts abbiegen..." ?
+20040305 -- Hmmmm... Na los, frag schon! - Weisst Du, was eine Kettenreaktion ist? Natürlich. In Bezug auf die Chemie? Oder in Bezug auf die Kernphysik...? - In Bezug auf Deine Haftpflichtversicherung...
+20040308 -- Also...pass auf: Erstens: Flach halten! Zweitens: Drall! Drittens: Ordentlich Schmackes! Dann drischt der Stein auf die Wasseroberfläche, prallt ab und fliegt weiter... - POCK! - * Ich kanns! Ich kanns!
+20040326 -- Ka-tschumm! Ka-tschumm! Na los! Komm schon! Komm! Ka-tschumm! Keine Reaktion! - Mehr Saft! Schnell! Ich erhöhe auf "Leinen"! - Verdammt! Wir verlieren ihn!
 20040419 -- Soll ich schon mal reinspringen? Gemach! Gemach! Schwimmen will gelernt sein! Geht gleich los... - Huark! Tja-Sie wechseln wohl besser erstmal das Wasser... Tschüss! - Gute Arbeit! War mir ein Vergnügen, mit Ihnen Geschäfte zu machen...
 20040503 -- - So! Der ist leer! Puh! öchö... - 
 20040528 -- Was wird das? Ein Minarett! Direkt vor meiner Nase! Das ist eine Frechheit! - Kein' deutschen Sand in Maurenhand! Ich werrrde dieses Machwerk dem Errrdboden... - *
 20040603 -- Du wirst immer fetter! Sollen wirs ihm sagen? - Da ist ein kleines Schwesterchen für Dich drin! Oh! Verstehe... - Dann ist da der Kinderwagen drin!
 20040610 -- Lalü-lalü... He! Was zum... - Auseinander! Sofort! - Herrgott-wenns juckt...
 20040630 -- "Machen Sie den Kugelschreiber-Test"! ??? Wenn er nicht mehr schreibt, ist er leer, oder was? Hehe... - Das ist ei Busen-Check! Bleibt der Kuli hängen, hapert's mit dem Bindegewebe. Herrjeh! Einer der grossen Vorteile, ein Mann zu sein! -
-20040816 -- Wundervoll! Dieses Zusammenspiel von geometrischer Klarheit und glitzernder Unruhe...das ist pure Poesie! Ich werde ein Gedicht darüber schreiben! - Vor-Chor-Moor-Tor-Rohr-Bohr ? - Reimt sich auf Chlor!
-20041001 -- Pilze sammeln-tolle Idee. Und wenn wir keine finden, gibt's wieder Nudeln. Wir lassen finden! Ich habe einen Plan. - Amateure benutzen Plastiktüten. Profis nehmen Stoffbeutel. Wir folgen einfach dem nächsten, der mit einem Stoffbeutel in der
-20041001 -- Hand ins Unterholz verschwindet! Das ist dann ein Profi! - Oder ein Ossi, der pinkeln muss.
-20040303 -- Raus da! Sofort! Dein Platz ist auf dem Kindersitz! - Hast Du an irgendwas rumgedaddelt? Was? Wer? Ich? Nein! Ich schwörs! Na gut-ich muss zu einem Termin. Mach das Tor auf! - "...an der nächsten Ampel rechts abbiegen..." ?
-20040305 -- Hmmmm... Na los, frag schon! - Weisst Du, was eine Kettenreaktion ist? Natürlich. In Bezug auf die Chemie? Oder in Bezug auf die Kernphysik...? - In Bezug auf Deine Haftpflichtversicherung...
-20040308 -- Also...pass auf: Erstens: Flach halten! Zweitens: Drall! Drittens: Ordentlich Schmackes! Dann drischt der Stein auf die Wasseroberfläche, prallt ab und fliegt weiter... - POCK! - * Ich kanns! Ich kanns!
-20040326 -- Ka-tschumm! Ka-tschumm! Na los! Komm schon! Komm! Ka-tschumm! Keine Reaktion! - Mehr Saft! Schnell! Ich erhöhe auf "Leinen"! - Verdammt! Wir verlieren ihn!
+20040701 -- Hören Sie auf! Sie sind nichtmehr in der Fussgängerzone. - Ausserdem sind lebende Statuen schon seit Jahren sowas von out...unsd Sie sind nichtmal gut. - Ha! Ich kann ewig so stehen! ACME Juckpulver
 20040717 -- Die Leute sind echt Arschlöcher! Keiner hat mich lieb... Wem sagen Sie das... - Auch Lehrere? Meteorologe. -
 20040724 -- Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! Eineeinemarkmarke! - Haben Sie jetzt entgültig einen Sprung in der
 20040724 -- Platte? - He! War das meine Idee, die Dinger nur noch im Zehnerpack zu verkaufen?!
+20040816 -- Wundervoll! Dieses Zusammenspiel von geometrischer Klarheit und glitzernder Unruhe...das ist pure Poesie! Ich werde ein Gedicht darüber schreiben! - Vor-Chor-Moor-Tor-Rohr-Bohr ? - Reimt sich auf Chlor!
+20040901 -- Sooo...was war gleich bei Ihnen? Eineeinemarkmarke? * * - Ich habs mir inzwischen anders überlegt. Geben Sie mir hundert von denen da. Die sind doch alle selbstklebend? Willkommen in der Moderne! Ja, die haften auf jedem Mist! -
 20040903 -- ** Ding-Dong ** Ah-Hallo! Kommt rein! - Da ist noch Wasser und Cola. Die anderen sind schon alle drüben. ? ? Ist nicht mehr viel. - Nudelsalat und Bier gibts in der neuen Wohnung!
 20040907 -- Hilfe! Kann vielleicht mal jemand diese grässliche Kreischsäge abstellen?! * - Ein paar Briefmarken! Schnell! Schnell! Hier! Hier! - 
+20041001 -- Pilze sammeln-tolle Idee. Und wenn wir keine finden, gibt's wieder Nudeln. Wir lassen finden! Ich habe einen Plan. - Amateure benutzen Plastiktüten. Profis nehmen Stoffbeutel. Wir folgen einfach dem nächsten, der mit einem Stoffbeutel in der
+20041001 -- Hand ins Unterholz verschwindet! Das ist dann ein Profi! - Oder ein Ossi, der pinkeln muss.
 20041006 -- HALT! Kann ich mal sehen, was Du in Deinen Taschen hast? Was? Wer? Ich? Nix! - Fünf Kilo Gummibärchen! Einfach mitgehen lassen! Woanders würden Sie Dur die Hand dafür abhacken! Ach was! Bei Penny erwischen die mich nie!
 20041009 -- Ein Zimmer mit Blick auf die Wüste, wie schön! Verdammte Affenhitze... He! Hier gibts sogar frische Kleidung zum Wechseln! - Touristen! Deutsch. Woran siehst Du das? Billich! Cheep! Pas chair! - Sie tragen Hoteltischdecken auf dem Kopf.
 20041125 -- Huh-ist das kalt geworden! Wir sollten die Wintermäntel rausholen... - Ich hoffe, Du hattest genug Lavendelsäckchen reingetan! Was? Selbstverständlich! -
@@ -508,6 +519,8 @@
 20041218 -- Blöde Viecher! Die Vögel mögen unseren Meisenknödel nicht. - Da steckt mein halber Kühlschrank drin! Das könnt Ihr nicht einfach wegschmeissen! Wenns keiner fressen will! - Ketchup?
 20041224 -- Liebe Eltern! Und nun für Euch, zum Fest der Liebe, die Weihnachtskantate Nummer 273 in C-Dur von Alberto Grissini für Cembalo und Harfe. - - As technischen Gründen jetzt doch "Ihr Kinderlein kommet" für Blockflöte und Becken...
 20041231 -- BRETTL SKI BRETTL SKI GIGANTIC SPORT GIGANTIC SPORT - Das waren die Favoriten des heutigen Schanzenspringens... ...und nun kommen wir zu einem Athleten, für den Dabeisein alles ist. - HIER KÖNNTE IHRE WERBUNG STEHEN HIER AUCH HIER AUCH UND HIER
+20050103 -- Meine guten Vorsätze für das neue Jahr. - Ich werde nie wieder meinen kleinen Bruder schlagen. - Wenn es die Situation zulässt.
+20050201 -- COC -> Der nächste bitte! Oha! - Tja, mit Ihrem Rücken, das wird ein paar Tage dauern...heban Sie heute abend eigentlich schon was vor? ? - ****
 20050308 -- Das darf ja wohl nicht wahr sein. - Welcher Trottel dreht die Heizung auf volle Pulle und reisst alle Fenster auf?! - ** WINTER ADE!! **
 20050405 -- Mein Mann braucht ein paar neue Schlüpfer. Men's Point . Welche Grösse? Acht. Sechs. Mit Eingriff? Nein. Ja. - Werd' ich vielleicht auch mal gefragt?! Zahlen Sie bar oder mit Karte?
 20050412 -- Sitz! Attila! Sitz! Schnell, eine Einemarkmarke! Ich kann nicht mehr lange für ihn garantieren! HAUHAUHAU! - Pah! Das ist ja bloss ein alter Pekinese. Hrrr... He, er war die Filmstimme vom "Hund von Baskerville"! - Und auch seine Blase... *
@@ -527,6 +540,7 @@
 20050913 -- Eingeschult-wie das schon klingt! Eingeschult, eingetütet, eingemottet, eingemacht. Ich weiss ja nicht... Schule ist absolut wichtig. Da lernt man alles, was man wissen muss! - Das sagst ausgerechnet Du?! 13 Jahre Schule (netto),
 20050913 -- abgeschlossenes Hochschulstudium, Wiwaweiterbildungen und 4 Kilometer Bücher gelesen. - Und alles, was ich Dich frage, weisst Du aus der "Sendung mit der Maus"!
 20051028 -- Ich bin um die Welt gefahren. Mit dem Fahrrad! Ich war überall! Und jetzt muss ich gleich ins Fernsehen. Live! - Na, dann machen Sie mich mal wieder salonfähig! -
+20051101 -- ** Ding Dong Bäh! Mässige Dich! - Hundekacke! Auf dem Klingelknopf! Na warte... Mässige Dich! - Das machen die Lümmel von Gegenüber.
 20051206 -- Mein Sohn, ich muss mit Dir reden. Ich wars nicht! Du bist jetzt alt genug um enige Wahrheiten verkraften zu können... - Du musst jetzt sehr stark sein: Der Wehnachtsmann...das bin ich! Du sagst, Du bist der Weihnachtsmann? Ich bin der
 20051206 -- Weihnachtsmann! - Das ist schon okay...ich werd Dich auch im Heim besuchen!
 20051217 -- Ich möchte Anzeige erstatten! Ich war auf der Loipe...gut, nicht sehr schnell, aber ich mache es ja für die Gesundheit. - Kommt von hinten dieser Rüpel angerast, schneidet mich und bebrüllt mich auch noch auf das übelste mit seinem gutturalen
@@ -546,6 +560,7 @@
 20060705 -- Kann ich das Auto haben? Ich mach den Tank auch wieder voll. - Und ich werde natürlich keinen Tropfen trinken und keinen Unsinn auf dem Rücksitz machen. Versprochen. - Schon gut, das ist nur behutsames Heranführen. Nicht, dass Du als alter
 20060705 -- Sack einen Herzkasper kriegst, wenn es dann soweit ist.
 20060826 -- Guten Tag. Willkommen in der Hölle. Wir... He! - Hören Sie gefälligst auf, mir am Rücken rumzudaddeln! Es funktioniert nicht. - Okay. Wer war das? Skip Intro
+20060901 -- ? Ein Pantomime! - Sowas gibts noch? Toll! Als ob er sich wirklich an einer Glasscheibe langtastet...der ist gut! Der ist schlecht. - Die Scheibe ist echt. Und heiss.
 20061003 -- Du brauchst keine Angst vor der Schule zu haben, Schule ist toll! Papa und ich sind immer gerne zur Schule gegangen. Nicht wahr, Hubert? Hu-bert... Was? Jaklarsicherganztollschulesupergernewiederdanke. - Ehrlich? Glaubst Du, Dein Vater könnte
 20061003 -- Dich belügen? - Ahoi! Wohin fährt dieses Schiff? Hoppetasse
 20061019 -- Na, Ralf? Ein heimliches Zigarettchen? Hehehe... Keine Angst, erwischt zu werden? Pff! - He! Da kommt Deine... - Nee, doch nicht. *
@@ -580,6 +595,7 @@
 20070917 -- vor. Natürlich gab es überall im Ostblock auch 10-Meter-Bretter. - Aber sie hatten immer nur Material für 5 Meter.
 20070924 -- Früher waren Missernten eine Katastrophe! Deshalb stellte man einen Bauern mit gutem Gedächtnis... ...auf so ein 10-Meter-Brett. - Zur Wetterbeobachtung. Aus der Zeit stammen die Bauernregeln. Und wenn er sich mal geirrt hat? - Dann gab es
 20070924 -- immer noch die Götter. Aus der Zeit stammt auch das Bauernopfer.
+MMMMMMMMMMMMMMMMMMMMMM
 20071206 -- Wenn ich schon wieder nicht da bin, wenn der Weihnachtsmann kommt, werden sie womöglich misstrauisch. Ich hab Ralf das Kostüm gebracht. Er machts. - Na, hoffentlich macht er keine Brandflecken rein! Das Ding war teuer! Für wie blöde hälst Du
 20071206 -- mich? Ralf raucht doch nicht mehr. - Ho! Ho! Ho!
 20071208 -- Wie? Du bist der Weihnachtsmann? Jau. Höchstpersönlich. - Wahahaha! Ja, klar. Und ich bin der Osterhase! - Tatsächlich. Entschuldige. Ich konnte Deine Ohren nicht sehen, Kollege.
@@ -610,6 +626,8 @@
 20081125 -- ALDI Maestro-ich habe gesündigt! Ich hab mir die Haare selbst gefärbt...es sah grässlich aus... Dann hab ich versucht, es wieder raus zu bleichen... - Maestro-helfen Sie mir! Ich hab gleich einen wichtigen Termin-können Sie schnell etwas tun,
 20081125 -- damit ich besser aussehe? Mon dieu! Sicher... - KaDeWe
 20081129 -- Hat geschmeckt, ja? Einen kleinen Grappa aufs Haus, ja? Wraum? Horst! Gerne, grazie, due, prego. - Wenn das Essen okay war, braucht man keinen Schnaps! Die Muscheln... Alte Unke-der will doch nur einen mittrinken! - Salute!
+20081220 -- Da ist ja im Wald Klauen und erwischt werden billiger! Wer zahlt denn solche Mondpreise für einen Weihnachtsbaum? Na gut. Ich lass Ihnen den da hinten für 'n Fünfer. - Ist was mit dem Baum? Der Baum ist absolut top! Da hängt sogar schon ein
+20081220 -- Engel dran. Gekauft! - RETTET DIE TANNE!
 20081231 -- Ein Dutzend von den grossen Raketen da oben, bitte. Die darf ich Dir nicht verkaufen, zu gefährlich. Knallerbsen kannst Du haben. - Zu gefährlich? Das ist albern! Die fliegen doch weg! Knallerbsen bekommt man ins Auge geworfen! Verdammt!
 20081231 -- Raketen erst ab 18! - Wir müssen den Start ein paar Jahre verschieben.
 20090117 -- Weiterfahrt nur mit Schneeketten Na toll. Und nu? - Na, was schon. Das Hotel ist da oben. Es wird gleich dunkel. Und wir brauchen die Schneeketten. Wir haben keine Wahl. - Wir müssen ihn losmachen.
@@ -892,6 +910,7 @@
 20181212 -- Herr Klöpke, bitte! Ich war aber vor dem da! - Vielleicht hab ich ja was schlimmeres! Vielleicht hab ich ja was interessanteres! - Dann geh ich. Ich hab was normales. Sie können ja solange gugeln!
 20181215 -- Äh...bin ich hier richtig? Was haben Sie denn in letzter Zeit für Werbung bekommen? Schauen Sie mal auf Ihr Handy. - Äh-Grillanzünder, Saunaöfen, Vulkankreuzfahrten, Sodbrennen und Pommesgabeln. - Ja.
 20181224 -- ** STÜ-HÜL-LE NAAACHT! ** Muss das sein mit dem Singen? - Ja, unbedingt! Das ist ein ganz alter Brauch! - Ich wusste, dass es was mit böse Geister vertreiben zu tun hat!
+20190109 -- H... H... H... ?! - H...? HALT!! Handvorhalten! - PTSCHI!
 20190119 -- * Bing! Mama! * Bing! * Bing! *** Bing! Bing! Bing! Fahr Zick-Zack! - Ey, Du Poller! Vorbeilassen! Ich hab geklingelt! - Mama! Mama! Die Mikrowelle kann sprechen! *
 20190131 -- Hallo! Kann ich helfen? Ich brauch einen kleine Rucksack... Globetrottel Wo geht's denn hin? Hiddensee. - Nur ein langes Wochenende. Bisschen am Strand spazieren, Bernsteine suchen und so... Hiddensee! Ah-schön! Tolle kleine Insel! Ich zeig
 20190131 -- Dir einfach mal ein paar... - Praktisch?! Falls ich die Fähre verpasse, kann ich darin übernachten!
@@ -1232,3 +1251,6 @@
 20230227 -- Mist! - Du wirst doch wohl nicht vom Boden essen wollen? Schäm Dich! -
 20230228 -- Generalüberholt! Komplett zerlegt und wieder wie neu gemacht! Wow! Da liegt noch ein Schräubchen, Herr General! - Dann war es nicht wichtig. - WUUUUH!
 20230301 -- ** Ding Dong Klöpke? Klöpke...irgendwie klingelt es bei mir... - Hahaa! Nun denn! Lebz wohl! Ich gehe! Für immer! Ha! - Der ist harmlos. Schauspieler! Übt gerade Abgänge! !
+20230302 -- Gehst Du mal eben mit dem Hund? Schon wieder? - Hast Du alles? Ja. Tüten? Ja! Handy? Falls was ist. Ich habe alles dabei! - Du hast den Hund vergessen!
+20230303 -- Das ist ja eine faszinierende Spezies! Weiss man etwas über ihr Ernährungsverhalten? Nein. - Vielleicht lässt ihr Dung Rückschlüsse zu... Oh ja! - Der da kackt Grillanzünder!
+20230304 -- Hi! Ich bin die huch-was-war-das-denn-Fee, und Du darfst Dir schnell was wünschen! - Ich hätte gerne eine erfolgreiche Diät hinter mir! -
