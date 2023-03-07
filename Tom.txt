@@ -293,6 +293,8 @@
 19960306 -- Ihnen 'ne Kollegin.
 19960307 -- Guten Tag-wir möchten mit Ihnen über Gott sprechen! - PSCHHT! - Hier! Kommen Sie heute abend zu dieser Adresse...und seien Sie um Gottes Willen vorsichtig!
 19960308 -- Schwelendes Feuer, * Alles verzehrende Gluut... ***** ** Au, das wird teuer! Bin ich nicht guut? ** - -
+19960309 -- Also, dann fangen wir jetzt an. Ich möchte Euch den Klaus vorstellen... Hallo. Klaus ist zu uns ins Männerforum gekommen... - ...um in lebendiger, offener Auseinandersetzung seine Probleme mit seinem... ...patriarchalen Rollenverständnis zu
+19960309 -- hinterfragen. - Na los, Klaus, erzähl doch mal! Wie war das... ...mit dem Programmieren eines Videorecorders?
 CCCCCCCCCCCCCCCC
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -595,7 +597,8 @@ CCCCCCCCCCCCCCCC
 20070917 -- vor. Natürlich gab es überall im Ostblock auch 10-Meter-Bretter. - Aber sie hatten immer nur Material für 5 Meter.
 20070924 -- Früher waren Missernten eine Katastrophe! Deshalb stellte man einen Bauern mit gutem Gedächtnis... ...auf so ein 10-Meter-Brett. - Zur Wetterbeobachtung. Aus der Zeit stammen die Bauernregeln. Und wenn er sich mal geirrt hat? - Dann gab es
 20070924 -- immer noch die Götter. Aus der Zeit stammt auch das Bauernopfer.
-MMMMMMMMMMMMMMMMMMMMMM
+20071001 -- Du wirst dehen, Schwimmen lernen ist nicht schwer. Dir passiert nichts. Keine Angst. Ich bin bei Dir. Vertrau mir einfach. - Wir ziehen doch beide am selben Strang! - Sagte der Henker und lachte schauerlich...
+20071101 -- Mein lieber Schieber! Hier siehts ja aus! Keine Kehrwoche, was? Da smacht die Besen kaputt. Dann nimmt man eben ein Gebläse! - Wuuh... - Das macht die Kunden kaputt.
 20071206 -- Wenn ich schon wieder nicht da bin, wenn der Weihnachtsmann kommt, werden sie womöglich misstrauisch. Ich hab Ralf das Kostüm gebracht. Er machts. - Na, hoffentlich macht er keine Brandflecken rein! Das Ding war teuer! Für wie blöde hälst Du
 20071206 -- mich? Ralf raucht doch nicht mehr. - Ho! Ho! Ho!
 20071208 -- Wie? Du bist der Weihnachtsmann? Jau. Höchstpersönlich. - Wahahaha! Ja, klar. Und ich bin der Osterhase! - Tatsächlich. Entschuldige. Ich konnte Deine Ohren nicht sehen, Kollege.
@@ -616,6 +619,7 @@ MMMMMMMMMMMMMMMMMMMMMM
 20080513 -- Kraftvoll wirft sich der Springer in die Weite des Himmels... ...einen Augenblick schwerelos verharrend... - ...stösst er kormorangleich hinab, in gleissender Fontäne die Fluten durchschlagend. Und wir rufen ihm zu: - He! Wieder keinen Fisch
 20080513 -- erwischt?
 20080520 -- ** Palimpalim ** - Tür zu! - Ist gerade ungünstig. Mein Mann grillt. Auf dem Balkon.
+MMMMMMMMMMMMMMMMMMM
 20080722 -- Ich bin eine alte Frau! Meine Beine sind krumm genug! Wie lange soll ich denn noch hier rumstehen? Für eine Marke! Das ist respektlos! Ich könnte Ihre Mutter sein! - Nein, das könnten Sie nicht. Mama war eine ausgesprochen höfliche, ruhige
 20080722 -- und geduldige Person! Duschmarken POST Auch wenn sie mit Ihnen Kinderpost spielen musste...?
 20080802 -- Wir halten uns an den Händen! Wir haben uns ganz doll lieb! Wir wollen zusammen einen schönen Urlaub verbringen! Wir wollen uns nicht streiten! Ja-woll! - So-und jetzt bringt jeder seine Sachen ins Auto, damit wir de Fähre noch bekommen! -
@@ -841,6 +845,7 @@ MMMMMMMMMMMMMMMMMMMMMM
 20161124 -- nochmal in den Geräteraum.
 20161224 -- Fröhliche Weihnachten! Ich bin die Schöne-Bescherung.Fee und Sie dürfen sich was wünschen! Früher haben wir hier Weihnachten immer richtig gross gefeiert! Da war was los! - Ich wünschte, es wären alle Beteiligten noch mal hier! Aber nur die
 20161224 -- netten! -
+20170201 -- Jetzt komm schon! Wir müssen einkaufen! Du kannst nicht den ganzen Tag hier rumstehen wie Pik Sieben! - Bist Du irre? Du hast die Unwetterwarnung doch gehört! Extreme Blitzeisgefahr für unsere Region! - Endlich mal!
 20170306 -- Ist es noch weit? Mir ist langweilig! Ich hab Hunger! Ich muss mal! Sind wir bald da? - - Sind Sie gestürzt? Nein. Ich bin am Rastplatz ausgesetzt worden.
 20170310 -- HA!! Hm...? Krieg ich ein Pferd? Ja, Schatz. - Juhu! Spinnst Du?! Du hast Ihr gerade einen Gaul versprochen! Ich? Niemals! Du hast "Ja, Schatz." gesagt! - Das gilt nicht. Dann hab ich nicht zugehört.
 20170420 -- Au! Au! Der beisst! Der beisst! Mein Bein! Mein Bein! Hast Du das Pfefferspray dabei? Nein! - Au! Dein Parfüm! Nimm Dein Parfüm! Au! Au! Rückzug! - Iiiih! Ich stink nach alte Tante!
@@ -862,6 +867,7 @@ MMMMMMMMMMMMMMMMMMMMMM
 20170826 -- Ihr habt echt noch Sex?! Na sicher! Leidenschaftlichst! - Im Ernst? So richtig mit schmutzige Dinge sagen und so? Aber sowas von! - Du hast schon wieder Hüpfburg gesagt!
 20170829 -- Vielleicht könnte man ja noch eine Kasse aufmachen! * * * - Oh! Gute Idee, danke! -gehen Sie bitte alle auch da rüber! - Und immer schön nach der Deutschlandkarte fragen!
 20170905 -- * - ? - Wuuh..
+20171002 -- Neue Hose? Cool! Hab ich mir von meinem Bruder ausgeborgt. Sieht aus wie'n Zweimannzelt! - Und Du trägst Eierkneifer, Opa! Da hängt was dran. - Ein Hering. Mist! Dann versucht er gerade, seine Badehose aufzubauen...
 20171010 -- Sag mal...Fleisch vor dem Braten waschen? Keine Ahnung. Moment... - Hm...die einen sagen nein, die anderen sagen wenn, dann richtig. Musst Du entscheiden. - Nochmal Hackfleisch? Kommen Gäste? Darfs noch was sein? Kennen Sie einen günstige
 20171010 -- Klempner?
 20171014 -- Horst! Horst! Ho-Horst! Hier! Horst! Horst!! - Äh-Schatz? Ich bin hier! Oh... Oh,entschuldigung! Ich hab Sie verwechselt! - Sie hat manchmal eine seltsame Art, mir Komplimente zu machen.
@@ -1254,3 +1260,6 @@ MMMMMMMMMMMMMMMMMMMMMM
 20230302 -- Gehst Du mal eben mit dem Hund? Schon wieder? - Hast Du alles? Ja. Tüten? Ja! Handy? Falls was ist. Ich habe alles dabei! - Du hast den Hund vergessen!
 20230303 -- Das ist ja eine faszinierende Spezies! Weiss man etwas über ihr Ernährungsverhalten? Nein. - Vielleicht lässt ihr Dung Rückschlüsse zu... Oh ja! - Der da kackt Grillanzünder!
 20230304 -- Hi! Ich bin die huch-was-war-das-denn-Fee, und Du darfst Dir schnell was wünschen! - Ich hätte gerne eine erfolgreiche Diät hinter mir! -
+20230306 -- Gut. Kommen wir zur Praxis: Stellt Euch vor, es ist ein sonniger warmer Tag... Ihr geht spazieren und kommt an einen kleinen See. - Auf dem See ist ein kleines gelbes Schauchboot... - OKay, weiter!
+20230307 -- Nach was riechts hier? Riecht irgendwie nach...Urlaub? Nee, Urlaub riecht nach Pizza! Hier riechts nach... - ...Meer! Das ist ein Algengericht! Algen sind die Ernährung der Zukunft! - Gibt es eine neue Horror-Science-Fiction-Serie auf
+20230307 -- Nättflicks?
