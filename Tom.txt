@@ -295,6 +295,7 @@
 19960308 -- Schwelendes Feuer, * Alles verzehrende Gluut... ***** ** Au, das wird teuer! Bin ich nicht guut? ** - -
 19960309 -- Also, dann fangen wir jetzt an. Ich möchte Euch den Klaus vorstellen... Hallo. Klaus ist zu uns ins Männerforum gekommen... - ...um in lebendiger, offener Auseinandersetzung seine Probleme mit seinem... ...patriarchalen Rollenverständnis zu
 19960309 -- hinterfragen. - Na los, Klaus, erzähl doch mal! Wie war das... ...mit dem Programmieren eines Videorecorders?
+19960311 -- Nun, wer von Euch kennt denn die Bezeichnung für eine Gesellschaft,... - ...in der Menschen aller Herren Länder zusammenleben? Na, Huschke? - Kolonialstil.
 CCCCCCCCCCCCCCCC
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -424,6 +425,7 @@ CCCCCCCCCCCCCCCC
 20010801 -- AAAAAAAAH!! - Meins! Meins! Alles meins! - Sehen Sir, Kruse: Für diese Momente lebt man als Trikotagenfachverkäufer! SSV
 20010904 -- Neulich in Drei Sterne Restaurant MOMENT! HA... ? - TSCHIE! - WELCH EIN KOCH!
 20011001 -- Ich will da nicht rein! Das ist eklig! Was da alles drin ist! - Spucke! Popel! Pipi! Schweiss! Haare! Fusspilze! Na und? - Na, Sie müssens ja nicht trinken!
+20011012 -- Hasso! Fass! -sehen Sie? Er reagiert überhaupt nicht! Jaja-ich schau mir mal seine Ohren an... - Dacht ich mirs: Ohrenschmalz! Jetzt müsste es besser sein! Probieren Sie's nochmal... -
 20011110 -- Guten Tag, Meiermann...verbinden Sie mich mit dem Kundendienst! Augenblick, bitte... - Oh nein! Hör Dir das an! Warteschleifenmusik "Classics"! Haha! * * * * * * "Üb immer treu und Redlichkeit"-Plingpling! Das waren damals die ersten Anlagen!
 20011110 -- Die konnten nur das! - 
 20011121 -- ** Tätää **hier kommt der grosse böse Räuber! Und-ohoo! Er hat den kleinen bösen Räuber auch mitgebracht! Hihi! Schön. Würdest Du bitte das Licht ausmachen? - He! Plötzlich prüde geworden? Sollte mir da was entgangen sein? Ich fürchte, ja...
@@ -619,7 +621,7 @@ CCCCCCCCCCCCCCCC
 20080513 -- Kraftvoll wirft sich der Springer in die Weite des Himmels... ...einen Augenblick schwerelos verharrend... - ...stösst er kormorangleich hinab, in gleissender Fontäne die Fluten durchschlagend. Und wir rufen ihm zu: - He! Wieder keinen Fisch
 20080513 -- erwischt?
 20080520 -- ** Palimpalim ** - Tür zu! - Ist gerade ungünstig. Mein Mann grillt. Auf dem Balkon.
-MMMMMMMMMMMMMMMMMMM
+20080602 -- -bratz-wessen missratene Brut pullert da gerade verbotenerweise ins Planschbecken?! - Jonathan! - Hinsetzen!
 20080722 -- Ich bin eine alte Frau! Meine Beine sind krumm genug! Wie lange soll ich denn noch hier rumstehen? Für eine Marke! Das ist respektlos! Ich könnte Ihre Mutter sein! - Nein, das könnten Sie nicht. Mama war eine ausgesprochen höfliche, ruhige
 20080722 -- und geduldige Person! Duschmarken POST Auch wenn sie mit Ihnen Kinderpost spielen musste...?
 20080802 -- Wir halten uns an den Händen! Wir haben uns ganz doll lieb! Wir wollen zusammen einen schönen Urlaub verbringen! Wir wollen uns nicht streiten! Ja-woll! - So-und jetzt bringt jeder seine Sachen ins Auto, damit wir de Fähre noch bekommen! -
