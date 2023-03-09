@@ -296,6 +296,8 @@
 19960309 -- Also, dann fangen wir jetzt an. Ich möchte Euch den Klaus vorstellen... Hallo. Klaus ist zu uns ins Männerforum gekommen... - ...um in lebendiger, offener Auseinandersetzung seine Probleme mit seinem... ...patriarchalen Rollenverständnis zu
 19960309 -- hinterfragen. - Na los, Klaus, erzähl doch mal! Wie war das... ...mit dem Programmieren eines Videorecorders?
 19960311 -- Nun, wer von Euch kennt denn die Bezeichnung für eine Gesellschaft,... - ...in der Menschen aller Herren Länder zusammenleben? Na, Huschke? - Kolonialstil.
+19960312 -- Also...man steht an der Ampel-die ist rot...man will geradeaus fahren...da ist da rechts an der Ampel so ein grüner Pfeil... Muss man dan abbiegen? - Nein-nein! Sie... Ha! Siehste! Pah! Weiber! Du erzählst alles falsch! - Herr komissar! Es
+19960312 -- wurde gehupt!!
 CCCCCCCCCCCCCCCC
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -331,6 +333,7 @@ CCCCCCCCCCCCCCCC
 19970619 -- Also nee-mit der Marke kann ich den Brief nicht annehmen! Hab' ich noch 'ne ganze Kiste von... Die gilt nicht mehr...glücklicherweise! - Die Nationalhymne ist doch auch noch dieselbe! Aber ohne die erste Strophe! - Könnten Sie nicht das
 19970619 -- Bärtchen wegstempeln?
 19970701 -- Und? Wo solls hingehen? Was? Sie fahren doch sicher in Urlaub! - Ich frage mich, ob Postler sich gegenseitig Karten schicken... Wahrscheinlich zu viel "Arbeit"-obwohl... - Eine reicht ja... Lesen doch eh alle...
+19970723 -- Na, sind das nicht tolle Schuhe? War ein Schnäppchen! - Was sagt man? Danke, Tante Trude, vielen Dank! Da werden Deine Freunde aber staunen, wenn Du die anhast! - Eine Sekunde, dann werd' ich keine Freunde mehr haben...
 19970801 -- Liebe Kinder! Das ist der böse Räuber! Wenn Ihr ihn seht-ruft mich sofort! - ** Dumdidumdidum * Guten Tag! Guten Tag... - Was denn-Räuber machen so was!
 19970926 -- DLRG - Verdammt...Maulsperre! - killekillekille
 19971023 -- Also: -Kasperle mit Patsch. -Auftritt Krokodil. -Kasperle: "Hahaa! etc. etc." -KAsperle vertrimmt Krokodil. -Abgang Krokodil. Alles klar? Hm. - Hahaa...he! Was zum...? - Memme!
@@ -627,6 +630,8 @@ CCCCCCCCCCCCCCCC
 20080802 -- Wir halten uns an den Händen! Wir haben uns ganz doll lieb! Wir wollen zusammen einen schönen Urlaub verbringen! Wir wollen uns nicht streiten! Ja-woll! - So-und jetzt bringt jeder seine Sachen ins Auto, damit wir de Fähre noch bekommen! -
 20080816 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... Fühlen Sie ein aus der Tiefe des Stammes rührendes, immer stärker werdendes Vibrieren? - Ja! Eine sich aufbauende Energie? Ja!! ein sich Bündeln an einem Punkt? Ja!!! Einen
 20080816 -- enormen Drang nach aussen? Ja! Ja! Ja! - Dann lacht er sich einen Ast.
+20080901 -- Ralf hat wieder aufgehört zu rauchen! Der Arme... ? Sein Stoffwechsel stellt sich noch um! Er muss ständig aufs Klo... - Ksst! Machen Sie mir nochmal die Freiheitsstatue? - Danke. * *
+MMMMMMMMMMMMMMM
 20081108 -- Ja-ich bins. Wir sind gleich da. Setz schon mal das Nudelwasser auf. Ja. ** Bussi ** Wie haben die Leute sich früher schnell was wichtiges gesagt-ohne Telefone? - Mit Brieftauben. - Du hast eine SMS bekommen.
 20081111 -- Polizei! Das Spiel ist aus! Fallen lassen! Ich sagte: Fallen lassen! Päng! Bäng! Päng! Päng! Päng! - Päng! Päng! Päng päng... - *
 20081125 -- ALDI Maestro-ich habe gesündigt! Ich hab mir die Haare selbst gefärbt...es sah grässlich aus... Dann hab ich versucht, es wieder raus zu bleichen... - Maestro-helfen Sie mir! Ich hab gleich einen wichtigen Termin-können Sie schnell etwas tun,
@@ -1265,3 +1270,4 @@ CCCCCCCCCCCCCCCC
 20230306 -- Gut. Kommen wir zur Praxis: Stellt Euch vor, es ist ein sonniger warmer Tag... Ihr geht spazieren und kommt an einen kleinen See. - Auf dem See ist ein kleines gelbes Schauchboot... - OKay, weiter!
 20230307 -- Nach was riechts hier? Riecht irgendwie nach...Urlaub? Nee, Urlaub riecht nach Pizza! Hier riechts nach... - ...Meer! Das ist ein Algengericht! Algen sind die Ernährung der Zukunft! - Gibt es eine neue Horror-Science-Fiction-Serie auf
 20230307 -- Nättflicks?
+20230309 -- Sie haben renoviert? Sogar ein neuer Boden, tolle Farbe! Ein Tipp von unserer Reinigungskraft. - Nennt sich "Ochsenblut". Darauf sieht man angeblich die Haare nicht so! Haha! Haha! - War wohl'n Scherz!
