@@ -298,6 +298,7 @@
 19960311 -- Nun, wer von Euch kennt denn die Bezeichnung für eine Gesellschaft,... - ...in der Menschen aller Herren Länder zusammenleben? Na, Huschke? - Kolonialstil.
 19960312 -- Also...man steht an der Ampel-die ist rot...man will geradeaus fahren...da ist da rechts an der Ampel so ein grüner Pfeil... Muss man dan abbiegen? - Nein-nein! Sie... Ha! Siehste! Pah! Weiber! Du erzählst alles falsch! - Herr komissar! Es
 19960312 -- wurde gehupt!!
+19960313 -- Grüss Gott! Mach ich...Pater Braun, Dipl. Exorzist. - Ein Teufelsaustreiber! Kein Weihwasserbecken? Haha! Sehr gut! Ausgezeichnet! - Und jetzt würde ich gern Ihren Mietvertrag sehen...
 CCCCCCCCCCCCCCCC
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -631,7 +632,7 @@ CCCCCCCCCCCCCCCC
 20080816 -- Den Baum berühren...den Baum spüren...eins werden mit dem Baum... Fühlen Sie ein aus der Tiefe des Stammes rührendes, immer stärker werdendes Vibrieren? - Ja! Eine sich aufbauende Energie? Ja!! ein sich Bündeln an einem Punkt? Ja!!! Einen
 20080816 -- enormen Drang nach aussen? Ja! Ja! Ja! - Dann lacht er sich einen Ast.
 20080901 -- Ralf hat wieder aufgehört zu rauchen! Der Arme... ? Sein Stoffwechsel stellt sich noch um! Er muss ständig aufs Klo... - Ksst! Machen Sie mir nochmal die Freiheitsstatue? - Danke. * *
-MMMMMMMMMMMMMMM
+20081001 -- ** ding dong Meine Güte! Hast Du überhaupt gefrühstückt? Dein Magen kollert wie ein Elefant. Ich versuche etwas abzunehmen. - Guten Morgen! Was kann ich...oh! Pardon-ich fürchte, der Speck muss vom Herd. - Ich mach das!
 20081108 -- Ja-ich bins. Wir sind gleich da. Setz schon mal das Nudelwasser auf. Ja. ** Bussi ** Wie haben die Leute sich früher schnell was wichtiges gesagt-ohne Telefone? - Mit Brieftauben. - Du hast eine SMS bekommen.
 20081111 -- Polizei! Das Spiel ist aus! Fallen lassen! Ich sagte: Fallen lassen! Päng! Bäng! Päng! Päng! Päng! - Päng! Päng! Päng päng... - *
 20081125 -- ALDI Maestro-ich habe gesündigt! Ich hab mir die Haare selbst gefärbt...es sah grässlich aus... Dann hab ich versucht, es wieder raus zu bleichen... - Maestro-helfen Sie mir! Ich hab gleich einen wichtigen Termin-können Sie schnell etwas tun,
@@ -650,6 +651,7 @@ MMMMMMMMMMMMMMM
 20090320 -- Frechheit! Rennrüpel! tocktocktock Selber plemplem! - Ich hab Ihnen nicht den Vogel gezeigt! Ich wollte bloss andere Musik! Hey-Du versuchst mich zu verarschen. Respekt! - Neinneinnein! Mein IPod hängt hier an der Mütze! Hells Bengels
 20090321 -- Hast Du eine Wurst? Gut. Der Plan: Sturm klingeln. Tür wird aufgerissen. Wurst reinwerfen. Dann ist der Hund eine Weile beschäftigt... - - Warte! Wieso rennen wir eigentlich? Wegen einer Wurst, die ein Vegetarier-Kind seinem Hund weggefressen
 20090321 -- hat? Nein. Wegen der Schlaftabletten, die ich zur Sicherheit in die Wurst gestopft habe.
+MMMMMMMMMMMMMMMMMMMMMMMMMM
 20090523 -- Wieder aus! Alles ist nass! Scheisswetter! Scheissgrill! Ich ess meine Wurst kalt. Weib-versündige Dich nicht! Man nimmt keine Wurst wieder vom Grill. - Es gibt kein schlechtes Grillwetter. Es gibt nur falsche Anzünder. Du sollst Dein
 20090523 -- Grillwürstchen haben! -
 20090527 -- Sie müssen mir jetzt meine Rechte vorlesen! Ihre was? Meine Rechte! Ich kenn mich aus! - Ach so...äh...pfff...ah, hier: Sie haben das Recht zu schweigen. Na also. Geht doch. - Nein. Geht nicht. Ah!
@@ -958,6 +960,7 @@ MMMMMMMMMMMMMMM
 20200605 -- Sie sind neu hier, nicht wahr? Vermutlich direkt von der Kassiererinnenschule. Und jetzt denken Sie sicher: Ich kann schneller scannen,... ...als die alte Schachtel hier einpacken kann. - Aber ich warne Sie, Kindchen! Diese alte Schachtel
 20200605 -- hier ist nicht irgendeine alte Schachtel! bibibibi biep! - 37,99-Wenn Sie es nochmal in Zeitlupe sehen wollen, können Sie das beim Filialleiter.
 20200619 -- Oh, hallo! Nein, Sie stören nicht, kommen Sie doch rein! Ich bin nur am Kochen. - Möchten Sie was mitessen? Ist genug da! * - Hubert! Wir hatten doch gesagt, ich reib Dir den Rücken erst nach dem Essen ein!
+20200627 -- Was wünschen? Schnell was wünschen! Wenn, dann was Elementares. Wenns schnell geht. - Überbevölkerung! Der Planet wird zu klein, wir treten uns jetzt schon auf die Füsse! Da sollten Sie tätig werden! - Damenwahl! ***** **
 20200903 -- Heute reden wir über Sicherheit: Ein Hund! Er rennt auf Euch zu! Schnell wegwalken? Zu spät! - Ihr seid allein mit Euren Stöcken! Ihr habt fünf Sekunden! Was tut Ihr? Und los! -
 20200918 -- Wir hauen ab! Ich hab eine Tür entdeckt! Dahinter ist freies Land! Eine offene Tür? Hier? - Der Notausgang, was weiss ich! Egal, nix wie weg! Hahaha! Die lassen eine Tür offen! Haha! Wie blöd kann man sein? -
 20200926 -- Also...jaa...Ihre Zukunft sieht ganz okay aus... Das macht dann vierzig Euro. - Wie?! Das wars jetzt?! "Ganz Okay"? Für vierzig Euro? Ich verlange Details! Wie Sie wünschen. - Spoileralarm! Der Held stirbt am Schluss.
