@@ -299,6 +299,7 @@
 19960312 -- Also...man steht an der Ampel-die ist rot...man will geradeaus fahren...da ist da rechts an der Ampel so ein grüner Pfeil... Muss man dan abbiegen? - Nein-nein! Sie... Ha! Siehste! Pah! Weiber! Du erzählst alles falsch! - Herr komissar! Es
 19960312 -- wurde gehupt!!
 19960313 -- Grüss Gott! Mach ich...Pater Braun, Dipl. Exorzist. - Ein Teufelsaustreiber! Kein Weihwasserbecken? Haha! Sehr gut! Ausgezeichnet! - Und jetzt würde ich gern Ihren Mietvertrag sehen...
+19960314 -- Briefmacken Postbank Dr. Mabuse Jetzt helfe ich mir selbst! - Renterenterenterente! renterenterenterente - Klassische Übersprungshandlung. chrrrr... *
 CCCCCCCCCCCCCCCC
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -463,6 +464,7 @@ CCCCCCCCCCCCCCCC
 20021109 -- Eine Einemarkmarke! Gute Frau, falls es Ihnen entgangen sein sollte... Jaja-ich weiss! Und Raider ist jetzt Twix! - Wasist das? Ein Glas Selter. Und das? Ein Tempo. Und das? Spüli. Und das? Ein Stück Tesa. - Sehen Sie.und das da ist eine
 20021109 -- Einemarkmarke. Egal, was Sie draufschreiben! Sie machen mir Kopfschmerzen... Nehmen Sie eine Aspirin!
 20021217 -- Boh-was ist das?! Ich hatte mal einen korsischen Käse, der... Neinnein-das hier riecht eindeutig nach... - ...Verwesung -
+20030118 -- Ich will nach Hause... Wieso? Ist doch toll hier! Hey-Du kannst im Bett bleiben, Du wirst gefütter, Du wirst ** gewaschen vin einer-hehe-Schwester... - WACHE! -
 20030120 -- Sei bloss vorsichtig mit der Dosierung! CHLOR Mir ist mal ein ganzer Kanister reingelaufen! - Zum Glück hat er mich damals nicht verklagt... Der Umweltbeauftragte? - Michael Jackson...
 20030204 -- Ehm-hallo? Ich will Sie ja nicht beunruhigen... Aber Ihr Sohn stülpt sich gerade eine Plastiktüte über den Kopf! - Jaja, das hat er von seinem Vater...machen Sie einfach ein paar Löcher rein... - Es ist ihm peinlich, in einem Leihwagen
 20030204 -- gesehen zu werden.
@@ -651,10 +653,11 @@ CCCCCCCCCCCCCCCC
 20090320 -- Frechheit! Rennrüpel! tocktocktock Selber plemplem! - Ich hab Ihnen nicht den Vogel gezeigt! Ich wollte bloss andere Musik! Hey-Du versuchst mich zu verarschen. Respekt! - Neinneinnein! Mein IPod hängt hier an der Mütze! Hells Bengels
 20090321 -- Hast Du eine Wurst? Gut. Der Plan: Sturm klingeln. Tür wird aufgerissen. Wurst reinwerfen. Dann ist der Hund eine Weile beschäftigt... - - Warte! Wieso rennen wir eigentlich? Wegen einer Wurst, die ein Vegetarier-Kind seinem Hund weggefressen
 20090321 -- hat? Nein. Wegen der Schlaftabletten, die ich zur Sicherheit in die Wurst gestopft habe.
-MMMMMMMMMMMMMMMMMMMMMMMMMM
+20090401 -- Das Erstaunliche ist, dieses ewige Warten her hat auch etwas gutes: Es hat mich gestählt! Soso. Geistig? - *** - Ellenbogig.
 20090523 -- Wieder aus! Alles ist nass! Scheisswetter! Scheissgrill! Ich ess meine Wurst kalt. Weib-versündige Dich nicht! Man nimmt keine Wurst wieder vom Grill. - Es gibt kein schlechtes Grillwetter. Es gibt nur falsche Anzünder. Du sollst Dein
 20090523 -- Grillwürstchen haben! -
 20090527 -- Sie müssen mir jetzt meine Rechte vorlesen! Ihre was? Meine Rechte! Ich kenn mich aus! - Ach so...äh...pfff...ah, hier: Sie haben das Recht zu schweigen. Na also. Geht doch. - Nein. Geht nicht. Ah!
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 20090709 -- Hallo! Ich bin der Holger! ...und wer bist Du? - Ich bin die Geissel der Menschheit... - Bei welchem Sender?
 20090711 -- Ich hab Dir die Batterien fürs Hörgerät auf den Tisch gelegt!! - Hörst Du? Jaja! Schon gesehen! - Die andere nehm' ich nach dem Essen...
 20090730 -- Soll ich nicht besser mitkommen? Quatsch. Was heisst "zwei"? "Dos". Das reicht. Hol Du das Grünzeug. Ich hol die Fische. Dos! - Dos! Dos?! Dos!! Okay. - 800 Euro?! Für zwei Fische? Nein. Für zwei Kühltheken.
@@ -765,6 +768,8 @@ MMMMMMMMMMMMMMMMMMMMMMMMMM
 20140510 -- weint. Flasche! Ich hätte den reingemacht. Chips
 20140530 -- Doc Wiedersehen. Tschüss. Gute Besserung! - Der Herr Klöpke scheint seine Spritze nicht gut zu vertragen! Mit einem angestochenen Hintern laufen Sie auch komisch. - Er hat sich aber den Bauch gehalten! Das ist normal. Er klaut immer die
 20140530 -- Autozeitung.
+20140618 -- Das hört sich nach vielen Leuten an. Eine WG? Hm, kein Namensschild... ** ding dong - Guten Tag! Haben Sie sich schon einmal gefragt, woher das Böse in dieser Welt kommt? Nein. - Ich hab' mich gefragt, wieviel ich ihm zustecken mussm damit
+20140618 -- ich diese Wohnung bekomme!
 20140717 -- Lange nicht gesehen... Ich hab' eine Freundin auf einer Kreuzfahrt begleitet... Toll! Karibik? Hurtigruten? Santiago de Compostela. - Sie meine, Sie waren auf einer Pilgerfahrt. Mit dem Bus! Non Stop! Klo auf dem Gang! Und es wurde gesungen!
 20140717 -- - Das kam einer Kreuzigung schon sehr nahe.
 20140730 -- Der Fahrstuhl ist defekt. Viel Spass! - Können Sie uns mitnehmen? GUCKSTDU CLEAN Eigentlich nicht. Aber...? - Hanni Nanni
@@ -1274,3 +1279,4 @@ MMMMMMMMMMMMMMMMMMMMMMMMMM
 20230307 -- Nach was riechts hier? Riecht irgendwie nach...Urlaub? Nee, Urlaub riecht nach Pizza! Hier riechts nach... - ...Meer! Das ist ein Algengericht! Algen sind die Ernährung der Zukunft! - Gibt es eine neue Horror-Science-Fiction-Serie auf
 20230307 -- Nättflicks?
 20230309 -- Sie haben renoviert? Sogar ein neuer Boden, tolle Farbe! Ein Tipp von unserer Reinigungskraft. - Nennt sich "Ochsenblut". Darauf sieht man angeblich die Haare nicht so! Haha! Haha! - War wohl'n Scherz!
+20230310 -- Ich bekomme Standschäden! Geht das auch mal weiter?! Richten Sie der alten Dame aus, ich kann nicht hexen! - Er sagt, er kann nicht hexen! - Sagen Sie ihm, ich auch nicht! Aber ich kann ganz schnell mit Flüchen belegen!!
