@@ -300,6 +300,7 @@
 19960312 -- wurde gehupt!!
 19960313 -- Grüss Gott! Mach ich...Pater Braun, Dipl. Exorzist. - Ein Teufelsaustreiber! Kein Weihwasserbecken? Haha! Sehr gut! Ausgezeichnet! - Und jetzt würde ich gern Ihren Mietvertrag sehen...
 19960314 -- Briefmacken Postbank Dr. Mabuse Jetzt helfe ich mir selbst! - Renterenterenterente! renterenterenterente - Klassische Übersprungshandlung. chrrrr... *
+19960315 -- Ich sehe eine Arzt, einen jungen Arzt-eine Operation. Doch alles wird gut und glücklich! - Sind Sie sicher? Madame! Ich habe das zweite Gesicht!! - Und was kostet sowas?
 CCCCCCCCCCCCCCCC
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -599,6 +600,7 @@ CCCCCCCCCCCCCCCC
 20070801 -- - GRÜEZI PETER! - Heidi, Du dummes Chäsfondü! Du hast die Ziegen erschreckt! Jetzt liegen sie wieder alle unten im Tal!
 20070804 -- Ich mag gar nicht klingeln. Hier wohn dieser grässliche Mensch, der immer gleich so feucht brüllt... Steter Tropfen hohlet den Stein. Man wächst mit seinen Aufgaben. - ** Heiss und fettig! ** Darf ich mal durch, Senoritas? Pizza Pronto! - *
 20070804 -- PIZZA Hanni Nanni
+20070806 -- Das Planschbecken ist schon wieder fast leer! Aber nirgends ein Leck. - Ob das an diesem Klimadingsbums liegt? Nein. - Die Windelhöschen werden immer saugfähiger.
 20070829 -- Ich verstehe das nicht!Seit seiner Einschulung letzte Wochen ein Musterschüler: ruhig, höflich, aufmerksam, guterzogen. Er hat mir immer die Tasche ins Lehrerzimmer getragen! - Und heute morgen rastet er aus und beisst mich! Amok? In der
 20070829 -- ersten? Ich fürchte, das ist meine Schuld. - Ich hab ihm verraten, dass es trotz guter Führung keine Aussicht auf vorzeitige Entlassung gibt...
 20070917 -- Im Ernstfall wären hier im Westen als erstes alle Schwimmbäder atomisiert worden. Kabumm!! Die Sowjets hielten die 10-Meter-Bretter für getarnte Raketenrampen. - Auf den Fotos ihrer Spionagesatelliten kamen sie ihnen einfach viel zu gross
@@ -657,10 +659,11 @@ CCCCCCCCCCCCCCCC
 20090523 -- Wieder aus! Alles ist nass! Scheisswetter! Scheissgrill! Ich ess meine Wurst kalt. Weib-versündige Dich nicht! Man nimmt keine Wurst wieder vom Grill. - Es gibt kein schlechtes Grillwetter. Es gibt nur falsche Anzünder. Du sollst Dein
 20090523 -- Grillwürstchen haben! -
 20090527 -- Sie müssen mir jetzt meine Rechte vorlesen! Ihre was? Meine Rechte! Ich kenn mich aus! - Ach so...äh...pfff...ah, hier: Sie haben das Recht zu schweigen. Na also. Geht doch. - Nein. Geht nicht. Ah!
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+20090602 -- Was ist das für eine schwarze Wolke da hinten? Versucht da einer zu grillen? Den greif ich mir! - Entwarnung! Kein Feuer. - Aber wir sollten das Wasser vom Planschbecken mal wechseln.
 20090709 -- Hallo! Ich bin der Holger! ...und wer bist Du? - Ich bin die Geissel der Menschheit... - Bei welchem Sender?
 20090711 -- Ich hab Dir die Batterien fürs Hörgerät auf den Tisch gelegt!! - Hörst Du? Jaja! Schon gesehen! - Die andere nehm' ich nach dem Essen...
 20090730 -- Soll ich nicht besser mitkommen? Quatsch. Was heisst "zwei"? "Dos". Das reicht. Hol Du das Grünzeug. Ich hol die Fische. Dos! - Dos! Dos?! Dos!! Okay. - 800 Euro?! Für zwei Fische? Nein. Für zwei Kühltheken.
+MMMMMMMMMMMMMMMMMMMMMMM
 20090908 -- Machen Sie ihm was süsses freches zum Schulanfang! Und Du bist brav! Bis dann! - Was süsses freches...Du willst doch nur ein niedliches Klassenfoto zum Angeben! Aber hier geht es um mehr! - Machen Sie mir eine schicke Business-Frisur!
 20090910 -- Wie oft noch? Das kann ich so nicht annehmen. Sie müssen das Adressfeld schon ordentlich festkleben! Das hält. Das bezweifle ich. - He! Au! - Sehen Sie? Hält bombenfest. Diese Haftcreme ist ein Teufelszeug!
 20090918 -- Äh...bin ich die Einzige? Wo sind all die anderen? Im Heidepark Soltau. Betriebsausflug. - Das ist ja wie im Paradies! Oh nein! Schulz! - Er steuert die Achterbahn. Kamikaze
@@ -1280,3 +1283,4 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 20230307 -- Nättflicks?
 20230309 -- Sie haben renoviert? Sogar ein neuer Boden, tolle Farbe! Ein Tipp von unserer Reinigungskraft. - Nennt sich "Ochsenblut". Darauf sieht man angeblich die Haare nicht so! Haha! Haha! - War wohl'n Scherz!
 20230310 -- Ich bekomme Standschäden! Geht das auch mal weiter?! Richten Sie der alten Dame aus, ich kann nicht hexen! - Er sagt, er kann nicht hexen! - Sagen Sie ihm, ich auch nicht! Aber ich kann ganz schnell mit Flüchen belegen!!
+20230311 -- Ich will heute nicht in die Kita! Wir müssen jetzt aber los! Ich hab einen wichtigen Termin, ich dar fnicht zu spät kommen! - Du hast es eilig? Sehr eilig! Brandeilig? Superbrandeilig! OKay. - LALÜ!! LALA!! *
