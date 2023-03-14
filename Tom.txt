@@ -301,6 +301,9 @@
 19960313 -- Grüss Gott! Mach ich...Pater Braun, Dipl. Exorzist. - Ein Teufelsaustreiber! Kein Weihwasserbecken? Haha! Sehr gut! Ausgezeichnet! - Und jetzt würde ich gern Ihren Mietvertrag sehen...
 19960314 -- Briefmacken Postbank Dr. Mabuse Jetzt helfe ich mir selbst! - Renterenterenterente! renterenterenterente - Klassische Übersprungshandlung. chrrrr... *
 19960315 -- Ich sehe eine Arzt, einen jungen Arzt-eine Operation. Doch alles wird gut und glücklich! - Sind Sie sicher? Madame! Ich habe das zweite Gesicht!! - Und was kostet sowas?
+19960316 -- Einmal Frühlingsrolle! Hamm wa nich. Dnn Chop Suey. Hammwa nich. OK-dann eine Fu-Man-Tschu Platte. Nein. - Na gut, sagen Sie mir, was Sie haben? Ente. Ente? Ente. Ente... - Ente oder Rente!
+19960318 -- CRIME TIME Der kleine Mann 1 - Es ist ein Beruf wie jeder andere: "Der frühe Vogel fängt den Wurm". - Als Vogel bin ich eine Niete. -nach ein paar Eimern Espresso ist das Flattern weg und ich bin das, was ich bin: - Mein Name ist Spade, Tom
+19960318 -- Spade-ich bin ein privater Ermittler.
 CCCCCCCCCCCCCCCC
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -335,6 +338,7 @@ CCCCCCCCCCCCCCCC
 19970618 -- Woher stammt also die Bezeichnung "Barbar"? -Einzer? Von den Bärten der wilden Männer des Nordens! - Sehr gut! -Was verstehen wir unter einem "Akt der Barbarei"? -Huschke? - Die Socken in den Sandalen der wilden Männer des Nordens...
 19970619 -- Also nee-mit der Marke kann ich den Brief nicht annehmen! Hab' ich noch 'ne ganze Kiste von... Die gilt nicht mehr...glücklicherweise! - Die Nationalhymne ist doch auch noch dieselbe! Aber ohne die erste Strophe! - Könnten Sie nicht das
 19970619 -- Bärtchen wegstempeln?
+19970620 -- ***  Jungejunge...mit solchen Nebenwirkungen hätt' ich im Leben nicht gerechnet! - Wir stehen unter "Risiken"...
 19970701 -- Und? Wo solls hingehen? Was? Sie fahren doch sicher in Urlaub! - Ich frage mich, ob Postler sich gegenseitig Karten schicken... Wahrscheinlich zu viel "Arbeit"-obwohl... - Eine reicht ja... Lesen doch eh alle...
 19970723 -- Na, sind das nicht tolle Schuhe? War ein Schnäppchen! - Was sagt man? Danke, Tante Trude, vielen Dank! Da werden Deine Freunde aber staunen, wenn Du die anhast! - Eine Sekunde, dann werd' ich keine Freunde mehr haben...
 19970801 -- Liebe Kinder! Das ist der böse Räuber! Wenn Ihr ihn seht-ruft mich sofort! - ** Dumdidumdidum * Guten Tag! Guten Tag... - Was denn-Räuber machen so was!
@@ -663,7 +667,7 @@ CCCCCCCCCCCCCCCC
 20090709 -- Hallo! Ich bin der Holger! ...und wer bist Du? - Ich bin die Geissel der Menschheit... - Bei welchem Sender?
 20090711 -- Ich hab Dir die Batterien fürs Hörgerät auf den Tisch gelegt!! - Hörst Du? Jaja! Schon gesehen! - Die andere nehm' ich nach dem Essen...
 20090730 -- Soll ich nicht besser mitkommen? Quatsch. Was heisst "zwei"? "Dos". Das reicht. Hol Du das Grünzeug. Ich hol die Fische. Dos! - Dos! Dos?! Dos!! Okay. - 800 Euro?! Für zwei Fische? Nein. Für zwei Kühltheken.
-MMMMMMMMMMMMMMMMMMMMMMM
+20090801 -- Ich seh etwas, was Du nicht siehst, und das ist...rot und hat viele weisse Punkte! - Der Mann da in der Apotheke! - Ihre Nikotinpflaster sind nicht wasserfest! Und Sie sollten aus der Sonne gehen!
 20090908 -- Machen Sie ihm was süsses freches zum Schulanfang! Und Du bist brav! Bis dann! - Was süsses freches...Du willst doch nur ein niedliches Klassenfoto zum Angeben! Aber hier geht es um mehr! - Machen Sie mir eine schicke Business-Frisur!
 20090910 -- Wie oft noch? Das kann ich so nicht annehmen. Sie müssen das Adressfeld schon ordentlich festkleben! Das hält. Das bezweifle ich. - He! Au! - Sehen Sie? Hält bombenfest. Diese Haftcreme ist ein Teufelszeug!
 20090918 -- Äh...bin ich die Einzige? Wo sind all die anderen? Im Heidepark Soltau. Betriebsausflug. - Das ist ja wie im Paradies! Oh nein! Schulz! - Er steuert die Achterbahn. Kamikaze
@@ -686,11 +690,13 @@ MMMMMMMMMMMMMMMMMMMMMMM
 20100409 -- So, junger Mann, dann sag doch mal: "A". Aah! Ein Irrenarzt! - Komm sofort wieder rein! Zu dem Irren? Das ist ein ganz normaler Onkel Doktor! - Normal? Mit einer Satellitenschüssel am Kopf?
 20100412 -- He! Aufpassen, Sie Rüpel! Wir sind hier nicht beim Wasserball! - Unverschämtheit! Wieso hast Du diesen Fatzke nicht getreten? Hab ich. Hast Du nicht! Hab ich! - Ach. Und wieso sehe ich dann keine Blutspur im Wasser? Ich war bei der
 20100412 -- Fusspflege.
+20100503 -- Noch etwas nach rechts! Gut! Und runter! Gut! Stopp! - BONK! - Quertauchen verboten!
 20100629 -- Aber nur 1 Bier! Ich muss morgen früh raus... - Was gibts zu glotzen? Noch nie 'ne schöne Frau gesehen? Is' das hier 'n Knackitreffen, oder was? - Du stehst vorm Bildschirm... Tor!
 20100710 -- Ich hab einen Wunsch frei? Ich? Ich darf mir was wünschen? Hab ich wieder genuschelt? Ja. Einen Wunsch frei. Du. Und zwar ein bisschen plötzlich. - Oh! Puh...was wünsche ich mir denn da? Oh! Puh...äh...ich wünsche mir...puh... -
 20100817 -- Pass auf! Sieh genau hin! Ich hab am Wochenende etwas geübt. Achunt... - ** Ding Dong ** - War ich schneller als mein Schatten? Du hast wieder Lucky Luke gelesen!
-20010114 -- Das ist mir egal, Klöpke! Es ist Ihr Arsch! Wenn Sie die Zahlen nicht schaffen, dann hasta la vista, Dividende! Dann kann sich Ihre Gatting die Datsch auf Mallorca an die Botoxbacke schmieren! OKay? Ja-tschüs. Hallo Mausi! Nein, noch im
-20010114 -- Zug..Knödlingen...Du, ich... - QUAAK! QUAAK! QUAAK! QUAAK! QUAAK! QUAAK! Nein!! Im Zug! Ich...doch! Warte, ich schau mal, wo ich in Ruhe telefonieren kann! - Herr Schaffner! Ich glaube, der Herr sucht den Gepäckwagen.
+MMMMMMMMMMMMMMMMMMMMM
+20110114 -- Das ist mir egal, Klöpke! Es ist Ihr Arsch! Wenn Sie die Zahlen nicht schaffen, dann hasta la vista, Dividende! Dann kann sich Ihre Gatting die Datsch auf Mallorca an die Botoxbacke schmieren! OKay? Ja-tschüs. Hallo Mausi! Nein, noch im
+20110114 -- Zug..Knödlingen...Du, ich... - QUAAK! QUAAK! QUAAK! QUAAK! QUAAK! QUAAK! Nein!! Im Zug! Ich...doch! Warte, ich schau mal, wo ich in Ruhe telefonieren kann! - Herr Schaffner! Ich glaube, der Herr sucht den Gepäckwagen.
 20110305 -- Wir sind beide eingeladen, also gehen wir auch zusammen hin! I'm soooo sorry. Ich darf nicht. Ich hab ein Attest. Tut mir leid. - Karnevalsmusik versetzt mich in lebensgefährliche Erregungszustände! Hier, bitte. Aber wenn ich irgendwann mal
 20110305 -- nichts mehr höre, gehe ich natürlich gerne mit! Was wäre denn das Motto gewesen? ** Hellau! Kommt rein! Hallo Horst! Gartenparty <---
 20110312 -- Ich brauch ein neues Outfit! Ich kann diesen praktischen Kram nicht mehr sehen! Ich will was frisches, jugendliches! MODA ZZ Ich will wieder wahrgenommen werden! - Ich seh schon. Gut...ziehen Sie mal das, das, das, das, und das hier an.
@@ -718,6 +724,7 @@ MMMMMMMMMMMMMMMMMMMMMMM
 20111224 -- Fröhliche Weihnachten! Danke, Sie mich auch! - Boah, stinkt das hier immer so höllisch? Nur an Weihnachten. Was ist das? Schulz. - Er geht vor Ladenschluss gerne noch schnell durch die Parfümabteilungen und lässt sich besprühen.
 20120202 -- Frostschutzmittel. Bis Minus 50 Grad. Wow! Nicht trinken! Das ist ungesund! - Für wie bescheuert hälst Du mich eigentlich? - Furchterliche Kälte, was? Aber manche sind echt hart. Im Hof steht so ein Knirps, splitternackt! Und schmiert sich
 20120202 -- mit irgendwas ein.
+20120204 -- - AAAAH! Sie haben es schon wieder getan! Ich bin Künstler! - Und es war wieder so viel Gips übrig!
 20120414 -- Äh-erinnnern Sie sich an meine letzten Worte? Ich nämlich nicht. Was ist heute für ein Tag? - Samstag. Vermutlich: "Oh, geil!" Oh. Sicher? Ja. - Samstags trägt er immer dieses blöde T-Shirt.
 20120423 -- Das wichtigste für die Motivation vor Schwimmkursen ist ein gutes "Warming-Up"! - Gib mir ein S! Gib mir ein E! Gib mir ein E! Gib mir ein P! Gib mir ein F! Gib mir ein E! Gib mir ein R! Gib mir ein D! Gib mir ein C! Gib mir ein H! Gib mir
 20120423 -- ein E! Gib mir ein N! - Ferndepesche.
@@ -1284,3 +1291,4 @@ MMMMMMMMMMMMMMMMMMMMMMM
 20230309 -- Sie haben renoviert? Sogar ein neuer Boden, tolle Farbe! Ein Tipp von unserer Reinigungskraft. - Nennt sich "Ochsenblut". Darauf sieht man angeblich die Haare nicht so! Haha! Haha! - War wohl'n Scherz!
 20230310 -- Ich bekomme Standschäden! Geht das auch mal weiter?! Richten Sie der alten Dame aus, ich kann nicht hexen! - Er sagt, er kann nicht hexen! - Sagen Sie ihm, ich auch nicht! Aber ich kann ganz schnell mit Flüchen belegen!!
 20230311 -- Ich will heute nicht in die Kita! Wir müssen jetzt aber los! Ich hab einen wichtigen Termin, ich dar fnicht zu spät kommen! - Du hast es eilig? Sehr eilig! Brandeilig? Superbrandeilig! OKay. - LALÜ!! LALA!! *
+20230313 -- Ich dachte, ich lass mal meinen Saugroboter durchs Bad laufen. Ich lern ihn gerade an. - Den Beckenrand erkennt er? Der erkennt alles. * - Nur mit Bonbonpapier und Tattoos hat er Probleme.
