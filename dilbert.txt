@@ -14420,4 +14420,6 @@ Why did you add this button the the user interface? You told me to. - Why would 
 230312 -- Your app gave me an error when I tried to set it for autopay. - I can fix that on my end. Give me ten seconds. - Okay, it will be effective in thirty days. - Thirty days? Why? Because humans have to verify it? No. - Is it because electricity
 230312 -- travels slower in your part of reality? Um, no. - Is it because your internal systems were designed by squirrels? No. Is it because you hope I will forget to pay for the one month before autopay kicks in so you can charge me a late fee? - It's
 230312 -- the slow electricity thing. You were right.
-230313 -- Sorry to keep you wainting, Ralph... - I just need to put on a little makeup! - Feel free to put on a lot of makeup! - Wait! That came out wrong! I only meant...oh, forget it. YOU might need makeup!
+230313_1 -- How did he die? It's a long story. - Those are the ashes? Yes. - Give me two hours. Can you make him angrier this time?
+230313_2 -- - - What fresh hell is this?
+230313_3 -- I got hired as a fake news editor for the Washington Poop- - My job is to make sure no useful context accidentally gets into their stories. - I don't want to know how the sausage is made. That reminds me, I nibbled on your bacon.

@@ -304,6 +304,10 @@
 19960316 -- Einmal Frühlingsrolle! Hamm wa nich. Dnn Chop Suey. Hammwa nich. OK-dann eine Fu-Man-Tschu Platte. Nein. - Na gut, sagen Sie mir, was Sie haben? Ente. Ente? Ente. Ente... - Ente oder Rente!
 19960318 -- CRIME TIME Der kleine Mann 1 - Es ist ein Beruf wie jeder andere: "Der frühe Vogel fängt den Wurm". - Als Vogel bin ich eine Niete. -nach ein paar Eimern Espresso ist das Flattern weg und ich bin das, was ich bin: - Mein Name ist Spade, Tom
 19960318 -- Spade-ich bin ein privater Ermittler.
+19960319 -- Es war einer dieser Vormittage, auf die sich meine ungeordneten Papierhaufen seit Jahren freuen. - Ich wollte gerade in die Kantine, um vorher einen von Johnnies scharfen Kleinigkeiten zu mir zu nehmen. **** - Ich...ich suche einen Mann!
+19960319 -- -einen kleinen Mann!
+19960320 -- Ich suche einen Mann-einen kleine Mann! Sein Atem war tödlich. - Ich gab ihm die in Frage kommenden meiner abgeschlossenen Scheidungsfälle. Und schrieb die Provision ab. - Sekunden später duftete er nach Mäusen, viel Mäusen! Man terrorisiert
+19960320 -- mich!
 CCCCCCCCCCCCCCCC
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -509,6 +513,7 @@ CCCCCCCCCCCCCCCC
 20040303 -- Raus da! Sofort! Dein Platz ist auf dem Kindersitz! - Hast Du an irgendwas rumgedaddelt? Was? Wer? Ich? Nein! Ich schwörs! Na gut-ich muss zu einem Termin. Mach das Tor auf! - "...an der nächsten Ampel rechts abbiegen..." ?
 20040305 -- Hmmmm... Na los, frag schon! - Weisst Du, was eine Kettenreaktion ist? Natürlich. In Bezug auf die Chemie? Oder in Bezug auf die Kernphysik...? - In Bezug auf Deine Haftpflichtversicherung...
 20040308 -- Also...pass auf: Erstens: Flach halten! Zweitens: Drall! Drittens: Ordentlich Schmackes! Dann drischt der Stein auf die Wasseroberfläche, prallt ab und fliegt weiter... - POCK! - * Ich kanns! Ich kanns!
+20040313 -- Hm...klebriger Vogel mit drei Buchstaben... Hm... ? - Börp... - Udo.
 20040326 -- Ka-tschumm! Ka-tschumm! Na los! Komm schon! Komm! Ka-tschumm! Keine Reaktion! - Mehr Saft! Schnell! Ich erhöhe auf "Leinen"! - Verdammt! Wir verlieren ihn!
 20040419 -- Soll ich schon mal reinspringen? Gemach! Gemach! Schwimmen will gelernt sein! Geht gleich los... - Huark! Tja-Sie wechseln wohl besser erstmal das Wasser... Tschüss! - Gute Arbeit! War mir ein Vergnügen, mit Ihnen Geschäfte zu machen...
 20040503 -- - So! Der ist leer! Puh! öchö... - 
@@ -694,9 +699,14 @@ CCCCCCCCCCCCCCCC
 20100629 -- Aber nur 1 Bier! Ich muss morgen früh raus... - Was gibts zu glotzen? Noch nie 'ne schöne Frau gesehen? Is' das hier 'n Knackitreffen, oder was? - Du stehst vorm Bildschirm... Tor!
 20100710 -- Ich hab einen Wunsch frei? Ich? Ich darf mir was wünschen? Hab ich wieder genuschelt? Ja. Einen Wunsch frei. Du. Und zwar ein bisschen plötzlich. - Oh! Puh...was wünsche ich mir denn da? Oh! Puh...äh...ich wünsche mir...puh... -
 20100817 -- Pass auf! Sieh genau hin! Ich hab am Wochenende etwas geübt. Achunt... - ** Ding Dong ** - War ich schneller als mein Schatten? Du hast wieder Lucky Luke gelesen!
-MMMMMMMMMMMMMMMMMMMMM
+20100901 -- Oh-oh...Steckenschwinger! Da mach ich immer einen grossen Bogen drum. Die sind gefährlich! Haha! Nordic Walker? Gefährlich? Quatsch! Wieso das denn? - Natürlich ist das eine Ulme! - Das sieht man an der Borke!
+20101001 -- Eineeinemarkmarke! Einen Augenblick! - Bemerken Sie einen leichten Verwesungsgeruch? Ich mache mir Sorgen! ? ? - Nur tote Augen blicken so lange!
+20101101 -- Hey! - -
+20101201 -- bzzzz schlck - Das war ein Fehler. Der stellt das heut eins Internet, und morgen rennt hier die ganze Welt rum! Ihm nach! - KASSE
 20110114 -- Das ist mir egal, Klöpke! Es ist Ihr Arsch! Wenn Sie die Zahlen nicht schaffen, dann hasta la vista, Dividende! Dann kann sich Ihre Gatting die Datsch auf Mallorca an die Botoxbacke schmieren! OKay? Ja-tschüs. Hallo Mausi! Nein, noch im
 20110114 -- Zug..Knödlingen...Du, ich... - QUAAK! QUAAK! QUAAK! QUAAK! QUAAK! QUAAK! Nein!! Im Zug! Ich...doch! Warte, ich schau mal, wo ich in Ruhe telefonieren kann! - Herr Schaffner! Ich glaube, der Herr sucht den Gepäckwagen.
+20110201 -- Heute wollen wir uns mit dem Islam beschäftigen. -das Verhältnis der westlichen Menschen... - ...zu den unter dem Halbmond lebenden ist seit jeher von Vorurteilen und Unwissen geprägt. -kann jemand ein Beispiel nennen? -ja? - Es ist ein
+20110201 -- Viertelmond.
 20110305 -- Wir sind beide eingeladen, also gehen wir auch zusammen hin! I'm soooo sorry. Ich darf nicht. Ich hab ein Attest. Tut mir leid. - Karnevalsmusik versetzt mich in lebensgefährliche Erregungszustände! Hier, bitte. Aber wenn ich irgendwann mal
 20110305 -- nichts mehr höre, gehe ich natürlich gerne mit! Was wäre denn das Motto gewesen? ** Hellau! Kommt rein! Hallo Horst! Gartenparty <---
 20110312 -- Ich brauch ein neues Outfit! Ich kann diesen praktischen Kram nicht mehr sehen! Ich will was frisches, jugendliches! MODA ZZ Ich will wieder wahrgenommen werden! - Ich seh schon. Gut...ziehen Sie mal das, das, das, das, und das hier an.
@@ -704,6 +714,7 @@ MMMMMMMMMMMMMMMMMMMMM
 20110324 -- Hast Du das Kostüm zu heiss gewaschen? Nein, der Herr Osterhase ist fett geworden. - Egal, dann versteck ich die Eier eben schnell so. Und wenn sie Dich sehen? Lass ihnen doch noch ein bisschen Illusion!
 20110411 -- Entspann Dich! Du wirst nicht ertrinken. Ich bin Doch bei Dir. - Kann ich eine Augenbinde haben? Das ist doch keine Hinrichtung! - Nennen wir es Blindverkostung.
 20110521 -- HUCH! ? - Mein Stock ist abgebrochen! Einfach so! Sabotage! Da sind tiefe Kerben! - Was lief denn gestern im Seniorenkino? Ben Hur!
+MMMMMMMMMMMMMMMMMMMMM
 20110702 -- Zum ersten... Zuuum zweiten... - ...zuuuuuuuuum dritten! - Dieser wunderschöne kleine Orgasmus geht an den Herrn hier oben!
 20110716 -- Als es zu Ende ging, sah ich ein helles Licht am Ende des Tunnels! Ein helles Licht? Eher links oder rechts? - Was...äh...also, vom Bett aus gesehen, eher so rechts im Tunnel Schulz! - Dein rechter Scheinwerfer ist im Einer.
 20110719 -- Jeder nur einen Müsliriegel! Und zeigt ihn der Tante, hört Ihr? Ich warte bei den Rädern! - Kasse Zwo Oh! ? - Ihr seid sicher eineiige Zwillinge!
@@ -1292,3 +1303,8 @@ MMMMMMMMMMMMMMMMMMMMM
 20230310 -- Ich bekomme Standschäden! Geht das auch mal weiter?! Richten Sie der alten Dame aus, ich kann nicht hexen! - Er sagt, er kann nicht hexen! - Sagen Sie ihm, ich auch nicht! Aber ich kann ganz schnell mit Flüchen belegen!!
 20230311 -- Ich will heute nicht in die Kita! Wir müssen jetzt aber los! Ich hab einen wichtigen Termin, ich dar fnicht zu spät kommen! - Du hast es eilig? Sehr eilig! Brandeilig? Superbrandeilig! OKay. - LALÜ!! LALA!! *
 20230313 -- Ich dachte, ich lass mal meinen Saugroboter durchs Bad laufen. Ich lern ihn gerade an. - Den Beckenrand erkennt er? Der erkennt alles. * - Nur mit Bonbonpapier und Tattoos hat er Probleme.
+20230314 -- Das mit der künstlichen Intelligenz ist schon bemerkenswert! Das greift echt um sich! Kennst Du Dich da aus? - Na, hör mal! Ich war auf dem Gymnasium! - Wir nannten sie "Dummschwätzer".
+20230315 -- Ihr habt einen Hund?! Nur einen ganz kleinen. Ihr wart so froh, dass die Kinder aus dem Haus sind! - Schon, aber man geht halt mehr raus. Und man lernt eine Menge Leute kennen! -Hallo Herr Klöpke! Du kennst Professor Doktor Doktor Klöpke?! -
+20230315 -- Fahr zur Hölle! Ja, den hat er auch schon gebissen.
+20230316 -- Kommst Du mit Waldbaden? Nein! Jetzt sei doch nicht so fundamentalistisch, Du alte Baumumarmerin! - Es wird Dir gefallen! Das ist nicht die Energie eines Baumes, das ist die Energie eines Ökosystems! Und man macht sich nicht so schmutzig. -
+20230316 -- Die Ente bleibt draussen!
