@@ -308,6 +308,8 @@
 19960319 -- -einen kleinen Mann!
 19960320 -- Ich suche einen Mann-einen kleine Mann! Sein Atem war tödlich. - Ich gab ihm die in Frage kommenden meiner abgeschlossenen Scheidungsfälle. Und schrieb die Provision ab. - Sekunden später duftete er nach Mäusen, viel Mäusen! Man terrorisiert
 19960320 -- mich!
+19960321 -- "Böse Nachbar Geschichten" erledige ich für ein paar Hunderter vor dem Abendessen. Ich werde terrorisiert! Schiessen Sie los! - Ich lud ihn zum Essen ein und startete mein Bandgerät. Batterien? Nein. - Seine Geschuchte fräste sich in meinen
+19960321 -- Gedächtnisspeicher. Es begann vor ein paar Monaten...
 CCCCCCCCCCCCCCCC
 19960420 -- So schnell können Sie gar nicht gucken, wie ich hier wieder draussen bin! - Ich will sofort einen Anwalt! - Einen? Kein Problem, wir haben Milliarden...
 19960504 -- Hallo? ...hallo? ...hallo? Mist. - Ich muss mal eben nach draussen-der Empfang ist hier so schlecht. - Netter Versuch! Alt-aber ein Klassiker!
@@ -339,6 +341,7 @@ CCCCCCCCCCCCCCCC
 19970514 -- Augenblick, junger Mann! Kann ich mal sehen, was Sie da unterm Mantel haben? - Schon gut!-schon gut! - Da war so'n seltsamer Typ mit Mantel-hat der die Salami bezahlt?
 19970531 -- ...denn wie steht schon in 1. Petrus 5,7 geschrieben: "Alle Eure Sorgen werfet auf ihn: denn er sorgt für Euch" - Also, wenn die Seele mal zwackt: Gönnen Sie sich ruhig mal was und kippen Sie sich ordentlich einen hinter den Knorpel! Das
 19970531 -- glaubste aber! Gute Nacht! - Das "Wort zum Sonntag" wurde Ihnen heute präsentiert von "Graber Bestattungen"...
+19970611 -- Hier! Hab' ich in Rom abgeschossen-spottbillig! Haha! -diese Italiener...! - Voila: Die Arme der "Venus von Milo"!! Na, was sagste jetzt? Es sind zwei linke... - Was glaubst Du, warum sie entfernt wurden?
 19970618 -- Woher stammt also die Bezeichnung "Barbar"? -Einzer? Von den Bärten der wilden Männer des Nordens! - Sehr gut! -Was verstehen wir unter einem "Akt der Barbarei"? -Huschke? - Die Socken in den Sandalen der wilden Männer des Nordens...
 19970619 -- Also nee-mit der Marke kann ich den Brief nicht annehmen! Hab' ich noch 'ne ganze Kiste von... Die gilt nicht mehr...glücklicherweise! - Die Nationalhymne ist doch auch noch dieselbe! Aber ohne die erste Strophe! - Könnten Sie nicht das
 19970619 -- Bärtchen wegstempeln?
@@ -714,7 +717,7 @@ CCCCCCCCCCCCCCCC
 20110324 -- Hast Du das Kostüm zu heiss gewaschen? Nein, der Herr Osterhase ist fett geworden. - Egal, dann versteck ich die Eier eben schnell so. Und wenn sie Dich sehen? Lass ihnen doch noch ein bisschen Illusion!
 20110411 -- Entspann Dich! Du wirst nicht ertrinken. Ich bin Doch bei Dir. - Kann ich eine Augenbinde haben? Das ist doch keine Hinrichtung! - Nennen wir es Blindverkostung.
 20110521 -- HUCH! ? - Mein Stock ist abgebrochen! Einfach so! Sabotage! Da sind tiefe Kerben! - Was lief denn gestern im Seniorenkino? Ben Hur!
-MMMMMMMMMMMMMMMMMMMMM
+20110601 -- Nimm den anderen Fön! Der da ist kaputt. War kaputt! Ich hab ihn mir zu Hause vorgeknöpft. - Der schnurrt wieder wie ein Kätzchen! Zufällig hatte ich noch ein paar alte Teile... Gut! - Aus meinem Ultraschallreiniger.
 20110702 -- Zum ersten... Zuuum zweiten... - ...zuuuuuuuuum dritten! - Dieser wunderschöne kleine Orgasmus geht an den Herrn hier oben!
 20110716 -- Als es zu Ende ging, sah ich ein helles Licht am Ende des Tunnels! Ein helles Licht? Eher links oder rechts? - Was...äh...also, vom Bett aus gesehen, eher so rechts im Tunnel Schulz! - Dein rechter Scheinwerfer ist im Einer.
 20110719 -- Jeder nur einen Müsliriegel! Und zeigt ihn der Tante, hört Ihr? Ich warte bei den Rädern! - Kasse Zwo Oh! ? - Ihr seid sicher eineiige Zwillinge!
@@ -733,6 +736,7 @@ MMMMMMMMMMMMMMMMMMMMM
 20111217 -- Ich sehe in Mittelgebirge im Osten. Und ich sehe ein grosses Laster... R - Das ist völlig unmöglich! Sie wusste, dass ich auf dieser Gesundheitsranch war! Die kennt mich doch gar nicht! Was für eine Ranch? Meine Entziehungskur! Vier Wochen
 20111217 -- Nichtrauchen! - Das hat ihr der Teufel gesagt! Original Räuchermännchen Erzgebirge R R
 20111224 -- Fröhliche Weihnachten! Danke, Sie mich auch! - Boah, stinkt das hier immer so höllisch? Nur an Weihnachten. Was ist das? Schulz. - Er geht vor Ladenschluss gerne noch schnell durch die Parfümabteilungen und lässt sich besprühen.
+MMMMMMMMMMMMMMMMMMMMM
 20120202 -- Frostschutzmittel. Bis Minus 50 Grad. Wow! Nicht trinken! Das ist ungesund! - Für wie bescheuert hälst Du mich eigentlich? - Furchterliche Kälte, was? Aber manche sind echt hart. Im Hof steht so ein Knirps, splitternackt! Und schmiert sich
 20120202 -- mit irgendwas ein.
 20120204 -- - AAAAH! Sie haben es schon wieder getan! Ich bin Künstler! - Und es war wieder so viel Gips übrig!
