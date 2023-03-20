@@ -17177,3 +17177,6 @@ ga230313 -- It's monday. - Z - How about now?
 ga230314 -- Garfield, always remember, it's what's on the inside that counts. - You got that right. - Especially when it's rspberry jelly!
 ga230315 -- - - Why, yes, I am particularly handsome today. Go away.
 ga230316 -- Calculating... - Your weight is XXXXX - This number has been redacted to avoid emarrassment. I don't know whether to feel relieved or insulted.
+ga230317 -- You know what's fun? yes. - - You know what's a real conversation stopper? Yes.
+ga230318 -- It doesn't take much to make a cat happy. - A ball of yarn... - And a bacon cheeseburger!
+ga230319 -- - - BARK! - - - creeeeeak - When did we get a chandelier?
