@@ -17180,3 +17180,7 @@ ga230316 -- Calculating... - Your weight is XXXXX - This number has been redacte
 ga230317 -- You know what's fun? yes. - - You know what's a real conversation stopper? Yes.
 ga230318 -- It doesn't take much to make a cat happy. - A ball of yarn... - And a bacon cheeseburger!
 ga230319 -- - - BARK! - - - creeeeeak - When did we get a chandelier?
+ga230320 -- Sigh... - They say all good things must come to an end. - While bad things go on forever. 'tis spring once again!
+ga230321 -- It's hard to lose the winter weight. - - And the spring, summer and fall weight.
+ga230322 -- I have a new workout schedule. - BOOT! - It's Leg Day!
+ga230323 -- Spring... - Sigh... - Too early for the ice cream truck, too late for the hot chocolate.
