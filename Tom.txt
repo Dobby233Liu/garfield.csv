@@ -353,6 +353,7 @@
 19960508 -- Sehr gut! Haha! Guter Witz! Hahaha! Sauber. Diese Schlingel... - *** Weiche Satanas! *** Aaah! Na-wer hat sich das ausgedacht? Die Messdiener oder dioe Haushälterin? - Keine Kronzeugeninfos.
 19960509 -- Zwei Minestrone. Bitte schön...guten Appetit! - Hier gehn wir nicht mehr hin! Du hast doch noch gar nicht probiert! Diese Knicker! - Nur "i"s in der Buchstabensuppe!
 19960510 -- Ich will mein Geld! Kai-Uwe Müller hat gewettet, dass er übers Wasser gehen kann! Aber Kai-Uwe ist nicht Jesis! - Tja-Deine Spielschulden musst Du schon selber eintreiben. - Es ist in seiner Badehose!
+19960511 -- "Bären nicht füttern! Lebensmittel sichern!" - Schon erledigt! Die Bären verlernen sonst, sich artgerecht zu ernähren! Was ist artgerecht? -
 CCCCCCCCCCCCCCCCCCC
 19960608 -- ...taufe ich Dich auf den Namen: "Mike Nelson"! - - My Lady...es ist ein U-Boot...
 19960713 -- Fertig!!-Tiere? Was?! Dreck... Nix... Nix! Würmer! 20! - Krankheiten? Ich war von Anfan an dagegen "Stadt, Land Fluss" mit... Nix... Würmer! 20! - Stadt? Nix. Hmpf... Worms! 20!
@@ -440,6 +441,8 @@ CCCCCCCCCCCCCCCCCCC
 20000111 -- ** dumdidum...didum... ********* ..lala... ** ... ... lalaaa ** ** hmmm... Tjaja... Gott-wie die Zeit vergeht! -ich muss mal wieder-tschüs! - Sie dürfen sich jetzt kratzen...
 20000117 -- Ich will hie rnicht wohnen! Ich will wieder nach Hause! Ich bin ein Grossstadtkind! Ich hasse Landeier! Die riechen nach Kuh und reden komisch! *drrinng! Komme! Knödlingen ist kein Dorf sondern Kreisstadt! Hier sind viel weniger Autos... -
 20000117 -- Oh-hallo!  Äh-ja, also...wir sind die neuen Mieter, morgen kommen die Möbel und...äh... Sie wohnen auch hier im Haus? - ...und ausserdem sind hier im Süden die Leute viel netter! KEHRWOCHE
+20000205 -- Ja?? Gebühreneinzugszentrale! -aufmachen! Widerstand ist zwecklos! Oh! Äh... ** ** Kleinen Moment * So-fo-hort! ** Gebeb Sie sich keine Mühe! Ich kenne alle Tricks! - Bzzz...klack Na warte! Dich krieg ich! Das wird teuer! - Nicht mit  mir,
+20000205 -- Freundchen! Hahaha... Nicht mit mir!
 20000218 -- Spazierengehen? Jetzt?! Bist Du irre? Es schüttet!! Es gibt kein schlechtes Wetter, es gibt nur schlechte Ausrüstung! Wir haben doch noch die Sachen vom letzten Urlaub! - Na-seh' ich nicht aus wie ein alter Seebär? Naja...nicht direkt... -
 20000218 -- He! Streiken die Kanalarbeiter?
 20000314 -- Hilfe!! Zu Hilfe!! So helfen Sie mir doch! . Ich werde verfolgt!! Tut mir leid... Ich bin nur für das nasse Element zuständig... - Dann tun Sie was! ...sie will mich küssen!
