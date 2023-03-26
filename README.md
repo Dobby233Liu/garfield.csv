@@ -1,6 +1,9 @@
 # garfield.csv
 Python-based tools that converts comic transcripts from [john.ccac.rwth-aachen.de](http://john.ccac.rwth-aachen.de:8000/ftp/dilbert/) (like Garfield.txt) into CSV files.
 
+## Archived
+I have decided to stop maintaining this project for an indefinite amount of time, as it has seen no use for a long time.
+
 ## Pre-converted files
 [![.github/workflows/generate.yml](https://github.com/Dobby233Liu/garfield.csv/actions/workflows/generate.yml/badge.svg)](https://github.com/Dobby233Liu/garfield.csv/actions/workflows/generate.yml)
 
